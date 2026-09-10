@@ -32,6 +32,7 @@ import type { BackupData, SaveData, Snapshot } from '../types/types.ts'
 import { SyncDataType, CompareResult, DictType } from '../types/enum'
 import { Supabase } from '../utils/supabase'
 import { del, get, set } from 'idb-keyval'
+import { clearLocalDictPracticeData } from '../utils/local-profile-data.ts'
 import type { SupabaseClient } from '@supabase/supabase-js'
 import { Toast } from '@/base'
 
@@ -320,8 +321,8 @@ export async function saveHashSnapshot(currentHash: string, previousHash: string
     data: {
       dict: await get(SAVE_DICT_KEY.key),
       setting: await get(SAVE_SETTING_KEY.key),
-      [PRACTICE_WORD_CACHE.key]: (await get(PRACTICE_WORD_CACHE.key)) ?? null,
-      [PRACTICE_ARTICLE_CACHE.key]: (await get(PRACTICE_ARTICLE_CACHE.key)) ?? null,
+      [PRACTICE_WORD_CACHE.key]: (await get(PRACTICE_WORD_CACHE.storageKey)) ?? null,
+      [PRACTICE_ARTICLE_CACHE.key]: (await get(PRACTICE_ARTICLE_CACHE.storageKey)) ?? null,
     },
   }
   if (!snapshot.data.dict) {
@@ -447,7 +448,7 @@ export function useDataSyncPersistence() {
       const data_version = getDataVersion(type)
       await upsertServerDatas([{ type, data, data_version, updated_at }], options?.client)
     } finally {
-      if (Supabase.getStatus()?.status !== 'error') {
+      if (options?.canSyncRemote !== false && Supabase.getStatus()?.status !== 'error') {
         Supabase.setStatus('success')
       }
     }
@@ -582,6 +583,7 @@ export function useDataSyncPersistence() {
   }
 
   async function clear() {
+    await clearLocalDictPracticeData()
     let d = getDefaultBaseState()
     d.load = true
     let d1 = getDefaultSettingState()

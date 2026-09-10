@@ -1,8 +1,9 @@
 import { createClient } from '@supabase/supabase-js'
 import { Toast } from '@/base'
 import { useRuntimeStore } from '../stores'
+import { getProfileStorageKey } from './local-profile.ts'
 
-export const SUPABASE_CONFIG_KEY = 'supabase_config'
+export const SUPABASE_CONFIG_KEY = getProfileStorageKey('supabase_config')
 
 export type SupabaseStatus = 'idle' | 'syncing' | 'success' | 'error'
 

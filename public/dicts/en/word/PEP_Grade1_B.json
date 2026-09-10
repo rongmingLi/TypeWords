@@ -1,0 +1,4038 @@
+[
+  {
+    "id": 10001,
+    "word": "chair",
+    "phonetic0": "tʃeə(r)",
+    "phonetic1": "tʃer",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "椅子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Emily edged her chair forward.",
+        "cn": "埃米莉把椅子慢慢地向前挪动。"
+      },
+      {
+        "c": "She eased herself into a chair.",
+        "cn": "她轻手轻脚地坐到椅子上。"
+      },
+      {
+        "c": "Helen sat upright in her chair.",
+        "cn": "海伦笔直地坐在椅子上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "office chair",
+        "cn": "办公椅"
+      },
+      {
+        "c": "in the chair",
+        "cn": "处在主席地位；担任主席"
+      },
+      {
+        "c": "rocking chair",
+        "cn": "摇椅，安乐椅"
+      },
+      {
+        "c": "massage chair",
+        "cn": "按摩椅"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[家具]椅子；讲座；（会议的）主席位；大学教授的职位",
+        "ws": [
+          "cathedra"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1（课本第 4 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 1，对应课本第 4 页。"
+      }
+    ],
+    "relWords": {
+      "root": "chair",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "chairmanship",
+              "cn": "主席的身份或资格"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10002,
+    "word": "desk",
+    "phonetic0": "desk",
+    "phonetic1": "desk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "书桌；写字台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The desk looked undisturbed.",
+        "cn": "那张书桌子看上去没有被动过。"
+      },
+      {
+        "c": "A phone trilled on the desk.",
+        "cn": "办公桌上的电话丁零零地响了。"
+      },
+      {
+        "c": "She was sitting at her desk.",
+        "cn": "她坐在书桌前。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "information desk",
+        "cn": "服务台，问询处"
+      },
+      {
+        "c": "front desk",
+        "cn": "前台；服务台"
+      },
+      {
+        "c": "reception desk",
+        "cn": "接待处（等于front desk）"
+      },
+      {
+        "c": "desk calendar",
+        "cn": "台历；台历芯"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[家具]办公桌；服务台；编辑部；（美）讲道台；乐谱架",
+        "ws": [
+          "bureau",
+          "Information Counter"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1（课本第 4 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 1，对应课本第 4 页。"
+      }
+    ],
+    "relWords": {
+      "root": "desk",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10003,
+    "word": "blackboard",
+    "phonetic0": "ˈblækbɔːd",
+    "phonetic1": "ˈblækbɔːrd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "黑板"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The menu was on a blackboard.",
+        "cn": "菜单在黑板上。"
+      },
+      {
+        "c": "He chalked the message on the blackboard.",
+        "cn": "他用粉笔把这条消息写在黑板上。"
+      },
+      {
+        "c": "On a blackboard, he drew five concentric circles.",
+        "cn": "他在黑板上画出五个同心圆。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "blackboard eraser",
+        "cn": "黑板擦"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "黑板",
+        "ws": [
+          "chalkboard"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1（课本第 4 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 1，对应课本第 4 页。"
+      }
+    ],
+    "relWords": {
+      "root": "blackboard",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10004,
+    "word": "on",
+    "phonetic0": "ɒn",
+    "phonetic1": "ɑːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She went on and on about her trip.",
+        "cn": "她没完没了地谈她的旅行。"
+      },
+      {
+        "c": "From now on you can work on your own.",
+        "cn": "从现在起你可以独自工作。"
+      },
+      {
+        "c": "His play is on the boards on Broadway.",
+        "cn": "他的戏剧搬上了百老汇的舞台。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "and so on",
+        "cn": "等等；诸如此类"
+      },
+      {
+        "c": "just on",
+        "cn": "将近，差不多"
+      },
+      {
+        "c": "on and off",
+        "cn": "断断续续地，不时地"
+      },
+      {
+        "c": "on and on",
+        "cn": "继续不停地"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "向前地；作用中，行动中；继续着",
+        "ws": [
+          "forward",
+          "antrorsely"
+        ]
+      },
+      {
+        "pos": "prep.",
+        "cn": "向，朝……；关于；在……之上；在……时候",
+        "ws": [
+          "towards",
+          "unto",
+          "at",
+          "concerning",
+          "about"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1（课本第 4 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 1，对应课本第 4 页。"
+      }
+    ],
+    "relWords": {
+      "root": "on",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "onward",
+              "cn": "向前的；前进的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "onward",
+              "cn": "向前；在前面"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10005,
+    "word": "under",
+    "phonetic0": "ˈʌndə(r)",
+    "phonetic1": "ˈʌndər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……下面；在……下方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They feel under permanent threat.",
+        "cn": "他们感觉处在持续不断的威胁之下。"
+      },
+      {
+        "c": "If it's not under 'sports', try looking under 'games'.",
+        "cn": "如果在“体育运动”项下查不到，就试试“游戏”项吧。"
+      },
+      {
+        "c": "She writes under a pseudonym.",
+        "cn": "她用笔名写作。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "down under",
+        "cn": "澳洲或新西兰地区"
+      },
+      {
+        "c": "go under",
+        "cn": "破产；沉没；屈服；失败"
+      },
+      {
+        "c": "over and under",
+        "cn": "叠排式；（商品损耗量的）波动量；立式双筒短枪"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "低于，少于；在...之下",
+        "ws": [
+          "inside"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "cn": "在下面；在下方",
+        "ws": [
+          "below",
+          "down"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "下面的；从属的",
+        "ws": [
+          "following",
+          "dependent"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1（课本第 4 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 1，对应课本第 4 页。"
+      }
+    ],
+    "relWords": {
+      "root": "under",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "underachiever",
+              "cn": "后进生；学校学习成绩低于智商的学生"
+            },
+            {
+              "c": "underbid",
+              "cn": "叫牌偏低；出价较低"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "underbid",
+              "cn": "出价低于…；出较低的价钱"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10006,
+    "word": "in",
+    "phonetic0": "ɪn",
+    "phonetic1": "ɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……里面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These laws are in effect in twenty states.",
+        "cn": "这些法律在二十个州有效。"
+      },
+      {
+        "c": "They lived in rooms in Kensington.",
+        "cn": "他们住在肯辛顿的出租房间。"
+      },
+      {
+        "c": "We went skiing in France in March.",
+        "cn": "三月份我们去法国滑雪了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in on",
+        "cn": "参与，参加"
+      },
+      {
+        "c": "in between",
+        "cn": "在中间"
+      },
+      {
+        "c": "in a big way",
+        "cn": "大规模地，彻底地"
+      },
+      {
+        "c": "in so far as",
+        "cn": "至于"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "按照（表示方式）；从事于；在…之内",
+        "ws": [
+          "within",
+          "inside"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "在里面的；时髦的",
+        "ws": [
+          "modern",
+          "fashionable",
+          "tony"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1（课本第 4 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 1，对应课本第 4 页。"
+      }
+    ],
+    "relWords": {
+      "root": "in",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "inner",
+              "cn": "内部的；内心的；精神的"
+            },
+            {
+              "c": "inward",
+              "cn": "向内的；内部的；精神的；本质上的；熟悉的"
+            },
+            {
+              "c": "innermost",
+              "cn": "内心的；最里面的，最深处的；秘密的"
+            },
+            {
+              "c": "inmost",
+              "cn": "心底的，内心深处的；最深的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "inward",
+              "cn": "向内；内心里"
+            },
+            {
+              "c": "inwardly",
+              "cn": "向内地；思想上；在内部"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "inner",
+              "cn": "内部"
+            },
+            {
+              "c": "inward",
+              "cn": "内部；内脏；密友"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10007,
+    "word": "where",
+    "phonetic0": "weə(r)",
+    "phonetic1": "wer",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在哪里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where are you living now?",
+        "cn": "你现在住在哪里？"
+      },
+      {
+        "c": "He asked where I lived.",
+        "cn": "他问我住在哪里。"
+      },
+      {
+        "c": "Where did you meet him?",
+        "cn": "你在哪里见到他的？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "where it is",
+        "cn": "[口]问题的关键所在；实际情况"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "地点",
+        "ws": [
+          "location",
+          "site",
+          "spot"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1（课本第 5 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 1，对应课本第 5 页。"
+      }
+    ],
+    "relWords": {
+      "root": "where",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10008,
+    "word": "the",
+    "phonetic0": "ðə; ði",
+    "phonetic1": "ðə; ði",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "放在名词前，特指人、事或物"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1（课本第 5 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 1，对应课本第 5 页。"
+      }
+    ],
+    "relWords": {
+      "root": "the",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10009,
+    "word": "light",
+    "phonetic0": "laɪt",
+    "phonetic1": "laɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "灯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Suddenly a warning light blinked.",
+        "cn": "突然有一盏警告灯开始闪烁。"
+      },
+      {
+        "c": "A light breeze was blowing.",
+        "cn": "轻风习习。"
+      },
+      {
+        "c": "This pastry is so light.",
+        "cn": "这种酥皮糕点可真松软啊。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the light of",
+        "cn": "根据，按照；当作"
+      },
+      {
+        "c": "in light",
+        "cn": "被光线照着"
+      },
+      {
+        "c": "in the light",
+        "cn": "灯光下；在光芒中"
+      },
+      {
+        "c": "in light of",
+        "cn": "根据；鉴于；从…观点"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[光]光，光亮；[电]灯",
+        "ws": [
+          "lamp",
+          "lucency"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "轻的；光亮的；容易的",
+        "ws": [
+          "easy",
+          "shining"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "点着；变亮；著火",
+        "ws": [
+          "brighten"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2（课本第 12 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 2，对应课本第 12 页。"
+      }
+    ],
+    "relWords": {
+      "root": "light",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "lightless",
+              "cn": "不发光的；无光的；暗的"
+            },
+            {
+              "c": "lightsome",
+              "cn": "轻盈的；畅快的；轻率的；明亮的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "lightly",
+              "cn": "轻轻地；轻松地；容易地；不费力地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "lighter",
+              "cn": "打火机；驳船；点火者"
+            },
+            {
+              "c": "lighting",
+              "cn": "照明设备，舞台灯光"
+            },
+            {
+              "c": "lightening",
+              "cn": "孕腹轻松"
+            },
+            {
+              "c": "lightness",
+              "cn": "轻盈；轻松；明亮；（颜色）浅淡"
+            },
+            {
+              "c": "lightship",
+              "cn": "灯塔船；航路标志灯船"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "lighting",
+              "cn": "照明；点燃（light的ing形式）"
+            },
+            {
+              "c": "lightening",
+              "cn": "减轻（lighten的ing形式）；闪电；发光"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "lighten",
+              "cn": "减轻；发亮"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "lighter",
+              "cn": "驳运"
+            },
+            {
+              "c": "lighten",
+              "cn": "使照亮；使轻松"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10010,
+    "word": "bed",
+    "phonetic0": "bed",
+    "phonetic1": "bed",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "床"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's such a comfortable bed.",
+        "cn": "这床真舒服。"
+      },
+      {
+        "c": "Right, I'm ready for bed.",
+        "cn": "对，我现在就想睡觉。"
+      },
+      {
+        "c": "The bed springs twanged.",
+        "cn": "这床的弹簧嘣嘣响。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in bed",
+        "cn": "在床上；卧床"
+      },
+      {
+        "c": "go to bed",
+        "cn": "上床睡觉"
+      },
+      {
+        "c": "fluidized bed",
+        "cn": "[化]流化床；流动层"
+      },
+      {
+        "c": "on the bed",
+        "cn": "在床上"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[家具]床；基础；河底， 海底",
+        "ws": [
+          "elements",
+          "basis",
+          "foundation",
+          "base",
+          "sole"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "使睡觉；安置，嵌入；栽种",
+        "ws": [
+          "establish",
+          "put",
+          "station",
+          "plant",
+          "rear"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "上床；分层",
+        "ws": [
+          "spin in"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2（课本第 12 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 2，对应课本第 12 页。"
+      }
+    ],
+    "relWords": {
+      "root": "bed",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "bedding",
+              "cn": "适于花坛种植的"
+            },
+            {
+              "c": "bedded",
+              "cn": "[地质] 层状的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "bedding",
+              "cn": "寝具；（建筑）[建] 基床；（家畜）草垫"
+            },
+            {
+              "c": "bedder",
+              "cn": "管理床铺的人；供观赏的植物；垫饼"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "bedded",
+              "cn": "为…提供住宿处；上床；固定在…上；分层（bed的过去分词）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "bedding",
+              "cn": "睡（bed的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "bedding",
+              "cn": "把…栽入苗床（bed的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10011,
+    "word": "door",
+    "phonetic0": "dɔː(r)",
+    "phonetic1": "dɔːr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "门；出入口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The door opens outwards.",
+        "cn": "这个门向外开。"
+      },
+      {
+        "c": "The door squeaked open.",
+        "cn": "门嘎吱一声开了。"
+      },
+      {
+        "c": "The door clicked shut.",
+        "cn": "门咔嗒一声关上了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the door",
+        "cn": "在门边"
+      },
+      {
+        "c": "open the door",
+        "cn": "开门"
+      },
+      {
+        "c": "next door",
+        "cn": "隔壁邻居"
+      },
+      {
+        "c": "door to door",
+        "cn": "挨家挨户；门到门"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[建]门；家，户；门口；通道",
+        "ws": [
+          "home",
+          "exit",
+          "gateway",
+          "channel",
+          "route"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2（课本第 12 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 2，对应课本第 12 页。"
+      }
+    ],
+    "relWords": {
+      "root": "door",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10012,
+    "word": "box",
+    "phonetic0": "bɒks",
+    "phonetic1": "bɑːks",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "箱子；盒子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Come and help me lift this box.",
+        "cn": "来帮我抬这个箱子。"
+      },
+      {
+        "c": "Can you help me with this box?",
+        "cn": "你能帮我搬这个箱子吗？"
+      },
+      {
+        "c": "She was holding a large box.",
+        "cn": "她提着一只大箱子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dialog box",
+        "cn": "[计]对话框，对话窗口"
+      },
+      {
+        "c": "in the box",
+        "cn": "在盒子里；在方框中"
+      },
+      {
+        "c": "box girder",
+        "cn": "[建]箱形梁"
+      },
+      {
+        "c": "box office",
+        "cn": "票房；售票处"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[包装]箱，盒子；包厢；一拳",
+        "ws": [
+          "case",
+          "balcony"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "拳击",
+        "ws": [
+          "spar"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2（课本第 12 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 2，对应课本第 12 页。"
+      }
+    ],
+    "relWords": {
+      "root": "box",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "boxed",
+              "cn": "醉酒的"
+            },
+            {
+              "c": "boxlike",
+              "cn": "像箱子一样的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "boxer",
+              "cn": "拳师，拳击手"
+            },
+            {
+              "c": "boxing",
+              "cn": "拳击；装箱；围模；做箱的材料"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "boxing",
+              "cn": "将…装入盒中（box的ing形式）"
+            },
+            {
+              "c": "boxed",
+              "cn": "装箱（box的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10013,
+    "word": "near",
+    "phonetic0": "nɪə(r)",
+    "phonetic1": "nɪr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "靠近；接近"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "His stables are near Oxford.",
+        "cn": "他的养马场在牛津附近。"
+      },
+      {
+        "c": "The exams are drawing near.",
+        "cn": "考试越来越近了。"
+      },
+      {
+        "c": "We camped near the beach.",
+        "cn": "我们在海滩附近宿营。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "come near",
+        "cn": "走进；险些；可与…相比（多用于否定句）"
+      },
+      {
+        "c": "far and near",
+        "cn": "远近；四面八方；到处"
+      },
+      {
+        "c": "near by",
+        "cn": "接近；在…附近"
+      },
+      {
+        "c": "nowhere near",
+        "cn": "远不及；离…很远"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "近的；亲近的；近似的",
+        "ws": [
+          "familiar",
+          "close"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "cn": "近；接近",
+        "ws": [
+          "rising",
+          "forbye"
+        ]
+      },
+      {
+        "pos": "prep.",
+        "cn": "靠近；近似于",
+        "ws": [
+          "next",
+          "anigh"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2（课本第 12 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 2，对应课本第 12 页。"
+      }
+    ],
+    "relWords": {
+      "root": "near",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "nearness",
+              "cn": "接近；密切；近似"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10014,
+    "word": "behind",
+    "phonetic0": "bɪˈhaɪnd",
+    "phonetic1": "bɪˈhaɪnd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……背后"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She heard footsteps behind her.",
+        "cn": "她听到背后有脚步声。"
+      },
+      {
+        "c": "Her scarf streamed behind her.",
+        "cn": "她的围巾在身后飘动。"
+      },
+      {
+        "c": "Keith wandered along behind him.",
+        "cn": "基思跟在他后面闲逛。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "from behind",
+        "cn": "从…后面"
+      },
+      {
+        "c": "drop behind",
+        "cn": "落…之后；落伍"
+      },
+      {
+        "c": "go behind",
+        "cn": "进一步斟酌；探究"
+      },
+      {
+        "c": "come from behind",
+        "cn": "迎头赶上"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "落后于；支持；晚于",
+        "ws": [
+          "with",
+          "past"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "屁股",
+        "ws": [
+          "ass",
+          "rear",
+          "pratt"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2（课本第 12 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 2，对应课本第 12 页。"
+      }
+    ],
+    "relWords": {
+      "root": "behind",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10015,
+    "word": "plane",
+    "phonetic0": "pleɪn",
+    "phonetic1": "pleɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "飞机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They hurried on to the plane.",
+        "cn": "他们匆忙登上了飞机。"
+      },
+      {
+        "c": "A plane passed low overhead.",
+        "cn": "一架飞机从头上低空飞过。"
+      },
+      {
+        "c": "The plane landed at Geneva.",
+        "cn": "飞机在日内瓦降落。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by plane",
+        "cn": "乘飞机"
+      },
+      {
+        "c": "plane wave",
+        "cn": "平面波"
+      },
+      {
+        "c": "focal plane",
+        "cn": "焦面，焦平面"
+      },
+      {
+        "c": "plane strain",
+        "cn": "平面应变；平面变形"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[航]飞机；[数]平面；程度，水平",
+        "ws": [
+          "extent",
+          "degree",
+          "measure",
+          "level",
+          "airplane"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "刨；乘飞机旅行；翱翔",
+        "ws": [
+          "fly in",
+          "upsoar"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "平的；[数]平面的",
+        "ws": [
+          "plain",
+          "two dimensional"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 20 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 20 页。"
+      }
+    ],
+    "relWords": {
+      "root": "plane",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "planer",
+              "cn": "刨机，刨床；[机] 刨工"
+            },
+            {
+              "c": "planation",
+              "cn": "[地理] 均夷作用"
+            },
+            {
+              "c": "planeness",
+              "cn": "平面度；平整度"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10016,
+    "word": "ball",
+    "phonetic0": "bɔːl",
+    "phonetic1": "bɔːl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "球"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The ball rolled into the net.",
+        "cn": "球滚进了网。"
+      },
+      {
+        "c": "The ball was uncontrollable.",
+        "cn": "球控制不住了。"
+      },
+      {
+        "c": "The ball curved through the air.",
+        "cn": "球在空中沿曲线运动。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ball mill",
+        "cn": "球磨；[机]球磨机"
+      },
+      {
+        "c": "on the ball",
+        "cn": "[口]机灵；留心；有见识；勤奋"
+      },
+      {
+        "c": "ball valve",
+        "cn": "球阀，弹子阀；球形阀"
+      },
+      {
+        "c": "ball bearing",
+        "cn": "滚珠，钢球；滚珠轴承"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "球；舞会",
+        "ws": [
+          "dance",
+          "globus"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 20 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 20 页。"
+      }
+    ],
+    "relWords": {
+      "root": "ball",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10017,
+    "word": "doll",
+    "phonetic0": "dɒl",
+    "phonetic1": "dɑːl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "玩偶；玩具娃娃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The child was clutching a doll in her hand.",
+        "cn": "女孩手里紧紧抱着一个玩具娃娃。"
+      },
+      {
+        "c": "It's a vinyl doll with movable arms and legs.",
+        "cn": "这是个胳膊和腿都能活动的乙烯基塑料娃娃。"
+      },
+      {
+        "c": "\"Yes, Mom,\" replied Cheryl as she slowly put away her doll.",
+        "cn": "“是的，妈妈，”谢里尔一边回答，一边慢慢地把她的玩具娃娃收起来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "barbie doll",
+        "cn": "芭比娃娃；没有头脑的人；徒有其表的人"
+      },
+      {
+        "c": "rag doll",
+        "cn": "布洋娃娃；碎布制玩偶"
+      },
+      {
+        "c": "baby doll",
+        "cn": "婴儿娃娃；小布娃娃"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "洋娃娃；玩偶；无头脑的美丽女人",
+        "ws": [
+          "babydoll",
+          "Living Doll"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 20 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 20 页。"
+      }
+    ],
+    "relWords": {
+      "root": "doll",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "dolly",
+              "cn": "洋娃娃；手推车；移动式摄影车；洗衣搅棒"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "dolly",
+              "cn": "移动摄影车"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "dolly",
+              "cn": "用移动车移动"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10018,
+    "word": "train",
+    "phonetic0": "treɪn",
+    "phonetic1": "treɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "列车；火车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Somewhere a train whistled.",
+        "cn": "某个地方响起了火车的鸣笛声。"
+      },
+      {
+        "c": "The train was flying along.",
+        "cn": "火车飞驰着。"
+      },
+      {
+        "c": "The train was losing speed.",
+        "cn": "火车当时正在减速。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "train of thought",
+        "cn": "一连串的思想或思路"
+      },
+      {
+        "c": "by train",
+        "cn": "乘火车"
+      },
+      {
+        "c": "train station",
+        "cn": "火车站"
+      },
+      {
+        "c": "on the train",
+        "cn": "在火车上；在列车上"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[铁路]火车；行列；长队；裙裾",
+        "ws": [
+          "iron horse",
+          "choochoo"
+        ]
+      },
+      {
+        "pos": "v.",
+        "cn": "培养；训练；瞄准",
+        "ws": [
+          "aim for",
+          "take aim at"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 20 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 20 页。"
+      }
+    ],
+    "relWords": {
+      "root": "train",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "trained",
+              "cn": "培训；训练过的，受过培训的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "training",
+              "cn": "训练；培养；瞄准；整枝"
+            },
+            {
+              "c": "trainee",
+              "cn": "练习生，实习生；受训者；新兵；训练中的动物"
+            },
+            {
+              "c": "trainer",
+              "cn": "助理教练；训练员；驯马师；飞行练习器"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "training",
+              "cn": "训练；教养（train的ing形式）"
+            },
+            {
+              "c": "trained",
+              "cn": "训练（train的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10019,
+    "word": "car",
+    "phonetic0": "kɑː(r)",
+    "phonetic1": "kɑːr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "小汽车；轿车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Buddy totalled his car.",
+        "cn": "巴迪彻底撞毁了他的车。"
+      },
+      {
+        "c": "Their car broke down.",
+        "cn": "他们的车抛锚了。"
+      },
+      {
+        "c": "The car purred away.",
+        "cn": "汽车咕隆着开走了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by car",
+        "cn": "乘汽车"
+      },
+      {
+        "c": "car accident",
+        "cn": "车祸；交通事故"
+      },
+      {
+        "c": "car rental",
+        "cn": "汽车出租"
+      },
+      {
+        "c": "car park",
+        "cn": "停车场"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[车辆]汽车；车厢",
+        "ws": [
+          "automobile",
+          "motor"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 20 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 20 页。"
+      }
+    ],
+    "relWords": {
+      "root": "car",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10020,
+    "word": "bear",
+    "phonetic0": "beə(r)",
+    "phonetic1": "ber",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "玩具熊；熊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He can't bear being laughed at.",
+        "cn": "他无法忍受遭人嘲笑。"
+      },
+      {
+        "c": "He can't bear to be laughed at.",
+        "cn": "他无法忍受遭人嘲笑。"
+      },
+      {
+        "c": "'Bear' and 'bare' are homophonous.",
+        "cn": "bear和 bare是同音异形词。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bear oneself",
+        "cn": "举止，表现；为人处事"
+      },
+      {
+        "c": "bear in mind",
+        "cn": "记住；考虑到"
+      },
+      {
+        "c": "bear market",
+        "cn": "熊市；空头市场；卖空市场"
+      },
+      {
+        "c": "polar bear",
+        "cn": "北极熊"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "承受；结果实",
+        "ws": [
+          "fruit"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "忍受；具有；支撑",
+        "ws": [
+          "support",
+          "stomach",
+          "go",
+          "stand",
+          "abide"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "[脊椎]熊",
+        "ws": [
+          "Bruin"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 20 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 20 页。"
+      }
+    ],
+    "relWords": {
+      "root": "bear",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "born",
+              "cn": "天生的"
+            },
+            {
+              "c": "bearable",
+              "cn": "可忍受的；支持得住的"
+            },
+            {
+              "c": "bearish",
+              "cn": "粗暴的；如熊的；股票看跌的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "bearing",
+              "cn": "[机] 轴承；关系；方位；举止"
+            },
+            {
+              "c": "bearer",
+              "cn": "持票人；[建] 承木；[机] 托架；送信人；搬运工人"
+            },
+            {
+              "c": "birth",
+              "cn": "出生；血统，出身；起源"
+            },
+            {
+              "c": "bearberry",
+              "cn": "熊果；结红果实的桃类"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "bearing",
+              "cn": "忍受（bear的ing形式）"
+            },
+            {
+              "c": "born",
+              "cn": "出世（bear的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10021,
+    "word": "can",
+    "phonetic0": "kæn; kən",
+    "phonetic1": "kæn; kən",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "可以；能够"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you last (out) until I can get help?",
+        "cn": "你能支撑到有人来帮我吗？"
+      },
+      {
+        "c": "Drugs can kill.",
+        "cn": "毒品可以致死。"
+      },
+      {
+        "c": "Can you skate?",
+        "cn": "你会滑冰吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "can be",
+        "cn": "可能；可以是"
+      },
+      {
+        "c": "we can",
+        "cn": "我们可以"
+      },
+      {
+        "c": "can do",
+        "cn": "能做到；做得到"
+      },
+      {
+        "c": "how can",
+        "cn": "怎么能够；哪能；怎会"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[食品]罐头，一罐；金属容器",
+        "ws": [
+          "tin",
+          "debe"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 21 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 21 页。"
+      }
+    ],
+    "relWords": {
+      "root": "can",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "canned",
+              "cn": "罐装的；录音的"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "canned",
+              "cn": "装于罐头（can的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10022,
+    "word": "sure",
+    "phonetic0": "ʃʊə(r); ʃɔː(r)",
+    "phonetic1": "ʃʊr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "当然"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "'I'm not sure,' she responded.",
+        "cn": "“我不肯定。”她答道。"
+      },
+      {
+        "c": "I'm sure we'll manage without.",
+        "cn": "我相信我们能凑合的。"
+      },
+      {
+        "c": "You don't sound very sure.",
+        "cn": "听你这口气，你自己也不大肯定。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "make sure",
+        "cn": "确信；证实"
+      },
+      {
+        "c": "for sure",
+        "cn": "确实；毫无疑问地"
+      },
+      {
+        "c": "sure of",
+        "cn": "确信…的"
+      },
+      {
+        "c": "sure enough",
+        "cn": "果然，果真"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "确信的；可靠的；必定的",
+        "ws": [
+          "confident",
+          "responsible",
+          "honest",
+          "reliable",
+          "tried"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "cn": "当然；的确",
+        "ws": [
+          "certainly",
+          "definitely",
+          "indeed"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 21 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 21 页。"
+      }
+    ],
+    "relWords": {
+      "root": "sure",
+      "rels": [
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "surely",
+              "cn": "当然；无疑；坚定地；稳当地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "sureness",
+              "cn": "踏实，确实；安全"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10023,
+    "word": "sorry",
+    "phonetic0": "ˈsɒri",
+    "phonetic1": "ˈsɑːri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "对不起；抱歉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "'Sorry,' she said humbly.",
+        "cn": "“对不起。”她谦逊地说。"
+      },
+      {
+        "c": "Sorry, the answer's no.",
+        "cn": "对不起，回答是不。"
+      },
+      {
+        "c": "'Sorry,' she mumbled.",
+        "cn": "她含含糊糊地说：“对不起。”"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sorry for oneself",
+        "cn": "[口语]垂头丧气，灰溜溜的"
+      },
+      {
+        "c": "i'm sorry",
+        "cn": "对不起"
+      },
+      {
+        "c": "sorry for",
+        "cn": "为…感到可惜"
+      },
+      {
+        "c": "so sorry",
+        "cn": "非常抱歉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "遗憾的；对不起的，抱歉的",
+        "ws": [
+          "regretful",
+          "woeful"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3（课本第 21 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 3，对应课本第 21 页。"
+      }
+    ],
+    "relWords": {
+      "root": "sorry",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "sorrow",
+              "cn": "悲伤；懊悔；伤心事"
+            },
+            {
+              "c": "sorriness",
+              "cn": "悲哀；遗憾"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "sorrow",
+              "cn": "懊悔；遗憾；感到悲伤"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "sorrow",
+              "cn": "为…悲痛"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10024,
+    "word": "rice",
+    "phonetic0": "raɪs",
+    "phonetic1": "raɪs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "米饭；米"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eat rice every single day.",
+        "cn": "我们天天吃米饭。"
+      },
+      {
+        "c": "Rice aspired to go to college.",
+        "cn": "赖斯渴望上大学。"
+      },
+      {
+        "c": "Could you give the rice a stir?",
+        "cn": "你把米饭搅一搅好吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rice wine",
+        "cn": "黄酒；米酒；料酒；加饭酒"
+      },
+      {
+        "c": "hybrid rice",
+        "cn": "杂交稻；杂种稻"
+      },
+      {
+        "c": "glutinous rice",
+        "cn": "糯米"
+      },
+      {
+        "c": "rice bran",
+        "cn": "米糠"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[作物]稻；米饭",
+        "ws": [
+          "nasi"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 30 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 30 页。"
+      }
+    ],
+    "relWords": {
+      "root": "rice",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "ricer",
+              "cn": "压粒器；（美）马铃薯捣碎机；使成细条的炊具"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10025,
+    "word": "noodles",
+    "phonetic0": "ˈnuːd(ə)lz",
+    "phonetic1": "ˈnuːd(ə)lz",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "面条"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you prefer rice or noodles?",
+        "cn": "你喜欢吃米饭还是面条？"
+      },
+      {
+        "c": "There are restaurants, both humble and expensive, that specialize in noodles.",
+        "cn": "既有普通的也有昂贵的专营面条的餐馆。"
+      },
+      {
+        "c": "I'd like noodles.",
+        "cn": "我想要面条。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "instant noodle",
+        "cn": "方便面；速食面；泡面"
+      },
+      {
+        "c": "rice noodle",
+        "cn": "米线"
+      },
+      {
+        "c": "noodle soup",
+        "cn": "面汤，清汤面条"
+      },
+      {
+        "c": "fried noodle",
+        "cn": "炒面；乌东面"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 30 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 30 页。"
+      }
+    ],
+    "relWords": {
+      "root": "noodles",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10026,
+    "word": "vegetable",
+    "phonetic0": "ˈvedʒtəb(ə)l",
+    "phonetic1": "ˈvedʒtəb(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "蔬菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The vegetable harvest is disastrously behind schedule.",
+        "cn": "蔬菜收割灾难性地滞后于计划。"
+      },
+      {
+        "c": "Peas, beans and lentils are a good source of vegetable protein.",
+        "cn": "豌豆、豆荚和扁豆是植物蛋白质的大好来源。"
+      },
+      {
+        "c": "As a general rule vegetable oils are better for you than animal fats.",
+        "cn": "一般来说，植物油比动物脂肪对人较有好处。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "vegetable oil",
+        "cn": "植物油"
+      },
+      {
+        "c": "vegetable protein",
+        "cn": "植物（性）蛋白"
+      },
+      {
+        "c": "vegetable juice",
+        "cn": "蔬菜汁"
+      },
+      {
+        "c": "vegetable garden",
+        "cn": "菜园"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[园艺]蔬菜；[植]植物；植物人",
+        "ws": [
+          "plant",
+          "greenstuff"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "[园艺]蔬菜的；[植]植物的",
+        "ws": [
+          "floral",
+          "botanic"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 30 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 30 页。"
+      }
+    ],
+    "relWords": {
+      "root": "vegetal",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "vegetative",
+              "cn": "植物的；植物人状态的，无所作为的；促使植物生长的；有生长力的"
+            },
+            {
+              "c": "vegetal",
+              "cn": "植物的，植物性的；生长的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "vegetation",
+              "cn": "植被；植物，草木；呆板单调的生活"
+            },
+            {
+              "c": "vegetal",
+              "cn": "植物；蔬菜"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "vegetate",
+              "cn": "生长；植物似地生长；茫茫然地过日子"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "vegetate",
+              "cn": "将植物种在"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10027,
+    "word": "fish",
+    "phonetic0": "fɪʃ",
+    "phonetic1": "fɪʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "鱼肉；鱼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "These fish are very aggressive.",
+        "cn": "这些鱼十分好斗。"
+      },
+      {
+        "c": "The lakes abound with fish.",
+        "cn": "这些湖泊盛产鱼。"
+      },
+      {
+        "c": "They caught several fish.",
+        "cn": "他们捉到了几条鱼。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "big fish",
+        "cn": "大鱼；重要人物"
+      },
+      {
+        "c": "fish for",
+        "cn": "摸索；寻找"
+      },
+      {
+        "c": "fish oil",
+        "cn": "鱼油，鱼肝油"
+      },
+      {
+        "c": "fish meal",
+        "cn": "（用作肥料或饲料的）鱼粉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "捕鱼，钓鱼；用钩捞取",
+        "ws": [
+          "angle"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "[鱼]鱼，鱼类",
+        "ws": [
+          "ikan",
+          "fim"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "钓鱼，捕鱼；搜寻",
+        "ws": [
+          "search",
+          "hunt for"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 30 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 30 页。"
+      }
+    ],
+    "relWords": {
+      "root": "fish",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "fishing",
+              "cn": "钓鱼的；钓鱼用的"
+            },
+            {
+              "c": "fishy",
+              "cn": "鱼的；可疑的；似鱼的；呆滞的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "fishily",
+              "cn": "多鱼地；无表情地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "fishing",
+              "cn": "渔业；捕鱼（术）；试探；装配"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "fishing",
+              "cn": "捕鱼（fish的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10028,
+    "word": "chicken",
+    "phonetic0": "ˈtʃɪkɪn",
+    "phonetic1": "ˈtʃɪkɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "鸡肉；鸡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The chicken was only half cooked.",
+        "cn": "鸡只煮了半熟。"
+      },
+      {
+        "c": "Andrew began to carve the chicken.",
+        "cn": "安德鲁动手切鸡肉。"
+      },
+      {
+        "c": "Luke munched the chicken sandwiches.",
+        "cn": "卢克大声嚼着鸡肉三明治。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fried chicken",
+        "cn": "炸鸡"
+      },
+      {
+        "c": "chicken soup",
+        "cn": "鸡汤；心灵鸡汤"
+      },
+      {
+        "c": "chicken breast",
+        "cn": "[医]鸡胸"
+      },
+      {
+        "c": "chicken meat",
+        "cn": "鸡肉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "鸡肉；小鸡；胆小鬼，懦夫",
+        "ws": [
+          "sheep",
+          "chucky"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "鸡肉的；胆怯的；幼小的",
+        "ws": [
+          "small",
+          "baby"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 30 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 30 页。"
+      }
+    ],
+    "relWords": {
+      "root": "chick",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "chick",
+              "cn": "胆小的；懦弱的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "chick",
+              "cn": "小鸡；小鸟；少妇"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10029,
+    "word": "egg",
+    "phonetic0": "eɡ",
+    "phonetic1": "eɡ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "鸡蛋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She cracked an egg into the pan.",
+        "cn": "她往锅里打了一个鸡蛋。"
+      },
+      {
+        "c": "Brush beaten egg over the pastry.",
+        "cn": "用刷子把打匀的鸡蛋抹在油酥面团上。"
+      },
+      {
+        "c": "Whisk the egg whites until stiff.",
+        "cn": "把蛋清打成稠的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "egg white",
+        "cn": "蛋白"
+      },
+      {
+        "c": "egg yolk",
+        "cn": "蛋黄"
+      },
+      {
+        "c": "golden eggs",
+        "cn": "金蛋(便于创造就业机会的场所)"
+      },
+      {
+        "c": "in the egg",
+        "cn": "在初期，在萌芽状态，尚未发展的，未成熟的(常与crush连用)"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[禽]蛋；卵子；家伙",
+        "ws": [
+          "apple",
+          "customer",
+          "fellow",
+          "guy",
+          "bird"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "煽动；怂恿",
+        "ws": [
+          "encourage",
+          "fan"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 30 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 30 页。"
+      }
+    ],
+    "relWords": {
+      "root": "egg",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "egger",
+              "cn": "收集鸡蛋者；食叶蛾"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10030,
+    "word": "hungry",
+    "phonetic0": "ˈhʌŋɡri",
+    "phonetic1": "ˈhʌŋɡri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "饥饿的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You're not hungry, are you?",
+        "cn": "你不饿，对吧？"
+      },
+      {
+        "c": "I'm hungry. Let's stop for lunch.",
+        "cn": "我饿了。我们停下来吃午饭吧。"
+      },
+      {
+        "c": "Is anyone getting hungry?",
+        "cn": "有人觉得饿吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hungry for",
+        "cn": "渴望"
+      },
+      {
+        "c": "go hungry",
+        "cn": "挨饿"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "饥饿的；渴望的；荒年的；不毛的",
+        "ws": [
+          "eager",
+          "desired",
+          "anxious",
+          "sick",
+          "keen"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 31 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 31 页。"
+      }
+    ],
+    "relWords": {
+      "root": "hungry",
+      "rels": [
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "hungrily",
+              "cn": "饥饿地；渴望地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "hunger",
+              "cn": "饿，饥饿；渴望"
+            },
+            {
+              "c": "hungriness",
+              "cn": "荒漠；饥饿；渴望"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "hunger",
+              "cn": "渴望；挨饿"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "hunger",
+              "cn": "使……挨饿"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10031,
+    "word": "want",
+    "phonetic0": "wɒnt",
+    "phonetic1": "wɑːnt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "要；想要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you want anything else?",
+        "cn": "你还想要点别的什么吗？"
+      },
+      {
+        "c": "I don't want any more.",
+        "cn": "我不再要了。"
+      },
+      {
+        "c": "What do you want?",
+        "cn": "你要什么？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "want to be",
+        "cn": "想成为；想要成为"
+      },
+      {
+        "c": "do you want to",
+        "cn": "你想要"
+      },
+      {
+        "c": "want to do",
+        "cn": "想要做"
+      },
+      {
+        "c": "what do you want",
+        "cn": "你想要什么；你想怎么样"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "需要；希望；应该；缺少",
+        "ws": [
+          "ask",
+          "would have",
+          "claim"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "需要；缺乏；贫困；必需品",
+        "ws": [
+          "necessity",
+          "shortage",
+          "need",
+          "poverty",
+          "deficiency"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "需要；缺少",
+        "ws": [
+          "wish",
+          "have need of"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 31 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 31 页。"
+      }
+    ],
+    "relWords": {
+      "root": "want",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "wanted",
+              "cn": "被通缉的"
+            },
+            {
+              "c": "wanting",
+              "cn": "欠缺的；不足的；不够格的"
+            }
+          ]
+        },
+        {
+          "pos": "prep.",
+          "words": [
+            {
+              "c": "wanting",
+              "cn": "无；缺"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "wanted",
+              "cn": "想要；渴望（want的过去分词）"
+            },
+            {
+              "c": "wanting",
+              "cn": "需要（want的现在分词）；欠缺"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10032,
+    "word": "and",
+    "phonetic0": "ænd; ənd",
+    "phonetic1": "ænd; ənd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "和"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Fresh fruit and vegetables provide fibre and vitamins.",
+        "cn": "新鲜的水果和蔬菜提供纤维素和多种维生素。"
+      },
+      {
+        "c": "America and her partners are helping to rebuild roads and bridges and buildings.",
+        "cn": "美国及其伙伴正帮助重建道路、桥梁和楼房。"
+      },
+      {
+        "c": "The room was dim and cool and quiet.",
+        "cn": "这房间昏暗、阴冷且安静。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "and so",
+        "cn": "因此；所以"
+      },
+      {
+        "c": "and then",
+        "cn": "于是，然后"
+      },
+      {
+        "c": "and so on",
+        "cn": "等等；诸如此类"
+      },
+      {
+        "c": "and some",
+        "cn": "还有别的；还不止这些；比这个还要多"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "conj.",
+        "cn": "和，与；就；而且；但是；然后",
+        "ws": [
+          "granted",
+          "et",
+          "but",
+          "yet",
+          "only"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4（课本第 31 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 4，对应课本第 31 页。"
+      }
+    ],
+    "relWords": {
+      "root": "and",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10033,
+    "word": "juice",
+    "phonetic0": "dʒuːs",
+    "phonetic1": "dʒuːs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "果汁；蔬菜汁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The juice contains no added sugar.",
+        "cn": "这种果汁没有加糖。"
+      },
+      {
+        "c": "This juice contains no added sugar.",
+        "cn": "这种果汁没有加糖。"
+      },
+      {
+        "c": "Would you care for some orange juice?",
+        "cn": "你想要些橙汁吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fruit juice",
+        "cn": "果汁"
+      },
+      {
+        "c": "orange juice",
+        "cn": "橘子汁"
+      },
+      {
+        "c": "apple juice",
+        "cn": "苹果汁"
+      },
+      {
+        "c": "lemon juice",
+        "cn": "柠檬汁"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "（水果）汁，液；果汁",
+        "ws": [
+          "extract",
+          "syrup"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5（课本第 38 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 5，对应课本第 38 页。"
+      }
+    ],
+    "relWords": {
+      "root": "juice",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10034,
+    "word": "tea",
+    "phonetic0": "tiː",
+    "phonetic1": "tiː",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "茶；茶叶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's hardly any tea left.",
+        "cn": "没有剩什么茶了。"
+      },
+      {
+        "c": "\"Tea or coffee?\" John asked.",
+        "cn": "“喝茶还是喝咖啡？” 约翰问。"
+      },
+      {
+        "c": "Do you want some more tea?",
+        "cn": "你再要点儿茶吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "green tea",
+        "cn": "绿茶"
+      },
+      {
+        "c": "cup of tea",
+        "cn": "命运；心爱之人或物"
+      },
+      {
+        "c": "black tea",
+        "cn": "红茶"
+      },
+      {
+        "c": "chinese tea",
+        "cn": "中国茶，国内名茶"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "茶叶；茶树；茶点",
+        "ws": [
+          "tealeaf",
+          "refreshments"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5（课本第 38 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 5，对应课本第 38 页。"
+      }
+    ],
+    "relWords": {
+      "root": "tea",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10035,
+    "word": "milk",
+    "phonetic0": "mɪlk",
+    "phonetic1": "mɪlk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "奶；牛奶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The cat licked up the milk.",
+        "cn": "猫把牛奶舔光了。"
+      },
+      {
+        "c": "She's gone for some milk.",
+        "cn": "她买牛奶去了。"
+      },
+      {
+        "c": "We've run short of milk.",
+        "cn": "我们牛奶不够了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "milk powder",
+        "cn": "奶粉"
+      },
+      {
+        "c": "in milk",
+        "cn": "在出奶时期的；在授乳期中的"
+      },
+      {
+        "c": "fresh milk",
+        "cn": "鲜牛奶"
+      },
+      {
+        "c": "powdered milk",
+        "cn": "奶粉"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[食品]牛奶；[化学]乳状物",
+        "ws": [
+          "lait",
+          "creamery"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "榨取；挤…的奶",
+        "ws": [
+          "extract",
+          "ream"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5（课本第 38 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 5，对应课本第 38 页。"
+      }
+    ],
+    "relWords": {
+      "root": "milk",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "milky",
+              "cn": "乳白色的；牛奶的；乳状的；柔和的；混浊不清的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "milker",
+              "cn": "乳牛；挤奶人；挤奶器"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10036,
+    "word": "water",
+    "phonetic0": "ˈwɔːtə(r)",
+    "phonetic1": "ˈwɔːtər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The water deepened gradually.",
+        "cn": "水渐渐变深了。"
+      },
+      {
+        "c": "Glucose is soluble in water.",
+        "cn": "葡萄糖可溶于水。"
+      },
+      {
+        "c": "Salt dissolves in water.",
+        "cn": "盐溶于水。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "water quality",
+        "cn": "水质"
+      },
+      {
+        "c": "water supply",
+        "cn": "供水系统；水源"
+      },
+      {
+        "c": "water treatment",
+        "cn": "水处理；水的处理"
+      },
+      {
+        "c": "waste water",
+        "cn": "污水，废水"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "水；海水；雨水；海域，大片的水",
+        "ws": [
+          "seawater",
+          "eau"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "加水；流泪",
+        "ws": [
+          "shed tears",
+          "pipe one's eye"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5（课本第 38 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 5，对应课本第 38 页。"
+      }
+    ],
+    "relWords": {
+      "root": "water",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "watery",
+              "cn": "水的；淡的；湿的；松软的；有雨意的"
+            },
+            {
+              "c": "watering",
+              "cn": "灌溉的；浇水用的"
+            },
+            {
+              "c": "watered",
+              "cn": "掺水的；洒有水的，洒了水的；有波纹的；加虚股的（面值增加而实值未按比例增加）"
+            },
+            {
+              "c": "waterless",
+              "cn": "无水的；干的；不用水的，不需水的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "watering",
+              "cn": "浇水；灌溉；排水沟"
+            },
+            {
+              "c": "waterer",
+              "cn": "饮水器；供给饮水的人"
+            },
+            {
+              "c": "wateriness",
+              "cn": "平淡；多水；稀薄"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "watering",
+              "cn": "浇水；灌溉（water的ing形式）"
+            },
+            {
+              "c": "watered",
+              "cn": "浇水，供以水（water的过去式和过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10037,
+    "word": "thirsty",
+    "phonetic0": "ˈθɜːsti",
+    "phonetic1": "ˈθɜːrsti",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "口渴的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When a baby is thirsty, it feeds more often.",
+        "cn": "婴儿口渴时，吃奶更频繁。"
+      },
+      {
+        "c": "They were all thirsty so I gave them a drink.",
+        "cn": "他们都口渴了，所以我给了他们一杯饮料。"
+      },
+      {
+        "c": "He was thirsty for success.",
+        "cn": "他渴望成功。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "口渴的，口干的；渴望的，热望的",
+        "ws": [
+          "dry",
+          "eager",
+          "hungry",
+          "anxious",
+          "desired"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5（课本第 39 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 5，对应课本第 39 页。"
+      }
+    ],
+    "relWords": {
+      "root": "thirst",
+      "rels": [
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "thirstily",
+              "cn": "口渴地；如饥似渴地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "thirst",
+              "cn": "渴望；口渴；热望"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "thirst",
+              "cn": "渴望；口渴"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10038,
+    "word": "thanks",
+    "phonetic0": "θæŋks",
+    "phonetic1": "θæŋks",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "感谢"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wotcha Dave—thanks for coming.",
+        "cn": "你好，戴夫，谢谢光临。"
+      },
+      {
+        "c": "Thanks. I really enjoyed it.",
+        "cn": "谢谢，我真的很开心。"
+      },
+      {
+        "c": "Thanks Dad, you're an angel.",
+        "cn": "谢谢爸爸，你是个大好人。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thanks for",
+        "cn": "多亏"
+      },
+      {
+        "c": "thanks a lot",
+        "cn": "多谢"
+      },
+      {
+        "c": "many thanks",
+        "cn": "非常感谢"
+      },
+      {
+        "c": "heartfelt thanks",
+        "cn": "由衷地感谢"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "谢谢（只用复数）",
+        "ws": [
+          "Arigatou",
+          "Grazie"
+        ]
+      },
+      {
+        "pos": "int.",
+        "cn": "谢谢",
+        "ws": [
+          "merci",
+          "danke",
+          "arigato"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5（课本第 39 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 5，对应课本第 39 页。"
+      }
+    ],
+    "relWords": {
+      "root": "thanks",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10039,
+    "word": "shirt",
+    "phonetic0": "ʃɜːt",
+    "phonetic1": "ʃɜːrt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "衬衫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My shirt was clammy with sweat.",
+        "cn": "我的衬衣沾满了汗，又粘又湿。"
+      },
+      {
+        "c": "What's your shirt made of?",
+        "cn": "你的衬衣是用什么做的？"
+      },
+      {
+        "c": "He peeled off his shirt.",
+        "cn": "他脱下了衬衣。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "white shirt",
+        "cn": "白衬衣，白衬衫"
+      },
+      {
+        "c": "stuffed shirt",
+        "cn": "[口]妄自尊大的人；自命不凡的人；道貌岸然的人"
+      },
+      {
+        "c": "in one's shirt",
+        "cn": "只穿一件衬衣(或睡衣)"
+      },
+      {
+        "c": "keep your shirt on",
+        "cn": "别激动；沉住气"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[服装]衬衫；汗衫，内衣",
+        "ws": [
+          "singlet",
+          "undershirt"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6（课本第 46 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 6，对应课本第 46 页。"
+      }
+    ],
+    "relWords": {
+      "root": "shirt",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "shirting",
+              "cn": "衬衫衣料"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10040,
+    "word": "T-shirt",
+    "phonetic0": "ˈtiː ʃɜːt",
+    "phonetic1": "ˈtiː ʃɜːrt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "T恤衫；短袖圆领汗衫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She wore an olive-green T-shirt.",
+        "cn": "她穿了一件橄榄绿的T恤衫。"
+      },
+      {
+        "c": "I brought a T-shirt back for Mark.",
+        "cn": "我给马克带回来一件T恤衫。"
+      },
+      {
+        "c": "He was wearing a T-shirt and shorts.",
+        "cn": "他穿着T恤衫和短裤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6（课本第 46 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 6，对应课本第 46 页。"
+      }
+    ],
+    "relWords": {
+      "root": "T-shirt",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10041,
+    "word": "skirt",
+    "phonetic0": "skɜːt",
+    "phonetic1": "skɜːrt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "裙子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There's a mark on your skirt.",
+        "cn": "你裙子上有一块斑。"
+      },
+      {
+        "c": "The skirt has a side opening.",
+        "cn": "这裙子是侧面开口的。"
+      },
+      {
+        "c": "The skirt is cut on the bias.",
+        "cn": "这条裙子是斜裁的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "piston skirt",
+        "cn": "活塞裙"
+      },
+      {
+        "c": "mini skirt",
+        "cn": "迷你裙；超短裙"
+      },
+      {
+        "c": "skirt length",
+        "cn": "裙长"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "裙子",
+        "ws": [
+          "petticoat"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "绕过，回避；位于…边缘",
+        "ws": [
+          "move round",
+          "shun"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "沿边走，绕开；环绕",
+        "ws": [
+          "steer clear of",
+          "circle round"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6（课本第 46 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 6，对应课本第 46 页。"
+      }
+    ],
+    "relWords": {
+      "root": "skirt",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "skirting",
+              "cn": "壁脚板；裙料"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "skirting",
+              "cn": "避开；绕过…的边缘；沿边缘走（skirt的现在分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10042,
+    "word": "dress",
+    "phonetic0": "dres",
+    "phonetic1": "dres",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "连衣裙；套裙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "For lunch, dress is informal.",
+        "cn": "吃午餐可以穿着休闲装。"
+      },
+      {
+        "c": "He wore formal evening dress.",
+        "cn": "他穿了正式的晚礼服。"
+      },
+      {
+        "c": "Everyone was in evening dress.",
+        "cn": "人人都身着晚礼服。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dress oneself",
+        "cn": "打扮；给自己穿衣服"
+      },
+      {
+        "c": "dress up",
+        "cn": "打扮，装饰；穿上盛装"
+      },
+      {
+        "c": "dress in",
+        "cn": "（使）穿…的服装；乔装打扮"
+      },
+      {
+        "c": "wedding dress",
+        "cn": "结婚礼服"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "给…穿衣",
+        "ws": [
+          "apparel",
+          "clothe"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "[服装]连衣裙；女装",
+        "ws": [
+          "frock",
+          "suit-dress"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6（课本第 46 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 6，对应课本第 46 页。"
+      }
+    ],
+    "relWords": {
+      "root": "dress",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "dressed",
+              "cn": "穿好衣服的；打扮好的；去内脏及分割加工好的（特指动物，如鱼，禽类等）"
+            },
+            {
+              "c": "dressy",
+              "cn": "讲究服装的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "dressing",
+              "cn": "穿衣；加工；调味品；装饰；梳理"
+            },
+            {
+              "c": "dressage",
+              "cn": "盛装舞步；花式骑术训练；驯马技术"
+            },
+            {
+              "c": "dressmaking",
+              "cn": "女装裁缝"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "dressing",
+              "cn": "给…穿衣；为…打扮（dress的现在分词）"
+            },
+            {
+              "c": "dressed",
+              "cn": "装饰；给…穿衣；布置（dress的过去分词）"
+            },
+            {
+              "c": "dressmaking",
+              "cn": "制衣（尤指制女装，dressmake的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10043,
+    "word": "socks",
+    "phonetic0": "sɒks",
+    "phonetic1": "sɑːks",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "短袜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aunt Emilie darned old socks.",
+        "cn": "埃米莉阿姨把旧袜子补好了。"
+      },
+      {
+        "c": "I've worn holes in all my socks.",
+        "cn": "我把我所有的袜子都穿破了。"
+      },
+      {
+        "c": "He took his shoes and socks off.",
+        "cn": "他脱掉鞋袜。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sock in",
+        "cn": "阻止…飞行；关闭…不许飞机起落"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6（课本第 46 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 6，对应课本第 46 页。"
+      }
+    ],
+    "relWords": {
+      "root": "socks",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10044,
+    "word": "shorts",
+    "phonetic0": "ʃɔːts",
+    "phonetic1": "ʃɔːrts",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "短裤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My shorts were chafing my thighs.",
+        "cn": "我的短裤蹭得我大腿疼。"
+      },
+      {
+        "c": "She wore shorts and a halter top.",
+        "cn": "她穿一条短裤和一件颈部系带的上衣。"
+      },
+      {
+        "c": "He was wearing a T-shirt and shorts.",
+        "cn": "他穿着T恤衫和短裤。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "short of",
+        "cn": "缺乏；不足；除…以外"
+      },
+      {
+        "c": "in short",
+        "cn": "总之；简言之"
+      },
+      {
+        "c": "for short",
+        "cn": "简称；缩写"
+      },
+      {
+        "c": "short time",
+        "cn": "短时间；不足的工时"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "短裤",
+        "ws": [
+          "short pants",
+          "short trousers",
+          "pantie"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6（课本第 46 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 6，对应课本第 46 页。"
+      }
+    ],
+    "relWords": {
+      "root": "shorts",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10045,
+    "word": "your",
+    "phonetic0": "jɔː(r); jə(r)",
+    "phonetic1": "jʊr; jər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "你的；你们的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Your first duty is to your family.",
+        "cn": "你首要的是对家庭尽责。"
+      },
+      {
+        "c": "Do your parents mind your leaving home?",
+        "cn": "你父母舍得你离开家吗？"
+      },
+      {
+        "c": "Your doctor will monitor your blood pressure.",
+        "cn": "你的医生会监测你的血压。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on your back",
+        "cn": "在你背上；仰卧"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6（课本第 47 页）",
+        "d": "收录于义务教育教科书·英语（一年级起点）一年级下册 Unit 6，对应课本第 47 页。"
+      }
+    ],
+    "relWords": {
+      "root": "your",
+      "rels": []
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  }
+]

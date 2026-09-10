@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5519,
+    "word": "category",
+    "phonetic0": "ˈkætəɡ(ə)ri",
+    "phonetic1": "ˈkætəɡ(ə)ri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "种类，范畴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "His pictures don't fit into any category.",
+        "cn": "他的画哪一类也算不上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in this category",
+        "cn": "属于这一类"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[数]种类，分类；[计]范畴",
+        "ws": [
+          "variety",
+          "sort",
+          "kind",
+          "nature",
+          "class"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "category:范畴",
+        "d": "来自希腊语 kategoria,指控，指责。古希腊哲学家亚里士多德用该词描述类别，种类，使之固定为现在的词义。"
+      }
+    ],
+    "relWords": {
+      "root": "category",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "categorical",
+              "cn": "绝对的；直接了当的；无条件的"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "categorize",
+              "cn": "分类"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  }
+]

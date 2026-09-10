@@ -66,6 +66,7 @@ export default defineNuxtConfig({
     '/words': { ssr: false },
     '/articles': { ssr: false },
     '/setting': { ssr: false },
+    '/profile': { ssr: false },
     '/book/nce1': { prerender: true },
     '/book/nce2': { prerender: true },
     '/book/nce3': { prerender: true },

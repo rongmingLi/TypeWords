@@ -3,6 +3,7 @@ import { Toast } from '@/base'
 import { Origin } from '@/core/config/env.ts'
 import { set } from 'idb-keyval'
 import { defineAsyncComponent } from 'vue'
+import { getProfileStorageKey } from '@/core/utils/local-profile.ts'
 
 const Dialog = defineAsyncComponent(() => import('@/base/dialog/Dialog.vue'))
 
@@ -31,14 +32,14 @@ async function migrateFromOldSite() {
       // 写入 localStorage
       LS_KEYS.forEach(key => {
         if (payload.localStorage[key] !== undefined) {
-          localStorage.setItem(key, payload.localStorage[key])
+          localStorage.setItem(getProfileStorageKey(key), payload.localStorage[key])
         }
       })
 
       // 写入 IndexedDB
       for (let key of IDB_KEYS) {
         if (payload.indexedDB[key] !== undefined) {
-          await set(key, payload.indexedDB[key])
+          await set(getProfileStorageKey(key), payload.indexedDB[key])
         }
       }
 

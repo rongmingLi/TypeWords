@@ -17,7 +17,8 @@ import EditBook from '@/components/article/EditBook.vue'
 import BaseTable from '@/components/BaseTable.vue'
 import PracticeSettingDialog from '@/components/word/PracticeSettingDialog.vue'
 import WordItem from '@/components/word/WordItem.vue'
-import { flushStatToStore, usePracticeWordPersistence } from '@/core/composables/usePracticePersistence'
+import { useDataSyncPersistence } from '@/core/composables/useDataSyncPersistence'
+import { usePracticeWordPersistence } from '@/core/composables/practice-words/practice-word-session'
 import { DICT_LIST, LIB_JS_URL, TourConfig } from '@/core/config/env.ts'
 import { getCurrentStudyWord } from '@/core/hooks/dict.ts'
 import { useBaseStore } from '@/core/stores/base.ts'
@@ -38,7 +39,6 @@ import {
   shuffle,
   useNav,
 } from '@/core/utils'
-import { getPracticeWordCacheLocal } from '@/core/utils/cache.ts'
 import saveAs from 'file-saver'
 import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
@@ -46,6 +46,7 @@ import { useRoute, useRouter } from 'vue-router'
 
 const runtimeStore = useRuntimeStore()
 const wordPersistence = usePracticeWordPersistence()
+const dataSync = useDataSyncPersistence()
 const base = useBaseStore()
 const router = useRouter()
 const route = useRoute()
@@ -353,18 +354,16 @@ const { nav } = useNav()
 
 //todo 可以和首页合并
 async function startPractice(query = {}) {
-  // debugger
-  //这里重置一下，因为下面切换词典后，导致学习进度为0，而切换前的模式有可能需要有进度才可以用
-  if (![WordPracticeMode.Free, WordPracticeMode.System].includes(settingStore.wordPracticeMode)) {
+  // Preserve the outgoing task before changing the active dictionary (also claims legacy caches).
+  const cache = await wordPersistence.load()
+  if (cache) await wordPersistence.save(cache)
+  await base.changeDict(runtimeStore.editDict)
+  const resumed = await wordPersistence.load()
+  await wordPersistence.save(resumed)
+  if (!resumed && ![WordPracticeMode.Free, WordPracticeMode.System].includes(settingStore.wordPracticeMode)) {
     settingStore.wordPracticeMode = WordPracticeMode.System
   }
-  // 切换词典前，先将进行中的练习统计落库，避免学习记录丢失
-  const cache = await getPracticeWordCacheLocal()
-  if (cache) {
-    flushStatToStore((cache as any)?.statStoreData)
-    await wordPersistence.clear()
-  }
-  await base.changeDict(runtimeStore.editDict)
+  await dataSync.saveDictState()
   window.umami?.track('startStudyWord', {
     name: store.sdict.name,
     index: store.sdict.lastLearnIndex,
@@ -374,7 +373,7 @@ async function startPractice(query = {}) {
     wordPracticeMode: settingStore.wordPracticeMode,
   })
   let currentStudy = getCurrentStudyWord()
-  nav('practice-words/' + store.sdict.id, query, { taskWords: currentStudy })
+  nav('practice-words/' + store.sdict.id, query, resumed ?? { taskWords: currentStudy })
 }
 
 async function addMyStudyList() {
@@ -390,6 +389,8 @@ async function startTest() {
   if (![WordPracticeMode.Free, WordPracticeMode.System].includes(settingStore.wordPracticeMode)) {
     settingStore.wordPracticeMode = WordPracticeMode.System
   }
+  const cache = await wordPersistence.load()
+  if (cache) await wordPersistence.save(cache)
   await base.changeDict(runtimeStore.editDict)
   loading = false
   nav('words-test/' + store.sdict.id, {}, {})
@@ -793,124 +794,4 @@ defineRender(() => {
 })
 </script>
 
-<style scoped lang="scss">
-.dict-detail-card {
-  height: calc(100vh - 3rem);
-}
-
-.dict-header {
-  gap: 0.5rem;
-}
-
-.dict-actions {
-  flex-wrap: wrap;
-}
-
-.word-list-section {
-  width: 44%;
-}
-
-.edit-section {
-  margin-left: 1rem;
-}
-
-.tab-navigation {
-  display: none; // 默认隐藏，移动端显示
-}
-
-.mobile-hidden {
-  display: none;
-}
-
-@media (max-width: 768px) {
-  .dict-detail-card {
-    height: unset;
-    min-height: calc(100vh - 2rem);
-    margin-bottom: 0 !important;
-  }
-
-  .dict-header {
-    width: 100%;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    gap: 0.75rem;
-  }
-
-  .dict-header .dict-back {
-    align-self: flex-start;
-  }
-
-  .dict-header .dict-title {
-    position: static !important;
-    width: 100%;
-  }
-
-  .dict-header .dict-actions {
-    width: 100%;
-    justify-content: center;
-    gap: 0.75rem;
-  }
-
-  .tab-navigation {
-    display: flex;
-    border-bottom: 2px solid var(--color-item-border);
-    margin-bottom: 1rem;
-    gap: 0;
-
-    .tab-item {
-      flex: 1;
-      padding: 0.75rem 1rem;
-      text-align: center;
-      cursor: pointer;
-      font-size: 0.95rem;
-      font-weight: 500;
-      color: var(--color-sub-text);
-      border-bottom: 2px solid transparent;
-      margin-bottom: -2px;
-      transition: all 0.3s ease;
-      user-select: none;
-
-      &:active {
-        transform: scale(0.98);
-      }
-
-      &.active {
-        color: var(--color-icon-hightlight);
-        border-bottom-color: var(--color-icon-hightlight);
-      }
-    }
-  }
-
-  .content-area {
-    flex-direction: column;
-
-    .word-list-section,
-    .edit-section {
-      width: 100% !important;
-      margin-left: 0 !important;
-      max-width: 100%;
-    }
-
-    .edit-section {
-      margin-top: 0;
-    }
-  }
-}
-
-// 超小屏幕适配
-@media (max-width: 480px) {
-  .dict-detail-card {
-    height: unset;
-    min-height: calc(100vh - 1rem);
-  }
-
-  .tab-navigation {
-    .tab-item {
-      padding: 0.6rem 0.5rem;
-      font-size: 0.9rem;
-    }
-  }
-}
-</style>
+<style scoped lang="scss" src="@/components/word/dict-detail.scss"></style>

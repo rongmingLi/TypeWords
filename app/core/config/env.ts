@@ -1,6 +1,7 @@
 import { offset } from '@floating-ui/dom'
 //这里合并导入，打包会报错
 import { ShortcutKey, WordPracticeMode, WordPracticeStage } from '../types/enum.ts'
+import { getProfileStorageKey } from '../utils/local-profile.ts'
 
 export const GITHUB = 'https://github.com/zyronon/TypeWords'
 export const Host = 'typewords.cc'
@@ -55,11 +56,11 @@ export const APP_VERSION = {
   version: 4,
 }
 export const SAVE_DICT_KEY = {
-  key: 'typing-word-dict',
+  key: getProfileStorageKey('typing-word-dict'),
   version: 4,
 }
 export const SAVE_SETTING_KEY = {
-  key: 'typing-word-setting',
+  key: getProfileStorageKey('typing-word-setting'),
   version: 23,
 }
 
@@ -68,10 +69,10 @@ export const EXPORT_DATA_KEY = {
   key: 'typing-word-export',
   version: 5,
 }
-export const LOCAL_FILE_KEY = 'typing-word-files'
+export const LOCAL_FILE_KEY = getProfileStorageKey('typing-word-files')
 export const WEBSITE_VERSION_HASH = 'type-words-website-version-hash'
-export const BACKUP_INDEX_KEY = 'type-words-backup-index'
-export const BACKUP_KEY = 'type-words-backup-'
+export const BACKUP_INDEX_KEY = getProfileStorageKey('type-words-backup-index')
+export const BACKUP_KEY = getProfileStorageKey('type-words-backup-')
 
 export const TourConfig = {
   useModalOverlay: true,

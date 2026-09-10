@@ -14,12 +14,14 @@ import { useI18n } from 'vue-i18n'
 import { Supabase } from '@/core/utils/supabase.ts'
 import MiniProgram from '@/components/MiniProgram.vue'
 import WordCollectPopover from '@/components/word/WordCollectPopover.vue'
+import { getActiveLocalProfile } from '@/core/utils/local-profile.ts'
 
 const router = useRouter()
 const { toggleTheme, getTheme, setTheme } = useTheme()
 const runtimeStore = useRuntimeStore()
 const settingStore = useSettingStore()
 let expand = $ref(false)
+let activeProfileName = $ref('')
 const init = useInit()
 
 function toggleExpand(n: boolean) {
@@ -47,10 +49,11 @@ const { locales, setLocale } = useI18n()
 const route = useRoute()
 
 const showIcon = $computed(() => {
-  return ['/words', '/articles', '/setting', '/help', '/doc', '/feedback'].includes(route.path)
+  return ['/words', '/articles', '/setting', '/profile', '/help', '/doc', '/feedback'].includes(route.path)
 })
 
 onMounted(() => {
+  activeProfileName = getActiveLocalProfile().name
   init()
   window.umami?.track('sync', { check: Supabase.check() })
 })
@@ -103,6 +106,10 @@ function onMouseLeave() {
           <IconFluentQuestionCircle20Regular />
           <span>{{ $t('help') }}</span>
         </NuxtLink>
+        <NuxtLink to="/profile" class="row">
+          <IconFluentPerson20Regular />
+          <span>{{ activeProfileName || $t('local_profiles') }}</span>
+        </NuxtLink>
         <!--        <div class="row" @click="router.push('/user')">-->
         <!--          <IconFluentPerson20Regular/>-->
         <!--          <span >用户</span>-->
@@ -136,6 +143,10 @@ function onMouseLeave() {
           <IconFluentSettings20Regular />
           <span>{{ $t('setting') }}</span>
           <div class="red-point" v-if="runtimeStore.isError"></div>
+        </div>
+        <div class="nav-item" @click="router.push('/profile')" :class="{ active: route.path === '/profile' }">
+          <IconFluentPerson20Regular />
+          <span>{{ $t('local_profiles') }}</span>
         </div>
       </div>
       <div class="nav-toggle" @click="settingStore.mobileNavCollapsed = !settingStore.mobileNavCollapsed">

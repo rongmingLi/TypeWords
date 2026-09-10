@@ -19,6 +19,116 @@
     "cover": null,
     "hidden": false,
     "category": "中国考试",
-    "tags": ["大学英语"]
+    "tags": [
+      "大学英语"
+    ]
+  },
+  {
+    "id": 2,
+    "enName": "pep_grade1_b",
+    "name": "人教版英语一年级下册（一起点）",
+    "description": "义务教育教科书·英语（一年级起点）一年级下册单元词汇",
+    "categoryId": 2,
+    "category": "小学英语",
+    "url": "PEP_Grade1_B.json",
+    "length": 45,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-09-04 00:00:00.000000",
+    "updatedAt": "2026-09-04 00:00:00.000000",
+    "cover": null,
+    "hidden": false,
+    "tags": [
+      "小学英语",
+      "一年级",
+      "人教版",
+      "一起点"
+    ]
+  },
+  {
+    "id": 3,
+    "enName": "pep_grade3_a",
+    "name": "人教版英语三年级上册（一起点）",
+    "description": "义务教育教科书·英语（一年级起点）三年级上册单元词汇",
+    "categoryId": 2,
+    "category": "小学英语",
+    "url": "PEP_Grade3_1.json",
+    "length": 111,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-09-05 00:00:00.000000",
+    "updatedAt": "2026-09-05 00:00:00.000000",
+    "cover": null,
+    "hidden": false,
+    "tags": [
+      "小学英语",
+      "三年级",
+      "人教版",
+      "一起点"
+    ]
+  },
+  {
+    "id": 4,
+    "enName": "pep_grade7_1",
+    "name": "人教版英语七年级上册",
+    "description": "人教版义务教育教科书英语七年级上册全书单元词汇与短语",
+    "categoryId": 3,
+    "category": "初中英语",
+    "url": "PEP_Grade7_1.json",
+    "length": 431,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-09-04 14:30:00.000000",
+    "updatedAt": "2026-09-04 14:30:00.000000",
+    "cover": null,
+    "hidden": false,
+    "tags": [
+      "初中英语",
+      "七年级",
+      "人教版"
+    ]
+  },
+  {
+    "id": 5,
+    "enName": "dolch_sight_words",
+    "name": "Dolch Sight Words 220词",
+    "description": "美国幼儿园至二年级阅读基础高频词（Dolch Sight Words），分 Pre-Primer、Primer、First Grade、Second Grade、Third Grade 五级，共 217 词。采用句块阶梯训练法，帮助建立英语阅读自动化识别。",
+    "categoryId": 4,
+    "category": "幼儿英语",
+    "url": "Dolch_Sight_Words.json",
+    "length": 217,
+    "language": "en",
+    "translateLanguage": "zh_CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-09-10 10:20:30.000000",
+    "updatedAt": "2026-09-10 10:20:30.000000",
+    "cover": null,
+    "hidden": false,
+    "tags": [
+      "幼儿英语",
+      "Dolch",
+      "自然拼读",
+      "Sight Words",
+      "美国小学"
+    ]
   }
 ]

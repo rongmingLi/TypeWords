@@ -22,13 +22,14 @@ import type {
   PracticeWordAdvanceConfig,
   PracticeWordsSource,
 } from './practice-flow-types.ts'
+import { getProfileStorageKey } from '@/core/utils/local-profile.ts'
 
 const VALID_SOURCES = new Set<PracticeWordsSource>(['taskNew', 'taskReview', 'current', 'wrongWords'])
 const VALID_TEMPLATE_IDS_SET = new Set<string>(Object.keys(STEP_TEMPLATE_META))
 const VALID_MODES = new Set(
   Object.values(WordPracticeMode).filter((value): value is WordPracticeMode => typeof value === 'number')
 )
-const FLOW_STORAGE_KEY = 'PracticeFlowV2'
+export const FLOW_STORAGE_KEY = getProfileStorageKey('PracticeFlowV2')
 
 interface UserFlowEntry {
   config: PracticeFlowConfig

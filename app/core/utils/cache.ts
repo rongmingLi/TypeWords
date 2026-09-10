@@ -2,17 +2,20 @@ import type { PracticeData, TaskWords } from '../types'
 import { WordPracticeMode, WordPracticeStage, WordPracticeType } from '../types/enum'
 import type { PracticeState } from '../stores'
 import { get, set } from 'idb-keyval'
+import { getProfileStorageKey } from './local-profile.ts'
 
-type CacheConfig = { key: string; version: number }
+type CacheConfig = { key: string; storageKey: string; version: number }
 
 export const PRACTICE_WORD_CACHE: CacheConfig = {
   key: 'PracticeSaveWord',
+  storageKey: getProfileStorageKey('PracticeSaveWord'),
   version: 2,
 }
 export const LEGACY_PRACTICE_WORD_CACHE_VERSION = 1
 export const PRACTICE_WORD_GROUP_SIZE = 7
 export const PRACTICE_ARTICLE_CACHE: CacheConfig = {
   key: 'PracticeSaveArticle',
+  storageKey: getProfileStorageKey('PracticeSaveArticle'),
   version: 1,
 }
 
@@ -229,14 +232,14 @@ export function checkAndUpgradePracticeWordCache(
  */
 async function migrateFromLocalStorage<T>(config: CacheConfig): Promise<LocalCacheResult<T> | null> {
   try {
-    const raw = localStorage.getItem(config.key)
+    const raw = localStorage.getItem(config.storageKey)
     if (!raw) return null
     const parsed = JSON.parse(raw) as LocalCacheResult<T>
     // 迁移到 idb
-    await set(config.key, raw)
+    await set(config.storageKey, raw)
     // 删除 localStorage 中的老数据
-    localStorage.removeItem(config.key)
-    console.log(`[cache] migrated ${config.key} from localStorage to idb`)
+    localStorage.removeItem(config.storageKey)
+    console.log(`[cache] migrated ${config.storageKey} from localStorage to idb`)
     return parsed
   } catch {
     return null
@@ -245,7 +248,7 @@ async function migrateFromLocalStorage<T>(config: CacheConfig): Promise<LocalCac
 
 /** 从 idb 读取带 meta 的缓存；无数据或解析失败返回 null */
 async function getLocalWithMeta<T>(config: CacheConfig): Promise<LocalCacheResult<T> | null> {
-  const raw = await get(config.key)
+  const raw = await get(config.storageKey)
   if (raw) {
     // 兼容旧版本写入的 JSON 字符串格式
     if (typeof raw === 'string') {
@@ -276,7 +279,7 @@ async function setLocal<T>(config: CacheConfig, val: T | null, updated_at: strin
     val,
     updated_at,
   }
-  await set(config.key, JSON.stringify(payload))
+  await set(config.storageKey, JSON.stringify(payload))
 }
 
 export async function getPracticeWordCacheLocal(): Promise<PracticeWordCacheStored | null> {

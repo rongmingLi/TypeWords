@@ -659,7 +659,13 @@ export function total(arr: any[], key: string) {
 }
 
 export function resourceWrap(resource: string, version?: number) {
-  return withAppBaseURL(resource)
+  const url = withAppBaseURL(resource)
+  // 词库列表 JSON（list/）每次都强制拉最新，避免浏览器缓存旧数据
+  if (/\/list\/.*\.json/.test(resource)) {
+    const sep = url.includes('?') ? '&' : '?'
+    return `${url}${sep}t=${Date.now()}`
+  }
+  return url
 }
 
 type DictIdentity = {

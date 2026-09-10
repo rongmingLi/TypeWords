@@ -2,7 +2,7 @@ import { useBaseStore } from '@/core/stores/base.ts'
 import { useSettingStore } from '@/core/stores/setting.ts'
 import type { PracticeState } from '@/core/stores/practice.ts'
 import type { PracticeData as LegacyPracticeData, Question, TaskWords, Word } from '@/core/types/types.ts'
-import { CompareResult, SyncDataType } from '@/core/types/enum.ts'
+import { SyncDataType } from '@/core/types/enum.ts'
 import {
   checkAndUpgradePracticeWordCache,
   getPracticeWordCacheLocalWithMeta,
@@ -11,7 +11,9 @@ import {
   type PracticeWordCacheStored,
 } from '@/core/utils/cache.ts'
 import { useDataSyncPersistence } from '@/core/composables/useDataSyncPersistence.ts'
-import { shouldFetchRemote } from '@/core/utils/index.ts'
+import { get, set } from 'idb-keyval'
+import { getProfileStorageKey } from '@/core/utils/local-profile.ts'
+import { getDictPracticeKey, selectDictPracticeCache } from '@/core/utils/dict-practice-cache.ts'
 import type { PracticeSessionSnapshot } from './practice-flow-types.ts'
 
 export type PracticeData = Omit<LegacyPracticeData, 'isTypingWrongWord' | 'question'> & {
@@ -167,32 +169,31 @@ export function usePracticeWordPersistence() {
   const dataSync = useDataSyncPersistence()
   const settingStore = useSettingStore()
 
+  function archiveKey(key: string) {
+    return getProfileStorageKey(`PracticeSaveWord:dict:${encodeURIComponent(key)}`)
+  }
+
   async function save(data: PracticeWordCache | null) {
-    const compact = serializePracticeWordCache(data)
+    const key = getDictPracticeKey(useBaseStore().sdict)
+    const serialized = serializePracticeWordCache(data)
+    const compact = { ...(serialized ?? { taskWordsStr: { new: [], review: [] } }), dictKey: key }
+    await set(archiveKey(key), JSON.stringify({ val: compact, version: PRACTICE_WORD_CACHE.version, updated_at: new Date().toISOString() }))
     return await dataSync.saveLocalAndSync(SyncDataType.practice_word, compact, { pullWhenRemoteNewer: false })
   }
 
   async function load(): Promise<PracticeWordCache | null> {
-    const [local, remote] = await Promise.all([
+    const key = getDictPracticeKey(useBaseStore().sdict)
+    const [local, remote, archived] = await Promise.all([
       getPracticeWordCacheLocalWithMeta() as Promise<LocalCacheResult<PracticeWordCacheStored> | null>,
       dataSync.getRemoteData(SyncDataType.practice_word),
+      get<string>(archiveKey(key)),
     ])
 
-    let selected: LocalCacheResult<unknown> | null = local
-    if (remote) {
-      const remoteCache: LocalCacheResult<unknown> = {
-        val: remote.data,
-        version: remote.data_version ?? 1,
-        updated_at: remote.updated_at,
-      }
-      if (
-        !selected ||
-        shouldFetchRemote(selected.updated_at, remoteCache.updated_at, remoteCache.version, selected.version) ===
-          CompareResult.RemoteNewer
-      ) {
-        selected = remoteCache
-      }
-    }
+    const selected = selectDictPracticeCache<LocalCacheResult<unknown>>(key, archived ? JSON.parse(archived) : null, local, remote ? {
+      val: remote.data,
+      version: remote.data_version ?? 1,
+      updated_at: remote.updated_at,
+    } : null)
     if (!selected) return null
     if (selected.version > PRACTICE_WORD_CACHE.version) {
       throw new UnsupportedPracticeCacheVersionError(selected.version)
@@ -218,7 +219,9 @@ export function usePracticeWordPersistence() {
     }
 
     if (selected.val == null) return null
-    return restoreCurrentCache(selected.val)
+    const restored = restoreCurrentCache(selected.val)
+    await set(archiveKey(key), JSON.stringify({ ...selected, val: { ...(selected.val as object), dictKey: key } }))
+    return restored
   }
 
   async function clear() {
@@ -227,7 +230,11 @@ export function usePracticeWordPersistence() {
 
   async function getRemoteUpdateTime(knownUpdatedAt: number): Promise<number | null> {
     const meta = await dataSync.getRemoteMeta(SyncDataType.practice_word)
-    return resolveNewerRemotePracticeCacheTime(meta, knownUpdatedAt)
+    const updatedAt = resolveNewerRemotePracticeCacheTime(meta, knownUpdatedAt)
+    if (updatedAt === null) return null
+    const remote = await dataSync.getRemoteData(SyncDataType.practice_word)
+    const owner = (remote?.data as { dictKey?: string } | null)?.dictKey
+    return owner && owner !== getDictPracticeKey(useBaseStore().sdict) ? null : updatedAt
   }
 
   return { load, save, clear, getRemoteUpdateTime }

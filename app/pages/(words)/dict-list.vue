@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { _nextTick, groupBy, isMobile, loadJsLib, resourceWrap, useNav } from '@/core/utils'
+import { _nextTick, groupBy, isMobile, isSameDictResource, loadJsLib, resourceWrap, useNav } from '@/core/utils'
 import { BackIcon, BaseButton, BaseIcon, BaseInput, BasePage } from '@/base'
 import type { DictResource } from '@/core/types/types.ts'
 import { useRuntimeStore } from '@/core/stores/runtime.ts'
@@ -13,6 +13,7 @@ import { getDefaultDict } from '@/core/types/func.ts'
 import { useFetch } from '@vueuse/core'
 import { DICT_LIST, LIB_JS_URL, TourConfig } from '@/core/config/env.ts'
 import { useSettingStore } from '@/core/stores/setting.ts'
+import { mergeDictResourceWithStudyState } from '@/core/utils/dict-study-state.ts'
 
 const { nav } = useNav()
 const runtimeStore = useRuntimeStore()
@@ -26,7 +27,8 @@ function selectDict(e) {
 }
 
 async function getDictDetail(val: DictResource) {
-  runtimeStore.editDict = getDefaultDict(val)
+  const saved = store.word.bookList.find(dict => isSameDictResource(dict, val))
+  runtimeStore.editDict = getDefaultDict(mergeDictResourceWithStudyState(val, saved))
   nav('/dict', { from: 'list' })
 }
 
@@ -45,10 +47,17 @@ function groupByDictTags(dictList: DictResource[]) {
 
 const { data: dict_list, isFetching } = useFetch(resourceWrap(DICT_LIST.WORD.ALL)).json()
 
+const catalogDictList = computed(() =>
+  (dict_list.value ?? []).map(dict => {
+    const saved = store.word.bookList.find(item => isSameDictResource(item, dict))
+    return getDefaultDict(mergeDictResourceWithStudyState(dict, saved))
+  })
+)
+
 const groupedByCategoryAndTag = $computed(() => {
   let data = []
-  if (!dict_list.value) return data
-  const groupByCategory = groupBy(dict_list.value, 'category')
+  if (!catalogDictList.value.length) return data
+  const groupByCategory = groupBy(catalogDictList.value, 'category')
   for (const [key, value] of Object.entries(groupByCategory)) {
     data.push([key, groupByDictTags(value)])
   }
@@ -63,7 +72,7 @@ let searchKey = $ref('')
 const searchList = computed<any[]>(() => {
   if (searchKey) {
     let s = searchKey.toLowerCase()
-    return dict_list.value.filter(item => {
+    return catalogDictList.value.filter(item => {
       return (
         item.enName.toLowerCase().includes(s) ||
         item.name.toLowerCase().includes(s) ||

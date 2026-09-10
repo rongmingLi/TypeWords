@@ -60,6 +60,7 @@
 - Rich keyboard sound effects
 - Customizable shortcuts
 - Highly configurable settings
+- Local profiles keep each learner's progress, statistics, settings, and practice caches separate in the same browser
 
 ### Clean and Efficient
 
@@ -74,7 +75,7 @@ Designed to meet most users' vocabulary learning needs. Community contributions 
 
 ## Running the Project
 
-#### Note: This project can run standalone with data saved locally. Manual backup is required when switching devices; this does not affect normal usage.
+#### Note: This project can run standalone with data saved locally. Local profiles do not use passwords or upload data; manual backup is still required when switching browsers or devices.
 
 This project is built with `Nuxt` and requires a Node.js environment.
 
