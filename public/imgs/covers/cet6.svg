@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4a174d"/><stop offset="1" stop-color="#c34d76"/></linearGradient></defs>
+  <rect width="600" height="800" rx="28" fill="url(#g)"/><circle cx="95" cy="705" r="190" fill="#fff" opacity=".09"/><path d="M0 165 Q260 245 600 130V0H0Z" fill="#2b1038" opacity=".45"/>
+  <text x="56" y="105" fill="#ffd2e4" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5">TYPEWORDS</text>
+  <text x="56" y="360" fill="white" font-family="Arial,sans-serif" font-size="112" font-weight="800">CET-6</text>
+  <text x="60" y="420" fill="#ffe5ef" font-family="Arial,sans-serif" font-size="30">大学英语六级词汇</text>
+  <text x="60" y="710" fill="white" opacity=".88" font-family="Arial,sans-serif" font-size="24">VOCABULARY • 2345 WORDS</text>
+</svg>

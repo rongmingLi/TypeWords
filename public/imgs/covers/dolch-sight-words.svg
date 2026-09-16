@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f29b38"/><stop offset="1" stop-color="#e85b55"/></linearGradient></defs>
+  <rect width="600" height="800" rx="28" fill="url(#g)"/><circle cx="500" cy="660" r="190" fill="#fff" opacity=".12"/><path d="M0 0H600V180Q290 260 0 150Z" fill="#7e2849" opacity=".4"/>
+  <text x="56" y="105" fill="#fff1c7" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5">TYPEWORDS</text>
+  <text x="56" y="315" fill="white" font-family="Arial,sans-serif" font-size="68" font-weight="800">DOLCH</text>
+  <text x="56" y="390" fill="white" font-family="Arial,sans-serif" font-size="68" font-weight="800">SIGHT WORDS</text>
+  <text x="60" y="455" fill="#fff4d4" font-family="Arial,sans-serif" font-size="30">高频视觉词 220 词</text>
+  <text x="60" y="710" fill="white" opacity=".9" font-family="Arial,sans-serif" font-size="24">EARLY READING • 220 WORDS</text>
+</svg>

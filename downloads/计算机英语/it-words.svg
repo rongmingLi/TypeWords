@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="g-coder" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0f172a"/>
+      <stop offset="0.5" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0d9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" rx="28" fill="url(#g-coder)"/>
+  <circle cx="500" cy="140" r="190" fill="#14b8a6" opacity=".12"/>
+  <circle cx="100" cy="720" r="220" fill="#06b6d4" opacity=".08"/>
+  <path d="M0 620 Q240 520 600 650V800H0Z" fill="#020617" opacity=".65"/>
+  <text x="56" y="105" fill="#5eead4" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5">TYPEWORDS • CODE</text>
+  <text x="56" y="320" fill="#2dd4bf" font-family="monospace" font-size="44" font-weight="800">&lt;/&gt;</text>
+  <text x="56" y="380" fill="white" font-family="Arial,sans-serif" font-size="76" font-weight="800">Coder Dict</text>
+  <text x="60" y="440" fill="#ccfbf1" font-family="Arial,sans-serif" font-size="28">程序员常见单词词库</text>
+  <text x="60" y="480" fill="#94a3b8" font-family="Arial,sans-serif" font-size="20">变量命名 • 架构设计 • 开发运维</text>
+  <text x="60" y="710" fill="white" opacity=".85" font-family="monospace" font-size="22">VOCABULARY • 1,700 WORDS</text>
+</svg>

@@ -134,6 +134,9 @@ watch(dict_list, val => {
           </BaseIcon>
         </div>
       </div>
+      <div class="flex justify-end mt-3">
+        <NuxtLink to="/word-search" class="color-link">全局搜词 · 搜索所有词典的单词</NuxtLink>
+      </div>
       <div class="mt-4" v-if="searchKey">
         <DictList
           v-if="searchList.length"

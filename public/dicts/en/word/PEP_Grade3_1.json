@@ -13,57 +13,29 @@
     ],
     "sentences": [
       {
-        "c": "\"What's his name?\"—\"Peter.\"",
-        "cn": "“他叫什么名字？”—“彼得。”"
+        "c": "Hi! My name is Wu Binbin.",
+        "cn": "你好！我的名字叫吴斌斌。"
       },
       {
-        "c": "Is your name hyphenated?",
-        "cn": "你的名字有用连字符吗？"
-      },
-      {
-        "c": "What's your name, dear?",
-        "cn": "你叫什么名字，亲爱的？"
+        "c": "What's your name?",
+        "cn": "你叫什么名字？"
       }
     ],
     "phrases": [
       {
-        "c": "in the name of",
-        "cn": "以…的名义"
+        "c": "my name",
+        "cn": "我的名字"
       },
       {
         "c": "your name",
-        "cn": "您的姓名"
+        "cn": "你的名字"
       },
       {
-        "c": "name for",
-        "cn": "以...命名"
-      },
-      {
-        "c": "by name",
-        "cn": "名叫；凭名字"
+        "c": "in the name of",
+        "cn": "以……的名义"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "名称，名字；姓名；名誉",
-        "ws": [
-          "reputation",
-          "Bezeichnung"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "命名，任命；指定；称呼；提名；叫出",
-        "ws": [
-          "install",
-          "constitute",
-          "place",
-          "style",
-          "call"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 1（课本第 4 页）",
@@ -79,10 +51,6 @@
             {
               "c": "named",
               "cn": "命名的；指定的；被指名的"
-            },
-            {
-              "c": "nameless",
-              "cn": "不可名状的，难以形容的；匿名的"
             }
           ]
         },
@@ -132,46 +100,33 @@
     ],
     "sentences": [
       {
-        "c": "It's been nice meeting you.",
-        "cn": "这次见到你真高兴。"
+        "c": "Nice to meet you.",
+        "cn": "见到你很高兴。"
       },
       {
-        "c": "My new bike's nice, hey?",
-        "cn": "我的新自行车挺好，你说呢？"
-      },
-      {
-        "c": "He's a really nice guy.",
-        "cn": "他真是个好人。"
+        "c": "I am nice to my friends.",
+        "cn": "我对朋友很友好。"
       }
     ],
     "phrases": [
       {
-        "c": "nice and",
-        "cn": "很，挺"
-      },
-      {
         "c": "nice to meet you",
-        "cn": "很高兴见到你"
-      },
-      {
-        "c": "nice day",
-        "cn": "美好的一天"
-      },
-      {
-        "c": "nice to see you",
         "cn": "很高兴认识你"
+      },
+      {
+        "c": "be nice to",
+        "cn": "对……友好"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "精密的；美好的；细微的；和蔼的",
+        "cn": "令人愉快的；友好的",
         "ws": [
-          "precision",
-          "exact",
-          "narrow",
+          "fine",
+          "good",
           "kind",
-          "benign"
+          "friendly"
         ]
       }
     ],
@@ -226,53 +181,21 @@
     ],
     "sentences": [
       {
-        "c": "He tweaked Guy's ear roughly.",
-        "cn": "他粗暴地扯盖伊的耳朵。"
-      },
-      {
-        "c": "She tweaked his ear playfully.",
-        "cn": "她拧他的耳朵逗着玩儿。"
-      },
-      {
-        "c": "She was murmuring in his ear.",
-        "cn": "她在他耳边悄声说话。"
+        "c": "Point to your ear. Listen!",
+        "cn": "指向你的耳朵。听！"
       }
     ],
     "phrases": [
       {
-        "c": "in the ear",
-        "cn": "正在结穗"
+        "c": "point to your ear",
+        "cn": "指向你的耳朵"
       },
       {
-        "c": "by ear",
-        "cn": "不看乐谱；凭听觉"
-      },
-      {
-        "c": "on one's ear",
-        "cn": "◎震惊，(使)惊讶，激动；(引起)动乱"
-      },
-      {
-        "c": "long ears",
-        "cn": "尖耳朵；好奇心"
+        "c": "listen with care",
+        "cn": "认真倾听"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "耳朵；穗；听觉；倾听",
-        "ws": [
-          "listen",
-          "auditory sensation"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "（美俚）听见；抽穗",
-        "ws": [
-          "hear"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 1（课本第 5 页）",
@@ -341,60 +264,29 @@
     ],
     "sentences": [
       {
-        "c": "He patted her hand patronizingly.",
-        "cn": "他以上级姿态拍了拍她的手。"
+        "c": "Wave your hand. Hello!",
+        "cn": "挥挥你的手。你好！"
       },
       {
-        "c": "His hand met hers.",
-        "cn": "他的手碰到她的手。"
-      },
-      {
-        "c": "I saw them making their way, hand in hand, down the path.",
-        "cn": "我看到他们手拉手沿着小路朝前走。"
+        "c": "Shake my hand. Let's play a game now.",
+        "cn": "握握我的手。我们现在来玩个游戏吧。"
       }
     ],
     "phrases": [
       {
-        "c": "on the other hand",
-        "cn": "另一方面"
+        "c": "wave your hand",
+        "cn": "挥挥手"
       },
       {
-        "c": "in hand",
-        "cn": "在手头；在进行中；在控制中"
-      },
-      {
-        "c": "one hand",
-        "cn": "（双打开始时）一次发球权"
+        "c": "shake hands",
+        "cn": "握手"
       },
       {
         "c": "hand in hand",
-        "cn": "手拉手地；联合"
+        "cn": "手拉手"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[解剖]手，手艺；帮助；指针；插手",
-        "ws": [
-          "assistance",
-          "craft",
-          "aid",
-          "index",
-          "finger"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "传递，交给；支持；搀扶",
-        "ws": [
-          "encourage",
-          "carry",
-          "second",
-          "back",
-          "transfer"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 1（课本第 5 页）",
@@ -459,58 +351,25 @@
     ],
     "sentences": [
       {
-        "c": "The film has a painterly eye.",
-        "cn": "这部电影有种绘画的眼光。"
-      },
-      {
-        "c": "She was afraid to meet my eye.",
-        "cn": "她不敢正眼看我。"
-      },
-      {
-        "c": "His left eye squints a little.",
-        "cn": "他左眼有点斜视。"
+        "c": "Look into my eyes. Hi!",
+        "cn": "看着我的眼睛。嗨！"
       }
     ],
     "phrases": [
       {
-        "c": "in the eyes of",
-        "cn": "在…心目中；从…来看"
+        "c": "look into one's eyes",
+        "cn": "注视某人的双眼"
       },
       {
-        "c": "to the eye",
-        "cn": "从表面上看来；公然"
+        "c": "open your eyes",
+        "cn": "睁开眼睛"
       },
       {
-        "c": "an eye for",
-        "cn": "对…很有兴趣，对…有很深的爱好；对…有敏锐的鉴赏力；能欣赏；能判断"
-      },
-      {
-        "c": "all eyes",
-        "cn": "目不转睛；众目睽睽；聚精会神地看"
+        "c": "close your eyes",
+        "cn": "闭上眼睛"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[解剖]眼睛；视力；眼光；见解，观点",
-        "ws": [
-          "viewpoint",
-          "vision",
-          "sight",
-          "perspective",
-          "outlook"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "注视，看",
-        "ws": [
-          "watch",
-          "look",
-          "behold"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 1（课本第 5 页）",
@@ -579,53 +438,21 @@
     ],
     "sentences": [
       {
-        "c": "My mouth felt completely dry.",
-        "cn": "我感到口干舌燥。"
-      },
-      {
-        "c": "He has a foul mouth on him!",
-        "cn": "他满嘴脏话！"
-      },
-      {
-        "c": "She crammed her mouth with caviar.",
-        "cn": "她塞了一嘴鱼子酱。"
+        "c": "Point to your mouth. Smile!",
+        "cn": "指向你的嘴巴。笑一笑！"
       }
     ],
     "phrases": [
       {
-        "c": "mouth on someone",
-        "cn": "[美国俚语]告发某人"
+        "c": "point to your mouth",
+        "cn": "指向你的嘴巴"
       },
       {
-        "c": "river mouth",
-        "cn": "河口"
-      },
-      {
-        "c": "from mouth to mouth",
-        "cn": "广泛流传"
-      },
-      {
-        "c": "big mouth",
-        "cn": "多嘴者"
+        "c": "open your mouth",
+        "cn": "张开嘴"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[解剖]口，嘴；河口",
-        "ws": [
-          "jaws",
-          "ostium"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "做作地说，装腔作势地说；喃喃地说出",
-        "ws": [
-          "grumble"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 1（课本第 5 页）",
@@ -664,54 +491,21 @@
     ],
     "sentences": [
       {
-        "c": "He squeezed her arm reassuringly.",
-        "cn": "他安慰地捏了捏她的手臂。"
-      },
-      {
-        "c": "He wrenched his arm free.",
-        "cn": "他把手臂挣脱开来。"
-      },
-      {
-        "c": "Liz yanked at my arm.",
-        "cn": "利兹猛地拉了一下我的胳膊。"
+        "c": "Wave your arm. Bye!",
+        "cn": "挥动你的胳膊。再见！"
       }
     ],
     "phrases": [
       {
-        "c": "in arms",
-        "cn": "怀抱着的；武装起来的"
+        "c": "wave your arm",
+        "cn": "挥动胳膊"
       },
       {
-        "c": "on one's arm",
-        "cn": "由(或靠)手臂支撑着"
-      },
-      {
-        "c": "up in arms",
-        "cn": "竭力反对；进行武装斗争"
-      },
-      {
-        "c": "at arm's length",
-        "cn": "疏远；在手臂伸得到的地方"
+        "c": "arm in arm",
+        "cn": "臂挽着臂"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "手臂；武器；袖子；[军]装备",
-        "ws": [
-          "weapon",
-          "equipment",
-          "setup"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "武装；备战",
-        "ws": [
-          "war preparation"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 1（课本第 5 页）",
@@ -784,43 +578,31 @@
     ],
     "sentences": [
       {
-        "c": "Can you last (out) until I can get help?",
-        "cn": "你能支撑到有人来帮我吗？"
+        "c": "We can share.",
+        "cn": "我们可以分享。"
       },
       {
-        "c": "Drugs can kill.",
-        "cn": "毒品可以致死。"
-      },
-      {
-        "c": "Can you skate?",
-        "cn": "你会滑冰吗？"
+        "c": "How can we be a good friend?",
+        "cn": "我们怎样才能成为一个好朋友？"
       }
     ],
     "phrases": [
       {
-        "c": "can be",
-        "cn": "可能；可以是"
-      },
-      {
-        "c": "we can",
-        "cn": "我们可以"
-      },
-      {
         "c": "can do",
-        "cn": "能做到；做得到"
+        "cn": "能做；可以"
       },
       {
-        "c": "how can",
-        "cn": "怎么能够；哪能；怎会"
+        "c": "as you can",
+        "cn": "尽你所能"
       }
     ],
     "synos": [
       {
-        "pos": "n.",
-        "cn": "[食品]罐头，一罐；金属容器",
+        "pos": "v. aux.",
+        "cn": "能；可以",
         "ws": [
-          "tin",
-          "debe"
+          "may",
+          "be able to"
         ]
       }
     ],
@@ -871,58 +653,31 @@
     ],
     "sentences": [
       {
-        "c": "Share prices moved ahead today.",
-        "cn": "今天的股票价格上升了。"
+        "c": "We can share.",
+        "cn": "我们可以分享。"
       },
       {
-        "c": "Share prices languished at 102p.",
-        "cn": "股票价格停滞在102便士上。"
-      },
-      {
-        "c": "They share the housework equally.",
-        "cn": "他们平均分担家务。"
+        "c": "I help and share.",
+        "cn": "我提供帮助，学会分享。"
       }
     ],
     "phrases": [
       {
-        "c": "market share",
-        "cn": "市场占有率"
-      },
-      {
-        "c": "share of",
-        "cn": "…的份额；…的部份"
-      },
-      {
         "c": "share with",
-        "cn": "分与，分配；和…分享"
+        "cn": "与……分享"
       },
       {
-        "c": "share in",
-        "cn": "分享，分担"
+        "c": "share ideas",
+        "cn": "分享想法"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "分享，分担；分配",
+        "cn": "分享；分担",
         "ws": [
-          "participate in",
-          "portion"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "[计]共享；分担",
-        "ws": [
-          "partake"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "份额；[金融]股份",
-        "ws": [
-          "stock",
-          "lot"
+          "partake",
+          "divide"
         ]
       }
     ],
@@ -994,42 +749,32 @@
     ],
     "sentences": [
       {
-        "c": "A smile brightened her face.",
-        "cn": "她的脸上露出了灿烂的笑容。"
+        "c": "Point to your mouth. Smile!",
+        "cn": "指向你的嘴巴。笑一笑！"
       },
       {
-        "c": "Her smile was devastating.",
-        "cn": "她的笑容令人倾倒。"
-      },
-      {
-        "c": "She gave a mocking smile.",
-        "cn": "她嘲讽地笑了笑。"
+        "c": "I listen and say \"Hi!\" I smile too.",
+        "cn": "我倾听并打招呼“嗨！”我也微笑。"
       }
     ],
     "phrases": [
       {
-        "c": "smile to oneself",
-        "cn": "暗笑"
-      },
-      {
-        "c": "smile on",
-        "cn": "向…微笑；对…加以赞许"
-      },
-      {
-        "c": "all smiles",
-        "cn": "满面笑容；喜气洋洋"
+        "c": "with a smile",
+        "cn": "面带微笑"
       },
       {
         "c": "smile at",
-        "cn": "对……微笑；一笑置之"
+        "cn": "向……微笑"
       }
     ],
     "synos": [
       {
         "pos": "vi.",
-        "cn": "微笑",
+        "cn": "微笑；笑",
         "ws": [
-          "beam on"
+          "laugh",
+          "beam",
+          "grin"
         ]
       }
     ],
@@ -1093,50 +838,35 @@
     ],
     "sentences": [
       {
-        "c": "'Listen!' said Doyle suddenly.",
-        "cn": "“你听！”多伊尔突然说。"
+        "c": "I listen and say \"Hi!\"",
+        "cn": "我倾听并打招呼“嗨！”"
       },
       {
-        "c": "Why couldn't he listen to her?",
-        "cn": "为什么他不能听她的话？"
-      },
-      {
-        "c": "Why won't you listen to reason ?",
-        "cn": "你怎么就不听劝呢？"
+        "c": "Friends listen. Friends help and share.",
+        "cn": "朋友会倾听，朋友会互相帮助和分享。"
       }
     ],
     "phrases": [
       {
-        "c": "listen to music",
-        "cn": "听音乐"
+        "c": "listen to",
+        "cn": "听……"
       },
       {
-        "c": "listen to the radio",
-        "cn": "听广播，听收音机"
+        "c": "listen with care",
+        "cn": "认真倾听"
       },
       {
-        "c": "listen to the music",
-        "cn": "听音乐"
-      },
-      {
-        "c": "listen for",
-        "cn": "倾听"
+        "c": "listen and chant",
+        "cn": "听一听，唱一唱"
       }
     ],
     "synos": [
       {
         "pos": "vi.",
-        "cn": "听，倾听；听从，听信",
-        "ws": [
-          "hear",
-          "hark"
-        ]
-      },
-      {
-        "pos": "n.",
         "cn": "听，倾听",
         "ws": [
-          "ear"
+          "hear",
+          "hearken"
         ]
       }
     ],
@@ -1200,64 +930,31 @@
     ],
     "sentences": [
       {
-        "c": "You never help me.",
-        "cn": "你从不帮我。"
+        "c": "I help and share.",
+        "cn": "我提供帮助，学会分享。"
       },
       {
-        "c": "This charity aims to help people (to) help themselves.",
-        "cn": "这个慈善机构的宗旨是帮助人们自力更生。"
-      },
-      {
-        "c": "'Help me,' he implored.",
-        "cn": "“救救我吧。”他哀求道。"
+        "c": "Plants can help me grow.",
+        "cn": "植物能帮助我成长。"
       }
     ],
     "phrases": [
       {
-        "c": "help oneself",
-        "cn": "自用；自取所需"
+        "c": "help each other",
+        "cn": "互相帮助"
       },
       {
-        "c": "with the help of",
-        "cn": "在…的帮助下"
-      },
-      {
-        "c": "help someone with something",
-        "cn": "帮某人干某事"
-      },
-      {
-        "c": "help with",
-        "cn": "帮忙某人做…"
+        "c": "need help",
+        "cn": "需要帮助"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "帮助；促进；治疗；补救",
+        "cn": "帮助；协助",
         "ws": [
-          "facilitate",
-          "promote",
-          "boost",
-          "cure",
-          "further"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "帮助；补救办法；帮忙者；有益的东西",
-        "ws": [
-          "assistance",
-          "aid",
-          "hand",
-          "boost"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "帮助；有用；招待",
-        "ws": [
-          "aid",
-          "serve"
+          "assist",
+          "aid"
         ]
       }
     ],
@@ -1346,52 +1043,32 @@
     ],
     "sentences": [
       {
-        "c": "He didn't even say sorry.",
-        "cn": "他连句道歉的话也没有说。"
+        "c": "I say \"Hi!\"",
+        "cn": "我说“嗨！”"
       },
       {
-        "c": "Nobody knew what to say.",
-        "cn": "谁也不知道该说什么。"
-      },
-      {
-        "c": "What else did he say?",
-        "cn": "他还说了些什么？"
+        "c": "I listen and say \"Hi!\"",
+        "cn": "我倾听并打招呼“嗨！”"
       }
     ],
     "phrases": [
       {
-        "c": "say to oneself",
-        "cn": "心里想；自言自语"
+        "c": "say hello",
+        "cn": "打招呼"
       },
       {
-        "c": "that is to say",
-        "cn": "就是；即；换言之"
-      },
-      {
-        "c": "they say",
-        "cn": "据说；人们说"
-      },
-      {
-        "c": "say when",
-        "cn": "[俚语]停止；制止"
+        "c": "say goodbye",
+        "cn": "说再见"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "讲；说明；例如；声称；假设；指明",
+        "cn": "说；讲",
         "ws": [
-          "let",
-          "point out",
-          "suppose"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "讲；表示；念；假定；背诵",
-        "ws": [
-          "make a gesture",
-          "to express"
+          "speak",
+          "talk",
+          "tell"
         ]
       }
     ],
@@ -1459,59 +1136,32 @@
     ],
     "sentences": [
       {
-        "c": "Fresh fruit and vegetables provide fibre and vitamins.",
-        "cn": "新鲜的水果和蔬菜提供纤维素和多种维生素。"
+        "c": "Red and blue make purple.",
+        "cn": "红色和蓝色调出紫色。"
       },
       {
-        "c": "America and her partners are helping to rebuild roads and bridges and buildings.",
-        "cn": "美国及其伙伴正帮助重建道路、桥梁和楼房。"
-      },
-      {
-        "c": "The room was dim and cool and quiet.",
-        "cn": "这房间昏暗、阴冷且安静。"
+        "c": "I help and share.",
+        "cn": "我提供帮助，学会分享。"
       }
     ],
     "phrases": [
       {
-        "c": "and so",
-        "cn": "因此；所以"
-      },
-      {
-        "c": "and then",
-        "cn": "于是，然后"
-      },
-      {
         "c": "and so on",
-        "cn": "等等；诸如此类"
+        "cn": "等等"
       },
       {
-        "c": "and some",
-        "cn": "还有别的；还不止这些；比这个还要多"
+        "c": "black and white",
+        "cn": "黑与白"
       }
     ],
-    "synos": [
-      {
-        "pos": "conj.",
-        "cn": "和，与；就；而且；但是；然后",
-        "ws": [
-          "granted",
-          "et",
-          "but",
-          "yet",
-          "only"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 1（课本第 9 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 1，对应课本第 9 页。"
       }
     ],
-    "relWords": {
-      "root": "and",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -1530,42 +1180,27 @@
     ],
     "sentences": [
       {
-        "c": "As she receded he waved goodbye.",
-        "cn": "当她离去时，他挥手告别。"
+        "c": "Goodbye! Bye, Miss White!",
+        "cn": "再见！白老师再见！"
       },
       {
-        "c": "Goodbye! It was great to meet you.",
-        "cn": "再见！认识你很高兴。"
-      },
-      {
-        "c": "I packed and said goodbye to Charlie.",
-        "cn": "我收拾好行装，跟查理说了再见。"
+        "c": "Say \"Goodbye!\"",
+        "cn": "说“再见！”"
       }
     ],
     "phrases": [
       {
-        "c": "say goodbye",
-        "cn": "说再见；告别"
-      },
-      {
-        "c": "kiss goodbye",
-        "cn": "吻别"
-      },
-      {
-        "c": "wave goodbye to",
-        "cn": "向...挥手告别"
+        "c": "say goodbye to",
+        "cn": "向……告别"
       }
     ],
     "synos": [
       {
-        "pos": "int.",
+        "pos": "interj.",
         "cn": "再见",
         "ws": [
           "bye",
-          "adios",
-          "tatas",
-          "pippip",
-          "bye-bye"
+          "farewell"
         ]
       }
     ],
@@ -1575,10 +1210,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 1，对应课本第 9 页。"
       }
     ],
-    "relWords": {
-      "root": "goodbye",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -1597,64 +1229,28 @@
     ],
     "sentences": [
       {
-        "c": "The toy industry is in a slump.",
-        "cn": "玩具业现在不景气。"
-      },
-      {
-        "c": "The boat looked almost like a toy.",
-        "cn": "这船看上去简直像个玩具。"
-      },
-      {
-        "c": "He whittled a simple toy from the piece of wood.",
-        "cn": "他把那块木头削成了一个简易的玩具。"
+        "c": "Share your toys and listen with care.",
+        "cn": "分享你的玩具，认真倾听。"
       }
     ],
     "phrases": [
-      {
-        "c": "toy factory",
-        "cn": "玩具厂"
-      },
       {
         "c": "toy car",
         "cn": "玩具车"
       },
       {
-        "c": "toy store",
-        "cn": "玩具店"
-      },
-      {
-        "c": "toy with",
-        "cn": "玩弄；不很认真地考虑"
+        "c": "toy bear",
+        "cn": "玩具熊"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[轻]玩具；小装饰品；不值钱的东西",
-        "ws": [
-          "nick-nack",
-          "plaything"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "玩弄；调情；随随便便地对待",
-        "ws": [
-          "play fast and loose",
-          "trifle with"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 1（课本第 9 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 1，对应课本第 9 页。"
       }
     ],
-    "relWords": {
-      "root": "toy",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -1673,44 +1269,36 @@
     ],
     "sentences": [
       {
-        "c": "She's a very special friend.",
-        "cn": "她是我特别要好的朋友。"
+        "c": "I am a good friend!",
+        "cn": "我是一个好朋友！"
       },
       {
-        "c": "I caught him snogging my friend.",
-        "cn": "他正吻我朋友，让我给撞见了。"
-      },
-      {
-        "c": "You're supposed to be my friend!",
-        "cn": "你还是我的朋友呢！"
+        "c": "How do we make friends?",
+        "cn": "我们如何交朋友？"
       }
     ],
     "phrases": [
       {
-        "c": "best friend",
-        "cn": "最好的朋友，好朋友"
+        "c": "make friends",
+        "cn": "交朋友"
       },
       {
         "c": "good friend",
-        "cn": "好朋友，挚友"
+        "cn": "好朋友"
       },
       {
-        "c": "friend of mine",
-        "cn": "我的朋友"
-      },
-      {
-        "c": "old friend",
-        "cn": "老朋友；故人"
+        "c": "best friend",
+        "cn": "最好的朋友"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "朋友；助手；赞助者",
+        "cn": "朋友；同伴",
         "ws": [
-          "assistant",
-          "fellow",
-          "aid"
+          "pal",
+          "buddy",
+          "companion"
         ]
       }
     ],
@@ -1728,20 +1316,7 @@
           "words": [
             {
               "c": "friendly",
-              "cn": "友好的；亲切的；支持的；融洽的，和睦的"
-            },
-            {
-              "c": "friendless",
-              "cn": "没有朋友的；无依无靠的；孤单的"
-            }
-          ]
-        },
-        {
-          "pos": "adv.",
-          "words": [
-            {
-              "c": "friendly",
-              "cn": "友善地；温和地"
+              "cn": "友好的；亲切的"
             }
           ]
         },
@@ -1749,8 +1324,8 @@
           "pos": "n.",
           "words": [
             {
-              "c": "friendliness",
-              "cn": "友谊；亲切；亲密"
+              "c": "friendship",
+              "cn": "友谊；友爱"
             }
           ]
         }
@@ -1774,62 +1349,37 @@
     ],
     "sentences": [
       {
-        "c": "She speaks good English.",
-        "cn": "她英语说得很好。"
+        "c": "Am I a good friend? Yes, I am!",
+        "cn": "我是个好朋友吗？是的，我是！"
       },
       {
-        "c": "It was really good.",
-        "cn": "这非常好。"
-      },
-      {
-        "c": "He's a good jumper.",
-        "cn": "他的弹跳力特别好。"
+        "c": "Good morning, Mike!",
+        "cn": "早上好，迈克！"
       }
     ],
     "phrases": [
       {
-        "c": "good at",
-        "cn": "善于"
+        "c": "good morning",
+        "cn": "早上好"
       },
       {
-        "c": "good and",
-        "cn": "完全，非常"
+        "c": "good friend",
+        "cn": "好朋友"
       },
       {
-        "c": "good for",
-        "cn": "有效的；会产生；有支付…能力的"
-      },
-      {
-        "c": "good quality",
-        "cn": "良好品质，高品质；好质量"
+        "c": "good idea",
+        "cn": "好主意"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "好的；优良的；愉快的；虔诚的",
+        "cn": "好的；优良的",
         "ws": [
+          "nice",
           "fine",
-          "Ok",
           "great",
-          "religious",
-          "bright"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "好处；善行；慷慨的行为",
-        "ws": [
-          "benefit",
-          "plus",
-          "mercy"
-        ]
-      },
-      {
-        "pos": "adv.",
-        "cn": "好",
-        "ws": [
-          "okey"
+          "wonderful"
         ]
       }
     ],
@@ -1897,35 +1447,23 @@
     ],
     "sentences": [
       {
-        "c": "His grandfather was a professor.",
-        "cn": "他爷爷曾是位教授。"
-      },
-      {
-        "c": "His grandfather was a Muslim cleric.",
-        "cn": "他祖父是一位穆斯林教士。"
-      },
-      {
-        "c": "Her grandfather taught her to conjure.",
-        "cn": "她的祖父教她变魔术。"
+        "c": "This is my grandfather.",
+        "cn": "这是我的爷爷/外公。"
       }
     ],
     "phrases": [
       {
-        "c": "grandfather clock",
-        "cn": "落地式大摆钟"
-      },
-      {
-        "c": "maternal grandfather",
-        "cn": "外公，外祖父"
+        "c": "my grandfather",
+        "cn": "我的爷爷/外公"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "祖父；始祖",
+        "cn": "（外）祖父；爷爷；外公",
         "ws": [
-          "ancestor",
-          "primogenitor"
+          "grandpa",
+          "granddad"
         ]
       }
     ],
@@ -1967,31 +1505,23 @@
     ],
     "sentences": [
       {
-        "c": "Her grandmother mumbled in her sleep.",
-        "cn": "她祖母睡觉时咕哝了。"
-      },
-      {
-        "c": "He often runs errands for his grandmother.",
-        "cn": "他经常给他的祖母跑腿儿。"
-      },
-      {
-        "c": "My grandmother is 90 and still going strong.",
-        "cn": "我奶奶90岁了，还挺硬朗。"
+        "c": "This is my grandmother.",
+        "cn": "这是我的奶奶/外婆。"
       }
     ],
     "phrases": [
       {
-        "c": "maternal grandmother",
-        "cn": "外祖母；外婆；姥姥"
+        "c": "my grandmother",
+        "cn": "我的奶奶/外婆"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "祖母；女祖先",
+        "cn": "（外）祖母；奶奶；外婆",
         "ws": [
-          "nin",
-          "grammy"
+          "grandma",
+          "granny"
         ]
       }
     ],
@@ -2033,60 +1563,24 @@
     ],
     "sentences": [
       {
-        "c": "His mother is partially blind.",
-        "cn": "他的母亲失去了部分视力。"
-      },
-      {
-        "c": "I'm friendly with his mother.",
-        "cn": "我和他的母亲很要好。"
-      },
-      {
-        "c": "Her mother had never remarried.",
-        "cn": "她的母亲没有再婚。"
+        "c": "This is my mother.",
+        "cn": "这是我的妈妈。"
       }
     ],
     "phrases": [
       {
-        "c": "mother tongue",
-        "cn": "母语；本国语言"
-      },
-      {
-        "c": "mother liquor",
-        "cn": "母液"
-      },
-      {
-        "c": "mother nature",
-        "cn": "大自然；自然的力量"
-      },
-      {
-        "c": "mother earth",
-        "cn": "（孕育万物的）大地"
+        "c": "mother and father",
+        "cn": "父母"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "母亲；大娘；女修道院院长",
+        "cn": "母亲；妈妈",
         "ws": [
-          "mater",
-          "madre"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "生下；养育；像母亲般关怀或照管",
-        "ws": [
-          "raise",
-          "foster",
-          "breed"
-        ]
-      },
-      {
-        "pos": "adj.",
-        "cn": "母亲的；出生地的",
-        "ws": [
-          "maternal",
-          "natal"
+          "mum",
+          "mom",
+          "mommy"
         ]
       }
     ],
@@ -2145,55 +1639,24 @@
     ],
     "sentences": [
       {
-        "c": "His father hailed from Italy.",
-        "cn": "他父亲出生于意大利。"
-      },
-      {
-        "c": "Her father forbade the marriage.",
-        "cn": "她的父亲不允许这桩婚事。"
-      },
-      {
-        "c": "My father sold real estate.",
-        "cn": "我父亲经营过房地产。"
+        "c": "This is my father.",
+        "cn": "这是我的爸爸。"
       }
     ],
     "phrases": [
       {
-        "c": "father christmas",
-        "cn": "耶诞老人（等于Santa Claus）"
-      },
-      {
-        "c": "father and daughter",
-        "cn": "父与女（动画短片，曾获奥斯卡最佳动画短片奖）"
-      },
-      {
-        "c": "holy father",
-        "cn": "基督教圣父（指上帝）；天主教徒对罗马教皇的尊称"
-      },
-      {
-        "c": "founding father",
-        "cn": "开国元勋；创建人"
+        "c": "father and mother",
+        "cn": "父母"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "父亲，爸爸；神父；祖先；前辈",
+        "cn": "父亲；爸爸",
         "ws": [
           "dad",
-          "root",
-          "da",
           "daddy",
-          "priest"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "发明，创立；当…的父亲",
-        "ws": [
-          "found",
-          "construct",
-          "institute"
+          "pop"
         ]
       }
     ],
@@ -2248,39 +1711,32 @@
     ],
     "sentences": [
       {
-        "c": "The way he treats me really burns me up.",
-        "cn": "他这样对待我真使我恼火。"
+        "c": "They can play with me.",
+        "cn": "他们可以和我一起玩。"
       },
       {
-        "c": "She saw me, recognized me and cut me dead.",
-        "cn": "她看见了我，也认出了我，却不理睬我。"
+        "c": "Me too.",
+        "cn": "我也是。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "me too",
+        "cn": "我也是"
       },
       {
-        "c": "She sailed past me, ignoring me completely.",
-        "cn": "她从我身边翩然走过，看都不看我一眼。"
+        "c": "play with me",
+        "cn": "和我一起玩"
       }
     ],
-    "phrases": [],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "自我；极端自私的人；自我的一部分",
-        "ws": [
-          "self",
-          "ego"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 2（课本第 17 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 2，对应课本第 17 页。"
       }
     ],
-    "relWords": {
-      "root": "me",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -2299,46 +1755,25 @@
     ],
     "sentences": [
       {
-        "c": "And how is my sainted sister?",
-        "cn": "我那大好人姐姐怎么样？"
+        "c": "This is my sister.",
+        "cn": "这是我的姐妹。"
       },
       {
-        "c": "His sister Sarah helped him.",
-        "cn": "他姐姐萨拉帮助了他。"
-      },
-      {
-        "c": "My other sister is a doctor.",
-        "cn": "我的另一个妹妹是医生。"
+        "c": "Is this your sister?",
+        "cn": "这是你的姐妹吗？"
       }
     ],
     "phrases": [
       {
-        "c": "younger sister",
-        "cn": "妹妹"
+        "c": "baby sister",
+        "cn": "小妹妹"
       },
       {
-        "c": "elder sister",
-        "cn": "姐姐，姊姊"
-      },
-      {
-        "c": "little sister",
-        "cn": "小妹妹，小女孩"
-      },
-      {
-        "c": "older sister",
-        "cn": "姐姐"
+        "c": "my sister",
+        "cn": "我的姐妹"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "姐妹；修女；护士",
-        "ws": [
-          "sis",
-          "tittie"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 2（课本第 17 页）",
@@ -2394,53 +1829,34 @@
     ],
     "sentences": [
       {
-        "c": "They were an insular family.",
-        "cn": "他们一家人与世隔绝。"
+        "c": "Look! This is my family.",
+        "cn": "看！这是我的家庭。"
       },
       {
-        "c": "All my family enjoy skiing.",
-        "cn": "我们全家都喜欢滑雪。"
-      },
-      {
-        "c": "We're a very close family.",
-        "cn": "我们全家彼此亲密无间。"
+        "c": "Sarah, you have a big family.",
+        "cn": "萨拉，你有一个大家庭。"
       }
     ],
     "phrases": [
       {
-        "c": "family planning",
-        "cn": "计划生育"
+        "c": "big family",
+        "cn": "大家庭"
       },
       {
-        "c": "family member",
-        "cn": "家庭成员；家族成员"
+        "c": "small family",
+        "cn": "小家庭"
       },
       {
-        "c": "family life",
-        "cn": "家庭生活"
-      },
-      {
-        "c": "whole family",
-        "cn": "家庭成员，全家"
+        "c": "my family",
+        "cn": "我的家庭"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "家庭；家族；家属；子女；亲属；僚属",
+        "cn": "家庭；家族",
         "ws": [
-          "household",
-          "folk",
-          "race"
-        ]
-      },
-      {
-        "pos": "adj.",
-        "cn": "家庭的，家族的",
-        "ws": [
-          "household",
-          "domestic",
-          "home"
+          "household"
         ]
       }
     ],
@@ -2482,46 +1898,31 @@
     ],
     "sentences": [
       {
-        "c": "Times have changed and so have I.",
-        "cn": "时代变了，我也变了。"
+        "c": "Do you have a pet?",
+        "cn": "你有宠物吗？"
       },
       {
-        "c": "Profits have stagnated.",
-        "cn": "利润原地踏步。"
-      },
-      {
-        "c": "Have you been able to have any kind of contact?",
-        "cn": "你取得任何联系了吗?"
+        "c": "I have a brother, and a baby sister.",
+        "cn": "我有一个哥哥/弟弟和一个小妹妹。"
       }
     ],
     "phrases": [
       {
-        "c": "have some",
-        "cn": "有一些；吃一点吧"
+        "c": "have a pet",
+        "cn": "养宠物"
       },
       {
-        "c": "have to be",
-        "cn": "必定是，无疑是"
-      },
-      {
-        "c": "have to do",
-        "cn": "不得不做某事"
-      },
-      {
-        "c": "have oneself something",
-        "cn": "[主美国口语]"
+        "c": "have fun",
+        "cn": "玩得开心"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "有；让；拿；从事；允许",
+        "cn": "有；拥有",
         "ws": [
-          "undertake",
-          "let",
-          "pursue",
-          "address",
-          "carry"
+          "own",
+          "possess"
         ]
       }
     ],
@@ -2581,57 +1982,32 @@
     ],
     "sentences": [
       {
-        "c": "This shirt isn't big enough.",
-        "cn": "这件衬衣不够大。"
+        "c": "Sarah, you have a big family.",
+        "cn": "萨拉，你有一个大家庭。"
       },
       {
-        "c": "You're a big girl now.",
-        "cn": "你现在已长成大姑娘了。"
-      },
-      {
-        "c": "We need to think big.",
-        "cn": "我们应该考虑干一番大事。"
+        "c": "The elephant is big!",
+        "cn": "大象好大啊！"
       }
     ],
     "phrases": [
       {
-        "c": "make big",
-        "cn": "[美国俚语]飞黄腾达；成功"
+        "c": "big family",
+        "cn": "大家庭"
       },
       {
-        "c": "big city",
-        "cn": "大城市"
-      },
-      {
-        "c": "in a big way",
-        "cn": "大规模地，彻底地"
-      },
-      {
-        "c": "big problem",
-        "cn": "大问题"
+        "c": "a big brown bear",
+        "cn": "一只大棕熊"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "大的；重要的；量大的",
+        "cn": "大的；巨大的",
         "ws": [
-          "larger",
-          "crucial",
-          "important",
-          "considerable",
-          "material"
-        ]
-      },
-      {
-        "pos": "adv.",
-        "cn": "大量地；顺利；夸大地",
-        "ws": [
-          "largely",
-          "freely",
-          "heavy",
-          "importantly",
-          "tall"
+          "large",
+          "huge",
+          "great"
         ]
       }
     ],
@@ -2682,30 +2058,18 @@
     ],
     "sentences": [
       {
-        "c": "Eric was my cousin Edward's boy.",
-        "cn": "埃里克是我堂兄爱德华的儿子。"
+        "c": "No, it's my cousin.",
+        "cn": "不，这是我的堂/表亲。"
       },
       {
-        "c": "She's my cousin.",
-        "cn": "她是我的表妹。"
-      },
-      {
-        "c": "I tried again to get ahold of my cousin Joan.",
-        "cn": "我又试着联系了一次我表姐琼。"
+        "c": "I have two cousins too.",
+        "cn": "我也有两个堂/表兄弟姐妹。"
       }
     ],
     "phrases": [
       {
-        "c": "first cousin",
-        "cn": "堂兄弟姊妹"
-      },
-      {
-        "c": "distant cousin",
-        "cn": "远表兄妹"
-      },
-      {
-        "c": "second cousin",
-        "cn": "远房堂或表兄弟姊妹"
+        "c": "my cousin",
+        "cn": "我的表兄妹"
       }
     ],
     "synos": [],
@@ -2756,46 +2120,25 @@
     ],
     "sentences": [
       {
-        "c": "She's smarter than her brother.",
-        "cn": "她比她哥哥聪明。"
+        "c": "Is that your brother?",
+        "cn": "那是你的哥哥/弟弟吗？"
       },
       {
-        "c": "My brother pledged Sigma Nu.",
-        "cn": "我哥哥宣誓加入Σ NU联谊会。"
-      },
-      {
-        "c": "He loved his brother deeply.",
-        "cn": "他深爱自己的哥哥。"
+        "c": "Binbin, this is my brother, Sam.",
+        "cn": "斌斌，这是我的弟弟萨姆。"
       }
     ],
     "phrases": [
       {
-        "c": "elder brother",
-        "cn": "哥哥，兄长"
+        "c": "baby brother",
+        "cn": "小弟弟"
       },
       {
-        "c": "younger brother",
-        "cn": "弟弟"
-      },
-      {
-        "c": "little brother",
-        "cn": "小兄弟；副气旋"
-      },
-      {
-        "c": "big brother",
-        "cn": "哥哥；老大哥"
+        "c": "my brother",
+        "cn": "我的哥哥/弟弟"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "兄弟；同事；战友",
-        "ws": [
-          "fellow",
-          "colleague"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 2（课本第 19 页）",
@@ -2852,60 +2195,32 @@
     ],
     "sentences": [
       {
-        "c": "She dreamed about her baby.",
-        "cn": "她梦见了她的小宝贝。"
+        "c": "I have a brother, and a baby sister.",
+        "cn": "我有一个哥哥和一个小妹妹。"
       },
       {
-        "c": "The baby was sleeping peacefully.",
-        "cn": "婴儿睡得很安稳。"
-      },
-      {
-        "c": "The baby slept peacefully.",
-        "cn": "婴儿睡得很安稳。"
+        "c": "How many baby cats?",
+        "cn": "有多少只小猫？"
       }
     ],
     "phrases": [
       {
-        "c": "baby girl",
-        "cn": "女婴；小女孩"
+        "c": "baby sister",
+        "cn": "小妹妹"
       },
       {
-        "c": "have a baby",
-        "cn": "生孩子"
-      },
-      {
-        "c": "baby boy",
-        "cn": "男婴；小男孩"
-      },
-      {
-        "c": "baby boom",
-        "cn": "婴儿潮；生育高峰"
+        "c": "baby cat",
+        "cn": "幼猫"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "婴儿，婴孩；孩子气的人",
+        "cn": "婴儿；幼童",
         "ws": [
           "infant",
-          "babe"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "纵容，娇纵；把……当婴儿般对待",
-        "ws": [
-          "pamper",
-          "indulge"
-        ]
-      },
-      {
-        "pos": "adj.",
-        "cn": "婴儿的；幼小的",
-        "ws": [
-          "small",
-          "chicken",
-          "infant"
+          "child",
+          "kid"
         ]
       }
     ],
@@ -2960,56 +2275,24 @@
     ],
     "sentences": [
       {
-        "c": "My uncle taught me to juggle.",
-        "cn": "我叔叔教我玩杂耍。"
-      },
-      {
-        "c": "My Uncle Jim had a high fever.",
-        "cn": "我的叔叔吉姆发高烧了。"
-      },
-      {
-        "c": "I'm going to visit my uncle.",
-        "cn": "我要去看我舅舅。"
+        "c": "I have an uncle.",
+        "cn": "我有一个叔叔/舅舅。"
       }
     ],
     "phrases": [
       {
-        "c": "your uncle",
-        "cn": "你的叔叔；你的舅舅"
-      },
-      {
-        "c": "uncle sam",
-        "cn": "[口]山姆大叔（美国政府的绰号）"
-      },
-      {
-        "c": "uncle tom",
-        "cn": "汤姆叔叔；逆来顺受的美国黑人"
-      },
-      {
-        "c": "uncle tom's cabin",
-        "cn": "汤姆叔叔的小屋（小说）"
+        "c": "my uncle",
+        "cn": "我的叔叔/舅舅"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "叔叔；伯父；伯伯；舅父；姨丈；姑父",
-        "ws": [
-          "nuncle",
-          "oom"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 2（课本第 20 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 2，对应课本第 20 页。"
       }
     ],
-    "relWords": {
-      "root": "uncle",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -3028,30 +2311,14 @@
     ],
     "sentences": [
       {
-        "c": "We were chaperoned by our aunt.",
-        "cn": "我们由姨妈陪护。"
-      },
-      {
-        "c": "He was brought up by his aunt.",
-        "cn": "他是由姨妈带大的。"
-      },
-      {
-        "c": "Aunt Emilie darned old socks.",
-        "cn": "埃米莉阿姨把旧袜子补好了。"
+        "c": "I have an aunt.",
+        "cn": "我有一个阿姨/婶婶。"
       }
     ],
     "phrases": [
       {
-        "c": "paternal aunt",
-        "cn": "姑母"
-      },
-      {
-        "c": "agony aunt",
-        "cn": "（英）问答专栏阿姨；心理咨询阿姨"
-      },
-      {
-        "c": "great aunt",
-        "cn": "叔祖母"
+        "c": "my aunt",
+        "cn": "我的阿姨/姑姑"
       }
     ],
     "synos": [],
@@ -3093,42 +2360,31 @@
     ],
     "sentences": [
       {
-        "c": "Robin opened some champagne.",
-        "cn": "罗宾打开了一些香槟酒。"
+        "c": "Some families are big.",
+        "cn": "有些家庭很大。"
       },
       {
-        "c": "I picked some flowers.",
-        "cn": "我摘了一些花。"
-      },
-      {
-        "c": "We'll eat some now and save some for tomorrow.",
-        "cn": "我们现在吃一些，留一些明天吃。"
+        "c": "Let's draw some purple and brown birds.",
+        "cn": "我们来画一些紫色和棕色的鸟吧。"
       }
     ],
     "phrases": [
       {
         "c": "some of",
-        "cn": "一些"
+        "cn": "其中一些"
       },
       {
-        "c": "some of them",
-        "cn": "他们中的一些"
-      },
-      {
-        "c": "some one",
-        "cn": "有人；某人"
-      },
-      {
-        "c": "go some",
-        "cn": "[美国口语]"
+        "c": "some day",
+        "cn": "有朝一日"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "一些；某一；大约",
+        "cn": "一些",
         "ws": [
-          "certain"
+          "a few",
+          "several"
         ]
       }
     ],
@@ -3205,62 +2461,27 @@
     ],
     "sentences": [
       {
-        "c": "The room was disappointingly small.",
-        "cn": "屋子小得令人失望。"
+        "c": "This family is small.",
+        "cn": "这个家庭很小。"
       },
       {
-        "c": "Small villages dot the countryside.",
-        "cn": "小村庄星罗棋布于乡间。"
-      },
-      {
-        "c": "Small particles adhere to the seed.",
-        "cn": "微小的粒子紧贴着种子。"
+        "c": "The fish is small!",
+        "cn": "这条鱼好小啊！"
       }
     ],
     "phrases": [
       {
-        "c": "small size",
-        "cn": "小号，小码；小尺寸"
-      },
-      {
-        "c": "small town",
-        "cn": "小城镇，集镇"
-      },
-      {
-        "c": "small amount",
-        "cn": "小额；小批量"
-      },
-      {
-        "c": "small number",
-        "cn": "小数；少数交易"
+        "c": "small family",
+        "cn": "小家庭"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "少的，小的；微弱的；几乎没有的；不重要的；幼小的",
+        "cn": "小的；微小的",
         "ws": [
           "little",
-          "few",
-          "thin",
-          "chicken",
-          "baby"
-        ]
-      },
-      {
-        "pos": "adv.",
-        "cn": "小小地；卑鄙地",
-        "ws": [
-          "basely",
-          "contemptibly"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "小件物品；矮小的人",
-        "ws": [
-          "mannie",
-          "sparrow"
+          "tiny"
         ]
       }
     ],
@@ -3311,52 +2532,28 @@
     ],
     "sentences": [
       {
-        "c": "My mum says I can't go.",
-        "cn": "我妈说我不能去。"
+        "c": "Mum! Dad! This is my friend, Sarah Miller.",
+        "cn": "妈妈！爸爸！这是我的朋友萨拉·米勒。"
       },
       {
-        "c": "Mum, I'm still hungry!",
-        "cn": "妈，我还饿！"
-      },
-      {
-        "c": "Mum, my tummy hurts.",
-        "cn": "妈妈，我肚子痛。"
+        "c": "This is my mum.",
+        "cn": "这是我的妈妈。"
       }
     ],
     "phrases": [
       {
-        "c": "keep mum",
-        "cn": "保持沉默"
-      },
-      {
-        "c": "mum's the word",
-        "cn": "[口语]别多话!别声张(禁令)!保守秘密!"
+        "c": "my mum",
+        "cn": "我妈妈"
       }
     ],
     "synos": [
       {
-        "pos": "adj.",
-        "cn": "沉默的",
-        "ws": [
-          "silent",
-          "wordless"
-        ]
-      },
-      {
         "pos": "n.",
-        "cn": "妈妈（口语）；沉默；菊花",
+        "cn": "妈妈",
         "ws": [
+          "mother",
           "mom",
-          "silence",
-          "mama",
-          "mummy"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "演哑剧",
-        "ws": [
-          "mumm"
+          "mommy"
         ]
       }
     ],
@@ -3415,29 +2612,28 @@
     ],
     "sentences": [
       {
-        "c": "Hi, Dad—can you put Nicky on?",
-        "cn": "您好，爸爸。您让尼基接电话好吗？"
+        "c": "This is my dad.",
+        "cn": "这是我的爸爸。"
       },
       {
-        "c": "Thanks Dad, you're an angel.",
-        "cn": "谢谢爸爸，你是个大好人。"
-      },
-      {
-        "c": "For once, Dad is not complaining.",
-        "cn": "就这一次，爸爸没有抱怨。"
+        "c": "Mum! Dad! This is my friend, Sarah Miller.",
+        "cn": "妈妈！爸爸！这是我的朋友萨拉·米勒。"
       }
     ],
-    "phrases": [],
+    "phrases": [
+      {
+        "c": "my dad",
+        "cn": "我爸爸"
+      }
+    ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "爸爸；爹爹",
+        "cn": "爸爸",
         "ws": [
           "father",
           "daddy",
-          "da",
-          "pa",
-          "papa"
+          "pop"
         ]
       }
     ],
@@ -3479,22 +2675,23 @@
     ],
     "sentences": [
       {
-        "c": "Grandma was from Scotland.",
-        "cn": "奶奶来自苏格兰。"
-      },
-      {
-        "c": "Unfortunately, Grandma always seems to awaken at awkward moments.",
-        "cn": "可惜的是，奶奶好像总是在不合适的时间叫醒我。"
+        "c": "This is my grandma.",
+        "cn": "这是我的奶奶/姥姥。"
       }
     ],
-    "phrases": [],
+    "phrases": [
+      {
+        "c": "my grandma",
+        "cn": "我的奶奶/姥姥"
+      }
+    ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "奶奶；外婆",
+        "cn": "奶奶；姥姥",
         "ws": [
-          "nan",
-          "naan"
+          "grandmother",
+          "granny"
         ]
       }
     ],
@@ -3504,10 +2701,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 2，对应课本第 16 页。"
       }
     ],
-    "relWords": {
-      "root": "grandma",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -3526,25 +2720,23 @@
     ],
     "sentences": [
       {
-        "c": "Grandpa was not yet back from the war.",
-        "cn": "爷爷那时还没从战场归来。"
-      },
-      {
-        "c": "Grandpa dotes on his grandson.",
-        "cn": "爷爷疼孙子。"
-      },
-      {
-        "c": "We'll buy Grandpa a new one.",
-        "cn": "我们会给爷爷买一个新的。"
+        "c": "This is my grandpa.",
+        "cn": "这是我的爷爷/姥爷。"
       }
     ],
-    "phrases": [],
+    "phrases": [
+      {
+        "c": "my grandpa",
+        "cn": "我的爷爷/姥爷"
+      }
+    ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "爷爷；外公",
+        "cn": "爷爷；姥爷",
         "ws": [
-          "maternal grandfather"
+          "grandfather",
+          "granddad"
         ]
       }
     ],
@@ -3554,10 +2746,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 2，对应课本第 16 页。"
       }
     ],
-    "relWords": {
-      "root": "grandpa",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -3576,58 +2765,31 @@
     ],
     "sentences": [
       {
-        "c": "It tastes like chocolate.",
-        "cn": "它吃起来像巧克力。"
+        "c": "I like your dog.",
+        "cn": "我喜欢你的狗。"
       },
       {
-        "c": "I'd like an explanation.",
-        "cn": "我想要一个解释。"
-      },
-      {
-        "c": "Do whatever you like.",
-        "cn": "你喜欢做什么就做什么。"
+        "c": "Mike, do you like apples?",
+        "cn": "迈克，你喜欢苹果吗？"
       }
     ],
     "phrases": [
       {
-        "c": "look like",
-        "cn": "看起来像…"
+        "c": "like to",
+        "cn": "喜欢做"
       },
       {
         "c": "feel like",
-        "cn": "想要；感到好似"
-      },
-      {
-        "c": "something like",
-        "cn": "有点像；大约；差不多"
-      },
-      {
-        "c": "if you like",
-        "cn": "如果你愿意；如果你喜欢的话"
+        "cn": "想要"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "喜欢；想；愿意",
+        "cn": "喜欢；喜爱",
         "ws": [
           "love",
-          "think"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "喜欢；希望",
-        "ws": [
-          "prefer",
-          "affect"
-        ]
-      },
-      {
-        "pos": "prep.",
-        "cn": "像；如同",
-        "ws": [
-          "as per"
+          "enjoy"
         ]
       }
     ],
@@ -3707,62 +2869,25 @@
     ],
     "sentences": [
       {
-        "c": "The dog refused to budge.",
-        "cn": "狗不肯动弹。"
+        "c": "I like your dog.",
+        "cn": "我喜欢你的狗。"
       },
       {
-        "c": "Is that next door's dog?",
-        "cn": "那是邻居家的狗吗？"
-      },
-      {
-        "c": "Does your dog bite?",
-        "cn": "你的狗咬人吗？"
+        "c": "Dogs don't eat cake, Sam!",
+        "cn": "狗不能吃蛋糕，萨姆！"
       }
     ],
     "phrases": [
       {
-        "c": "let sleeping dogs lie",
-        "cn": "[口语]莫惹是非，别惹麻烦，不自找麻烦；别多事[亦作 don't wake a sleeping dog]"
-      },
-      {
-        "c": "little dog",
-        "cn": "[天]小犬座（等于Canis Minor）"
-      },
-      {
-        "c": "hot dog",
-        "cn": "热狗（面包夹熏红肠）"
-      },
-      {
         "c": "pet dog",
-        "cn": "宠物狗；宠物犬"
-      }
-    ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "狗；卑鄙的人；雄兽；坏蛋",
-        "ws": [
-          "insect",
-          "chien"
-        ]
+        "cn": "宠物狗"
       },
       {
-        "pos": "vt.",
-        "cn": "跟踪；尾随",
-        "ws": [
-          "shadow",
-          "tail after"
-        ]
-      },
-      {
-        "pos": "adj.",
-        "cn": "狗的；雄的；劣等的",
-        "ws": [
-          "jack",
-          "dogly"
-        ]
+        "c": "like a dog",
+        "cn": "像狗一样"
       }
     ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 28 页）",
@@ -3831,62 +2956,21 @@
     ],
     "sentences": [
       {
-        "c": "They had had their pet dog stuffed.",
-        "cn": "他们请人把他们的宠物狗制成了标本。"
-      },
-      {
-        "c": "I sell my surplus birds to a local pet shop.",
-        "cn": "我把我多余的鸟卖给一家当地的宠物店。"
-      },
-      {
-        "c": "The family pet was left in the trust of a neighbour.",
-        "cn": "这家的宠物委托邻居代管。"
+        "c": "Do you have a pet?",
+        "cn": "你有宠物吗？"
       }
     ],
     "phrases": [
       {
-        "c": "pet food",
-        "cn": "宠物食品"
-      },
-      {
-        "c": "pet dog",
-        "cn": "宠物狗；宠物犬"
+        "c": "have a pet",
+        "cn": "养宠物"
       },
       {
         "c": "pet shop",
-        "cn": "宠物商店，玩赏动物商店"
-      },
-      {
-        "c": "pet peeve",
-        "cn": "不能忍受的事；经常抱怨的问题"
+        "cn": "宠物店"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "宠物；生气；受宠爱的人",
-        "ws": [
-          "vitality",
-          "animation"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "宠爱",
-        "ws": [
-          "dote on",
-          "cosset"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "生气；爱抚",
-        "ws": [
-          "take offense",
-          "take offence"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 28 页）",
@@ -3934,46 +3018,25 @@
     ],
     "sentences": [
       {
-        "c": "Lions belong to the cat family.",
-        "cn": "狮属于猫科。"
+        "c": "Yes, I do. I have a cat.",
+        "cn": "是的，我有。我有一只猫。"
       },
       {
-        "c": "Our cat hates being handled.",
-        "cn": "我们的猫不喜欢被人摸弄。"
-      },
-      {
-        "c": "The cat loves being stroked.",
-        "cn": "这猫喜欢别人抚摩。"
+        "c": "I like cats.",
+        "cn": "我喜欢猫。"
       }
     ],
     "phrases": [
       {
-        "c": "cats and dogs",
-        "cn": "[美俚]价值低的股票；杂物；（下雨）猛烈地；大量地"
+        "c": "pet cat",
+        "cn": "宠物猫"
       },
       {
-        "c": "black cat",
-        "cn": "黑猫（软件名称）"
-      },
-      {
-        "c": "bell the cat",
-        "cn": "为大家的利益承担危险"
-      },
-      {
-        "c": "old cat",
-        "cn": "脾气很坏的老太婆"
+        "c": "baby cat",
+        "cn": "小猫"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[脊椎]猫；猫科动物",
-        "ws": [
-          "pussy-cat",
-          "grimalkin"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 28 页）",
@@ -4029,61 +3092,21 @@
     ],
     "sentences": [
       {
-        "c": "These fish are very aggressive.",
-        "cn": "这些鱼十分好斗。"
+        "c": "The fish is small!",
+        "cn": "这条鱼好小啊！"
       },
       {
-        "c": "The lakes abound with fish.",
-        "cn": "这些湖泊盛产鱼。"
-      },
-      {
-        "c": "They caught several fish.",
-        "cn": "他们捉到了几条鱼。"
+        "c": "Swim, swim, swim like a fish.",
+        "cn": "游啊游，像鱼一样游泳。"
       }
     ],
     "phrases": [
       {
-        "c": "big fish",
-        "cn": "大鱼；重要人物"
-      },
-      {
-        "c": "fish for",
-        "cn": "摸索；寻找"
-      },
-      {
-        "c": "fish oil",
-        "cn": "鱼油，鱼肝油"
-      },
-      {
-        "c": "fish meal",
-        "cn": "（用作肥料或饲料的）鱼粉"
+        "c": "like a fish",
+        "cn": "像鱼一样"
       }
     ],
-    "synos": [
-      {
-        "pos": "vi.",
-        "cn": "捕鱼，钓鱼；用钩捞取",
-        "ws": [
-          "angle"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "[鱼]鱼，鱼类",
-        "ws": [
-          "ikan",
-          "fim"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "钓鱼，捕鱼；搜寻",
-        "ws": [
-          "search",
-          "hunt for"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 29 页）",
@@ -4153,63 +3176,21 @@
     ],
     "sentences": [
       {
-        "c": "The bird continued to warble.",
-        "cn": "鸟儿继续啁啾。"
+        "c": "Sing, sing, sing like a bird.",
+        "cn": "唱啊唱，像小鸟一样唱歌。"
       },
       {
-        "c": "The bird gave a startled squawk.",
-        "cn": "鸟发出嘎嘎的惊叫声。"
-      },
-      {
-        "c": "The bird ruffled up its feathers.",
-        "cn": "这只鸟竖起了羽毛。"
+        "c": "Let's draw some purple and brown birds.",
+        "cn": "我们来画一些紫色和棕色的鸟吧。"
       }
     ],
     "phrases": [
       {
-        "c": "bird flu",
-        "cn": "禽流感"
-      },
-      {
         "c": "like a bird",
-        "cn": "轻快地；敏捷地"
-      },
-      {
-        "c": "early bird",
-        "cn": "早起者；早到者"
-      },
-      {
-        "c": "little bird",
-        "cn": "小鸟；消息灵通的人士"
+        "cn": "像小鸟一样"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[鸟]鸟；家伙；羽毛球",
-        "ws": [
-          "apple",
-          "customer",
-          "fellow",
-          "egg",
-          "guy"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "向…喝倒彩；起哄",
-        "ws": [
-          "kick up a fuss"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "猎鸟；观察研究野鸟",
-        "ws": [
-          "snipe"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 29 页）",
@@ -4257,63 +3238,28 @@
     ],
     "sentences": [
       {
-        "c": "The dog had smelt a rabbit.",
-        "cn": "狗嗅到了兔子的气味。"
+        "c": "Hop, hop, hop like a rabbit.",
+        "cn": "跳啊跳，像小兔子一样蹦跳。"
       },
       {
-        "c": "The dog scented a rabbit.",
-        "cn": "狗嗅到了兔子的气息。"
-      },
-      {
-        "c": "She jumped back like a startled rabbit.",
-        "cn": "她像受惊的兔子似的跳了回去。"
+        "c": "I like rabbits.",
+        "cn": "我喜欢兔子。"
       }
     ],
     "phrases": [
       {
-        "c": "rabbit hair",
-        "cn": "兔毛"
-      },
-      {
-        "c": "rabbit meat",
-        "cn": "兔肉"
-      },
-      {
-        "c": "rabbit on",
-        "cn": "唠叨，喋喋不休"
-      },
-      {
-        "c": "peter rabbit",
-        "cn": "彼得兔（卡通人物）"
+        "c": "like a rabbit",
+        "cn": "像兔子一样"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "兔子，野兔",
-        "ws": [
-          "bunny",
-          "hare"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "让…见鬼去吧",
-        "ws": [
-          "to hell with"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 29 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 3，对应课本第 29 页。"
       }
     ],
-    "relWords": {
-      "root": "rabbit",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -4332,66 +3278,32 @@
     ],
     "sentences": [
       {
-        "c": "\"Go! Please go.\"—\"You must be joking!\"",
-        "cn": "“走吧！请走吧。”—“你一定是在开玩笑！”"
+        "c": "Let's go to the zoo!",
+        "cn": "我们去动物园吧！"
       },
       {
-        "c": "Very well, if you want to go, go you shall.",
-        "cn": "很好，如果你想走的话，你可以走了。"
-      },
-      {
-        "c": "Okay, let's go.",
-        "cn": "好了，咱们走吧。"
+        "c": "Green can say \"Go!\"",
+        "cn": "绿色可以表示“行！”"
       }
     ],
     "phrases": [
       {
-        "c": "going on",
-        "cn": "进行，发生"
+        "c": "go to the zoo",
+        "cn": "去动物园"
       },
       {
-        "c": "go home",
-        "cn": "回家"
-      },
-      {
-        "c": "let go",
-        "cn": "放开；释放；发射"
-      },
-      {
-        "c": "go up",
-        "cn": "增长；上升；被兴建起来"
+        "c": "go to the shop",
+        "cn": "去商店"
       }
     ],
     "synos": [
       {
         "pos": "vi.",
-        "cn": "走；达到；运转；趋于",
+        "cn": "走；去",
         "ws": [
+          "leave",
           "walk",
-          "step",
-          "track"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "去；进行；尝试",
-        "ws": [
-          "stroke",
-          "conduct",
-          "process",
-          "experiment",
-          "try"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "忍受；出产；以…打赌",
-        "ws": [
-          "yield",
-          "stomach",
-          "stand",
-          "abide",
-          "tough"
+          "travel"
         ]
       }
     ],
@@ -4463,38 +3375,21 @@
     ],
     "sentences": [
       {
-        "c": "He took his son Christopher to the zoo.",
-        "cn": "他带儿子克里斯托弗去了动物园。"
-      },
-      {
-        "c": "I thought we might go to the zoo on Saturday.",
-        "cn": "我觉得周六我们可以去动物园。"
-      },
-      {
-        "c": "The kids had a ride on an elephant at the zoo.",
-        "cn": "在动物园里，孩子们骑着大象走了一圈。"
+        "c": "Let's go to the zoo!",
+        "cn": "我们去动物园吧！"
       }
     ],
     "phrases": [
       {
-        "c": "beijing zoo",
-        "cn": "北京动物园"
+        "c": "go to the zoo",
+        "cn": "去动物园"
       },
       {
-        "c": "shanghai zoo",
-        "cn": "上海动物园"
+        "c": "at the zoo",
+        "cn": "在动物园"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[动]动物园",
-        "ws": [
-          "menagerie",
-          "vivarium"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 31 页）",
@@ -4554,62 +3449,17 @@
     ],
     "sentences": [
       {
-        "c": "He was as cunning as a fox.",
-        "cn": "他像狐狸一样狡猾。"
-      },
-      {
-        "c": "The boss is a wily old fox.",
-        "cn": "老板是个狡猾的老狐狸。"
-      },
-      {
-        "c": "He's a wily old fox.",
-        "cn": "他是个诡计多端的老狐狸。"
+        "c": "What's this? It's a fox.",
+        "cn": "这是什么？这是一只狐狸。"
       }
     ],
     "phrases": [
       {
-        "c": "old fox",
-        "cn": "老狐狸；老油条"
-      },
-      {
-        "c": "arctic fox",
-        "cn": "北极狐，白狐"
-      },
-      {
-        "c": "silver fox",
-        "cn": "[动]银狐"
-      },
-      {
-        "c": "fox fur",
-        "cn": "狐皮"
+        "c": "a clever fox",
+        "cn": "一只聪明的狐狸"
       }
     ],
-    "synos": [
-      {
-        "pos": "vt.",
-        "cn": "欺骗；使变酸",
-        "ws": [
-          "sell",
-          "kid"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "[脊椎]狐狸；狡猾的人",
-        "ws": [
-          "renard",
-          "serpent"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "假装；耍狡猾手段",
-        "ws": [
-          "act",
-          "make as if"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 31 页）",
@@ -4657,46 +3507,21 @@
     ],
     "sentences": [
       {
-        "c": "Will that be all, Miss?",
-        "cn": "就这些吗，小姐？"
+        "c": "Miss White, what's that?",
+        "cn": "白老师，那是什么？"
       },
       {
-        "c": "I miss thee, beloved father.",
-        "cn": "亲爱的父亲，我想念您。"
-      },
-      {
-        "c": "I miss my family very much.",
-        "cn": "我很想念我的家人。"
+        "c": "Goodbye! Bye, Miss White!",
+        "cn": "再见！白老师再见！"
       }
     ],
     "phrases": [
       {
-        "c": "miss you so much",
-        "cn": "真的好想你"
-      },
-      {
-        "c": "miss out",
-        "cn": "错过；遗漏；省略"
-      },
-      {
-        "c": "miss out on",
-        "cn": "错过机会；错失了…"
-      },
-      {
-        "c": "miss white",
-        "cn": "怀特小姐；白小姐"
+        "c": "Miss White",
+        "cn": "白老师"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "小姐，女士；年轻未婚女子",
-        "ws": [
-          "young lady",
-          "madam"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 31 页）",
@@ -4744,43 +3569,28 @@
     ],
     "sentences": [
       {
-        "c": "The panda is a shy creature.",
-        "cn": "熊猫是一种胆小的动物。"
+        "c": "It's a panda.",
+        "cn": "这是一只大熊猫。"
       },
       {
-        "c": "Panda came back to the bench.",
-        "cn": "熊猫回到长椅上。"
-      },
-      {
-        "c": "\"That's right,\" said the panda.",
-        "cn": "“没错。”熊猫说。"
+        "c": "What's this? It's a panda.",
+        "cn": "这是什么？这是一只大熊猫。"
       }
     ],
     "phrases": [
       {
         "c": "giant panda",
-        "cn": "[动]大熊猫；大猫熊"
+        "cn": "大熊猫"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[脊椎]熊猫；猫熊",
-        "ws": [
-          "bearcat"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 31 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 3，对应课本第 31 页。"
       }
     ],
-    "relWords": {
-      "root": "panda",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -4799,19 +3609,16 @@
     ],
     "sentences": [
       {
-        "c": "The rare animals there include the Yunnan snub-nosed monkey and the red panda.",
-        "cn": "其中珍稀动物有滇金丝猴、小熊猫。"
-      },
-      {
-        "c": "Born at the beginning of June, Kush is also the Park's first-ever red panda cub.",
-        "cn": "6月初出生的库什也是该公园第一只小熊猫幼崽。"
-      },
-      {
-        "c": "Red Panda Fossils Found in Tennessee",
-        "cn": "田纳西州发现红熊猫化石"
+        "c": "It's a red panda. It's cute!",
+        "cn": "这是一只小熊猫。它真可爱！"
       }
     ],
-    "phrases": [],
+    "phrases": [
+      {
+        "c": "a cute red panda",
+        "cn": "一只可爱的小熊猫"
+      }
+    ],
     "synos": [],
     "etymology": [
       {
@@ -4819,10 +3626,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 3，对应课本第 31 页。"
       }
     ],
-    "relWords": {
-      "root": "red panda",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -4841,34 +3645,24 @@
     ],
     "sentences": [
       {
-        "c": "Shame, she's so cute!",
-        "cn": "哇，她简直是太漂亮了！"
-      },
-      {
-        "c": "Bears are cute.",
-        "cn": "熊是可爱的。"
-      },
-      {
-        "c": "Isn't she cute?",
-        "cn": "它是不是很可爱？"
+        "c": "It's a red panda. It's cute!",
+        "cn": "这是一只小熊猫。它真可爱！"
       }
     ],
     "phrases": [
       {
-        "c": "cute girl",
-        "cn": "可爱女孩"
+        "c": "so cute",
+        "cn": "好可爱"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "可爱的；漂亮的；聪明的，伶俐的",
+        "cn": "可爱的；漂亮的",
         "ws": [
           "lovely",
           "pretty",
-          "intelligent",
-          "taking",
-          "wise"
+          "adorable"
         ]
       }
     ],
@@ -4919,72 +3713,24 @@
     ],
     "sentences": [
       {
-        "c": "You cheeky monkey!",
-        "cn": "你这厚脸皮的猴崽子！"
-      },
-      {
-        "c": "The woolly spider monkey is the largest primate in the Americas.",
-        "cn": "绒毛蛛猴是美洲最大的灵长目动物。"
-      },
-      {
-        "c": "A monkey suddenly appeared!",
-        "cn": "有一只猴子突然间出现！"
+        "c": "What's this? It's a monkey.",
+        "cn": "这是什么？这是一只猴子。"
       }
     ],
     "phrases": [
       {
-        "c": "monkey business",
-        "cn": "胡闹，骗人的把戏；欺骗；恶作剧"
-      },
-      {
-        "c": "monkey king",
-        "cn": "美猴王，孙悟空"
-      },
-      {
-        "c": "golden monkey",
-        "cn": "金丝猴"
-      },
-      {
-        "c": "monkey tricks",
-        "cn": "猴子把戏；耍猴戏；[口]恶作剧"
+        "c": "a clever monkey",
+        "cn": "聪明的猴子"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "猴子；顽童",
-        "ws": [
-          "urchin",
-          "simian"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "胡闹；捣蛋",
-        "ws": [
-          "horse around",
-          "mess about"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "嘲弄",
-        "ws": [
-          "guy",
-          "make game of"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 32 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 3，对应课本第 32 页。"
       }
     ],
-    "relWords": {
-      "root": "monkey",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -5003,45 +3749,21 @@
     ],
     "sentences": [
       {
-        "c": "The tiger is native to India.",
-        "cn": "这种虎产于印度。"
+        "c": "What's this? It's a tiger! Run!",
+        "cn": "这是什么？是一只老虎！快跑！"
       },
       {
-        "c": "Which has spots, a leopard or a tiger?",
-        "cn": "有斑点的是豹还是虎？"
-      },
-      {
-        "c": "Which has spots, the leopard or the tiger?",
-        "cn": "有斑点的是豹还是虎？"
+        "c": "A tiger says \"growl\".",
+        "cn": "老虎发出“嗷呜”声。"
       }
     ],
     "phrases": [
       {
-        "c": "tiger woods",
-        "cn": "老虎·伍兹（世界著名高尔夫球手）"
-      },
-      {
-        "c": "paper tiger",
-        "cn": "纸老虎"
-      },
-      {
-        "c": "bengal tiger",
-        "cn": "孟加拉虎"
-      },
-      {
-        "c": "tiger team",
-        "cn": "老虎团队；老虎小组"
+        "c": "a big tiger",
+        "cn": "一只大老虎"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "老虎；凶暴的人",
-        "ws": [
-          "dragon"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 32 页）",
@@ -5089,34 +3811,18 @@
     ],
     "sentences": [
       {
-        "c": "The elephant flapped its ears.",
-        "cn": "大象拍打着双耳。"
+        "c": "The elephant is big!",
+        "cn": "大象好大啊！"
       },
       {
-        "c": "The kids had a ride on an elephant at the zoo.",
-        "cn": "在动物园里，孩子们骑着大象走了一圈。"
-      },
-      {
-        "c": "The elephant is the largest living land animal.",
-        "cn": "象是现今陆地上最大的动物。"
+        "c": "What's this? It's an elephant.",
+        "cn": "这是什么？这是一头大象。"
       }
     ],
     "phrases": [
       {
-        "c": "white elephant",
-        "cn": "白象，灰色象（在印度、东南亚被视为神圣之物）；无价值的东西"
-      },
-      {
-        "c": "elephant seal",
-        "cn": "象海豹；海象"
-      },
-      {
-        "c": "african elephant",
-        "cn": "非洲象"
-      },
-      {
-        "c": "elephant trunk",
-        "cn": "象鼻管；溜管"
+        "c": "an elephant",
+        "cn": "一头大象"
       }
     ],
     "synos": [],
@@ -5126,10 +3832,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 3，对应课本第 32 页。"
       }
     ],
-    "relWords": {
-      "root": "elephant",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -5148,47 +3851,21 @@
     ],
     "sentences": [
       {
-        "c": "The lion was stalking a zebra.",
-        "cn": "狮子偷偷接近斑马。"
+        "c": "The lion is fast!",
+        "cn": "狮子跑得真快！"
       },
       {
-        "c": "A lion is a dangerous animal.",
-        "cn": "狮子是猛兽。"
-      },
-      {
-        "c": "The lion roared once and sprang.",
-        "cn": "狮子吼了一声，跳了起来。"
+        "c": "A lion says \"roar\".",
+        "cn": "狮子发出咆哮声。"
       }
     ],
     "phrases": [
       {
-        "c": "lion dance",
-        "cn": "舞狮"
-      },
-      {
-        "c": "sea lion",
-        "cn": "[动]海狮"
-      },
-      {
-        "c": "great lion",
-        "cn": "名人，名流；备受欢迎的人"
-      },
-      {
-        "c": "mountain lion",
-        "cn": "[动]美洲狮（等于cougar）"
+        "c": "a lion",
+        "cn": "一只狮子"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "狮子；名人；勇猛的人；社交场合的名流",
-        "ws": [
-          "personality",
-          "leo",
-          "celebrity"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 3（课本第 32 页）",
@@ -5270,43 +3947,31 @@
     ],
     "sentences": [
       {
-        "c": "I have an allergy to animal hair.",
-        "cn": "我对动物毛过敏。"
+        "c": "Great animals!",
+        "cn": "了不起的动物！"
       },
       {
-        "c": "The animal is hunted for its fur.",
-        "cn": "狩猎这种动物是为了获取其毛皮。"
-      },
-      {
-        "c": "The animal retracted into its shell.",
-        "cn": "这只动物缩回到自己的壳里。"
+        "c": "What wild animals do you know?",
+        "cn": "你知道哪些野生动物？"
       }
     ],
     "phrases": [
       {
-        "c": "animal husbandry",
-        "cn": "畜牧业；畜牧学"
-      },
-      {
-        "c": "animal feed",
-        "cn": "动物饲料"
-      },
-      {
         "c": "wild animal",
-        "cn": "野生动物；野兽"
+        "cn": "野生动物"
       },
       {
-        "c": "animal experiment",
-        "cn": "动物实验；动物试验"
+        "c": "animal friend",
+        "cn": "动物朋友"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "[动]动物",
+        "cn": "动物；生物",
         "ws": [
           "creature",
-          "zoon"
+          "beast"
         ]
       }
     ],
@@ -5382,19 +4047,16 @@
     ],
     "sentences": [
       {
-        "c": "You have two giraffe toys.",
-        "cn": "你有两个长颈鹿玩具。"
-      },
-      {
-        "c": "The giraffe eats leaves.",
-        "cn": "长颈鹿吃树叶。"
-      },
-      {
-        "c": "A giraffe cannot cough.",
-        "cn": "长颈鹿没办法咳嗽。"
+        "c": "The giraffe is tall!",
+        "cn": "长颈鹿好高啊！"
       }
     ],
-    "phrases": [],
+    "phrases": [
+      {
+        "c": "a tall giraffe",
+        "cn": "高大的长颈鹿"
+      }
+    ],
     "synos": [],
     "etymology": [
       {
@@ -5402,10 +4064,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 3，对应课本第 33 页。"
       }
     ],
-    "relWords": {
-      "root": "giraffe",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -5424,54 +4083,23 @@
     ],
     "sentences": [
       {
-        "c": "She goes for tall slim men.",
-        "cn": "她喜欢瘦高个子的男人。"
-      },
-      {
-        "c": "She was tall and slim.",
-        "cn": "她是个瘦高个儿。"
-      },
-      {
-        "c": "How tall are you?",
-        "cn": "你身高多少？"
+        "c": "The giraffe is tall!",
+        "cn": "长颈鹿好高啊！"
       }
     ],
     "phrases": [
       {
-        "c": "tall building",
-        "cn": "高层建筑物"
-      },
-      {
-        "c": "walk tall",
-        "cn": "理直气壮，挺直腰杆；不低三下四"
-      },
-      {
-        "c": "tall tree",
-        "cn": "乔木"
-      },
-      {
-        "c": "stand tall",
-        "cn": "形象高大；昂首站着"
+        "c": "tall and strong",
+        "cn": "又高又壮"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "高的；长的；过分的；夸大的",
+        "cn": "高的",
         "ws": [
           "high",
-          "excessive",
-          "ultra",
-          "long",
           "lofty"
-        ]
-      },
-      {
-        "pos": "adv.",
-        "cn": "夸大地",
-        "ws": [
-          "large",
-          "big"
         ]
       }
     ],
@@ -5544,66 +4172,24 @@
     ],
     "sentences": [
       {
-        "c": "They work terrifically fast.",
-        "cn": "他们工作极快。"
-      },
-      {
-        "c": "You shouldn't drive so fast.",
-        "cn": "你不应该把车开得这么快。"
-      },
-      {
-        "c": "Night was fast approaching.",
-        "cn": "黑夜迅速降临。"
+        "c": "The lion is fast!",
+        "cn": "狮子跑得真快！"
       }
     ],
     "phrases": [
       {
-        "c": "fast food",
-        "cn": "速食，快餐"
-      },
-      {
-        "c": "as fast as",
-        "cn": "和…一样快"
-      },
-      {
-        "c": "fast growth",
-        "cn": "快速生长"
-      },
-      {
-        "c": "fast response",
-        "cn": "快速响应"
+        "c": "run fast",
+        "cn": "跑得快"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "[摄]快速的，迅速的；紧的，稳固的",
+        "cn": "快的；迅速的",
         "ws": [
+          "quick",
           "rapid",
-          "sudden",
-          "tight",
-          "forward",
-          "ready"
-        ]
-      },
-      {
-        "pos": "adv.",
-        "cn": "迅速地；紧紧地；彻底地",
-        "ws": [
-          "quickly",
-          "rapidly",
-          "thoroughly",
-          "entirely",
-          "completely",
-          "fully"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "斋戒；绝食",
-        "ws": [
-          "apastia",
-          "starvation"
+          "speedy"
         ]
       }
     ],
@@ -5685,16 +4271,12 @@
     ],
     "sentences": [
       {
-        "c": "She crunched her apple noisily.",
-        "cn": "她吃苹果发出嘎嚓嘎嚓的声音。"
+        "c": "Mike, do you like apples?",
+        "cn": "迈克，你喜欢苹果吗？"
       },
       {
-        "c": "Someone threw an apple core.",
-        "cn": "有人扔了一个苹果核。"
-      },
-      {
-        "c": "This apple is full of worms.",
-        "cn": "这个苹果生满了虫子。"
+        "c": "Apples and oranges make you strong.",
+        "cn": "苹果和橙子让你身体强壮。"
       }
     ],
     "phrases": [
@@ -5705,39 +4287,16 @@
       {
         "c": "apple tree",
         "cn": "苹果树"
-      },
-      {
-        "c": "apple juice",
-        "cn": "苹果汁"
-      },
-      {
-        "c": "apple pie",
-        "cn": "苹果派；苹果馅饼"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[园艺]苹果；家伙",
-        "ws": [
-          "customer",
-          "fellow",
-          "egg",
-          "guy",
-          "bird"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 40 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 4，对应课本第 40 页。"
       }
     ],
-    "relWords": {
-      "root": "apple",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -5756,56 +4315,28 @@
     ],
     "sentences": [
       {
-        "c": "These companies are determined to keep a stranglehold on the banana industry.",
-        "cn": "这些公司决定对香蕉业进行压制。"
+        "c": "No, I don't. I like bananas.",
+        "cn": "不，我不喜欢。我喜欢香蕉。"
       },
       {
-        "c": "He slipped on a banana skin.",
-        "cn": "他踩在香蕉皮上滑倒了。"
-      },
-      {
-        "c": "The banana smells good.",
-        "cn": "这个香蕉闻起来很香。"
+        "c": "Grapes are small. Bananas are long.",
+        "cn": "葡萄很小，香蕉长长的。"
       }
     ],
     "phrases": [
       {
-        "c": "banana skin",
-        "cn": "香蕉皮；尴尬事"
-      },
-      {
-        "c": "top banana",
-        "cn": "主要滑稽演员，引申为最好的演员或重要的官员；主要人物"
-      },
-      {
-        "c": "banana split",
-        "cn": "香蕉圣代（剖开香蕉夹以冰淇淋等）；香蕉半剖条"
-      },
-      {
-        "c": "banana republic",
-        "cn": "香蕉共和国（指中、南美洲发展中国家）"
+        "c": "a banana",
+        "cn": "一根香蕉"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[园艺]香蕉；喜剧演员；大鹰钩鼻",
-        "ws": [
-          "pisang",
-          "comedian"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 40 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 4，对应课本第 40 页。"
       }
     ],
-    "relWords": {
-      "root": "banana",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -5824,61 +4355,17 @@
     ],
     "sentences": [
       {
-        "c": "Whose is that farm over yonder?",
-        "cn": "那边的农场是谁的？"
-      },
-      {
-        "c": "I told you. Get off the farm.",
-        "cn": "我告诉过你，离开农场。"
-      },
-      {
-        "c": "Farm workers milked cows by hand.",
-        "cn": "农场工人们手工给奶牛挤奶。"
+        "c": "Do you like the farm?",
+        "cn": "你喜欢这个农场吗？"
       }
     ],
     "phrases": [
       {
-        "c": "farm products",
-        "cn": "农产品"
-      },
-      {
-        "c": "farm produce",
-        "cn": "农产品"
-      },
-      {
-        "c": "wind farm",
-        "cn": "有许多风车的农场"
-      },
-      {
-        "c": "on a farm",
-        "cn": "在农场；在农场里，在农场上"
+        "c": "on the farm",
+        "cn": "在农场"
       }
     ],
-    "synos": [
-      {
-        "pos": "vi.",
-        "cn": "种田，务农；经营农场",
-        "ws": [
-          "follow the plough"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "[农经]农场；农家；[畜牧]畜牧场",
-        "ws": [
-          "grange",
-          "steading"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "养殖；耕种；佃出（土地）",
-        "ws": [
-          "till",
-          "plant crops"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 40 页）",
@@ -5930,57 +4417,25 @@
     ],
     "sentences": [
       {
-        "c": "His hands clawed the air.",
-        "cn": "他的双手在空中乱抓。"
+        "c": "I like the fresh air.",
+        "cn": "我喜欢新鲜的空气。"
       },
       {
-        "c": "We have air superiority.",
-        "cn": "我们有空中优势。"
-      },
-      {
-        "c": "The air was circulated mechanically.",
-        "cn": "空气是用机械推动循环的。"
+        "c": "Plants need air, water and sun.",
+        "cn": "植物需要空气、水和阳光。"
       }
     ],
     "phrases": [
       {
+        "c": "fresh air",
+        "cn": "新鲜空气"
+      },
+      {
         "c": "in the air",
-        "cn": "在空中；悬而未决；在流传中；不设防"
-      },
-      {
-        "c": "air conditioning",
-        "cn": "空调；空气调节"
-      },
-      {
-        "c": "air pollution",
-        "cn": "大气污染，空气污染"
-      },
-      {
-        "c": "by air",
-        "cn": "乘飞机；通过航空途径"
+        "cn": "在空中"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[气象]空气，[地物]大气；天空；样子；曲调",
-        "ws": [
-          "atmosphere",
-          "heaven",
-          "sky",
-          "high",
-          "look"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "使通风，晾干；夸耀",
-        "ws": [
-          "sport",
-          "ventilate"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 40 页）",
@@ -6053,62 +4508,28 @@
     ],
     "sentences": [
       {
-        "c": "I plucked an orange from the tree.",
-        "cn": "我从树上摘了一个橙子。"
+        "c": "Apples and oranges make you strong.",
+        "cn": "苹果和橙子让你身体强壮。"
       },
       {
-        "c": "Orange is the big colour this year.",
-        "cn": "橘黄色是今年的流行色。"
-      },
-      {
-        "c": "Would you care for some orange juice?",
-        "cn": "你想要些橙汁吗？"
+        "c": "How many bananas? Three. And one orange.",
+        "cn": "有多少根香蕉？三根。还有一个橙子。"
       }
     ],
     "phrases": [
       {
-        "c": "orange juice",
-        "cn": "橘子汁"
-      },
-      {
-        "c": "orange peel",
-        "cn": "橙皮；橘皮皱"
-      },
-      {
-        "c": "methyl orange",
-        "cn": "[化]甲基橙；甲橙"
-      },
-      {
-        "c": "sweet orange",
-        "cn": "甜橙"
+        "c": "an orange",
+        "cn": "一个橙子"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "橙色的；橘色的",
-        "ws": [
-          "aurantia"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "[园艺]橙；橙色；桔子",
-        "ws": [
-          "aurantium"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 41 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 4，对应课本第 41 页。"
       }
     ],
-    "relWords": {
-      "root": "orange",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -6127,46 +4548,17 @@
     ],
     "sentences": [
       {
-        "c": "The colouring pigments from the skins are not allowed to bleed into the grape juice.",
-        "cn": "这些果皮的色素不允许掺混进葡萄汁中。"
-      },
-      {
-        "c": "Is it a grape or a plum?",
-        "cn": "这是葡萄还是李子？"
-      },
-      {
-        "c": "Grape grown in winter-greenhouse had poorer development.",
-        "cn": "冬暖式大棚栽培的果实发育不良。"
+        "c": "Grapes are small. Bananas are long.",
+        "cn": "葡萄很小，香蕉长长的。"
       }
     ],
     "phrases": [
       {
-        "c": "grape wine",
-        "cn": "葡萄酒"
-      },
-      {
-        "c": "grape juice",
-        "cn": "葡萄汁"
-      },
-      {
-        "c": "grape seed oil",
-        "cn": "葡萄籽油"
-      },
-      {
-        "c": "grape seed extract",
-        "cn": "葡萄籽萃取物；葡萄籽精华"
+        "c": "purple grapes",
+        "cn": "紫葡萄"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[园艺]葡萄；葡萄酒；葡萄树；葡萄色",
-        "ws": [
-          "wine",
-          "Vitis vinifera"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 41 页）",
@@ -6205,54 +4597,21 @@
     ],
     "sentences": [
       {
-        "c": "Which school do they attend?",
-        "cn": "他们上的是哪一所学校？"
-      },
-      {
-        "c": "Conditions vary from school to school.",
-        "cn": "各所学校的情况不同。"
-      },
-      {
-        "c": "He's at law school.",
-        "cn": "他在读法学院。"
+        "c": "The school gardens need help.",
+        "cn": "学校的花园需要照料。"
       }
     ],
     "phrases": [
       {
-        "c": "in school",
-        "cn": "在求学"
-      },
-      {
         "c": "at school",
-        "cn": "在学校；在上课；在求学"
-      },
-      {
-        "c": "high school",
-        "cn": "中学"
+        "cn": "在学校"
       },
       {
         "c": "go to school",
-        "cn": "上学"
+        "cn": "去上学"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "学校；学院；学派；鱼群",
-        "ws": [
-          "academy",
-          "college"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "教育",
-        "ws": [
-          "breed",
-          "to educate"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 43 页）",
@@ -6300,46 +4659,21 @@
     ],
     "sentences": [
       {
-        "c": "The garden looked uncared for.",
-        "cn": "这花园似乎无人管理。"
-      },
-      {
-        "c": "Caspar was weeding the garden.",
-        "cn": "卡斯帕正在给花园除草。"
-      },
-      {
-        "c": "I've been digging the garden.",
-        "cn": "我一直在花园松土。"
+        "c": "The school gardens need help.",
+        "cn": "学校的花园需要照料。"
       }
     ],
     "phrases": [
       {
+        "c": "school garden",
+        "cn": "校园花园"
+      },
+      {
         "c": "in the garden",
         "cn": "在花园里"
-      },
-      {
-        "c": "tea garden",
-        "cn": "茶叶种植场；茶室"
-      },
-      {
-        "c": "botanical garden",
-        "cn": "植物园"
-      },
-      {
-        "c": "rose garden",
-        "cn": "玫瑰园；蔷薇园"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[建]花园；菜园",
-        "ws": [
-          "taman",
-          "bagh"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 43 页）",
@@ -6382,64 +4716,27 @@
     ],
     "sentences": [
       {
-        "c": "Children need their parents.",
-        "cn": "孩子们需要父母。"
+        "c": "The school gardens need help.",
+        "cn": "学校的花园需要照料。"
       },
       {
-        "c": "We need more storage now.",
-        "cn": "现在我们需要更多的贮存场所。"
-      },
-      {
-        "c": "He'll need intensive physiotherapy.",
-        "cn": "他需要高强度的理疗。"
+        "c": "Plants need air, water and sun.",
+        "cn": "植物需要空气、水和阳光。"
       }
     ],
     "phrases": [
       {
-        "c": "in need",
-        "cn": "在危难中；在穷困中的"
-      },
-      {
-        "c": "need for",
-        "cn": "对……的需要；需要……"
-      },
-      {
-        "c": "in need of",
-        "cn": "需要…时"
-      },
-      {
-        "c": "no need",
-        "cn": "不需要；不必了"
+        "c": "need help",
+        "cn": "需要帮助"
       }
     ],
     "synos": [
       {
-        "pos": "n.",
-        "cn": "需要，要求；缺乏；必要之物",
-        "ws": [
-          "necessity",
-          "shortage",
-          "want",
-          "do",
-          "deficiency"
-        ]
-      },
-      {
         "pos": "vt.",
         "cn": "需要",
         "ws": [
-          "ask",
-          "lack",
-          "claim",
-          "to require"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "需要",
-        "ws": [
-          "wish",
-          "to require"
+          "require",
+          "want"
         ]
       }
     ],
@@ -6516,51 +4813,31 @@
     ],
     "sentences": [
       {
-        "c": "The water deepened gradually.",
-        "cn": "水渐渐变深了。"
+        "c": "We can water the flowers.",
+        "cn": "我们可以给花浇水。"
       },
       {
-        "c": "Glucose is soluble in water.",
-        "cn": "葡萄糖可溶于水。"
-      },
-      {
-        "c": "Salt dissolves in water.",
-        "cn": "盐溶于水。"
+        "c": "Plants need air, water and sun.",
+        "cn": "植物需要空气、水和阳光。"
       }
     ],
     "phrases": [
       {
-        "c": "water quality",
-        "cn": "水质"
+        "c": "water the flowers",
+        "cn": "给花浇水"
       },
       {
-        "c": "water supply",
-        "cn": "供水系统；水源"
-      },
-      {
-        "c": "water treatment",
-        "cn": "水处理；水的处理"
-      },
-      {
-        "c": "waste water",
-        "cn": "污水，废水"
+        "c": "drink water",
+        "cn": "喝水"
       }
     ],
     "synos": [
       {
-        "pos": "n.",
-        "cn": "水；海水；雨水；海域，大片的水",
+        "pos": "vt.",
+        "cn": "浇水；灌溉",
         "ws": [
-          "seawater",
-          "eau"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "加水；流泪",
-        "ws": [
-          "shed tears",
-          "pipe one's eye"
+          "irrigate",
+          "pour"
         ]
       }
     ],
@@ -6644,62 +4921,31 @@
     ],
     "sentences": [
       {
-        "c": "The flower opens to reveal a bee.",
-        "cn": "花开了，露出来一只蜜蜂。"
+        "c": "We can water the flowers.",
+        "cn": "我们可以给花浇水。"
       },
       {
-        "c": "I've been weeding the flower beds.",
-        "cn": "我一直在除花坛里的杂草。"
-      },
-      {
-        "c": "Cut the flower stems on the slant.",
-        "cn": "把花茎斜着切断。"
+        "c": "Purple flowers, green grass and blue sea.",
+        "cn": "紫色的花朵，绿色的青草和蓝色的大海。"
       }
     ],
     "phrases": [
       {
-        "c": "wild flower",
-        "cn": "野花"
+        "c": "water the flowers",
+        "cn": "给花浇水"
       },
       {
-        "c": "in flower",
-        "cn": "开着花"
-      },
-      {
-        "c": "flower bud",
-        "cn": "花芽，花蕾"
-      },
-      {
-        "c": "lotus flower",
-        "cn": "荷花，莲花"
+        "c": "beautiful flowers",
+        "cn": "美丽的花"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "[植]花；精华；开花植物",
+        "cn": "花；花朵",
         "ws": [
-          "essence",
-          "elite",
-          "prime",
           "bloom",
-          "distillation"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "成熟，发育；开花；繁荣；旺盛",
-        "ws": [
-          "mature",
-          "age",
-          "develop"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "使开花；用花装饰",
-        "ws": [
-          "bloom"
+          "blossom"
         ]
       }
     ],
@@ -6762,54 +5008,25 @@
     ],
     "sentences": [
       {
-        "c": "The grass had grown waist-high.",
-        "cn": "草长得齐腰高了。"
+        "c": "We can water the grass.",
+        "cn": "我们可以给草地浇水。"
       },
       {
-        "c": "The grass was soft and springy.",
-        "cn": "草柔软而有弹性。"
-      },
-      {
-        "c": "The grass grew thick and velvety.",
-        "cn": "草长得又茂密又柔软光滑。"
+        "c": "green grass",
+        "cn": "绿色的草地。"
       }
     ],
     "phrases": [
       {
+        "c": "green grass",
+        "cn": "绿草"
+      },
+      {
         "c": "on the grass",
         "cn": "在草地上"
-      },
-      {
-        "c": "green grass",
-        "cn": "绿色草，青草"
-      },
-      {
-        "c": "forage grass",
-        "cn": "饲草"
-      },
-      {
-        "c": "grass carp",
-        "cn": "草鱼，鲩鱼"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[植]草；草地，草坪",
-        "ws": [
-          "lawn",
-          "herba"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "放牧；使……长满草；使……吃草",
-        "ws": [
-          "feed",
-          "range"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 43 页）",
@@ -6852,65 +5069,27 @@
     ],
     "sentences": [
       {
-        "c": "This plant is a vigorous grower.",
-        "cn": "这种植物生长起来茂盛茁壮。"
+        "c": "We can plant new trees.",
+        "cn": "我们可以种植新树。"
       },
       {
-        "c": "The plant exudes a sticky fluid.",
-        "cn": "这种植物分泌出一种黏液。"
-      },
-      {
-        "c": "The plant naturalizes well in grass.",
-        "cn": "这棵植物适应了环境，在草中生长得很好。"
+        "c": "Plants can give us many things.",
+        "cn": "植物能给我们提供很多东西。"
       }
     ],
     "phrases": [
       {
-        "c": "plant oneself",
-        "cn": "◎站立不动，处于固定位置"
-      },
-      {
-        "c": "power plant",
-        "cn": "发电厂；动力装置"
-      },
-      {
-        "c": "in plant",
-        "cn": "在生长发育中"
-      },
-      {
-        "c": "treatment plant",
-        "cn": "污水净化厂"
+        "c": "plant trees",
+        "cn": "植树"
       }
     ],
     "synos": [
       {
-        "pos": "n.",
-        "cn": "[工经]工厂，车间；[植]植物；设备；庄稼",
-        "ws": [
-          "factory",
-          "equipment",
-          "furniture",
-          "facility",
-          "mill"
-        ]
-      },
-      {
         "pos": "vt.",
-        "cn": "种植；培养；栽培；安置",
+        "cn": "种植；栽种",
         "ws": [
-          "cultivate",
-          "crop",
-          "establish",
-          "rear",
-          "station"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "种植",
-        "ws": [
-          "put in",
-          "to raise"
+          "grow",
+          "sow"
         ]
       }
     ],
@@ -6986,51 +5165,31 @@
     ],
     "sentences": [
       {
-        "c": "New England is beautiful.",
-        "cn": "新英格兰很迷人。"
+        "c": "We can plant new trees.",
+        "cn": "我们可以种植新树。"
       },
       {
-        "c": "My new shoes squeak.",
-        "cn": "我的新皮鞋走路嘎吱嘎吱响。"
-      },
-      {
-        "c": "This idea isn't new.",
-        "cn": "这主意不新鲜。"
+        "c": "Nice to meet you, my new friend.",
+        "cn": "见到你很高兴，我的新朋友。"
       }
     ],
     "phrases": [
       {
-        "c": "new type",
-        "cn": "新型"
+        "c": "new friend",
+        "cn": "新朋友"
       },
       {
-        "c": "new year",
-        "cn": "新年"
-      },
-      {
-        "c": "new york",
-        "cn": "纽约"
-      },
-      {
-        "c": "new products",
-        "cn": "新产品"
+        "c": "new tree",
+        "cn": "新树"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "新的，新鲜的；更新的；初见的",
+        "cn": "新的；刚出现的",
         "ws": [
           "fresh",
-          "updated"
-        ]
-      },
-      {
-        "pos": "adv.",
-        "cn": "新近",
-        "ws": [
-          "recently",
-          "freshly"
+          "recent"
         ]
       }
     ],
@@ -7090,45 +5249,25 @@
     ],
     "sentences": [
       {
-        "c": "Let's rest under yonder tree.",
-        "cn": "我们在那边的树下休息吧。"
+        "c": "We can plant new trees.",
+        "cn": "我们可以种植新树。"
       },
       {
-        "c": "Look! It's going up that tree.",
-        "cn": "瞧！它正在往那棵树上爬呢。"
-      },
-      {
-        "c": "The car smashed into a tree.",
-        "cn": "汽车猛地撞到了树上。"
+        "c": "Trees grow and give us things.",
+        "cn": "树木生长并为我们提供东西。"
       }
     ],
     "phrases": [
       {
-        "c": "fault tree",
-        "cn": "故障树；失效树"
+        "c": "plant trees",
+        "cn": "植树"
       },
       {
-        "c": "christmas tree",
-        "cn": "圣诞树"
-      },
-      {
-        "c": "decision tree",
-        "cn": "决策树，决策图表"
-      },
-      {
-        "c": "fault tree analysis",
-        "cn": "故障树分析法"
+        "c": "fruit tree",
+        "cn": "果树"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[数][植]树；木料；树状物",
-        "ws": [
-          "timber"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 4（课本第 43 页）",
@@ -7180,49 +5319,23 @@
     ],
     "sentences": [
       {
-        "c": "The sun disappeared from view.",
-        "cn": "太阳看不见了。"
-      },
-      {
-        "c": "Clouds blotted out the sun.",
-        "cn": "云遮住了太阳。"
-      },
-      {
-        "c": "The sun came out, briefly.",
-        "cn": "太阳出来了，时间很短。"
+        "c": "Plants need air, water and sun.",
+        "cn": "植物需要空气、水和阳光。"
       }
     ],
     "phrases": [
       {
         "c": "in the sun",
-        "cn": "在阳光下，无忧无虑"
-      },
-      {
-        "c": "under the sun",
-        "cn": "天下；究竟"
-      },
-      {
-        "c": "with the sun",
-        "cn": "朝着太阳转动的方向，顺时针方向"
-      },
-      {
-        "c": "sun yat-sen",
-        "cn": "孙逸仙"
+        "cn": "在阳光下"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "[天]太阳",
+        "cn": "阳光；太阳",
         "ws": [
-          "sonne"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "[天]晒太阳",
-        "ws": [
-          "bask"
+          "sunlight",
+          "sunshine"
         ]
       }
     ],
@@ -7303,63 +5416,28 @@
     ],
     "sentences": [
       {
-        "c": "I'll give you a ring.",
-        "cn": "我会给你打电话的。"
+        "c": "Plants can give us many things.",
+        "cn": "植物能给我们提供很多东西。"
       },
       {
-        "c": "I'll give you a demo.",
-        "cn": "我来给你作个示范。"
-      },
-      {
-        "c": "Larger models give more bass.",
-        "cn": "更大的型号能奏出更多的低音。"
+        "c": "Trees grow and give us things.",
+        "cn": "树木生长并为我们提供东西。"
       }
     ],
     "phrases": [
       {
-        "c": "give oneself",
-        "cn": "（为...）献身"
-      },
-      {
-        "c": "give up",
-        "cn": "放弃；交出"
-      },
-      {
-        "c": "give out",
-        "cn": "分发，发出；公布，发表；用尽，精疲力竭"
-      },
-      {
-        "c": "give full play to",
-        "cn": "充分发挥"
+        "c": "give us",
+        "cn": "给我们"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "给；产生；让步；举办；授予",
+        "cn": "给；提供",
         "ws": [
-          "award",
-          "effect",
-          "form",
-          "grant",
-          "inspire"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "弹性；弯曲；伸展性",
-        "ws": [
-          "flexibility",
-          "curve",
-          "elasticity"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "捐赠；面向；有弹性；气候转暖",
-        "ws": [
-          "look",
-          "make a contribution to"
+          "provide",
+          "offer",
+          "supply"
         ]
       }
     ],
@@ -7436,22 +5514,22 @@
     ],
     "sentences": [
       {
-        "c": "He regarded us suspiciously.",
-        "cn": "他以怀疑的眼光看着我们。"
+        "c": "Plants can give us many things.",
+        "cn": "植物能给我们提供很多东西。"
       },
       {
-        "c": "His silence unnerved us.",
-        "cn": "他的沉默令我们心里发慌。"
-      },
-      {
-        "c": "Traffic zoomed past us.",
-        "cn": "车辆从我们身边疾驰而过。"
+        "c": "How do colours help us?",
+        "cn": "颜色怎样帮助我们？"
       }
     ],
     "phrases": [
       {
-        "c": "u turn",
-        "cn": "掉头"
+        "c": "give us",
+        "cn": "给我们"
+      },
+      {
+        "c": "help us",
+        "cn": "帮助我们"
       }
     ],
     "synos": [],
@@ -7461,10 +5539,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 4，对应课本第 45 页。"
       }
     ],
-    "relWords": {
-      "root": "us",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -7483,26 +5558,18 @@
     ],
     "sentences": [
       {
-        "c": "Wyman watched them critically.",
-        "cn": "怀曼批判地注视着他们。"
+        "c": "Can we help them?",
+        "cn": "我们能帮助它们吗？"
       },
       {
-        "c": "We waved them goodbye.",
-        "cn": "我们向他们挥手告别。"
-      },
-      {
-        "c": "I will explain to them that I can't pay them.",
-        "cn": "我会向他们解释说我无法付钱给他们。"
+        "c": "I can give them sun.",
+        "cn": "我能给它们阳光。"
       }
     ],
     "phrases": [
       {
-        "c": "one of them",
-        "cn": "他们中的一个"
-      },
-      {
-        "c": "all of them",
-        "cn": "他们全部；他们大家"
+        "c": "help them",
+        "cn": "帮助它们/他们"
       }
     ],
     "synos": [],
@@ -7512,10 +5579,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 4，对应课本第 45 页。"
       }
     ],
-    "relWords": {
-      "root": "them",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -7534,60 +5598,32 @@
     ],
     "sentences": [
       {
-        "c": "What's your favourite colour?",
-        "cn": "你最喜欢的颜色是什么？"
+        "c": "What colour is it?",
+        "cn": "它是什么颜色的？"
       },
       {
-        "c": "Judi's favourite colour is pink.",
-        "cn": "朱迪最喜欢的颜色是粉红色。"
-      },
-      {
-        "c": "Do you dream in colour ?",
-        "cn": "你的梦是彩色的吗？"
+        "c": "What colours do you like?",
+        "cn": "你喜欢什么颜色？"
       }
     ],
     "phrases": [
       {
-        "c": "change colour",
-        "cn": "改变脸色；变颜失色"
+        "c": "what colour",
+        "cn": "什么颜色"
       },
       {
-        "c": "colour television",
-        "cn": "彩色电视"
-      },
-      {
-        "c": "with flying colours",
-        "cn": "出色地，成功地"
-      },
-      {
-        "c": "colour printing",
-        "cn": "彩色打印"
+        "c": "colour flip book",
+        "cn": "颜色翻翻书"
       }
     ],
     "synos": [
       {
-        "pos": "vt.",
-        "cn": "把…涂颜色，粉饰；歪曲；使脸红",
-        "ws": [
-          "sugar",
-          "torture"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "变色",
-        "ws": [
-          "color change"
-        ]
-      },
-      {
         "pos": "n.",
-        "cn": "颜色；风格；气色，面色；外貌",
+        "cn": "颜色；色彩",
         "ws": [
-          "mode",
-          "aspect",
-          "style",
-          "exterior"
+          "shade",
+          "hue",
+          "tint"
         ]
       }
     ],
@@ -7680,62 +5716,28 @@
     ],
     "sentences": [
       {
-        "c": "I plucked an orange from the tree.",
-        "cn": "我从树上摘了一个橙子。"
+        "c": "What colour is it? It's orange.",
+        "cn": "它是什么颜色的？是橙色的。"
       },
       {
-        "c": "Orange is the big colour this year.",
-        "cn": "橘黄色是今年的流行色。"
-      },
-      {
-        "c": "Would you care for some orange juice?",
-        "cn": "你想要些橙汁吗？"
+        "c": "Orange and red, jump up and down.",
+        "cn": "橙色和红色，跳上跳下。"
       }
     ],
     "phrases": [
       {
-        "c": "orange juice",
-        "cn": "橘子汁"
-      },
-      {
-        "c": "orange peel",
-        "cn": "橙皮；橘皮皱"
-      },
-      {
-        "c": "methyl orange",
-        "cn": "[化]甲基橙；甲橙"
-      },
-      {
-        "c": "sweet orange",
-        "cn": "甜橙"
+        "c": "an orange ruler",
+        "cn": "橙色的尺子"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "橙色的；橘色的",
-        "ws": [
-          "aurantia"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "[园艺]橙；橙色；桔子",
-        "ws": [
-          "aurantium"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 52 页）",
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 5，对应课本第 52 页。"
       }
     ],
-    "relWords": {
-      "root": "orange",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -7754,54 +5756,21 @@
     ],
     "sentences": [
       {
-        "c": "She wore purple and green silk.",
-        "cn": "她穿着紫色和绿色的丝绸。"
+        "c": "Green can say \"Go!\"",
+        "cn": "绿色可以表示“行！”"
       },
       {
-        "c": "He wore green-tinted glasses.",
-        "cn": "他戴着染成绿色的眼镜。"
-      },
-      {
-        "c": "His eyes were a vivid green.",
-        "cn": "他的眼睛碧绿。"
+        "c": "Blue and yellow make green.",
+        "cn": "蓝色和黄色调出绿色。"
       }
     ],
     "phrases": [
       {
-        "c": "in the green",
-        "cn": "在年富力强时"
-      },
-      {
-        "c": "on the green",
-        "cn": "在果岭上；在草地上"
-      },
-      {
-        "c": "green tea",
-        "cn": "绿茶"
-      },
-      {
-        "c": "green food",
-        "cn": "绿色食品"
+        "c": "green grass",
+        "cn": "绿草"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "绿色的；青春的",
-        "ws": [
-          "herbaceous",
-          "vernal"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "绿色；青春",
-        "ws": [
-          "youth",
-          "bice"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 52 页）",
@@ -7879,54 +5848,25 @@
     ],
     "sentences": [
       {
-        "c": "She was wearing red lipstick.",
-        "cn": "她涂着红色唇膏。"
+        "c": "Red and blue make purple.",
+        "cn": "红色和蓝色调出紫色。"
       },
       {
-        "c": "Jack's face turned bright red.",
-        "cn": "杰克的脸变得通红。"
-      },
-      {
-        "c": "The leaves are a variegated red.",
-        "cn": "这些树叶呈斑驳的红色。"
+        "c": "Red can say \"No!\"",
+        "cn": "红色可以表示“停/不！”"
       }
     ],
     "phrases": [
       {
-        "c": "in the red",
-        "cn": "负债，亏损；赤字"
+        "c": "red panda",
+        "cn": "小熊猫"
       },
       {
-        "c": "in red",
-        "cn": "穿红衣"
-      },
-      {
-        "c": "red wine",
-        "cn": "红葡萄酒"
-      },
-      {
-        "c": "red cross",
-        "cn": "红十字会"
+        "c": "red apple",
+        "cn": "红苹果"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[光]红色，[颜料][染料]红颜料；赤字",
-        "ws": [
-          "deficit",
-          "clred"
-        ]
-      },
-      {
-        "pos": "adj.",
-        "cn": "[光]红色的；红肿的，充血的",
-        "ws": [
-          "erythroid",
-          "rojo"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 52 页）",
@@ -7992,56 +5932,21 @@
     ],
     "sentences": [
       {
-        "c": "His eyes were piercingly blue.",
-        "cn": "他有一双敏锐的蓝眼睛。"
+        "c": "Red and blue make purple.",
+        "cn": "红色和蓝色调出紫色。"
       },
       {
-        "c": "Blue suited her fair colouring.",
-        "cn": "蓝色适合于她白皙的肤色。"
-      },
-      {
-        "c": "She was dressed in navy blue.",
-        "cn": "她穿着深蓝色的衣服。"
+        "c": "Blue can say \"Use again!\"",
+        "cn": "蓝色可以表示“再次使用！”"
       }
     ],
     "phrases": [
       {
-        "c": "blue sky",
-        "cn": "蓝天"
-      },
-      {
-        "c": "out of the blue",
-        "cn": "突然地；意外地"
-      },
-      {
-        "c": "dark blue",
-        "cn": "深蓝色，深蓝的"
-      },
-      {
-        "c": "in blue",
-        "cn": "穿蓝色衣服"
+        "c": "blue sea",
+        "cn": "大海"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "[光]蓝色的；忧郁的，沮丧的；下流的",
-        "ws": [
-          "dark",
-          "disappointed",
-          "dirty",
-          "depressed"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "[光]蓝色",
-        "ws": [
-          "azur",
-          "blau"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 52 页）",
@@ -8118,66 +6023,28 @@
     ],
     "sentences": [
       {
-        "c": "Four quarters make a whole.",
-        "cn": "四个四分之一构成一个整体。"
+        "c": "Red and blue make purple.",
+        "cn": "红色和蓝色调出紫色。"
       },
       {
-        "c": "Photos make useful teaching aids.",
-        "cn": "照片可以成为有用的教具。"
-      },
-      {
-        "c": "This sentence doesn't make sense.",
-        "cn": "这个句子不通。"
+        "c": "Apples and oranges make you strong.",
+        "cn": "苹果和橙子让你身体强壮。"
       }
     ],
     "phrases": [
       {
-        "c": "make sure",
-        "cn": "确信；证实"
-      },
-      {
-        "c": "make up",
-        "cn": "弥补；组成；化妆；整理"
-      },
-      {
-        "c": "make full use of",
-        "cn": "充分利用"
-      },
-      {
-        "c": "make friends with",
-        "cn": "与…交友"
+        "c": "make friends",
+        "cn": "交朋友"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成",
+        "cn": "制作；使得",
         "ws": [
-          "earn",
-          "acquire",
-          "prepare",
-          "provide",
-          "expect"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "开始；前进；增大；被制造",
-        "ws": [
-          "proceed",
-          "progress",
-          "increase"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "制造；构造；[心理]性情",
-        "ws": [
-          "formation",
-          "manufacture",
-          "constitution",
-          "fabric",
-          "machining"
+          "create",
+          "produce",
+          "build"
         ]
       }
     ],
@@ -8249,61 +6116,21 @@
     ],
     "sentences": [
       {
-        "c": "She wore purple and green silk.",
-        "cn": "她穿着紫色和绿色的丝绸。"
+        "c": "Red and blue make purple.",
+        "cn": "红色和蓝色调出紫色。"
       },
       {
-        "c": "His face was purple with rage.",
-        "cn": "他气得脸色发紫。"
-      },
-      {
-        "c": "She was dressed in purple.",
-        "cn": "她穿一身紫色衣裳。"
+        "c": "Let's draw some purple and brown birds.",
+        "cn": "我们来画一些紫色和棕色的鸟吧。"
       }
     ],
     "phrases": [
       {
-        "c": "dark purple",
-        "cn": "深紫；暗紫色"
-      },
-      {
-        "c": "purple soil",
-        "cn": "紫色土；紫土"
-      },
-      {
         "c": "purple flower",
-        "cn": "紫花；紫罗兰"
-      },
-      {
-        "c": "purple red",
-        "cn": "紫红色"
+        "cn": "紫色的花"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "紫色的；帝王的；华而不实的",
-        "ws": [
-          "regal",
-          "violet"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "紫色；紫袍",
-        "ws": [
-          "lila",
-          "amethyst"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "使成紫色",
-        "ws": [
-          "empurple"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 52 页）",
@@ -8342,52 +6169,17 @@
     ],
     "sentences": [
       {
-        "c": "He removed his brown slip-ons.",
-        "cn": "他脱掉了他的棕色无带鞋。"
-      },
-      {
-        "c": "He was wearing a brown uniform.",
-        "cn": "他穿着一件棕色制服。"
-      },
-      {
-        "c": "He had deep-set brown eyes.",
-        "cn": "他拥有一双深邃的褐色眼睛。"
+        "c": "A big brown bear. What else can you see?",
+        "cn": "一只大棕熊。你还能看到什么？"
       }
     ],
     "phrases": [
       {
-        "c": "gordon brown",
-        "cn": "戈登·布朗（英国首相）"
-      },
-      {
-        "c": "dark brown",
-        "cn": "深棕色；深褐色"
-      },
-      {
-        "c": "brown rice",
-        "cn": "糙米"
-      },
-      {
-        "c": "reddish brown",
-        "cn": "红棕色；赫色"
+        "c": "brown bear",
+        "cn": "棕熊"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "棕色的，褐色的；太阳晒黑的",
-        "ws": [
-          "umber"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "褐色，棕色",
-        "ws": [
-          "suntan"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 53 页）",
@@ -8448,63 +6240,21 @@
     ],
     "sentences": [
       {
-        "c": "He can't bear being laughed at.",
-        "cn": "他无法忍受遭人嘲笑。"
-      },
-      {
-        "c": "He can't bear to be laughed at.",
-        "cn": "他无法忍受遭人嘲笑。"
-      },
-      {
-        "c": "'Bear' and 'bare' are homophonous.",
-        "cn": "bear和 bare是同音异形词。"
+        "c": "A big brown bear. What else can you see?",
+        "cn": "一只大棕熊。你还能看到什么？"
       }
     ],
     "phrases": [
       {
-        "c": "bear oneself",
-        "cn": "举止，表现；为人处事"
-      },
-      {
-        "c": "bear in mind",
-        "cn": "记住；考虑到"
-      },
-      {
-        "c": "bear market",
-        "cn": "熊市；空头市场；卖空市场"
+        "c": "brown bear",
+        "cn": "棕熊"
       },
       {
         "c": "polar bear",
         "cn": "北极熊"
       }
     ],
-    "synos": [
-      {
-        "pos": "vi.",
-        "cn": "承受；结果实",
-        "ws": [
-          "fruit"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "忍受；具有；支撑",
-        "ws": [
-          "support",
-          "stomach",
-          "go",
-          "stand",
-          "abide"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "[脊椎]熊",
-        "ws": [
-          "Bruin"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 53 页）",
@@ -8585,54 +6335,21 @@
     ],
     "sentences": [
       {
-        "c": "The walls were painted yellow.",
-        "cn": "墙壁漆成了黄色。"
+        "c": "Blue and yellow make green.",
+        "cn": "蓝色和黄色调出绿色。"
       },
       {
-        "c": "The wings are tipped with yellow.",
-        "cn": "翅膀的尖端呈黄色。"
-      },
-      {
-        "c": "Many insects are banded black and yellow.",
-        "cn": "很多昆虫有黑色和黄色的条纹。"
+        "c": "Yellow can say \"Be careful!\"",
+        "cn": "黄色可以表示“小心！”"
       }
     ],
     "phrases": [
       {
-        "c": "yellow river",
-        "cn": "黄河"
-      },
-      {
-        "c": "yellow sea",
-        "cn": "黄海"
-      },
-      {
-        "c": "turn yellow",
-        "cn": "变黄；胆怯起来"
-      },
-      {
-        "c": "pale yellow",
-        "cn": "淡黄色，浅黄色"
+        "c": "yellow duck",
+        "cn": "黄鸭子"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "[光]黄色的；黄皮肤的",
-        "ws": [
-          "maize",
-          "xanthic"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "[光]黄色；黄种人；[染料]黄色颜料",
-        "ws": [
-          "sunking",
-          "giallo"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 53 页）",
@@ -8680,62 +6397,17 @@
     ],
     "sentences": [
       {
-        "c": "The main course was roast duck.",
-        "cn": "主菜是烤鸭。"
-      },
-      {
-        "c": "She chose a bench beside the duck pond and sat down.",
-        "cn": "她选了鸭池旁的一张长椅坐了下来。"
-      },
-      {
-        "c": "The cat was now within striking distance of the duck.",
-        "cn": "此时，猫就在可攻击鸭子的距离内。"
+        "c": "a yellow duck",
+        "cn": "一只黄色的鸭子。"
       }
     ],
     "phrases": [
       {
-        "c": "roast duck",
-        "cn": "烤鸭，烧鸭"
-      },
-      {
-        "c": "peking duck",
-        "cn": "北京烤鸭；北京鸭"
-      },
-      {
-        "c": "beijing roast duck",
-        "cn": "北京烤鸭"
-      },
-      {
-        "c": "ducks in a row",
-        "cn": "一致(像鸭子似的一个接着一个)"
+        "c": "yellow duck",
+        "cn": "黄鸭子"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "鸭子；鸭肉；（英）宝贝儿；零分",
-        "ws": [
-          "quacker",
-          "deary"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "闪避；没入水中",
-        "ws": [
-          "jank",
-          "to dodge"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "躲避；猛按…入水",
-        "ws": [
-          "avoid",
-          "stay away from"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 53 页）",
@@ -8787,46 +6459,26 @@
     ],
     "sentences": [
       {
-        "c": "The sea rippled and sparkled.",
-        "cn": "大海波光粼粼。"
-      },
-      {
-        "c": "The clear blue sea beckoned.",
-        "cn": "清澈蔚蓝的大海令人向往。"
-      },
-      {
-        "c": "They scattered his ashes at sea.",
-        "cn": "他们把他的骨灰撒向大海。"
+        "c": "Purple flowers, green grass and blue sea.",
+        "cn": "紫色的花朵，绿色的青草和蓝色的大海。"
       }
     ],
     "phrases": [
       {
-        "c": "china sea",
-        "cn": "中国海"
+        "c": "blue sea",
+        "cn": "蓝色大海"
       },
       {
         "c": "in the sea",
-        "cn": "在海上；在海洋里"
-      },
-      {
-        "c": "at sea",
-        "cn": "在海上；茫然；感觉困惑"
-      },
-      {
-        "c": "south china sea",
-        "cn": "（中国的）南海"
+        "cn": "在海里"
       }
     ],
     "synos": [
       {
         "pos": "n.",
-        "cn": "[海洋][地理]海；海洋；许多；大量",
+        "cn": "海；海洋",
         "ws": [
-          "ocean",
-          "lots of",
-          "wealth",
-          "body",
-          "hundred"
+          "ocean"
         ]
       }
     ],
@@ -8894,54 +6546,21 @@
     ],
     "sentences": [
       {
-        "c": "Her dress was a violent pink.",
-        "cn": "她的连衣裙是非常鲜艳的粉红色。"
+        "c": "I like red and pink.",
+        "cn": "我喜欢红色和粉色。"
       },
       {
-        "c": "Judi's favourite colour is pink.",
-        "cn": "朱迪最喜欢的颜色是粉红色。"
-      },
-      {
-        "c": "His face was a queer pink colour.",
-        "cn": "他满脸奇怪的粉红色。"
+        "c": "Let's draw some red and pink flowers.",
+        "cn": "我们来画一些红色和粉色的花吧。"
       }
     ],
     "phrases": [
       {
-        "c": "in the pink",
-        "cn": "非常健康；气色红润；精力充沛"
-      },
-      {
-        "c": "pale pink",
-        "cn": "浅桃红，苍桃红色"
-      },
-      {
-        "c": "light pink",
-        "cn": "淡粉红色"
-      },
-      {
-        "c": "pink colour",
-        "cn": "粉色；铬锡红；桃红"
+        "c": "pink flower",
+        "cn": "粉色的花"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "粉红色；化身，典范；石竹花；头面人物",
-        "ws": [
-          "picture",
-          "ideal"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "扎，刺，戳；使…变粉红色；使…面红耳赤",
-        "ws": [
-          "stick",
-          "string"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 55 页）",
@@ -8984,61 +6603,23 @@
     ],
     "sentences": [
       {
-        "c": "They managed an honourable 2–2 draw.",
-        "cn": "他们奋力打成了2:2平局，值得敬佩。"
-      },
-      {
-        "c": "The children love to draw and colour.",
-        "cn": "儿童喜欢画画和涂颜色。"
-      },
-      {
-        "c": "We finally managed a hard-earned draw.",
-        "cn": "我们终于追成了平局。"
+        "c": "Let's draw some purple and brown birds.",
+        "cn": "我们来画一些紫色和棕色的鸟吧。"
       }
     ],
     "phrases": [
       {
-        "c": "draw lessons from",
-        "cn": "从…吸取教训"
-      },
-      {
-        "c": "draw up",
-        "cn": "草拟，起草；停住；使靠近"
-      },
-      {
-        "c": "draw on",
-        "cn": "利用；吸收；戴上；临近"
-      },
-      {
-        "c": "draw a conclusion",
-        "cn": "得出结论；作结论"
+        "c": "draw a picture",
+        "cn": "画画"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "画；拉；吸引",
+        "cn": "画；绘制",
         "ws": [
-          "picture",
-          "absorb",
-          "pull",
-          "attract",
-          "engage"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "拉；拖",
-        "ws": [
-          "pull"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "平局；抽签",
-        "ws": [
-          "lot",
-          "tie"
+          "paint",
+          "sketch"
         ]
       }
     ],
@@ -9106,54 +6687,21 @@
     ],
     "sentences": [
       {
-        "c": "I swigged down two white wines.",
-        "cn": "我大口喝完两杯白葡萄酒。"
-      },
-      {
-        "c": "Would you prefer red or white?",
-        "cn": "你喜欢喝红葡萄酒还是白葡萄酒？"
-      },
-      {
-        "c": "His face was ghastly white.",
-        "cn": "他的脸色惨白。"
+        "c": "White, white, turn around.",
+        "cn": "白色，白色，转个圈。"
       }
     ],
     "phrases": [
       {
-        "c": "white house",
-        "cn": "白宫（美国政府的行政机关，美国总统官邸）"
-      },
-      {
         "c": "black and white",
-        "cn": "白纸黑字；单色；黑白片"
+        "cn": "黑白相间"
       },
       {
-        "c": "white wine",
-        "cn": "白葡萄酒"
-      },
-      {
-        "c": "snow white",
-        "cn": "白雪公主"
+        "c": "Miss White",
+        "cn": "白老师"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "白色的；白种的；纯洁的",
-        "ws": [
-          "stainless",
-          "pure"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "白色；洁白；白种人",
-        "ws": [
-          "leuko",
-          "chalkiness"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 56 页）",
@@ -9240,62 +6788,21 @@
     ],
     "sentences": [
       {
-        "c": "The exhaust streamed black smoke.",
-        "cn": "排气管里冒出黑烟。"
+        "c": "Black, black, sit down.",
+        "cn": "黑色，黑色，请坐下。"
       },
       {
-        "c": "Black is in vogue again.",
-        "cn": "黑色又成了流行色。"
-      },
-      {
-        "c": "He had thick black hair.",
-        "cn": "他有着浓密乌黑的头发。"
+        "c": "Hello! I'm Mike Black.",
+        "cn": "你好！我是迈克·布莱克。"
       }
     ],
     "phrases": [
       {
         "c": "black and white",
-        "cn": "白纸黑字；单色；黑白片"
-      },
-      {
-        "c": "in black",
-        "cn": "穿黑衣服"
-      },
-      {
-        "c": "carbon black",
-        "cn": "炭黑；碳黑"
-      },
-      {
-        "c": "black hole",
-        "cn": "黑洞"
+        "cn": "黑白相间"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "黑色的；黑人的；邪恶的",
-        "ws": [
-          "evil",
-          "ill",
-          "ugly"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "黑色；黑人；黑颜料",
-        "ws": [
-          "Film-Noir",
-          "jigaboo"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "使变黑；把鞋油等涂在…上；把（眼眶）打成青肿",
-        "ws": [
-          "denigrate"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 5（课本第 56 页）",
@@ -9386,44 +6893,27 @@
     ],
     "sentences": [
       {
-        "c": "The old man spoke deferentially.",
-        "cn": "那位老人谦恭地说着话。"
-      },
-      {
-        "c": "Old bones break easily.",
-        "cn": "老骨头容易骨折。"
-      },
-      {
-        "c": "I'm fourteen years old.",
-        "cn": "我14岁。"
+        "c": "How old are you? I'm five years old.",
+        "cn": "你几岁了？我五岁了。"
       }
     ],
     "phrases": [
       {
-        "c": "of old",
-        "cn": "古时的；从前"
+        "c": "how old",
+        "cn": "多大年纪；几岁"
       },
       {
         "c": "years old",
-        "cn": "…岁（年龄）"
-      },
-      {
-        "c": "old man",
-        "cn": "情人；丈夫；老头子；父亲"
-      },
-      {
-        "c": "old age",
-        "cn": "老年；晚年"
+        "cn": "……岁"
       }
     ],
     "synos": [
       {
         "pos": "adj.",
-        "cn": "陈旧的，古老的；年老的",
+        "cn": "年老的；旧的",
         "ws": [
-          "ancient",
           "aged",
-          "advanced"
+          "elderly"
         ]
       }
     ],
@@ -9496,46 +6986,21 @@
     ],
     "sentences": [
       {
-        "c": "She brought up five children.",
-        "cn": "她抚育了五个孩子。"
+        "c": "I'm five years old.",
+        "cn": "我五岁了。"
       },
       {
-        "c": "Britain won five gold medals.",
-        "cn": "英国夺取了五块金牌。"
-      },
-      {
-        "c": "He arrived around five o'clock.",
-        "cn": "他大约是五点钟到的。"
+        "c": "Jump! Jump! Jump! Three, two, one! Four and five!",
+        "cn": "跳！跳！跳！三、二、一！四和五！"
       }
     ],
     "phrases": [
       {
-        "c": "five hundred",
-        "cn": "五百分（牌戏，一种以得500分为胜局的游戏）"
-      },
-      {
-        "c": "five star",
-        "cn": "五星级的；第一流的"
-      },
-      {
-        "c": "five dynasties",
-        "cn": "五代"
-      },
-      {
-        "c": "five star hotel",
-        "cn": "五星级宾馆"
+        "c": "five years old",
+        "cn": "五岁"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "五，五个；五美元钞票",
-        "ws": [
-          "cinque",
-          "pentad"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 6（课本第 64 页）",
@@ -9578,45 +7043,21 @@
     ],
     "sentences": [
       {
-        "c": "They separated last year.",
-        "cn": "他们于去年分居了。"
-      },
-      {
-        "c": "Spending has increased year on year.",
-        "cn": "与去年同期比较，开销增加了。"
-      },
-      {
-        "c": "The year was 1840.",
-        "cn": "那是1840年。"
+        "c": "I'm five years old.",
+        "cn": "我五岁了。"
       }
     ],
     "phrases": [
       {
-        "c": "last year",
-        "cn": "去年"
+        "c": "years old",
+        "cn": "……岁"
       },
       {
-        "c": "new year",
+        "c": "New Year",
         "cn": "新年"
-      },
-      {
-        "c": "next year",
-        "cn": "明年"
-      },
-      {
-        "c": "of the year",
-        "cn": "本年度最杰出的"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[天]年；年度；历年",
-        "ws": [
-          "annum"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 6（课本第 64 页）",
@@ -9673,50 +7114,30 @@
     ],
     "sentences": [
       {
-        "c": "Knit one row, purl one row.",
-        "cn": "织一趟平针，织一趟反针。"
+        "c": "One head, two legs, ten toes. I am a child.",
+        "cn": "一个头，两条腿，十个脚趾头。我是一个小孩。"
       },
       {
-        "c": "One minus one is zero.",
-        "cn": "一减一等于零。"
-      },
-      {
-        "c": "One more, please!",
-        "cn": "请再来一个！"
+        "c": "Oh, one more cut for the dog.",
+        "cn": "噢，再为小狗切一小块。"
       }
     ],
     "phrases": [
       {
-        "c": "one of",
-        "cn": "其中之一，之一"
+        "c": "one by one",
+        "cn": "一个接一个"
       },
       {
-        "c": "one day",
-        "cn": "（将来）有一天；总有一天；（过去）某一天"
-      },
-      {
-        "c": "in one",
-        "cn": "成为一体；[口]只试一次"
-      },
-      {
-        "c": "no one",
-        "cn": "没有人"
+        "c": "one more",
+        "cn": "再一个"
       }
     ],
     "synos": [
       {
-        "pos": "adj.",
-        "cn": "一的；唯一的",
-        "ws": [
-          "unique",
-          "sole"
-        ]
-      },
-      {
-        "pos": "n.",
+        "pos": "num.",
         "cn": "一",
         "ws": [
-          "ane"
+          "single"
         ]
       }
     ],
@@ -9785,49 +7206,27 @@
     ],
     "sentences": [
       {
-        "c": "Two prisoners have escaped.",
-        "cn": "两名犯人逃走了。"
+        "c": "How many apples? Two.",
+        "cn": "有多少个苹果？两个。"
       },
       {
-        "c": "The two meanings conflated.",
-        "cn": "这两种意思合并在了一起。"
-      },
-      {
-        "c": "Two lamps burned dimly.",
-        "cn": "两盏油灯昏暗地燃烧着。"
+        "c": "I have two cousins too.",
+        "cn": "我也有两个堂/表兄弟姐妹。"
       }
     ],
     "phrases": [
       {
-        "c": "in two",
-        "cn": "分为两部分"
-      },
-      {
         "c": "one or two",
-        "cn": "几个；一、二个；很少的"
-      },
-      {
-        "c": "two or three",
-        "cn": "两三个，几个"
-      },
-      {
-        "c": "two sides",
-        "cn": "两面；两边"
+        "cn": "一两个"
       }
     ],
     "synos": [
       {
-        "pos": "n.",
-        "cn": "两个",
+        "pos": "num.",
+        "cn": "二；一对",
         "ws": [
-          "TWA"
-        ]
-      },
-      {
-        "pos": "adj.",
-        "cn": "两个的",
-        "ws": [
-          "both"
+          "pair",
+          "couple"
         ]
       }
     ],
@@ -9873,53 +7272,21 @@
     ],
     "sentences": [
       {
-        "c": "The clock said three o'clock.",
-        "cn": "时钟显示三点整。"
+        "c": "Three cuts. Let's eat!",
+        "cn": "切三块。我们吃吧！"
       },
       {
-        "c": "Three runners sprinted past.",
-        "cn": "三名运动员飞跑了过去。"
-      },
-      {
-        "c": "The journey involved three changes.",
-        "cn": "这趟旅行中转过三次。"
+        "c": "How many bananas? Three.",
+        "cn": "有多少根香蕉？三根。"
       }
     ],
     "phrases": [
       {
-        "c": "three years",
-        "cn": "三年，盼三年"
-      },
-      {
-        "c": "three months",
-        "cn": "三个月"
-      },
-      {
-        "c": "three times",
-        "cn": "三次"
-      },
-      {
-        "c": "three dimensional",
-        "cn": "三维的；立体的"
+        "c": "one, two, three",
+        "cn": "一、二、三"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "三，三个",
-        "ws": [
-          "trois"
-        ]
-      },
-      {
-        "pos": "adj.",
-        "cn": "三的，三个的",
-        "ws": [
-          "trinal",
-          "ternate"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 6（课本第 65 页）",
@@ -9967,45 +7334,21 @@
     ],
     "sentences": [
       {
-        "c": "She bid four hearts.",
-        "cn": "她叫四红桃。"
+        "c": "Four and five! Jump up high!",
+        "cn": "四和五！跳高高！"
       },
       {
-        "c": "I took four Tylenol capsules.",
-        "cn": "我服用了4颗泰诺胶囊。"
-      },
-      {
-        "c": "He dribbled past four defenders.",
-        "cn": "他带球突破了4名防守球员。"
+        "c": "One head, four wings, six legs. I am a bee.",
+        "cn": "一个头，四个翅膀，六条腿。我是一只蜜蜂。"
       }
     ],
     "phrases": [
       {
         "c": "four seasons",
         "cn": "四季"
-      },
-      {
-        "c": "four hundred",
-        "cn": "名流；绅士"
-      },
-      {
-        "c": "four modernizations",
-        "cn": "四个现代化（农，工，国防，科技）；四化"
-      },
-      {
-        "c": "big four",
-        "cn": "四大银行；大四星；四大会计师事务所"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "四的；四个的",
-        "ws": [
-          "tetradic"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 6（课本第 65 页）",
@@ -10082,34 +7425,18 @@
     ],
     "sentences": [
       {
-        "c": "Tickets cost ten dollars each.",
-        "cn": "每张票价为十元。"
+        "c": "That's ten yuan, please.",
+        "cn": "一共十元，请付款。"
       },
       {
-        "c": "We're leaving round about ten.",
-        "cn": "我们十点钟左右出发。"
-      },
-      {
-        "c": "My highest card is ten.",
-        "cn": "我最大的牌是十。"
+        "c": "I have ten yuan.",
+        "cn": "我有十元钱。"
       }
     ],
     "phrases": [
       {
-        "c": "tens of thousands",
-        "cn": "成千上万；好几万"
-      },
-      {
-        "c": "ten thousand",
-        "cn": "一万"
-      },
-      {
-        "c": "top ten",
-        "cn": "前十名；十佳排行榜"
-      },
-      {
-        "c": "ten days",
-        "cn": "十天"
+        "c": "ten yuan",
+        "cn": "十元"
       }
     ],
     "synos": [],
@@ -10151,45 +7478,21 @@
     ],
     "sentences": [
       {
-        "c": "Six bottles should be enough.",
-        "cn": "六瓶应该够了。"
+        "c": "I have six yuan.",
+        "cn": "我有六元钱。"
       },
       {
-        "c": "She has completed six laps.",
-        "cn": "她跑完六圈了。"
-      },
-      {
-        "c": "She's six months pregnant.",
-        "cn": "她怀孕六个月了。"
+        "c": "One head, four wings, six legs. I am a bee.",
+        "cn": "一个头，四个翅膀，六条腿。我是一只蜜蜂。"
       }
     ],
     "phrases": [
       {
-        "c": "six months",
-        "cn": "六个月；半年"
-      },
-      {
-        "c": "at six",
-        "cn": "在六点"
-      },
-      {
-        "c": "six sigma",
-        "cn": "六标准差"
-      },
-      {
-        "c": "at sixes and sevens",
-        "cn": "乱七八糟"
+        "c": "six years old",
+        "cn": "六岁"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "六，六个",
-        "ws": [
-          "hexa"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 6（课本第 67 页）",
@@ -10259,59 +7562,17 @@
     ],
     "sentences": [
       {
-        "c": "We started German in year seven.",
-        "cn": "我们在七年级开始学习德语。"
-      },
-      {
-        "c": "The performance starts at seven.",
-        "cn": "演出七点开始。"
-      },
-      {
-        "c": "Twenty-eight is divisible by seven.",
-        "cn": "二十八可以被七整除。"
+        "c": "It's seven o'clock. Hurry!",
+        "cn": "七点整了。快点！"
       }
     ],
     "phrases": [
       {
-        "c": "seven years",
-        "cn": "七年"
-      },
-      {
-        "c": "at sixes and sevens",
-        "cn": "乱七八糟"
-      },
-      {
-        "c": "seven seas",
-        "cn": "世界七大洋"
-      },
-      {
-        "c": "group of seven",
-        "cn": "七国集团；七大工业国"
+        "c": "seven o'clock",
+        "cn": "七点钟"
       }
     ],
-    "synos": [
-      {
-        "pos": "num.",
-        "cn": "七个，七",
-        "ws": [
-          "septenary"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "七个，七",
-        "ws": [
-          "hepta"
-        ]
-      },
-      {
-        "pos": "adj.",
-        "cn": "七的；七个的",
-        "ws": [
-          "septimal"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 6（课本第 68 页）",
@@ -10401,45 +7662,17 @@
     ],
     "sentences": [
       {
-        "c": "The cut needed eight stitches.",
-        "cn": "这道伤口需要缝八针。"
-      },
-      {
-        "c": "Wake up! It's eight o'clock.",
-        "cn": "醒醒吧！已经八点钟了。"
-      },
-      {
-        "c": "Eight o'clock had already chimed.",
-        "cn": "已敲过八点钟了。"
+        "c": "One head, eight eyes, eight legs. I am a spider.",
+        "cn": "一个头，八只眼睛，八条腿。我是一只蜘蛛。"
       }
     ],
     "phrases": [
       {
-        "c": "the eight diagrams",
-        "cn": "八卦"
-      },
-      {
-        "c": "group of eight",
-        "cn": "八国集团（指美、德、英、法、意、加、日、俄八国组成的国际经济同盟）"
-      },
-      {
-        "c": "the eight immortals",
-        "cn": "八仙（中国传统神化人物）"
-      },
-      {
-        "c": "eight ball",
-        "cn": "八号球；球形全向传声器"
+        "c": "eight eyes",
+        "cn": "八只眼睛"
       }
     ],
-    "synos": [
-      {
-        "pos": "adj.",
-        "cn": "八的",
-        "ws": [
-          "octonary"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 6（课本第 68 页）",
@@ -10536,34 +7769,18 @@
     ],
     "sentences": [
       {
-        "c": "We still sighted nine yachts.",
-        "cn": "我们还是看到了九艘游艇。"
+        "c": "Six, seven, eight, nine, ten.",
+        "cn": "六、七、八、九、十。"
       },
       {
-        "c": "Nine cases are still pending.",
-        "cn": "尚有九宗案件待决。"
-      },
-      {
-        "c": "I got here just after nine.",
-        "cn": "我到达这里时刚过九点。"
+        "c": "I have nine apples.",
+        "cn": "我有九个苹果。"
       }
     ],
     "phrases": [
       {
-        "c": "nine out of ten",
-        "cn": "十分之九，百分之九十"
-      },
-      {
-        "c": "cloud nine",
-        "cn": "[俚]九重天（想象中的天堂）；[俚]极乐心境；[俚]狂喜状态"
-      },
-      {
-        "c": "nine to five",
-        "cn": "朝九晚五"
-      },
-      {
-        "c": "whole nine yards",
-        "cn": "[美口]全部；一切事物；从头至尾"
+        "c": "nine o'clock",
+        "cn": "九点钟"
       }
     ],
     "synos": [],
@@ -10573,10 +7790,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 6，对应课本第 68 页。"
       }
     ],
-    "relWords": {
-      "root": "nine",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -10595,22 +7809,14 @@
     ],
     "sentences": [
       {
-        "c": "The clock said three o'clock.",
-        "cn": "时钟显示三点整。"
-      },
-      {
-        "c": "It's gone six o'clock already.",
-        "cn": "过了六点了。"
-      },
-      {
-        "c": "He arrived around five o'clock.",
-        "cn": "他大约是五点钟到的。"
+        "c": "It's seven o'clock. Hurry!",
+        "cn": "七点整了。快点！"
       }
     ],
     "phrases": [
       {
-        "c": "ten o'clock",
-        "cn": "十点"
+        "c": "at seven o'clock",
+        "cn": "在七点钟"
       }
     ],
     "synos": [],
@@ -10620,10 +7826,7 @@
         "d": "收录于人教版小学英语三年级上册（新课标） Unit 6，对应课本第 69 页。"
       }
     ],
-    "relWords": {
-      "root": "o'clock",
-      "rels": []
-    },
+    "relWords": null,
     "inflections": null,
     "e2e": null,
     "examsSrc": null
@@ -10642,58 +7845,31 @@
     ],
     "sentences": [
       {
-        "c": "Johnson cut himself shaving.",
-        "cn": "约翰逊刮胡子时割伤了自己。"
+        "c": "Three cuts. Let's eat!",
+        "cn": "切三块。我们吃吧！"
       },
       {
-        "c": "You've had your hair cut!",
-        "cn": "你理发了！"
-      },
-      {
-        "c": "Let's cut for dealer.",
-        "cn": "咱们切牌决定由谁发牌吧。"
+        "c": "Oh, one more cut for the dog.",
+        "cn": "噢，再为小狗切一小块。"
       }
     ],
     "phrases": [
       {
-        "c": "cut off",
-        "cn": "切断；中断；使死亡；剥夺继承权"
+        "c": "cut the cake",
+        "cn": "切蛋糕"
       },
       {
-        "c": "cut down",
-        "cn": "削减；砍倒；杀死；删节；胜过"
-      },
-      {
-        "c": "cut in",
-        "cn": "插嘴；超车；插入"
-      },
-      {
-        "c": "cut into",
-        "cn": "打断；侵犯"
+        "c": "one more cut",
+        "cn": "再切一刀/块"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "削减；[机]切割；缩短；刺痛",
+        "cn": "切；割",
         "ws": [
-          "shorten",
-          "bite"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "[机]切割；相交；切牌；停拍；不出席",
-        "ws": [
-          "intersect"
-        ]
-      },
-      {
-        "pos": "n.",
-        "cn": "削减；伤口；切口；（服装等的）式样；削球",
-        "ws": [
-          "wound",
-          "incision"
+          "chop",
+          "slice"
         ]
       }
     ],
@@ -10752,52 +7928,31 @@
     ],
     "sentences": [
       {
-        "c": "They'll eat almost anything.",
-        "cn": "他们几乎什么都吃。"
+        "c": "Dogs don't eat cake, Sam!",
+        "cn": "狗不能吃蛋糕，萨姆！"
       },
       {
-        "c": "She began to eat ravenously.",
-        "cn": "她开始狼吞虎咽地吃起来。"
-      },
-      {
-        "c": "People eat when they're depressed.",
-        "cn": "人们会在沮丧时吃东西。"
+        "c": "Three cuts. Let's eat!",
+        "cn": "切三块。我们吃吧！"
       }
     ],
     "phrases": [
       {
-        "c": "eat well",
-        "cn": "健康首选；吃得营养；吃的好；胃口好"
+        "c": "eat cake",
+        "cn": "吃蛋糕"
       },
       {
-        "c": "eat in",
-        "cn": "在家吃饭；侵蚀"
-      },
-      {
-        "c": "eat at",
-        "cn": "困扰"
-      },
-      {
-        "c": "eat out",
-        "cn": "上馆子吃饭；锈坏；使腐烂"
+        "c": "eat apples",
+        "cn": "吃苹果"
       }
     ],
     "synos": [
       {
         "pos": "vt.",
-        "cn": "吃，喝；腐蚀；烦扰",
+        "cn": "吃；进餐",
         "ws": [
-          "drink",
-          "take",
-          "burden"
-        ]
-      },
-      {
-        "pos": "vi.",
-        "cn": "进食；腐蚀，侵蚀",
-        "ws": [
-          "attack",
-          "to erode"
+          "have",
+          "dine"
         ]
       }
     ],
@@ -10869,16 +8024,12 @@
     ],
     "sentences": [
       {
-        "c": "That cake looks very tempting.",
-        "cn": "那蛋糕的样子让人嘴馋。"
+        "c": "Dogs don't eat cake, Sam!",
+        "cn": "狗不能吃蛋糕，萨姆！"
       },
       {
-        "c": "She kept pressing cake on us.",
-        "cn": "她非要我们吃蛋糕不可。"
-      },
-      {
-        "c": "This cake is very filling.",
-        "cn": "这种饼很能填饱肚子。"
+        "c": "Happy birthday! Let's eat the cake!",
+        "cn": "生日快乐！我们来吃蛋糕吧！"
       }
     ],
     "phrases": [
@@ -10887,35 +8038,11 @@
         "cn": "生日蛋糕"
       },
       {
-        "c": "piece of cake",
-        "cn": "轻而易举的事情；轻松愉快的事"
-      },
-      {
-        "c": "moon cake",
-        "cn": "月饼"
-      },
-      {
-        "c": "icing on the cake",
-        "cn": "锦上添花"
+        "c": "eat cake",
+        "cn": "吃蛋糕"
       }
     ],
-    "synos": [
-      {
-        "pos": "n.",
-        "cn": "[食品]蛋糕；块状物；利益总额",
-        "ws": [
-          "Swiss roll",
-          "torta"
-        ]
-      },
-      {
-        "pos": "vt.",
-        "cn": "使结块",
-        "ws": [
-          "agglomerate"
-        ]
-      }
-    ],
+    "synos": [],
     "etymology": [
       {
         "t": "Unit 6（课本第 69 页）",

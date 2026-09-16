@@ -1,0 +1,473 @@
+#Unit 1
+fox|n.|狐狸|2
+giraffe|n.|长颈鹿|2
+eagle|n.|雕；鹰|2
+wolf|n.|（复数wolves）狼|2
+penguin|n.|企鹅|2
+care|n.|照顾；护理||v.|关心；在乎|2
+take care of||照顾；处理|2
+sandwich|n.|三明治|3
+snake|n.|蛇|5
+scary|adj.|吓人的；恐怖的|5
+neck|n.|脖子|5
+guess|v.|猜测；估计|5
+shark|n.|鲨鱼|5
+whale|n.|鲸|5
+huge|adj.|巨大的；极多的|5
+dangerous|adj.|危险的； 有危害的|5
+save|v.|救；储蓄；保存|6
+luck|n.|幸运；运气|6
+Thai|adj.|泰国的；泰国人的||n.|泰国人；泰语|6
+trunk|n.|象鼻|6
+pick|v.|捡；摘|6
+pick up||拿起；举起；接载|6
+carry|v.|拿；提|6
+playful|adj.|爱嬉戏的；爱玩的|6
+swimmer|n.|游泳者|6
+one another||互相|6
+look after||照顾|6
+culture|n.|文化；文明|6
+however|adv.|然而；不过|6
+danger|n.|危险|6
+in danger||处于危险之中|6
+forest|n.|森林|6
+cut down||砍伐；减少|6
+too many||太多|6
+kill|v.|杀死；弄死|6
+ivory|n.|象牙|6
+made of||由……制成的|6
+friendly|adj.|友好的|7
+quite|adv.|相当；完全|7
+quite a||相当；非常|7
+not at all||一点也不；完全不|7
+fur|n.|（动物浓厚的）软毛|7
+blind|adj.|瞎的；失明的|7
+hearing|n.|听力；听觉|7
+Antarctica||南极洲|3
+Africa||非洲|5
+Malee||马莉|6
+Thailand||泰国|6
+#Unit 2
+rule|n.|规则；规章|9
+order|n.|秩序；命令||v.|点菜；命令|9
+follow|v.|遵循；跟随|10
+late for||迟到|10
+arrive|v.|到达|10
+on time||准时|10
+hallway|n.|走廊|10
+uniform|n.|校服；制服|10
+litter|v.|乱扔||n.|垃圾|10
+polite|adj.|有礼貌的|10
+treat|v.|对待；招待；治疗||n.|款待|10
+respect|n. & v.|尊敬|10
+if|conj.|如果|10
+jacket|n.|夹克衫；短上衣|10
+have to||不得不|10
+everything|pron.|每件事；一切|11
+lend|v.|借给；借出|11
+sweet|n.|糖果||adj.|甜的|11
+snack|n.|点心；小吃|11
+of course||当然|11
+mobile|adj.|可移动的|11
+mobile phone||手机|11
+turn off||关掉（水、电或煤气）|11
+queue|n.|队|13
+jump the queue||插队|13
+feed|v.|喂养；饲养|13
+leave|v.|离开；留下|13
+absent|adj.|缺席的；不在的|13
+absent from||缺席；不在|13
+shh|interj.|嘘（用以让别人安静下来）（= sh）|13
+quietly|adv.|轻声地； 安静地|13
+put on||戴上；穿上；增加|13
+belt|n.|安全带；腰带；皮带|13
+noise|n.|声音；噪声|13
+unhappy|adj.|不快乐的|14
+Dr||博士；医生（= doctor）|14
+make the bed||整理床铺；铺床（= make sb's/the bed）|14
+either|adv.|也（用于否定词组后）|14
+practise|v.|训练；练习|14
+hang|v.|悬挂|14
+hang out||闲逛；常去某处|14
+weekday|n.|工作日 （星期一至星期五的任何一天）|14
+awful|adj.|糟糕的；讨厌的|14
+become|v.|变成；成为|14
+better|adj.|较好的||adv.|较好地|14
+person|n.|人|14
+focus|v.|集中（注意力、 精力等）；聚焦|14
+focus on||集中（注意力、精力等）于|14
+build|v.|创建；建造|14
+spirit|n.|精神；情绪|14
+think about||思考；考虑|14
+relax|v.|放松；休息|14
+advice|n.|建议；意见|15
+understand|v.|理解；领会|15
+untidy|adj.|不整洁的|15
+Mary||玛丽|10
+Tony||托尼|10
+Anne||安妮|11
+Eric||埃里克|15
+#Unit 3
+fit|adj.|健康的；健壮的||v.|适合|17
+baseball|n.|棒球（运动）|18
+glove|n.|（手指分开的）手套|18
+mat|n.|垫子|18
+rope|n.|绳子；粗绳|18
+jump rope||跳绳用的绳子； 跳绳（运动）|18
+racket|n.|（网球、羽毛球等的） 球拍|18
+hardly|adv.|几乎不； 几乎没有|18
+ever|adv.|在任何时候； 从来；曾经|18
+hardly ever||几乎从不|18
+once|adv.|一次；曾经||conj.|一旦|18
+twice|adv.|两次；两倍|18
+mine|pron.|我的（所有物）|19
+hers|pron.|她的（所有物）|19
+maybe|adv.|也许；大概|19
+well-used|adj.|使用得多的|19
+practice|n.|练习；实践|19
+perfect|adj.|完美的；极好的|19
+seldom|adv.|很少；不常|19
+badminton|n.|羽毛球运动|19
+double|n.|双打（doubles）； 两倍||adj.|成双的；两倍的|19
+sometime|adv.|在某个时候|19
+volleyball|n.|排球（运动）|20
+theirs|pron.|他们的，她们的， 它们的（所有物）|20
+ours|pron.|我们的（所有物）|20
+jog|v.|慢跑|20
+few|adj.|（表示否定的）很少的； 几乎没有的|20
+a few||少数；几个|20
+excuse|v.|原谅；宽恕|20
+excuse me||劳驾；请原谅|20
+over there||在那边|21
+just|adv.|只是；正好|21
+T-shirt|n.|T恤衫|21
+belong|v.|应在（某处）|21
+belong to||属于（某人）|21
+working|adj.|工作的|21
+working day||工作日|21
+full of||有许多；充满|21
+energy|n.|精力；能量|21
+group|n.|组；群|21
+skateboard|n.|滑板|22
+encourage|v.|鼓励；激励|22
+trick|n.|技巧；戏法|22
+succeed|v.|成功；达到目标|22
+skateboarding|n.|滑板运动|22
+goal|n.|目标；目的|22
+sit-up|n.|仰卧起坐|22
+work out||锻炼|22
+app|n.|应用程序（= application）|22
+progress|n.|进步；进展|22
+match|n.|比赛；竞赛|22
+team|n.|队；组|22
+lose|v.|输掉；丢失|22
+teenager|n.|青少年|23
+Steve||史蒂夫|22
+#Unit 4
+watermelon|n.|西瓜|26
+cabbage|n.|卷心菜|26
+mutton|n.|羊肉|26
+cookie|n.|曲奇饼|26
+onion|n.|洋葱；葱头|26
+dumpling|n.|饺子|26
+coffee|n.|咖啡|26
+bean|n.|豆|26
+chip|n.|炸薯条|26
+fish and chips||炸鱼薯条|26
+salad|n.|沙拉；色拉|26
+porridge|n.|粥；麦片粥|26
+waiter|n.|（男）服务员|27
+What about||……怎么样？|27
+taste|v.|有……味道；尝||n.|味道|27
+anything|pron.|某事物； 任何事物|27
+dish|n.|一道菜；盘子|27
+choice|n.|选择|28
+meal|n.|一餐所吃的食物；一餐|28
+pork|n.|猪肉|28
+strawberry|n.|草莓|28
+menu|n.|菜单|28
+customer|n.|顾客|29
+serve|v.|提供；服务|29
+waitress|n.|女服务员|29
+sir|n.|先生|29
+bill|n.|账单；钞票|29
+go with||搭配；相配|29
+instead|adv.|反而；代替|29
+pear|n.|梨|29
+too much||太多|29
+sugar|n.|糖|29
+newsletter|n.|内部通讯； 简讯|30
+improve|v.|改进；改善|30
+habit|n.|习惯|30
+fast food||快餐|30
+salt|n.|盐|30
+fat|n.|脂肪||adj.|肥胖的|30
+weight|n.|体重；重量|30
+hamburger|n.|汉堡包|30
+cause|v.|造成；导致|30
+heart|n.|心脏；中心|30
+balanced|adj.|均衡的； 平衡的|30
+too to||太……以至于不能|30
+sleepy|adj.|困倦的；想睡的|30
+after all||毕竞；终归|30
+away|adv.|离开；在别处|30
+poor|adj.|不好的； 贫穷的；可怜的|31
+result|n.|后果；结果|31
+article|n.|文章；冠词|31
+common|adj.|共同的； 普遍的|31
+among|prep.|在……中； ……之一|31
+soft|adj.|柔和的；柔软的|31
+soft drink||软饮料（不含酒精）|31
+enough|adj.|足够的；充足的||adv.|足够地；充分地||pron.|足够；充分|31
+thirsty|adj.|渴的|31
+Gongbao chicken||宫保鸡丁|27
+America||美国；美洲|27
+Dongpo pork||东坡肉|28
+Joy Clinic||快乐诊所|30
+#Unit 5
+right now||现在；立刻|34
+ride|v.|骑||n.|旅程|34
+moment|n.|某个时刻； 片刻；瞬间|34
+at the moment||现在；此刻|34
+work on||做；从事|34
+dragon|n.|龙|35
+festival|n.|节日|35
+hold|v.|拿着；抓住|35
+hold on||别挂断电话；等一等|35
+voice|n.|嗓音；声音|35
+race|n.|比赛；竞赛|35
+darling|n.|亲爱的；宝贝|35
+somebody|pron.|某人；有人|36
+could|modalv.|能；可以|36
+message|n.|消息；信息|36
+take a message||捎个口信|36
+leave a message||留个口信|36
+call back||回电话|36
+kick|v.|踢；踹|37
+wow|interj.|哇；呀|37
+online|adj.|在线的|37
+shuttlecock|n.|羽毛球|37
+sight|n.|名胜；风景；视力|37
+exam|n.|考试|37
+hope|v. & n.|希望|37
+forward|adv.|向前|37
+look forward to||盼望|37
+skate|v.|滑冰|37
+happen|v.|发生|38
+zone|n.|地区；地带；区域|38
+time zone||时区|38
+around the world||世界各地|38
+rush|v. & n.|冲；奔|38
+in a hurry||匆忙|38
+shine|v.|发光；照耀||n.|光亮|38
+brightly|adv.|明亮地|38
+colourful|adj.|色彩鲜艳的|38
+slowly|adv.|缓慢地|38
+such|adj.|这样的；那样的||pron.|这样（那样）的人或事物|38
+such as||例如|38
+painting|n.|绘画作品； 绘画；油画|38
+market|n.|市场|38
+side|n.|边；侧|38
+side by side||并排；并肩地|38
+rush hour||（上下班时的）交通高峰期|38
+subway|n.|地铁|38
+bright|adj.|鲜艳的；明亮的； 聪明的|38
+drop|v.|运送；落下||n.|滴；下降|38
+drop off||（开车）把某人送到某处|38
+passenger|n.|乘客|38
+central|adj.|中心的；中央的|38
+explain|v.|解释；说明|39
+take part in||参加|39
+tour|n. & v.|旅行；旅游|39
+sunshine|n.|阳光|39
+drive|v.|开车；驾驶|39
+Adam||亚当|34
+Dragon Boat Festival||端午节|35
+Beth||贝丝|37
+Nairobi||内罗毕（肯尼亚首都）|38
+New York||纽约|38
+Kenya||肯尼亚|38
+USA||美国|38
+Central Park||中央公园|38
+#Unit 6
+rain or shine||不论是雨或是晴； 不管发生什么事|41
+affect|v.|影响|41
+dry|adj.|干的；干旱的|42
+lightning|n.|闪电|42
+stormy|adj.|有暴风雨（或暴风雪）的|42
+north|n.|北部；北；北方|42
+west|n.|西部；西；西方|42
+south|n.|南部；南；南方|42
+east|n.|东部；东；东方|42
+stay in||待在家里；没有外出|42
+lucky|adj.|运气好的； 带来好运的|43
+lucky you||你真幸运|43
+sunbathe|v.|沐日光浴； 晒太阳|43
+some day||将来；有朝一日|43
+temperature|n.|温度|44
+snowman|n.|（复数snowmen）雪人|44
+heavily|adv.|大量地；沉重地|44
+snowy|adj.|下雪的；雪白的|45
+beach volleyball||沙滩排球|45
+high|adv. & adj.|高|45
+freezing|adj.|极冷的；冰冻的|45
+tourist|n.|旅行者；观光客|45
+mount|n.|（在现代英语里 仅用于地名）山；山峰|46
+cloud|n.|云；云彩|46
+feel like||感觉像|46
+magical|adj.|魔法的；神奇的|46
+rock|n.|岩石|46
+rest|n.|休息；剩余部分|46
+area|n.|场地；地区|46
+rest area||休息区|46
+make progress||取得进展|46
+although|conj.|虽然；尽管|46
+still|adv.|还；仍然|46
+in high spirits||情绪高涨；兴高采烈|46
+experience|n.|经历；经验||v.|经历|46
+through|prep.|穿过；凭借|46
+glad|adj.|高兴的|46
+peak|n.|山顶；顶点|46
+grey|adj.|灰色的（美式gray）|46
+because of||因为|46
+fog|n.|雾|46
+ground|n.|地面|46
+wet|adj.|湿的|46
+tiring|adj.|令人疲倦的； 累人的|46
+seem|v.|似乎；好像|46
+sunlight|n.|阳光；日光|46
+at the top||在顶部；在顶端|46
+description|n.|描述；说明|47
+mountain|n.|山；高山|47
+at the start||开始；起初|47
+end|n.|末尾；结束|47
+at the end||最后；在末尾|47
+storm|n.|暴风雨；暴风雪|47
+pour|v.|倾倒；倒出|47
+wind|n.|风|47
+shout|v. & n.|喊叫；呼唤|47
+run after||追逐|47
+Anna||安娜|43
+John||约翰|43
+Stockholm||斯德哥尔摩 （瑞典首都）|43
+Mount Huangshan||黄山|46
+Bright Peak||光明顶|46
+#Unit 7
+meet up||碰头；相聚|50
+museum|n.|博物馆|50
+exhibition|n.|展览|50
+direction|n.|方向|50
+trip|n.|旅行|51
+wastewater|n.|废水|51
+plant|n.|工厂|51
+into|prep.|到……里面； 进入|51
+screen|n.|滤网；隔板；屏障|51
+remove|v.|移开；拿走|51
+piece|n.|片；块|51
+waste|n.|废弃物||v.|浪费|51
+machine|n.|机器|51
+germ|n.|微生物；细菌|51
+step|n.|步骤；脚步|51
+used to||过去常常（做）|51
+realize|v.|认识到；实现（= realise）|51
+inside|prep.|在……里面||adv.|在里面|52
+go on a trip||去旅行|52
+process|n.|过程|52
+theatre|n.|戏院；剧场； 电影院|52
+factory|n.|工厂|52
+terrible|adj.|糟糕的|53
+actor|n.|演员|53
+gun|n.|枪|53
+try on||试穿|53
+along|prep.|沿着；顺着|53
+road|n.|道路|53
+create|v.|创造|53
+record|v.|记录||n.|记录|54
+thought|n.|想法|54
+skill|n.|技能|54
+write down||写下；记下|54
+explore|v.|探索|54
+tent|n.|帐篷|54
+cucumber|n.|黄瓜|54
+from to||从•……到……|54
+straight|adv.|直接；立即； 笔直地||adj.|直的|54
+fill|v.|装满；盛满|54
+basket|n.|篮子；筐|54
+teach|v.|（过去式taught）教|54
+branch|n.|分支；树枝|54
+leaf|n.|（复数leaves）叶；叶子|54
+finally|adv.|终于|54
+think of||考虑；想起|54
+grain|n.|谷物；谷粒|54
+fresh|adj.|新鲜的|54
+certainly|adv.|肯定；当然|54
+diary|n.|日记；日记本|55
+entry|n.|（日记的）一则；入口|55
+agree|v.|赞成；同意|55
+agree with||赞成；同意|55
+#Unit 8
+upon|prep.|在……上|57
+once upon a time||从前；很久以前|57
+bite|v.|（过去式bit）咬；咬伤|58
+bite through||咬穿|58
+net|n.|网；网状物|58
+hunter|n.|猎人；搜寻者|58
+promise|v.|承诺；保证||n.|承诺；诺言|58
+long ago||很久以前|58
+war|n.|战争|58
+neighbour|n.|邻居|58
+wise|adj.|明智的；高明的|58
+emperor|n.|皇帝|59
+lie|v.|撒谎||n.|谎言|59
+pretend|v.|假装；伪装|59
+official|n.|官员；高级职员|59
+silly|adj.|愚蠢的；傻的|59
+decide|v.|决定|59
+praise|v. & n.|赞美；表扬|59
+afraid|adj.|害怕的；担心的|59
+suddenly|adv.|突然地； 出乎意料地|59
+at first||起初；最初|60
+truth|n.|真相；事实|60
+tell the truth||说实话|60
+make money||赚钱|60
+true|adj.|符合事实的；真正的|60
+hate|v.|不喜欢；厌恶；讨厌|60
+get out||逃脱；离开|61
+king|n.|君主；国王|61
+artist|n.|美术家；艺术家|61
+quickly|adv.|快速地；很快|61
+smile|v.|微笑||n.|微笑；笑容|61
+all over||到处；遍及|61
+ugly|adj.|丑陋的；难看的|62
+duckling|n.|小鸭子|62
+real|adj.|真的；真正的|62
+laugh at||嘲笑|62
+go away||走开|62
+search|v.|寻找；搜寻|62
+search for||寻找|62
+hen|n.|母鸡|62
+hopefully|adv.|有希望地|62
+purr|v.|（猫）发出呼噜声|62
+lay|v.|（过去式laid）下（蛋）；放置；搁|62
+swan|n.|天鹅|62
+feather|n.|羽毛|62
+to sb's surprise||出乎某人的意料|62
+size|n.|大小；尺寸|63
+only if||只有|63
+fisherman|n.|（复数fishermen）渔夫|63
+fishing|n.|钓鱼；捕鱼|63
+come out||出现；盛开|63
+genie|n.|妖怪；鬼|63
+die|v.|死亡；消失|63
+make a promise||许下诺言|63
+someone|pron.|某人；有人|63
+set|v.|使处于某种状况；使开始|63
+set free||释放|63
+rich|adj.|富有的；富含……的|63
+powerful|adj.|强大的； 有影响力的|63
+anyone|pron.|任何人； 某个人|63
+instead of||而不是；代替|63
+succeed in doing sth||成功做成某事|63
+himself|pron.|他自己； 他本人|63
+in the end||最后；终究|63
+Hans Christian Andersen||汉斯·克里斯蒂安·安徒生|59

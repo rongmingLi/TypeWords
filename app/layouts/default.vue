@@ -49,7 +49,7 @@ const { locales, setLocale } = useI18n()
 const route = useRoute()
 
 const showIcon = $computed(() => {
-  return ['/words', '/articles', '/setting', '/profile', '/help', '/doc', '/feedback'].includes(route.path)
+  return ['/words', '/articles', '/phonetics', '/setting', '/profile', '/help', '/doc', '/feedback'].includes(route.path)
 })
 
 onMounted(() => {
@@ -93,6 +93,10 @@ function onMouseLeave() {
         <NuxtLink id="article" to="/articles" class="row">
           <IconFluentBookLetter20Regular />
           <span>{{ $t('articles') }}</span>
+        </NuxtLink>
+        <NuxtLink to="/phonetics" class="row">
+          <IconFluentSoundWaveCircle20Regular />
+          <span>{{ $t('phonetic') }}</span>
         </NuxtLink>
         <NuxtLink to="/feedback" class="row">
           <IconFluentCommentEdit20Regular />
@@ -138,6 +142,10 @@ function onMouseLeave() {
         <div class="nav-item" @click="router.push('/articles')" :class="{ active: route.path?.includes('/articles') }">
           <IconFluentBookLetter20Regular />
           <span>{{ $t('articles') }}</span>
+        </div>
+        <div class="nav-item" @click="router.push('/phonetics')" :class="{ active: route.path?.includes('/phonetics') }">
+          <IconFluentSoundWaveCircle20Regular />
+          <span>{{ $t('phonetic') }}</span>
         </div>
         <div class="nav-item" @click="router.push('/setting')" :class="{ active: route.path === '/setting' }">
           <IconFluentSettings20Regular />

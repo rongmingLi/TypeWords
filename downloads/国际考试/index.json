@@ -1,0 +1,891 @@
+{
+  "category": "国际考试",
+  "source": "https://typewords.cc/dict-list",
+  "total_dicts": 88,
+  "successful_downloads": 88,
+  "failed_downloads": 0,
+  "total_words": 122850,
+  "total_size_bytes": 186663572,
+  "dictionaries": [
+    {
+      "id": "IELTSXDF7000",
+      "name": "100个句子记完7000个雅思单词",
+      "filename": "IELTS_XDF_7000.json",
+      "success": true,
+      "size_bytes": 7835217,
+      "words_count": 5474,
+      "expected_length": 5567,
+      "status": "downloaded"
+    },
+    {
+      "id": "bec3",
+      "name": "BEC",
+      "filename": "BEC_3_T.json",
+      "success": true,
+      "size_bytes": 4681072,
+      "words_count": 2824,
+      "expected_length": 2825,
+      "status": "downloaded"
+    },
+    {
+      "id": "gmat",
+      "name": "GMAT",
+      "filename": "GMAT_3_T.json",
+      "success": true,
+      "size_bytes": 4733465,
+      "words_count": 3047,
+      "expected_length": 3047,
+      "status": "downloaded"
+    },
+    {
+      "id": "gre",
+      "name": "GRE",
+      "filename": "GRE_3_T.json",
+      "success": true,
+      "size_bytes": 9074234,
+      "words_count": 6514,
+      "expected_length": 6515,
+      "status": "downloaded"
+    },
+    {
+      "id": "gre3000",
+      "name": "GRE3000",
+      "filename": "GRE3000_3_T.json",
+      "success": true,
+      "size_bytes": 4196464,
+      "words_count": 3036,
+      "expected_length": 3041,
+      "status": "downloaded"
+    },
+    {
+      "id": "GRE-computer-based-test",
+      "name": "GRE机经词汇",
+      "filename": "GRE-computer-based-test.json",
+      "success": true,
+      "size_bytes": 1955254,
+      "words_count": 1451,
+      "expected_length": 1451,
+      "status": "downloaded"
+    },
+    {
+      "id": "GRE_equivalent",
+      "name": "GRE等价词",
+      "filename": "GRE_equivalent.json",
+      "success": true,
+      "size_bytes": 1134993,
+      "words_count": 827,
+      "expected_length": 827,
+      "status": "downloaded"
+    },
+    {
+      "id": "GRE_ciyileiji",
+      "name": "GRE词以类记",
+      "filename": "gre-ciyileiji.json",
+      "success": true,
+      "size_bytes": 11618544,
+      "words_count": 8384,
+      "expected_length": 8785,
+      "status": "downloaded"
+    },
+    {
+      "id": "gre1500",
+      "name": "GRE重点1500词-fen哥",
+      "filename": "GRE_1500.json",
+      "success": true,
+      "size_bytes": 2314288,
+      "words_count": 1532,
+      "expected_length": 1533,
+      "status": "downloaded"
+    },
+    {
+      "id": "ielts",
+      "name": "IELTS",
+      "filename": "IELTS_3_T.json",
+      "success": true,
+      "size_bytes": 5760939,
+      "words_count": 3575,
+      "expected_length": 3575,
+      "status": "downloaded"
+    },
+    {
+      "id": "ielts_disorder",
+      "name": "IELTS乱序完整版",
+      "filename": "IELTS_disorder.json",
+      "success": true,
+      "size_bytes": 14849400,
+      "words_count": 9387,
+      "expected_length": 9389,
+      "status": "downloaded"
+    },
+    {
+      "id": "ket",
+      "name": "KET",
+      "filename": "ket2021.json",
+      "success": true,
+      "size_bytes": 1444028,
+      "words_count": 892,
+      "expected_length": 1147,
+      "status": "downloaded"
+    },
+    {
+      "id": "pet-2024",
+      "name": "PET-2024",
+      "filename": "pet-vacabulary-list-2024.json",
+      "success": true,
+      "size_bytes": 2815384,
+      "words_count": 1871,
+      "expected_length": 1871,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_Listening_apeuni.json",
+      "name": "PTE 听力FIB机经词汇 xingji",
+      "filename": "PTE_Listening_apeuni.json",
+      "success": true,
+      "size_bytes": 1112148,
+      "words_count": 674,
+      "expected_length": 674,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_junior",
+      "name": "PTE 基础词汇",
+      "filename": "PTE_junior.json",
+      "success": true,
+      "size_bytes": 4578914,
+      "words_count": 2651,
+      "expected_length": 2651,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_Basic_apeuni",
+      "name": "PTE 基础词汇 xingji",
+      "filename": "PTE_Basic_apeuni.json",
+      "success": true,
+      "size_bytes": 4418718,
+      "words_count": 2652,
+      "expected_length": 2652,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_Read_apeuni.json",
+      "name": "PTE 阅读FIB机经词汇 xingji",
+      "filename": "PTE_Read_apeuni.json",
+      "success": true,
+      "size_bytes": 893455,
+      "words_count": 630,
+      "expected_length": 630,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_senior",
+      "name": "PTE 高阶词汇",
+      "filename": "PTE_senior.json",
+      "success": true,
+      "size_bytes": 5022467,
+      "words_count": 3170,
+      "expected_length": 3170,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_Advanced_apeuni.json",
+      "name": "PTE 高阶词汇 xingji",
+      "filename": "PTE_Advanced_apeuni.json",
+      "success": true,
+      "size_bytes": 4821153,
+      "words_count": 3169,
+      "expected_length": 3169,
+      "status": "downloaded"
+    },
+    {
+      "id": "sat",
+      "name": "SAT",
+      "filename": "SAT_3_T.json",
+      "success": true,
+      "size_bytes": 6395519,
+      "words_count": 4463,
+      "expected_length": 4464,
+      "status": "downloaded"
+    },
+    {
+      "id": "toefl",
+      "name": "TOEFL",
+      "filename": "TOEFL_3_T.json",
+      "success": true,
+      "size_bytes": 6866119,
+      "words_count": 4263,
+      "expected_length": 4264,
+      "status": "downloaded"
+    },
+    {
+      "id": "TOEIC",
+      "name": "TOEIC 词汇",
+      "filename": "TOEIC.json",
+      "success": true,
+      "size_bytes": 2692904,
+      "words_count": 1694,
+      "expected_length": 1694,
+      "status": "downloaded"
+    },
+    {
+      "id": "voa",
+      "name": "VOA 基础词库",
+      "filename": "voa.json",
+      "success": true,
+      "size_bytes": 2805331,
+      "words_count": 1503,
+      "expected_length": 1505,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_WFD",
+      "name": "WFD 机经词汇",
+      "filename": "PTE_WFD.json",
+      "success": true,
+      "size_bytes": 1990362,
+      "words_count": 1212,
+      "expected_length": 1212,
+      "status": "downloaded"
+    },
+    {
+      "id": "heqiong",
+      "name": "heQiong雅思听力必考词汇",
+      "filename": "HeQiong_IELTS.json",
+      "success": true,
+      "size_bytes": 4169260,
+      "words_count": 2470,
+      "expected_length": 2529,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task1",
+      "name": "xdf听力 雅思中级直通车 day1",
+      "filename": "IELTS-listening-NewOrientalDirect-Task1.json",
+      "success": true,
+      "size_bytes": 54033,
+      "words_count": 44,
+      "expected_length": 44,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task10",
+      "name": "xdf听力 雅思中级直通车 day10",
+      "filename": "IELTS-listening-NewOrientalDirect-Task10.json",
+      "success": true,
+      "size_bytes": 71283,
+      "words_count": 44,
+      "expected_length": 44,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task11",
+      "name": "xdf听力 雅思中级直通车 day11",
+      "filename": "IELTS-listening-NewOrientalDirect-Task11.json",
+      "success": true,
+      "size_bytes": 52688,
+      "words_count": 36,
+      "expected_length": 36,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task12",
+      "name": "xdf听力 雅思中级直通车 day12",
+      "filename": "IELTS-listening-NewOrientalDirect-Task12.json",
+      "success": true,
+      "size_bytes": 62516,
+      "words_count": 45,
+      "expected_length": 45,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task13",
+      "name": "xdf听力 雅思中级直通车 day13",
+      "filename": "IELTS-listening-NewOrientalDirect-Task13.json",
+      "success": true,
+      "size_bytes": 63347,
+      "words_count": 49,
+      "expected_length": 49,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task14",
+      "name": "xdf听力 雅思中级直通车 day14",
+      "filename": "IELTS-listening-NewOrientalDirect-Task14.json",
+      "success": true,
+      "size_bytes": 62565,
+      "words_count": 46,
+      "expected_length": 46,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task15",
+      "name": "xdf听力 雅思中级直通车 day15",
+      "filename": "IELTS-listening-NewOrientalDirect-Task15.json",
+      "success": true,
+      "size_bytes": 42861,
+      "words_count": 29,
+      "expected_length": 29,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task16",
+      "name": "xdf听力 雅思中级直通车 day16",
+      "filename": "IELTS-listening-NewOrientalDirect-Task16.json",
+      "success": true,
+      "size_bytes": 70985,
+      "words_count": 42,
+      "expected_length": 42,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task17",
+      "name": "xdf听力 雅思中级直通车 day17",
+      "filename": "IELTS-listening-NewOrientalDirect-Task17.json",
+      "success": true,
+      "size_bytes": 38369,
+      "words_count": 22,
+      "expected_length": 22,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task18",
+      "name": "xdf听力 雅思中级直通车 day18",
+      "filename": "IELTS-listening-NewOrientalDirect-Task18.json",
+      "success": true,
+      "size_bytes": 58630,
+      "words_count": 37,
+      "expected_length": 37,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task19",
+      "name": "xdf听力 雅思中级直通车 day19",
+      "filename": "IELTS-listening-NewOrientalDirect-Task19.json",
+      "success": true,
+      "size_bytes": 39897,
+      "words_count": 26,
+      "expected_length": 26,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task2",
+      "name": "xdf听力 雅思中级直通车 day2",
+      "filename": "IELTS-listening-NewOrientalDirect-Task2.json",
+      "success": true,
+      "size_bytes": 47781,
+      "words_count": 33,
+      "expected_length": 33,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task3",
+      "name": "xdf听力 雅思中级直通车 day3",
+      "filename": "IELTS-listening-NewOrientalDirect-Task3.json",
+      "success": true,
+      "size_bytes": 54963,
+      "words_count": 33,
+      "expected_length": 33,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task4",
+      "name": "xdf听力 雅思中级直通车 day4",
+      "filename": "IELTS-listening-NewOrientalDirect-Task4.json",
+      "success": true,
+      "size_bytes": 54963,
+      "words_count": 33,
+      "expected_length": 33,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task5",
+      "name": "xdf听力 雅思中级直通车 day5",
+      "filename": "IELTS-listening-NewOrientalDirect-Task5.json",
+      "success": true,
+      "size_bytes": 44602,
+      "words_count": 38,
+      "expected_length": 38,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task6",
+      "name": "xdf听力 雅思中级直通车 day6",
+      "filename": "IELTS-listening-NewOrientalDirect-Task6.json",
+      "success": true,
+      "size_bytes": 38284,
+      "words_count": 33,
+      "expected_length": 33,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task7",
+      "name": "xdf听力 雅思中级直通车 day7",
+      "filename": "IELTS-listening-NewOrientalDirect-Task7.json",
+      "success": true,
+      "size_bytes": 68286,
+      "words_count": 39,
+      "expected_length": 39,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task8",
+      "name": "xdf听力 雅思中级直通车 day8",
+      "filename": "IELTS-listening-NewOrientalDirect-Task8.json",
+      "success": true,
+      "size_bytes": 45918,
+      "words_count": 32,
+      "expected_length": 32,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-NeworientalDirect-Task9",
+      "name": "xdf听力 雅思中级直通车 day9",
+      "filename": "IELTS-listening-NewOrientalDirect-Task9.json",
+      "success": true,
+      "size_bytes": 65282,
+      "words_count": 46,
+      "expected_length": 46,
+      "status": "downloaded"
+    },
+    {
+      "id": "ZaiYaoNiMing_GRE3000",
+      "name": "再要你命GRE3000",
+      "filename": "ZaiYaoNiMing_GRE3000.json",
+      "success": true,
+      "size_bytes": 4017626,
+      "words_count": 3041,
+      "expected_length": 3041,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_FIB_L",
+      "name": "听力 FIB 机经词汇",
+      "filename": "PTE_FIB_L.json",
+      "success": true,
+      "size_bytes": 1067238,
+      "words_count": 646,
+      "expected_length": 646,
+      "status": "downloaded"
+    },
+    {
+      "id": "bec2",
+      "name": "商务英语",
+      "filename": "BEC_2_T.json",
+      "success": true,
+      "size_bytes": 4615712,
+      "words_count": 2752,
+      "expected_length": 2753,
+      "status": "downloaded"
+    },
+    {
+      "id": "Duolingo_Vocabulary_B1",
+      "name": "多邻国分级词汇B1",
+      "filename": "Duolingo_Vocabulary_B1.json",
+      "success": true,
+      "size_bytes": 1358539,
+      "words_count": 801,
+      "expected_length": 801,
+      "status": "downloaded"
+    },
+    {
+      "id": "Duolingo_Vocabulary_B2",
+      "name": "多邻国分级词汇B2",
+      "filename": "Duolingo_Vocabulary_B2.json",
+      "success": true,
+      "size_bytes": 2349641,
+      "words_count": 1423,
+      "expected_length": 1423,
+      "status": "downloaded"
+    },
+    {
+      "id": "Duolingo_Vocabulary_C1",
+      "name": "多邻国分级词汇C1",
+      "filename": "Duolingo_Vocabulary_C1.json",
+      "success": true,
+      "size_bytes": 2100728,
+      "words_count": 1314,
+      "expected_length": 1314,
+      "status": "downloaded"
+    },
+    {
+      "id": "TOEFL_ZhangHongYan",
+      "name": "张红岩的TOEFL词汇书",
+      "filename": "TOEFL_ZhangHongYan.json",
+      "success": true,
+      "size_bytes": 6170364,
+      "words_count": 4032,
+      "expected_length": 4032,
+      "status": "downloaded"
+    },
+    {
+      "id": "Oxford3000",
+      "name": "牛津3000词",
+      "filename": "Oxford3000.json",
+      "success": true,
+      "size_bytes": 2256488,
+      "words_count": 1339,
+      "expected_length": 1342,
+      "status": "downloaded"
+    },
+    {
+      "id": "Oxford5000",
+      "name": "牛津5000词",
+      "filename": "Oxford5000.json",
+      "success": true,
+      "size_bytes": 8893623,
+      "words_count": 5497,
+      "expected_length": 5836,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTSKingLu807",
+      "name": "王陆807雅思词汇听力第2版",
+      "filename": "IELTSKingLu807.json",
+      "success": true,
+      "size_bytes": 3059796,
+      "words_count": 1852,
+      "expected_length": 1916,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_FIB_R_junior",
+      "name": "阅读 FIB 基础机经词汇",
+      "filename": "PTE_FIB_R_junior.json",
+      "success": true,
+      "size_bytes": 1578299,
+      "words_count": 941,
+      "expected_length": 941,
+      "status": "downloaded"
+    },
+    {
+      "id": "PTE_FIB_R_senior",
+      "name": "阅读 FIB 高阶机经词汇",
+      "filename": "PTE_FIB_R_senior.json",
+      "success": true,
+      "size_bytes": 1807756,
+      "words_count": 1272,
+      "expected_length": 1272,
+      "status": "downloaded"
+    },
+    {
+      "id": "ielts-real-1",
+      "name": "雅思 real 词汇 1",
+      "filename": "ielts-real-1.json",
+      "success": true,
+      "size_bytes": 1069743,
+      "words_count": 737,
+      "expected_length": 737,
+      "status": "downloaded"
+    },
+    {
+      "id": "ielts-real-2",
+      "name": "雅思 real 词汇 2",
+      "filename": "ielts-real-2.json",
+      "success": true,
+      "size_bytes": 637225,
+      "words_count": 402,
+      "expected_length": 402,
+      "status": "downloaded"
+    },
+    {
+      "id": "ielts-real-3",
+      "name": "雅思 real 词汇 3",
+      "filename": "ielts-real-3.json",
+      "success": true,
+      "size_bytes": 413867,
+      "words_count": 256,
+      "expected_length": 256,
+      "status": "downloaded"
+    },
+    {
+      "id": "ielts-real-4",
+      "name": "雅思 real 词汇 4",
+      "filename": "ielts-real-4.json",
+      "success": true,
+      "size_bytes": 331246,
+      "words_count": 201,
+      "expected_length": 201,
+      "status": "downloaded"
+    },
+    {
+      "id": "ielts-real-5",
+      "name": "雅思 real 词汇 5",
+      "filename": "ielts-real-5.json",
+      "success": true,
+      "size_bytes": 298392,
+      "words_count": 183,
+      "expected_length": 183,
+      "status": "downloaded"
+    },
+    {
+      "id": "ielts-real-high",
+      "name": "雅思 real 词汇 高频",
+      "filename": "ielts-real-high.json",
+      "success": true,
+      "size_bytes": 885480,
+      "words_count": 524,
+      "expected_length": 524,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-807",
+      "name": "雅思 wanglu 807",
+      "filename": "ielts-807.json",
+      "success": true,
+      "size_bytes": 5447839,
+      "words_count": 4113,
+      "expected_length": 4340,
+      "status": "downloaded"
+    },
+    {
+      "id": "ieltsWang11",
+      "name": "雅思wang C11",
+      "filename": "IELTS_WANG_11.json",
+      "success": true,
+      "size_bytes": 1843261,
+      "words_count": 1611,
+      "expected_length": 1738,
+      "status": "downloaded"
+    },
+    {
+      "id": "ieltsWang3",
+      "name": "雅思wang C3",
+      "filename": "IELTS_WANG_3.json",
+      "success": true,
+      "size_bytes": 1938162,
+      "words_count": 1134,
+      "expected_length": 1135,
+      "status": "downloaded"
+    },
+    {
+      "id": "ieltsWang4",
+      "name": "雅思wang C4",
+      "filename": "IELTS_WANG_4.json",
+      "success": true,
+      "size_bytes": 575256,
+      "words_count": 346,
+      "expected_length": 346,
+      "status": "downloaded"
+    },
+    {
+      "id": "ieltsWang5",
+      "name": "雅思wang C5",
+      "filename": "IELTS_WANG_5.json",
+      "success": true,
+      "size_bytes": 1532407,
+      "words_count": 1568,
+      "expected_length": 1569,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS_tinglichangjing",
+      "name": "雅思听力场景词汇",
+      "filename": "IELTS_tinglichangjing.json",
+      "success": true,
+      "size_bytes": 1532891,
+      "words_count": 1204,
+      "expected_length": 1204,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-1",
+      "name": "雅思听力词汇18天 day1",
+      "filename": "IELTS-listening-18days-day1.json",
+      "success": true,
+      "size_bytes": 118113,
+      "words_count": 74,
+      "expected_length": 74,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-10",
+      "name": "雅思听力词汇18天 day10",
+      "filename": "IELTS-listening-18days-day10.json",
+      "success": true,
+      "size_bytes": 52755,
+      "words_count": 33,
+      "expected_length": 33,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-11",
+      "name": "雅思听力词汇18天 day11",
+      "filename": "IELTS-listening-18days-day11.json",
+      "success": true,
+      "size_bytes": 87380,
+      "words_count": 52,
+      "expected_length": 52,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-12",
+      "name": "雅思听力词汇18天 day12",
+      "filename": "IELTS-listening-18days-day12.json",
+      "success": true,
+      "size_bytes": 130657,
+      "words_count": 77,
+      "expected_length": 77,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-13",
+      "name": "雅思听力词汇18天 day13",
+      "filename": "IELTS-listening-18days-day13.json",
+      "success": true,
+      "size_bytes": 130405,
+      "words_count": 78,
+      "expected_length": 78,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-14",
+      "name": "雅思听力词汇18天 day14",
+      "filename": "IELTS-listening-18days-day14.json",
+      "success": true,
+      "size_bytes": 122773,
+      "words_count": 76,
+      "expected_length": 76,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-15",
+      "name": "雅思听力词汇18天 day15",
+      "filename": "IELTS-listening-18days-day15.json",
+      "success": true,
+      "size_bytes": 122859,
+      "words_count": 77,
+      "expected_length": 77,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-16",
+      "name": "雅思听力词汇18天 day16",
+      "filename": "IELTS-listening-18days-day16.json",
+      "success": true,
+      "size_bytes": 124301,
+      "words_count": 77,
+      "expected_length": 77,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-17",
+      "name": "雅思听力词汇18天 day17",
+      "filename": "IELTS-listening-18days-day17.json",
+      "success": true,
+      "size_bytes": 78528,
+      "words_count": 46,
+      "expected_length": 46,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-18",
+      "name": "雅思听力词汇18天 day18",
+      "filename": "IELTS-listening-18days-day18.json",
+      "success": true,
+      "size_bytes": 126360,
+      "words_count": 76,
+      "expected_length": 76,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-2",
+      "name": "雅思听力词汇18天 day2",
+      "filename": "IELTS-listening-18days-day2.json",
+      "success": true,
+      "size_bytes": 111364,
+      "words_count": 77,
+      "expected_length": 77,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-3",
+      "name": "雅思听力词汇18天 day3",
+      "filename": "IELTS-listening-18days-day3.json",
+      "success": true,
+      "size_bytes": 124203,
+      "words_count": 77,
+      "expected_length": 77,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-4",
+      "name": "雅思听力词汇18天 day4",
+      "filename": "IELTS-listening-18days-day4.json",
+      "success": true,
+      "size_bytes": 126913,
+      "words_count": 73,
+      "expected_length": 73,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-5",
+      "name": "雅思听力词汇18天 day5",
+      "filename": "IELTS-listening-18days-day5.json",
+      "success": true,
+      "size_bytes": 114171,
+      "words_count": 76,
+      "expected_length": 76,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-6",
+      "name": "雅思听力词汇18天 day6",
+      "filename": "IELTS-listening-18days-day6.json",
+      "success": true,
+      "size_bytes": 129773,
+      "words_count": 77,
+      "expected_length": 77,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-7",
+      "name": "雅思听力词汇18天 day7",
+      "filename": "IELTS-listening-18days-day7.json",
+      "success": true,
+      "size_bytes": 111568,
+      "words_count": 75,
+      "expected_length": 75,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-8",
+      "name": "雅思听力词汇18天 day8",
+      "filename": "IELTS-listening-18days-day8.json",
+      "success": true,
+      "size_bytes": 122229,
+      "words_count": 75,
+      "expected_length": 75,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTS-listening-18-days-9",
+      "name": "雅思听力词汇18天 day9",
+      "filename": "IELTS-listening-18days-day9.json",
+      "success": true,
+      "size_bytes": 135928,
+      "words_count": 76,
+      "expected_length": 76,
+      "status": "downloaded"
+    },
+    {
+      "id": "IELTSVocabularyBible",
+      "name": "雅思词汇真经",
+      "filename": "IELTSVocabularyBible.json",
+      "success": true,
+      "size_bytes": 6021090,
+      "words_count": 3673,
+      "expected_length": 3673,
+      "status": "downloaded"
+    },
+    {
+      "id": "DuckCircle_IELTS",
+      "name": "鸭圈雅思核心词",
+      "filename": "DuckCircle_IELTS.json",
+      "success": true,
+      "size_bytes": 3573738,
+      "words_count": 2644,
+      "expected_length": 2644,
+      "status": "downloaded"
+    }
+  ]
+}

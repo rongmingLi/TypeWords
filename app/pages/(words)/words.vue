@@ -27,12 +27,13 @@ import {
   resourceWrap,
   type ShufflePracticeSetting,
   total,
-  useNav,
+  useNav, syncSavedDictMetadata, removeUnavailableOfficialDictionaries,
 } from '@/core/utils'
 import type { DictResource, Statistics } from '@/core/types/types.ts'
 import { onMounted, onUnmounted, watch } from 'vue'
 import { useRuntimeStore } from '@/core/stores/runtime.ts'
 import Book from '@/components/Book.vue'
+import WordStudyHeader from '@/components/word/WordStudyHeader.vue'
 import { getDefaultDict } from '@/core/types/func.ts'
 import PracticeSettingDialog from '@/components/word/PracticeSettingDialog.vue'
 import ChangeLastPracticeIndexDialog from '@/components/word/ChangeLastPracticeIndexDialog.vue'
@@ -214,10 +215,13 @@ async function init() {
   document.removeEventListener('visibilitychange', onvisibilitychange)
   document.addEventListener('visibilitychange', onvisibilitychange)
 
+  const dictList = await fetch(resourceWrap(DICT_LIST.WORD.ALL)).then(r => r.json())
+  store.word.studyIndex = removeUnavailableOfficialDictionaries(store.word.bookList, dictList, store.word.studyIndex)
+  syncSavedDictMetadata(store.word.bookList.slice(3), dictList)
+
   let studyIndex = store.word.studyIndex
   if (studyIndex >= 3) {
     if (!store.sdict.custom && !store.sdict.words.length) {
-      let dictList = await fetch(resourceWrap(DICT_LIST.WORD.ALL)).then(r => r.json())
       let dict = await _getDictDataByUrl(store.sdict)
       let r = dictList.find(v => [v.enName, v.id].includes(store.sdict.id))
       if (r) {
@@ -568,14 +572,7 @@ onUnmounted(() => {
 
     <div class="card flex flex-col md:flex-row gap-4">
       <div class="flex-1 flex flex-col justify-between">
-        <div class="flex gap-3">
-          <div class="p-1 center rounded-full bg-white">
-            <IconFluentBookNumber20Filled class="text-xl color-link" />
-          </div>
-          <div @click="goDictDetail(store.sdict)" class="text-2xl font-bold cursor-pointer">
-            {{ store.sdict.name || $t('no_dict_selected') }}
-          </div>
-        </div>
+        <WordStudyHeader :name="store.sdict.name" @open-dictionary="goDictDetail(store.sdict)" />
 
         <template v-if="store.sdict.id">
           <div class="mt-4 space-y-2">

@@ -1,0 +1,9118 @@
+[
+  {
+    "id": 10001,
+    "word": "where",
+    "phonetic0": "weə(r)",
+    "phonetic1": "wer",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在哪里；到哪里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where are you from?",
+        "cn": "你来自哪里？"
+      },
+      {
+        "c": "Mum, where is my animal book?",
+        "cn": "妈妈，我的动物书在哪里？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "where it is",
+        "cn": "[口]问题的关键所在；实际情况"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第4页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10002,
+    "word": "from",
+    "phonetic0": "frɒm; frəm",
+    "phonetic1": "frʌm; frəm",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（表示来源）来自，从……来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where are you from?",
+        "cn": "你来自哪里？"
+      },
+      {
+        "c": "I'm from the UK.",
+        "cn": "我来自英国。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "out from",
+        "cn": "从…中迸出"
+      },
+      {
+        "c": "from then on",
+        "cn": "从那时起"
+      },
+      {
+        "c": "go from",
+        "cn": "从…处出发"
+      },
+      {
+        "c": "to and from",
+        "cn": "往返；来来回回"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第4页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10003,
+    "word": "about",
+    "phonetic0": "əˈbaʊt",
+    "phonetic1": "əˈbaʊt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "关于；大约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What about this?",
+        "cn": "这个怎么样？"
+      },
+      {
+        "c": "How about three for sixteen yuan?",
+        "cn": "十六元三个怎么样？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "how about",
+        "cn": "你认为…怎样"
+      },
+      {
+        "c": "what about",
+        "cn": "怎么样；（对于）…怎么样"
+      },
+      {
+        "c": "all about",
+        "cn": "到处，各处；关于…的一切"
+      },
+      {
+        "c": "about us",
+        "cn": "关于我们；公司简介"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第4页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10004,
+    "word": "today",
+    "phonetic0": "təˈdeɪ",
+    "phonetic1": "təˈdeɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "今天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welcome back to school today!",
+        "cn": "今天欢迎回到学校！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "usa today",
+        "cn": "《今日美国》（英文读物）"
+      },
+      {
+        "c": "what day is today",
+        "cn": "今天是星期几"
+      },
+      {
+        "c": "english today",
+        "cn": "今日英语"
+      },
+      {
+        "c": "today show",
+        "cn": "今日秀（美国NBC节目名称）"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第5页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10005,
+    "word": "teacher",
+    "phonetic0": "ˈtiːtʃə(r)",
+    "phonetic1": "ˈtiːtʃər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "教师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Miss White is our English teacher.",
+        "cn": "白老师是我们的英语老师。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "english teacher",
+        "cn": "英语教师"
+      },
+      {
+        "c": "good teacher",
+        "cn": "良师，好老师"
+      },
+      {
+        "c": "teacher education",
+        "cn": "教师教育；师范教育"
+      },
+      {
+        "c": "teacher training",
+        "cn": "教师培训；师资训练"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "教师；导师",
+        "ws": [
+          "master",
+          "educator"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第5页"
+      }
+    ],
+    "relWords": {
+      "root": "teach",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "teachable",
+              "cn": "可教的；驯良的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "teaching",
+              "cn": "教学；教义"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "teaching",
+              "cn": "教学；教导（teach的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "teach",
+              "cn": "教授；讲授；当老师"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "teach",
+              "cn": "教；教授；教导"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10006,
+    "word": "student",
+    "phonetic0": "ˈstjuːd(ə)nt",
+    "phonetic1": "ˈstuːd(ə)nt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "学生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am a student.",
+        "cn": "我是一名学生。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "college student",
+        "cn": "大学生"
+      },
+      {
+        "c": "university student",
+        "cn": "大学生"
+      },
+      {
+        "c": "graduate student",
+        "cn": "研究生；毕业生"
+      },
+      {
+        "c": "good student",
+        "cn": "好学生"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "学生",
+        "ws": [
+          "pupil",
+          "learner"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第5页"
+      }
+    ],
+    "relWords": {
+      "root": "student",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "studentship",
+              "cn": "学生身分；（英）奖学金"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10007,
+    "word": "after",
+    "phonetic0": "ˈɑːftə(r)",
+    "phonetic1": "ˈæftər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……后面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me help. After you!",
+        "cn": "让我来帮忙。您先请！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "after all",
+        "cn": "毕竟；终究"
+      },
+      {
+        "c": "go after",
+        "cn": "追求，追逐"
+      },
+      {
+        "c": "ever after",
+        "cn": "从此以后一直"
+      },
+      {
+        "c": "after hours",
+        "cn": "下班；工作完毕后"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "在……之后",
+        "ws": [
+          "behind",
+          "later than"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第7页"
+      }
+    ],
+    "relWords": {
+      "root": "after",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "aftermost",
+              "cn": "最后的；最后部的；最靠近船尾的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "afterward",
+              "cn": "以后，后来"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10008,
+    "word": "who",
+    "phonetic0": "huː",
+    "phonetic1": "huː",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "谁；什么人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who's that girl?",
+        "cn": "那个女孩是谁？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "as who",
+        "cn": "[古语]像是…的人"
+      },
+      {
+        "c": "who's who",
+        "cn": "名人（总称）；名人录"
+      },
+      {
+        "c": "who is who",
+        "cn": "谁是谁；名人录"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第7页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10009,
+    "word": "girl",
+    "phonetic0": "ɡɜːl",
+    "phonetic1": "ɡɜːrl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "女孩"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who's that girl?",
+        "cn": "那个女孩是谁？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "beautiful girl",
+        "cn": "美丽姑娘"
+      },
+      {
+        "c": "pretty girl",
+        "cn": "漂亮女孩"
+      },
+      {
+        "c": "girl friend",
+        "cn": "女朋友"
+      },
+      {
+        "c": "good girl",
+        "cn": "好女孩，好姑娘"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "女孩",
+        "ws": [
+          "maiden",
+          "lass"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第7页"
+      }
+    ],
+    "relWords": {
+      "root": "girl",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "girlish",
+              "cn": "少女的；适于女子的；少女似的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "girlishly",
+              "cn": "少女似地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "girlhood",
+              "cn": "少女时期"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10010,
+    "word": "neighbour",
+    "phonetic0": "ˈneɪbə(r)",
+    "phonetic1": "ˈneɪbər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "邻居"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's our new neighbour, Amy.",
+        "cn": "那是我们的新邻居艾米。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第7页"
+      }
+    ],
+    "relWords": {
+      "root": "neighbor",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "neighbor",
+              "cn": "邻近的"
+            },
+            {
+              "c": "neighboring",
+              "cn": "邻近的；附近的（等于neighbouring）"
+            },
+            {
+              "c": "neighbouring",
+              "cn": "邻近的；附近的；接壤的"
+            },
+            {
+              "c": "neighborly",
+              "cn": "睦邻的；友好的；邻居似的"
+            },
+            {
+              "c": "neighbourly",
+              "cn": "像邻居的；亲切的；睦邻的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "neighbor",
+              "cn": "邻居"
+            },
+            {
+              "c": "neighbourhood",
+              "cn": "邻近；周围；邻居关系；附近一带"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "neighboring",
+              "cn": "与…为邻；位于附近（neighbor的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "neighbor",
+              "cn": "友好；毗邻而居"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "neighbor",
+              "cn": "邻接"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10011,
+    "word": "boy",
+    "phonetic0": "bɔɪ",
+    "phonetic1": "bɔɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "男孩"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who's that boy?",
+        "cn": "那个男孩是谁？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "little boy",
+        "cn": "小男孩"
+      },
+      {
+        "c": "boy friend",
+        "cn": "男朋友"
+      },
+      {
+        "c": "big boy",
+        "cn": "大亨，大人物"
+      },
+      {
+        "c": "baby boy",
+        "cn": "男婴；小男孩"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "男孩",
+        "ws": [
+          "lad",
+          "fellow"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第8页"
+      }
+    ],
+    "relWords": {
+      "root": "boy",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "boyish",
+              "cn": "男孩的；孩子气的；（女孩）像男孩的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "boyhood",
+              "cn": "童年，少年时代；男孩们"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10012,
+    "word": "woman",
+    "phonetic0": "ˈwʊmən",
+    "phonetic1": "ˈwʊmən",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "成年女子；妇女"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who's that woman?",
+        "cn": "那位女士是谁？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "old woman",
+        "cn": "[口]老婆；[口]母亲；婆婆妈妈的人；挑剔而胆小的人"
+      },
+      {
+        "c": "beautiful woman",
+        "cn": "美人；漂亮的女人"
+      },
+      {
+        "c": "pregnant woman",
+        "cn": "孕妇"
+      },
+      {
+        "c": "pretty woman",
+        "cn": "漂亮女人；漂亮的女人"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "成年女子；妇女",
+        "ws": [
+          "female",
+          "lady"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第8页"
+      }
+    ],
+    "relWords": {
+      "root": "woman",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "womanish",
+              "cn": "女子气的；柔弱的；适于女子的"
+            },
+            {
+              "c": "womanlike",
+              "cn": "像女人的，女子似的"
+            },
+            {
+              "c": "womanly",
+              "cn": "像女人的；有女子气质的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "womanlike",
+              "cn": "女人般地"
+            },
+            {
+              "c": "womanly",
+              "cn": "像女人地；适合于妇女地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "womanizer",
+              "cn": "玩弄女性者；沉溺于女色的人"
+            },
+            {
+              "c": "womanhood",
+              "cn": "女人；女人气质；女子成年期"
+            },
+            {
+              "c": "womaniser",
+              "cn": "玩女人的男人（等于womanizer）"
+            },
+            {
+              "c": "womanliness",
+              "cn": "女性气质"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "womanise",
+              "cn": "追求女色；与女人私通"
+            },
+            {
+              "c": "womanize",
+              "cn": "与女人私通；玩女人"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "womanise",
+              "cn": "使女性化（等于womanize）"
+            },
+            {
+              "c": "womanize",
+              "cn": "使女性化；使柔弱"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10013,
+    "word": "man",
+    "phonetic0": "mæn",
+    "phonetic1": "mæn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "成年男子；男人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who's that man?",
+        "cn": "那位男士是谁？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "old man",
+        "cn": "情人；丈夫；老头子；父亲"
+      },
+      {
+        "c": "young man",
+        "cn": "青年；未婚夫；男友"
+      },
+      {
+        "c": "no man",
+        "cn": "没有人；[口]老喜欢唱反调的人（等于no-man）"
+      },
+      {
+        "c": "wise man",
+        "cn": "哲人；魔术师"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "成年男子；男人",
+        "ws": [
+          "male",
+          "gentleman"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第8页"
+      }
+    ],
+    "relWords": {
+      "root": "man",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "manly",
+              "cn": "男子气概的；强壮的；适于男人的"
+            },
+            {
+              "c": "manned",
+              "cn": "有人驾驶的；有人操纵的；配备齐船员的"
+            },
+            {
+              "c": "manful",
+              "cn": "勇敢的；果断的；有男子气概的"
+            },
+            {
+              "c": "manless",
+              "cn": "无人的；没有男子的；卑鄙的；残忍的"
+            },
+            {
+              "c": "manlike",
+              "cn": "有男子气概的，像男人的；像人的（形容动物）"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "manly",
+              "cn": "雄赳赳地"
+            },
+            {
+              "c": "manfully",
+              "cn": "男子气概地；雄伟地"
+            },
+            {
+              "c": "manlike",
+              "cn": "有男子气概地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "management",
+              "cn": "管理；管理人员；管理部门；操纵；经营手段"
+            },
+            {
+              "c": "manager",
+              "cn": "经理；管理人员"
+            },
+            {
+              "c": "manhood",
+              "cn": "成年；男子；男子气概"
+            },
+            {
+              "c": "manliness",
+              "cn": "男子气概；勇敢；刚毅"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "manned",
+              "cn": "给…配备人员（man的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10014,
+    "word": "Mr",
+    "phonetic0": "ˈmɪstə(r)",
+    "phonetic1": "ˈmɪstər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（用于男子的姓氏或姓名前）先生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is Mr Jones.",
+        "cn": "这是琼斯先生。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mr right",
+        "cn": "白马王子；如意郎君；对先生；理想的丈夫"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第8页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10015,
+    "word": "classmate",
+    "phonetic0": "ˈklɑːsmeɪt",
+    "phonetic1": "ˈklæsmeɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "同班同学"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is my classmate.",
+        "cn": "他是我的同班同学。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "同班同学",
+        "ws": [
+          "schoolmate"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第9页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10016,
+    "word": "he",
+    "phonetic0": "hiː; hi",
+    "phonetic1": "hiː; hi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "他"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is from Canada.",
+        "cn": "他来自加拿大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第9页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10017,
+    "word": "also",
+    "phonetic0": "ˈɔːlsəʊ",
+    "phonetic1": "ˈɔːlsoʊ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "也"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am also from China.",
+        "cn": "我也来自中国。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "but also",
+        "cn": "不仅……而且…… 并且；表强调"
+      },
+      {
+        "c": "as also",
+        "cn": "同样；照样"
+      },
+      {
+        "c": "see also",
+        "cn": "参见；另请参阅"
+      },
+      {
+        "c": "also notify",
+        "cn": "另请通知"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "也；同样",
+        "ws": [
+          "too",
+          "as well",
+          "either"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第9页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10018,
+    "word": "English",
+    "phonetic0": "ˈɪŋɡlɪʃ",
+    "phonetic1": "ˈɪŋɡlɪʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "英语的；英语"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like English.",
+        "cn": "我喜欢英语。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in english",
+        "cn": "用英语"
+      },
+      {
+        "c": "learn english",
+        "cn": "学习英语"
+      },
+      {
+        "c": "speak english",
+        "cn": "说英语；讲英语"
+      },
+      {
+        "c": "learning english",
+        "cn": "学习英语"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第9页"
+      }
+    ],
+    "relWords": {
+      "root": "English",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "England",
+              "cn": "英格兰；英国"
+            },
+            {
+              "c": "Englander",
+              "cn": "英国人；英格兰人"
+            },
+            {
+              "c": "Englisher",
+              "cn": "英国人；英语译者；将另一种文字译成英文者"
+            },
+            {
+              "c": "Englishism",
+              "cn": "英国方式；英语语法；英国精神"
+            },
+            {
+              "c": "Englishman",
+              "cn": "英国人"
+            },
+            {
+              "c": "Englishness",
+              "cn": "英国人作风；英国风格"
+            },
+            {
+              "c": "Englishwoman",
+              "cn": "英国女人；英格兰妇女"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "Englishize",
+              "cn": "使…英国化"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10019,
+    "word": "she",
+    "phonetic0": "ʃiː; ʃi",
+    "phonetic1": "ʃiː; ʃi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "她"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She is our new neighbour.",
+        "cn": "她是我们的新邻居。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第9页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10020,
+    "word": "very",
+    "phonetic0": "ˈveri",
+    "phonetic1": "ˈveri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "很；非常；十分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thank you very much.",
+        "cn": "非常感谢你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thank you very much",
+        "cn": "非常感谢"
+      },
+      {
+        "c": "from the very beginning",
+        "cn": "从最初开始（首先）"
+      },
+      {
+        "c": "at the very beginning",
+        "cn": "最初；就在刚刚开始；在刚开始的时候；起初；在一开始"
+      },
+      {
+        "c": "at the very least",
+        "cn": "至少；起码；一点"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "很；非常",
+        "ws": [
+          "pretty",
+          "quite",
+          "really",
+          "greatly"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第9页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10021,
+    "word": "UK",
+    "phonetic0": "ˌjuː ˈkeɪ",
+    "phonetic1": "ˌjuː ˈkeɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "英国"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm from the UK.",
+        "cn": "我来自英国。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "across the uk",
+        "cn": "横跨英国"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第4页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10022,
+    "word": "China",
+    "phonetic0": "ˈtʃaɪnə",
+    "phonetic1": "ˈtʃaɪnə",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "中国"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am from China.",
+        "cn": "我来自中国。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in china",
+        "cn": "在中国"
+      },
+      {
+        "c": "people's republic of china",
+        "cn": "中华人民共和国"
+      },
+      {
+        "c": "communist party of china",
+        "cn": "中国共产党"
+      },
+      {
+        "c": "mainland china",
+        "cn": "中国大陆；中国内地"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第4页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10023,
+    "word": "Canada",
+    "phonetic0": "ˈkænədə",
+    "phonetic1": "ˈkænədə",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "加拿大"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is from Canada.",
+        "cn": "他来自加拿大。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "air canada",
+        "cn": "加拿大航空公司"
+      },
+      {
+        "c": "statistics canada",
+        "cn": "加拿大统计局"
+      },
+      {
+        "c": "canada day",
+        "cn": "加拿大国庆日"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第5页"
+      }
+    ],
+    "relWords": {
+      "root": "Canada",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "Canadian",
+              "cn": "加拿大（人）的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "Canadian",
+              "cn": "加拿大人"
+            },
+            {
+              "c": "Canadien",
+              "cn": "法裔加拿大人；在加拿大的法国移民"
+            },
+            {
+              "c": "Canadienne",
+              "cn": "法裔加拿大女子"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "Canadianize",
+              "cn": "加拿大化"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "Canadianize",
+              "cn": "使加拿大化"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10024,
+    "word": "USA",
+    "phonetic0": "ˌjuː es ˈeɪ",
+    "phonetic1": "ˌjuː es ˈeɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "美国"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She is from the USA.",
+        "cn": "她来自美国。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "usa today",
+        "cn": "《今日美国》（英文读物）"
+      },
+      {
+        "c": "made in usa",
+        "cn": "美国制造；美国生产"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第5页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10025,
+    "word": "has",
+    "phonetic0": "hæz; həz",
+    "phonetic1": "hæz; həz",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（have的第三人称单数形式）具有（某种外表、特性或特征）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It has a long body and short legs.",
+        "cn": "它长着长长的身体和短短的腿。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "has been",
+        "cn": "已经"
+      },
+      {
+        "c": "has got",
+        "cn": "有（用于第三人称单数）"
+      },
+      {
+        "c": "has yet to",
+        "cn": "有待"
+      },
+      {
+        "c": "has gone to",
+        "cn": "去了某地"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第16页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10026,
+    "word": "long",
+    "phonetic0": "lɒŋ",
+    "phonetic1": "lɔːŋ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（长度或距离）长的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It has a long body and short legs.",
+        "cn": "它长着长长的身体和短短的腿。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "no longer",
+        "cn": "不再"
+      },
+      {
+        "c": "as long as",
+        "cn": "只要；和…一样长"
+      },
+      {
+        "c": "long time",
+        "cn": "长期的（持久的）；长时间；好久好久"
+      },
+      {
+        "c": "for long",
+        "cn": "长久"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "长的",
+        "ws": [
+          "extended",
+          "lengthy"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第16页"
+      }
+    ],
+    "relWords": {
+      "root": "long",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "lengthy",
+              "cn": "漫长的，冗长的；啰唆的"
+            },
+            {
+              "c": "longing",
+              "cn": "渴望的，极想得到的"
+            },
+            {
+              "c": "lengthwise",
+              "cn": "纵长的"
+            },
+            {
+              "c": "longish",
+              "cn": "稍长的；略长的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "lengthwise",
+              "cn": "纵长地"
+            },
+            {
+              "c": "lengthily",
+              "cn": "冗长地；长地"
+            },
+            {
+              "c": "longingly",
+              "cn": "渴望地"
+            },
+            {
+              "c": "longwise",
+              "cn": "纵长地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "length",
+              "cn": "长度，长；时间的长短；（语）音长"
+            },
+            {
+              "c": "longing",
+              "cn": "渴望，热望；憧憬"
+            },
+            {
+              "c": "lengthiness",
+              "cn": "冗长"
+            },
+            {
+              "c": "longness",
+              "cn": "长度"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "longing",
+              "cn": "渴望（long的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "lengthen",
+              "cn": "延长；变长"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "lengthen",
+              "cn": "使延长；加长"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10027,
+    "word": "body",
+    "phonetic0": "ˈbɒdi",
+    "phonetic1": "ˈbɑːdi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "身体"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It has a long body and short legs.",
+        "cn": "它长着长长的身体和短短的腿。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "main body",
+        "cn": "主体，主要部分；主船体；机身"
+      },
+      {
+        "c": "human body",
+        "cn": "人体"
+      },
+      {
+        "c": "in a body",
+        "cn": "全体，整体"
+      },
+      {
+        "c": "whole body",
+        "cn": "全身"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "身体",
+        "ws": [
+          "figure",
+          "frame"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第16页"
+      }
+    ],
+    "relWords": {
+      "root": "bod",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "bodily",
+              "cn": "身体的；肉体的"
+            },
+            {
+              "c": "bod",
+              "cn": "很好的"
+            },
+            {
+              "c": "bodied",
+              "cn": "有形的；有躯体的"
+            },
+            {
+              "c": "bodiless",
+              "cn": "无形的，无躯体的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "bodily",
+              "cn": "整体地；亲自地；以肉体形式"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "bod",
+              "cn": "人；身体；[冶] 泥塞"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "bodied",
+              "cn": "赋…以形体；体现（body的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10028,
+    "word": "short",
+    "phonetic0": "ʃɔːt",
+    "phonetic1": "ʃɔːrt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "短的；个子矮的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It has a long body and short legs.",
+        "cn": "它长着长长的身体和短短的腿。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "short of",
+        "cn": "缺乏；不足；除…以外"
+      },
+      {
+        "c": "in short",
+        "cn": "总之；简言之"
+      },
+      {
+        "c": "for short",
+        "cn": "简称；缩写"
+      },
+      {
+        "c": "short time",
+        "cn": "短时间；不足的工时"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "短的；矮的",
+        "ws": [
+          "little",
+          "low",
+          "brief"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第16页"
+      }
+    ],
+    "relWords": {
+      "root": "short",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "shortish",
+              "cn": "显得短的；稍短的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "shortly",
+              "cn": "立刻；简短地；唐突地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "shortage",
+              "cn": "缺乏，缺少；不足"
+            },
+            {
+              "c": "shortening",
+              "cn": "缩短；起酥油；缩略词"
+            },
+            {
+              "c": "shortness",
+              "cn": "不足；简略"
+            },
+            {
+              "c": "shortener",
+              "cn": "缩短器；搅面机；油缩机"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "shortening",
+              "cn": "缩短（shorten的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "shorten",
+              "cn": "缩短；变短"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "shorten",
+              "cn": "缩短；减少；变短"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10029,
+    "word": "leg",
+    "phonetic0": "leɡ",
+    "phonetic1": "leɡ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "腿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It has a long body and short legs.",
+        "cn": "它长着长长的身体和短短的腿。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the leg",
+        "cn": "(狗)腿长的"
+      },
+      {
+        "c": "break a leg",
+        "cn": "祝好运；大获成功（用于祝愿演员演出成功）"
+      },
+      {
+        "c": "leg up",
+        "cn": "帮助（对上马或跨跃障碍时的）"
+      },
+      {
+        "c": "shake a leg",
+        "cn": "赶快；跳舞；迅速行动"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第16页"
+      }
+    ],
+    "relWords": {
+      "root": "leg",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "legged",
+              "cn": "有腿的"
+            },
+            {
+              "c": "leggy",
+              "cn": "长腿的；茎长的；腿细长的"
+            },
+            {
+              "c": "legless",
+              "cn": "无腿的；醉醺醺的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "legger",
+              "cn": "织袜统工人；用腿蹬洞壁使船过运河隧洞的人"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "legged",
+              "cn": "奔走；用脚移动或推动（leg的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10030,
+    "word": "right",
+    "phonetic0": "raɪt",
+    "phonetic1": "raɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（意见或判断）准确，确切，恰当"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You're right!",
+        "cn": "你说得对！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "right now",
+        "cn": "就是现在，马上"
+      },
+      {
+        "c": "all right",
+        "cn": "好；顺利；正确的"
+      },
+      {
+        "c": "property right",
+        "cn": "产权"
+      },
+      {
+        "c": "right away",
+        "cn": "立刻"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "正确的",
+        "ws": [
+          "correct",
+          "proper",
+          "true"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第16页"
+      }
+    ],
+    "relWords": {
+      "root": "right",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "righteous",
+              "cn": "正义的；正直的；公正的"
+            },
+            {
+              "c": "rightful",
+              "cn": "合法的；正当的；公正的；正直的"
+            },
+            {
+              "c": "rightmost",
+              "cn": "最右边的；最右面的"
+            },
+            {
+              "c": "rightist",
+              "cn": "右派的；右翼的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "rightly",
+              "cn": "正确地；恰当地；公正地；合适地"
+            },
+            {
+              "c": "rightfully",
+              "cn": "正当地；正直地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "righteousness",
+              "cn": "正义；正直；公正；正当"
+            },
+            {
+              "c": "rightness",
+              "cn": "公正；正直；廉正；贴切"
+            },
+            {
+              "c": "rightfulness",
+              "cn": "公正；合理；正直"
+            },
+            {
+              "c": "rightism",
+              "cn": "右派观点；右派纲领"
+            },
+            {
+              "c": "rightist",
+              "cn": "右派人士"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10031,
+    "word": "fat",
+    "phonetic0": "fæt",
+    "phonetic1": "fæt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "肥的；肥胖的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bear is fat.",
+        "cn": "这只熊胖乎乎的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fat chance",
+        "cn": "[美口]希望渺茫；很少可能（作反语）"
+      },
+      {
+        "c": "body fat",
+        "cn": "体脂肪；体脂重"
+      },
+      {
+        "c": "blood fat",
+        "cn": "血脂"
+      },
+      {
+        "c": "low fat",
+        "cn": "低脂"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "肥胖的",
+        "ws": [
+          "plump",
+          "stout"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第17页"
+      }
+    ],
+    "relWords": {
+      "root": "fat",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "fatty",
+              "cn": "脂肪的；肥胖的；多脂肪的；脂肪过多的"
+            },
+            {
+              "c": "fattening",
+              "cn": "正被养肥的；用于养肥禽畜的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "fatly",
+              "cn": "象胖子般地；丰富地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "fatty",
+              "cn": "胖子"
+            },
+            {
+              "c": "fatness",
+              "cn": "肥胖，油腻；肥沃"
+            },
+            {
+              "c": "fattiness",
+              "cn": "脂肪；脂肪质；多脂肪"
+            },
+            {
+              "c": "fatting",
+              "cn": "去脂"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "fattening",
+              "cn": "养肥（fatten的ing形式）"
+            },
+            {
+              "c": "fatting",
+              "cn": "使肥胖（fat的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "fatten",
+              "cn": "养肥；（靠…）发财"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "fatten",
+              "cn": "养肥；使肥沃；使充实"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10032,
+    "word": "thin",
+    "phonetic0": "θɪn",
+    "phonetic1": "θɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "瘦的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The monkey is thin.",
+        "cn": "那只猴子瘦瘦的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "thin film",
+        "cn": "薄膜"
+      },
+      {
+        "c": "through thick and thin",
+        "cn": "不畏艰险；在任何情况下"
+      },
+      {
+        "c": "thin layer",
+        "cn": "薄层；薄膜层"
+      },
+      {
+        "c": "thin wall",
+        "cn": "薄壁"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "瘦的",
+        "ws": [
+          "slim",
+          "slender",
+          "lean"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第17页"
+      }
+    ],
+    "relWords": {
+      "root": "thin",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "thinner",
+              "cn": "薄的；瘦的；细的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "thinly",
+              "cn": "薄；稀疏地；细；瘦"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "thinner",
+              "cn": "稀释剂，冲淡剂"
+            },
+            {
+              "c": "thinned",
+              "cn": "揭薄"
+            },
+            {
+              "c": "thinness",
+              "cn": "薄；瘦；细"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "thinned",
+              "cn": "变薄（thin的过去式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10033,
+    "word": "slow",
+    "phonetic0": "sləʊ",
+    "phonetic1": "sloʊ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "缓慢的；慢的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The turtle is slow.",
+        "cn": "乌龟爬得很慢。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "slow down",
+        "cn": "减速，放慢速度；使……慢下来"
+      },
+      {
+        "c": "go slow",
+        "cn": "怠工；慢慢走"
+      },
+      {
+        "c": "slow speed",
+        "cn": "慢速，低速"
+      },
+      {
+        "c": "slow but sure",
+        "cn": "龟兔赛跑；虽然慢但最后一定胜利"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "缓慢的",
+        "ws": [
+          "sluggish",
+          "unhurried"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第17页"
+      }
+    ],
+    "relWords": {
+      "root": "slow",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "slower",
+              "cn": "较慢的；慢一点的（slow的比较级）"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "slowly",
+              "cn": "缓慢地，慢慢地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "slowness",
+              "cn": "缓慢；迟钝"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "slower",
+              "cn": "减慢"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10034,
+    "word": "love",
+    "phonetic0": "lʌv",
+    "phonetic1": "lʌv",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "喜爱；爱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They love each other.",
+        "cn": "他们彼此相爱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in love",
+        "cn": "相爱；恋爱中"
+      },
+      {
+        "c": "of love",
+        "cn": "论爱情"
+      },
+      {
+        "c": "for love",
+        "cn": "◎为了爱情"
+      },
+      {
+        "c": "in love with",
+        "cn": "热爱；与…相爱"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "爱；喜爱",
+        "ws": [
+          "like",
+          "enjoy",
+          "adore"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第17页"
+      }
+    ],
+    "relWords": {
+      "root": "love",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "lovely",
+              "cn": "可爱的；令人愉快的"
+            },
+            {
+              "c": "loving",
+              "cn": "亲爱的；钟情的；忠诚的"
+            },
+            {
+              "c": "lovable",
+              "cn": "可爱的，讨人喜欢的"
+            },
+            {
+              "c": "loved",
+              "cn": "恋爱的；受珍爱的"
+            },
+            {
+              "c": "loveless",
+              "cn": "不可爱的；无爱情的"
+            },
+            {
+              "c": "loveable",
+              "cn": "可爱的；惹人爱的（等于lovable）"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "lovingly",
+              "cn": "亲切地；钟爱地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "lover",
+              "cn": "爱人，恋人；爱好者"
+            },
+            {
+              "c": "loveliness",
+              "cn": "可爱；漂亮；魅力；美好"
+            },
+            {
+              "c": "lovingness",
+              "cn": "钟情；爱；忠诚"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "loved",
+              "cn": "热爱（love的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10035,
+    "word": "tail",
+    "phonetic0": "teɪl",
+    "phonetic1": "teɪl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "尾；尾巴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It has a short tail.",
+        "cn": "它长着一条短尾巴。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tail gas",
+        "cn": "尾气；废气"
+      },
+      {
+        "c": "tail end",
+        "cn": "末端；结束"
+      },
+      {
+        "c": "the long tail",
+        "cn": "长尾理论；长尾巴"
+      },
+      {
+        "c": "on one's tail",
+        "cn": "[美国英语]紧追某人"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第17页"
+      }
+    ],
+    "relWords": {
+      "root": "tail",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "tailed",
+              "cn": "有…尾的；去掉尾的"
+            },
+            {
+              "c": "tailless",
+              "cn": "无尾的；无财产继承之限制的"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "tailed",
+              "cn": "尾随（tail的过去式及过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10036,
+    "word": "her",
+    "phonetic0": "hɜː(r); hə(r)",
+    "phonetic1": "hɜːr; hər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "她；她的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I often make her gifts.",
+        "cn": "我经常给她做礼物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第19页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10037,
+    "word": "gift",
+    "phonetic0": "ɡɪft",
+    "phonetic1": "ɡɪft",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "礼物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I often make her gifts.",
+        "cn": "我经常给她做礼物。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "gift box",
+        "cn": "礼品盒；礼物盒；彩盒"
+      },
+      {
+        "c": "birthday gift",
+        "cn": "生日礼物"
+      },
+      {
+        "c": "christmas gift",
+        "cn": "圣诞礼物；圣诞礼品"
+      },
+      {
+        "c": "free gift",
+        "cn": "赠品"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "礼物",
+        "ws": [
+          "present"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第19页"
+      }
+    ],
+    "relWords": {
+      "root": "gift",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "gifted",
+              "cn": "有天赋的；有才华的"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "gifted",
+              "cn": "给予（gift的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10038,
+    "word": "picture",
+    "phonetic0": "ˈpɪktʃə(r)",
+    "phonetic1": "ˈpɪktʃər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "图画；绘画"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Draw a picture for your mum.",
+        "cn": "给妈妈画一幅画。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the picture",
+        "cn": "在图中；在画中"
+      },
+      {
+        "c": "the picture of",
+        "cn": "是…的化身；与…非常相像；十足…的样子"
+      },
+      {
+        "c": "picture something to oneself",
+        "cn": "设想(或想像)某事"
+      },
+      {
+        "c": "take a picture",
+        "cn": "照相；落井钻具顶部打模"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "图画；照片",
+        "ws": [
+          "photo",
+          "drawing",
+          "painting"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第20页"
+      }
+    ],
+    "relWords": {
+      "root": "picture",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "picturesque",
+              "cn": "独特的；生动的；别致的；图画般的"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10039,
+    "word": "card",
+    "phonetic0": "kɑːd",
+    "phonetic1": "kɑːrd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "贺卡；慰问卡；卡片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Make a card for your friend.",
+        "cn": "给你的朋友做一张卡片。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "business card",
+        "cn": "名片；商务名片"
+      },
+      {
+        "c": "credit card",
+        "cn": "信用卡；记帐卡"
+      },
+      {
+        "c": "ic card",
+        "cn": "智能卡"
+      },
+      {
+        "c": "id card",
+        "cn": "身份证（等于identity card）"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第20页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10040,
+    "word": "sing",
+    "phonetic0": "sɪŋ",
+    "phonetic1": "sɪŋ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "唱（歌）；演唱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's sing a song together.",
+        "cn": "我们一起唱首歌吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sing a song",
+        "cn": "唱一首歌，唱支歌"
+      },
+      {
+        "c": "sing out",
+        "cn": "大声喊出；向法院或警方自供"
+      },
+      {
+        "c": "sing on",
+        "cn": "唱下去"
+      },
+      {
+        "c": "sing small",
+        "cn": "(失败、受挫折后)变得老实，变得沉默寡言"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "唱（歌）",
+        "ws": [
+          "chant",
+          "carol"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第20页"
+      }
+    ],
+    "relWords": {
+      "root": "sing",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "singing",
+              "cn": "唱歌的；音乐般的"
+            },
+            {
+              "c": "singable",
+              "cn": "可唱的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "singer",
+              "cn": "歌手，歌唱家"
+            },
+            {
+              "c": "singing",
+              "cn": "歌唱；歌声；耳鸣；振鸣"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "singing",
+              "cn": "唱歌（sing的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10041,
+    "word": "dance",
+    "phonetic0": "dɑːns",
+    "phonetic1": "dæns",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "跳舞"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can dance together.",
+        "cn": "我们可以一起跳舞。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dance with",
+        "cn": "与…跳舞"
+      },
+      {
+        "c": "song and dance",
+        "cn": "不着边际的废话；大肆宣扬"
+      },
+      {
+        "c": "folk dance",
+        "cn": "民间舞蹈；土风舞"
+      },
+      {
+        "c": "dance floor",
+        "cn": "舞池"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第20页"
+      }
+    ],
+    "relWords": {
+      "root": "dance",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "danceable",
+              "cn": "（指音乐）适合跳舞的（名词danceability）"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "dancer",
+              "cn": "舞蹈家；舞蹈演员；舞女；跳舞者"
+            },
+            {
+              "c": "dancing",
+              "cn": "跳舞；舞蹈"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "dancing",
+              "cn": "跳舞；摇晃（dance的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10042,
+    "word": "talk",
+    "phonetic0": "tɔːk",
+    "phonetic1": "tɔːk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "说话；讲话；谈话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's talk in English.",
+        "cn": "我们用英语来对话吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "talk about",
+        "cn": "谈论某事"
+      },
+      {
+        "c": "talk to oneself",
+        "cn": "自言自语"
+      },
+      {
+        "c": "talk with",
+        "cn": "与…交谈"
+      },
+      {
+        "c": "talk of",
+        "cn": "谈论，议论；谈到，说到"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "说话；谈话",
+        "ws": [
+          "speak",
+          "chat",
+          "converse"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第21页"
+      }
+    ],
+    "relWords": {
+      "root": "talk",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "talking",
+              "cn": "说话的，多嘴的；有表情的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "talking",
+              "cn": "讲话，谈论"
+            },
+            {
+              "c": "talker",
+              "cn": "说话的人；健谈者；空谈者"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "talking",
+              "cn": "谈论；讲话（talk的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10043,
+    "word": "face",
+    "phonetic0": "feɪs",
+    "phonetic1": "feɪs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "脸；面孔"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Smile with your face.",
+        "cn": "脸上露出微笑。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "the face of",
+        "cn": "即使；在…面前"
+      },
+      {
+        "c": "in the face",
+        "cn": "面对；当面"
+      },
+      {
+        "c": "face to face",
+        "cn": "面对面"
+      },
+      {
+        "c": "in the face of",
+        "cn": "面对"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第21页"
+      }
+    ],
+    "relWords": {
+      "root": "face",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "facial",
+              "cn": "面部的，表面的；脸的，面部用的"
+            },
+            {
+              "c": "faced",
+              "cn": "有某种面孔或表情的；有…表面的"
+            },
+            {
+              "c": "faceless",
+              "cn": "匿名的，不知名的；无个性的；无脸面的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "facial",
+              "cn": "美容，美颜；脸部按摩"
+            },
+            {
+              "c": "facing",
+              "cn": "饰面；衣服等的贴边"
+            },
+            {
+              "c": "facer",
+              "cn": "意外打击；（拳击中）面部所受的突然一击；铣刀盘"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "faced",
+              "cn": "面对（face的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10044,
+    "word": "all",
+    "phonetic0": "ɔːl",
+    "phonetic1": "ɔːl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "所有；全部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We express ourselves in all ways.",
+        "cn": "我们通过各种方式表达自己。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "all the",
+        "cn": "◎惟一的，仅有的"
+      },
+      {
+        "c": "all of",
+        "cn": "不少于；实足"
+      },
+      {
+        "c": "in all",
+        "cn": "总共，合计"
+      },
+      {
+        "c": "and all",
+        "cn": "等等；的确；此外；连…一齐都"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj. & pron.",
+        "cn": "所有的；全部",
+        "ws": [
+          "whole",
+          "entire",
+          "every"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第21页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10045,
+    "word": "song",
+    "phonetic0": "sɒŋ",
+    "phonetic1": "sɔːŋ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "歌；歌曲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sing an English song.",
+        "cn": "唱一首英文歌。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "song dynasty",
+        "cn": "宋朝"
+      },
+      {
+        "c": "folk song",
+        "cn": "民歌"
+      },
+      {
+        "c": "sing a song",
+        "cn": "唱一首歌，唱支歌"
+      },
+      {
+        "c": "theme song",
+        "cn": "主题歌；信号曲；老套话"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "歌曲",
+        "ws": [
+          "tune",
+          "track",
+          "air"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第21页"
+      }
+    ],
+    "relWords": {
+      "root": "song",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "songful",
+              "cn": "旋律美妙的；充满歌声的；声乐的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "songwriter",
+              "cn": "流行歌曲的作者；歌曲作家"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10046,
+    "word": "or",
+    "phonetic0": "ɔː(r)",
+    "phonetic1": "ɔːr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "或；或者；还是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Six yuan, or three for seventeen yuan.",
+        "cn": "六元一个，或者十七元三个。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第21页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10047,
+    "word": "so",
+    "phonetic0": "səʊ",
+    "phonetic1": "soʊ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（表示大小或数量）这么，那么"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thank you so much.",
+        "cn": "非常感谢你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "so on",
+        "cn": "等等"
+      },
+      {
+        "c": "so as",
+        "cn": "只要"
+      },
+      {
+        "c": "so much",
+        "cn": "这么；非常；达到这种程度"
+      },
+      {
+        "c": "so many",
+        "cn": "那么多的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "这么；那么",
+        "ws": [
+          "such",
+          "that"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第21页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10048,
+    "word": "much",
+    "phonetic0": "mʌtʃ",
+    "phonetic1": "mʌtʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "许多；大量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is this bag?",
+        "cn": "这个包多少钱？"
+      },
+      {
+        "c": "Thank you so much.",
+        "cn": "非常感谢你。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "so much",
+        "cn": "这么；非常；达到这种程度"
+      },
+      {
+        "c": "much more",
+        "cn": "更加；多得多"
+      },
+      {
+        "c": "as much",
+        "cn": "也；同样多的"
+      },
+      {
+        "c": "much as",
+        "cn": "虽然，尽管（表让步）；非常像， 和…几乎一样"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj. & adv.",
+        "cn": "大量的；十分",
+        "ws": [
+          "a lot of",
+          "plenty of"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第21页"
+      }
+    ],
+    "relWords": {
+      "root": "much",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "muchness",
+              "cn": "大量，很多"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10049,
+    "word": "eraser",
+    "phonetic0": "ɪˈreɪzə(r)",
+    "phonetic1": "ɪˈreɪsər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "橡皮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I use your eraser, please?",
+        "cn": "我可以用一下你的橡皮吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "eraser tool",
+        "cn": "橡皮擦工具；擦除工具"
+      },
+      {
+        "c": "blackboard eraser",
+        "cn": "黑板擦"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "橡皮",
+        "ws": [
+          "rubber"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第28页"
+      }
+    ],
+    "relWords": {
+      "root": "erase",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "erasable",
+              "cn": "可消除的；可抹去的；可删除的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "erasure",
+              "cn": "消除；涂擦的痕迹；消磁"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "erase",
+              "cn": "被擦去，被抹掉"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "erase",
+              "cn": "抹去；擦除"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10050,
+    "word": "find",
+    "phonetic0": "faɪnd",
+    "phonetic1": "faɪnd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "找到；找回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can you find your book?",
+        "cn": "你能找到你的书吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "find oneself",
+        "cn": "自我感觉；发现自己处于某种状态；发现自己的能力"
+      },
+      {
+        "c": "find out",
+        "cn": "找出，查明；发现，揭发"
+      },
+      {
+        "c": "try to find",
+        "cn": "寻求；寻找"
+      },
+      {
+        "c": "only to find",
+        "cn": "结果却发现（表达出人意料或不愉快的意思）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "找到；发现",
+        "ws": [
+          "discover",
+          "spot",
+          "locate"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第28页"
+      }
+    ],
+    "relWords": {
+      "root": "find",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "finding",
+              "cn": "发现；裁决；发现物"
+            },
+            {
+              "c": "finder",
+              "cn": "发现者；探测器；（照相机的）[摄] 取景器；（大望远镜上的）[天] 寻星镜"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "found",
+              "cn": "找到（find的过去分词）"
+            },
+            {
+              "c": "finding",
+              "cn": "找到；感到（find的ing形式）；遇到"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "found",
+              "cn": "创立，建立；创办"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10051,
+    "word": "ruler",
+    "phonetic0": "ˈruːlə(r)",
+    "phonetic1": "ˈruːlər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "直尺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I use your ruler, please?",
+        "cn": "我可以用一下你的尺子吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第28页"
+      }
+    ],
+    "relWords": {
+      "root": "rule",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "ruling",
+              "cn": "统治的；主要的；支配的；流行的，普遍的"
+            },
+            {
+              "c": "ruled",
+              "cn": "有横隔线的；有直线行的；受统治的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "rule",
+              "cn": "统治；规则"
+            },
+            {
+              "c": "ruling",
+              "cn": "统治，支配；裁定"
+            },
+            {
+              "c": "rulership",
+              "cn": "统治者的地位；职权或任期"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "ruled",
+              "cn": "统治；裁决（rule的过去分词）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "rule",
+              "cn": "统治；管辖；裁定"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "rule",
+              "cn": "统治；规定；管理；裁决；支配"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10052,
+    "word": "pen",
+    "phonetic0": "pen",
+    "phonetic1": "pen",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "钢笔"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This is my pen.",
+        "cn": "这是我的钢笔。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "pen and ink",
+        "cn": "笔墨；钢笔画；写作"
+      },
+      {
+        "c": "put pen to paper",
+        "cn": "开始写；落笔"
+      },
+      {
+        "c": "pen pal",
+        "cn": "笔友（等于pen friend）"
+      },
+      {
+        "c": "ball pen",
+        "cn": "圆珠笔"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第29页"
+      }
+    ],
+    "relWords": {
+      "root": "pen",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "pent",
+              "cn": "被关闭的；郁积的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "pent",
+              "cn": "单斜顶棚"
+            },
+            {
+              "c": "penner",
+              "cn": "执笔人；写作人"
+            },
+            {
+              "c": "penning",
+              "cn": "石块铺砌"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "pent",
+              "cn": "把…关于围栏；把…关起来；囚禁（pen的过去分词）"
+            },
+            {
+              "c": "penning",
+              "cn": "把…围入栏圈；关押（pen的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10053,
+    "word": "pencil",
+    "phonetic0": "ˈpens(ə)l",
+    "phonetic1": "ˈpens(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "铅笔"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have a pencil.",
+        "cn": "我有一支铅笔。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "blue pencil",
+        "cn": "蓝铅笔（用于删改书稿或剧本等的）"
+      },
+      {
+        "c": "pencil case",
+        "cn": "文具盒"
+      },
+      {
+        "c": "pencil box",
+        "cn": "铅笔盒"
+      },
+      {
+        "c": "pencil sharpener",
+        "cn": "卷笔刀"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第29页"
+      }
+    ],
+    "relWords": {
+      "root": "pencil",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "penciled",
+              "cn": "用铅笔写的；光线锥的"
+            },
+            {
+              "c": "pencilled",
+              "cn": "用铅笔写的"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "pencilled",
+              "cn": "用笔写（pencil的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10054,
+    "word": "book",
+    "phonetic0": "bʊk",
+    "phonetic1": "bʊk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "书；书籍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mum, where is my animal book?",
+        "cn": "妈妈，我的动物书在哪里？"
+      },
+      {
+        "c": "We have fifteen books.",
+        "cn": "我们有十五本书。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the book",
+        "cn": "◎[美国英语]记录在案的；为人所知的，所熟悉的，所通晓的"
+      },
+      {
+        "c": "book on",
+        "cn": "有关…的书"
+      },
+      {
+        "c": "book in",
+        "cn": "登记；预定"
+      },
+      {
+        "c": "book for",
+        "cn": "预订"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "书；书籍",
+        "ws": [
+          "volume",
+          "tome"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第29页"
+      }
+    ],
+    "relWords": {
+      "root": "book",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "bookish",
+              "cn": "书本上的；好读书的；书呆子气的"
+            },
+            {
+              "c": "bookable",
+              "cn": "（英）可预订的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "booking",
+              "cn": "预订；预约；演出契约"
+            },
+            {
+              "c": "booker",
+              "cn": "（旅馆车票，戏票等的）登记人；寻选模特儿的人"
+            },
+            {
+              "c": "bookishness",
+              "cn": "书呆子气；学究气"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10055,
+    "word": "bag",
+    "phonetic0": "bæɡ",
+    "phonetic1": "bæɡ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "包；袋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How much is this bag?",
+        "cn": "这个包多少钱？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "bags of",
+        "cn": "[俚语]许多的，充足的"
+      },
+      {
+        "c": "in the bag",
+        "cn": "十拿九稳的；稳操胜券的"
+      },
+      {
+        "c": "plastic bag",
+        "cn": "塑料袋；塑胶袋"
+      },
+      {
+        "c": "paper bag",
+        "cn": "纸袋子"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "包；袋",
+        "ws": [
+          "sack",
+          "pack"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第29页"
+      }
+    ],
+    "relWords": {
+      "root": "bag",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "baggy",
+              "cn": "袋状的，膨胀的；宽松而下垂的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "bagger",
+              "cn": "装袋工；装袋机；垒打"
+            },
+            {
+              "c": "bagging",
+              "cn": "装袋；[纺] 制袋材料"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "bagging",
+              "cn": "把…装入袋中（bag的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10056,
+    "word": "paper",
+    "phonetic0": "ˈpeɪpə(r)",
+    "phonetic1": "ˈpeɪpər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "纸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let's make a paper airplane.",
+        "cn": "我们来做一架纸飞机吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on paper",
+        "cn": "以书面形式；在名义上"
+      },
+      {
+        "c": "paper industry",
+        "cn": "造纸工业"
+      },
+      {
+        "c": "paper making",
+        "cn": "造纸"
+      },
+      {
+        "c": "paper machine",
+        "cn": "造纸机"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第29页"
+      }
+    ],
+    "relWords": {
+      "root": "paper",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "papery",
+              "cn": "薄的；像纸的；纸状的"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10057,
+    "word": "these",
+    "phonetic0": "ðiːz",
+    "phonetic1": "ðiːz",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "这些"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What are these? They're grapes.",
+        "cn": "这些是什么？它们是葡萄。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "of these",
+        "cn": "这些"
+      },
+      {
+        "c": "these days",
+        "cn": "这些天；目前"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第31页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10058,
+    "word": "see",
+    "phonetic0": "siː",
+    "phonetic1": "siː",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "看见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I see with my eyes.",
+        "cn": "我用眼睛看。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "see something in someone",
+        "cn": "看中(或喜欢)某人的某个方面"
+      },
+      {
+        "c": "see things",
+        "cn": "发生幻觉；见神见鬼"
+      },
+      {
+        "c": "see in",
+        "cn": "带领……进去"
+      },
+      {
+        "c": "see for oneself",
+        "cn": "亲眼看；自己去看"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "看见；明白",
+        "ws": [
+          "look",
+          "watch",
+          "notice",
+          "view"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第32页"
+      }
+    ],
+    "relWords": {
+      "root": "see",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "seeing",
+              "cn": "看见的；有视觉的"
+            },
+            {
+              "c": "seeable",
+              "cn": "看得见的"
+            }
+          ]
+        },
+        {
+          "pos": "conj.",
+          "words": [
+            {
+              "c": "seeing",
+              "cn": "因为；由于；鉴于"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "seeing",
+              "cn": "看见；视觉；观看；视力"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "seeing",
+              "cn": "看见（see的ing形式）"
+            },
+            {
+              "c": "saw",
+              "cn": "看见（see的过去式）"
+            },
+            {
+              "c": "seen",
+              "cn": "看见；理解（see的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10059,
+    "word": "smell",
+    "phonetic0": "smel",
+    "phonetic1": "smel",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "闻（气味）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I smell with my nose.",
+        "cn": "我用鼻子闻。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "smell of",
+        "cn": "有…的气味；闻出…的味道"
+      },
+      {
+        "c": "sweet smell",
+        "cn": "闻起来香"
+      },
+      {
+        "c": "sense of smell",
+        "cn": "嗅觉"
+      },
+      {
+        "c": "bad smell",
+        "cn": "坏味道，坏气味"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "闻；嗅",
+        "ws": [
+          "sniff",
+          "scent"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第32页"
+      }
+    ],
+    "relWords": {
+      "root": "smell",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "smelly",
+              "cn": "有臭味的，发臭的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "smelt",
+              "cn": "香鱼；胡瓜鱼"
+            },
+            {
+              "c": "smelling",
+              "cn": "嗅诊；嗅气味"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "smelt",
+              "cn": "闻（smell的过去式和过去分词）"
+            },
+            {
+              "c": "smelling",
+              "cn": "闻；发觉；发出气味（smell的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "smelt",
+              "cn": "熔炼，精炼"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "smelt",
+              "cn": "熔炼，冶炼；精炼"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10060,
+    "word": "taste",
+    "phonetic0": "teɪst",
+    "phonetic1": "teɪst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "尝（味道）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I taste with my tongue.",
+        "cn": "我用舌头尝。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "taste of",
+        "cn": "体验；有…味道"
+      },
+      {
+        "c": "good taste",
+        "cn": "高品味；味道纯正"
+      },
+      {
+        "c": "in taste",
+        "cn": "得体的，大方的；高雅的，有礼的"
+      },
+      {
+        "c": "taste for",
+        "cn": "对…的喜爱；对…的爱好"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "尝；品尝",
+        "ws": [
+          "sample",
+          "savor"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第32页"
+      }
+    ],
+    "relWords": {
+      "root": "taste",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "tasteless",
+              "cn": "无味的；无鉴赏力的"
+            },
+            {
+              "c": "tasteful",
+              "cn": "雅观的；有鉴赏力的；趣味高雅的；有滋味的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "tasting",
+              "cn": "品尝，尝味"
+            },
+            {
+              "c": "taster",
+              "cn": "尝味道者；审阅人"
+            },
+            {
+              "c": "tastelessness",
+              "cn": "无鉴赏力；格调低俗；没滋味"
+            },
+            {
+              "c": "tastiness",
+              "cn": "滋味；味道"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "tasting",
+              "cn": "品尝（taste的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10061,
+    "word": "hear",
+    "phonetic0": "hɪə(r)",
+    "phonetic1": "hɪr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "听见；听到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hear with my ears.",
+        "cn": "我用耳朵听。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hear from",
+        "cn": "收到…的信；受…的批评"
+      },
+      {
+        "c": "hear about",
+        "cn": "听说；得知"
+      },
+      {
+        "c": "hear of",
+        "cn": "听说，听说过"
+      },
+      {
+        "c": "sorry to hear that",
+        "cn": "听到…消息很难受/难过"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "听见；听到",
+        "ws": [
+          "listen",
+          "catch"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第32页"
+      }
+    ],
+    "relWords": {
+      "root": "hear",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "hearable",
+              "cn": "听得见的；中听的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "hearing",
+              "cn": "听力；审讯，听讯"
+            },
+            {
+              "c": "hearer",
+              "cn": "听者；旁听人"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "hearing",
+              "cn": "听见（hear的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10062,
+    "word": "touch",
+    "phonetic0": "tʌtʃ",
+    "phonetic1": "tʌtʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "触摸；碰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Touch your nose.",
+        "cn": "摸摸你的鼻子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in touch",
+        "cn": "联系；能达到的；在…的附近"
+      },
+      {
+        "c": "in touch with",
+        "cn": "同……有联系，和……有接触"
+      },
+      {
+        "c": "keep in touch",
+        "cn": "保持联络"
+      },
+      {
+        "c": "touch screen",
+        "cn": "接触式屏幕；触感屏幕"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "触摸；触碰",
+        "ws": [
+          "feel",
+          "tap",
+          "contact"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第32页"
+      }
+    ],
+    "relWords": {
+      "root": "touch",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "touching",
+              "cn": "动人的，令人同情的"
+            },
+            {
+              "c": "touched",
+              "cn": "受感动的；精神失常的"
+            },
+            {
+              "c": "touchable",
+              "cn": "可触的；可使感动的；可食用的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "touchingly",
+              "cn": "难以取悦地；动人地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "toucher",
+              "cn": "触摸者；一触即发"
+            }
+          ]
+        },
+        {
+          "pos": "prep.",
+          "words": [
+            {
+              "c": "touching",
+              "cn": "至于，关于"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "touching",
+              "cn": "接触；感动（touch的ing形式）"
+            },
+            {
+              "c": "touched",
+              "cn": "触摸（touch的过去式和过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10063,
+    "word": "nose",
+    "phonetic0": "nəʊz",
+    "phonetic1": "noʊz",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "鼻；鼻子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I smell with my nose.",
+        "cn": "我用鼻子闻。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the nose",
+        "cn": "正好，恰恰"
+      },
+      {
+        "c": "runny nose",
+        "cn": "流鼻涕"
+      },
+      {
+        "c": "by a nose",
+        "cn": "几乎；以些微之差"
+      },
+      {
+        "c": "pay through the nose",
+        "cn": "被勒索；被敲竹杠"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第33页"
+      }
+    ],
+    "relWords": {
+      "root": "nose",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "nosy",
+              "cn": "好管闲事的；爱追问的；大鼻子的"
+            },
+            {
+              "c": "nosey",
+              "cn": "大鼻子的；爱追问的（等于nosy）"
+            },
+            {
+              "c": "nosed",
+              "cn": "有…鼻子的"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "nosed",
+              "cn": "嗅；侦察出（nose的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10064,
+    "word": "tongue",
+    "phonetic0": "tʌŋ",
+    "phonetic1": "tʌŋ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "舌；舌头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I taste with my tongue.",
+        "cn": "我用舌头尝。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mother tongue",
+        "cn": "母语；本国语言"
+      },
+      {
+        "c": "tongue in cheek",
+        "cn": "挖苦地；不是认真的"
+      },
+      {
+        "c": "native tongue",
+        "cn": "母语"
+      },
+      {
+        "c": "tongue twister",
+        "cn": "绕口令"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第33页"
+      }
+    ],
+    "relWords": {
+      "root": "tongue",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "tongued",
+              "cn": "有…舌头的；说话…的"
+            },
+            {
+              "c": "tongueless",
+              "cn": "哑的；缄默的，沉默的；没有舌头的"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "tongued",
+              "cn": "用舌头；吹奏管乐器（tongue的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10065,
+    "word": "class",
+    "phonetic0": "klɑːs",
+    "phonetic1": "klæs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "课；班级"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Listen carefully in class.",
+        "cn": "在课堂上认真听讲。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in class",
+        "cn": "在课堂上；上课中"
+      },
+      {
+        "c": "first class",
+        "cn": "头等，第一流；最高级"
+      },
+      {
+        "c": "economy class",
+        "cn": "（飞机上的）经济舱位"
+      },
+      {
+        "c": "middle class",
+        "cn": "中产阶级"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "班级；课",
+        "ws": [
+          "grade",
+          "course",
+          "lesson"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第33页"
+      }
+    ],
+    "relWords": {
+      "root": "class",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "classified",
+              "cn": "分类的；类别的；机密的"
+            },
+            {
+              "c": "classy",
+              "cn": "优等的；上等的；漂亮的"
+            },
+            {
+              "c": "classless",
+              "cn": "无阶级的；不属于任何阶级的"
+            },
+            {
+              "c": "classifiable",
+              "cn": "可分类的"
+            },
+            {
+              "c": "classificatory",
+              "cn": "类别的；分类上的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "classification",
+              "cn": "分类；类别，等级"
+            },
+            {
+              "c": "classified",
+              "cn": "分类广告"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "classified",
+              "cn": "把…分类（classify的过去分词）"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "classify",
+              "cn": "分类；分等"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10066,
+    "word": "in class",
+    "phonetic0": "",
+    "phonetic1": "ɪn klæs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在课堂上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Listen carefully in class.",
+        "cn": "在课堂上认真听讲。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第33页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10067,
+    "word": "computer",
+    "phonetic0": "kəmˈpjuːtə(r)",
+    "phonetic1": "kəmˈpjuːtər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "计算机；电脑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can learn on the computer.",
+        "cn": "我们可以在电脑上学习。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "computer simulation",
+        "cn": "计算机模拟"
+      },
+      {
+        "c": "computer technology",
+        "cn": "电脑技术"
+      },
+      {
+        "c": "computer science",
+        "cn": "计算机科学"
+      },
+      {
+        "c": "computer network",
+        "cn": "计算机网络"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "计算机；电脑",
+        "ws": [
+          "PC"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第33页"
+      }
+    ],
+    "relWords": {
+      "root": "compute",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "computational",
+              "cn": "计算的"
+            },
+            {
+              "c": "computerized",
+              "cn": "电脑的；电脑化的；用电脑处理的"
+            },
+            {
+              "c": "computerised",
+              "cn": "电脑化的；计算化的"
+            },
+            {
+              "c": "computable",
+              "cn": "可计算的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "computation",
+              "cn": "估计，计算"
+            },
+            {
+              "c": "compute",
+              "cn": "计算；估计；推断"
+            },
+            {
+              "c": "computing",
+              "cn": "计算；处理；从事电脑工作"
+            },
+            {
+              "c": "computerization",
+              "cn": "电脑化；电子计算机化工作"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "computing",
+              "cn": "计算（compute的现在分词形式）"
+            },
+            {
+              "c": "computerized",
+              "cn": "用电子计算机控制（computerize的过去分词）"
+            },
+            {
+              "c": "computerised",
+              "cn": "使电脑化（computerise的过去分词形式）；用电脑处理"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "compute",
+              "cn": "计算；估算；推断"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "compute",
+              "cn": "计算；估算；用计算机计算"
+            },
+            {
+              "c": "computerize",
+              "cn": "使电脑化；使计算机化；用电脑处理"
+            },
+            {
+              "c": "computerise",
+              "cn": "（英）用计算机处理；给…装备计算机（等于computerize）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10068,
+    "word": "learn",
+    "phonetic0": "lɜːn",
+    "phonetic1": "lɜːrn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "学；学习"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We express and learn together.",
+        "cn": "我们一起表达和学习。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "learn from",
+        "cn": "向…学习"
+      },
+      {
+        "c": "learn english",
+        "cn": "学习英语"
+      },
+      {
+        "c": "learn about",
+        "cn": "了解；学习"
+      },
+      {
+        "c": "learn by oneself",
+        "cn": "自学"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "学习",
+        "ws": [
+          "study",
+          "master",
+          "acquire"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第33页"
+      }
+    ],
+    "relWords": {
+      "root": "learn",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "learned",
+              "cn": "博学的；有学问的；学术上的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "learnedly",
+              "cn": "学识上"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "learning",
+              "cn": "学习；学问"
+            },
+            {
+              "c": "learner",
+              "cn": "初学者，学习者"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "learning",
+              "cn": "学习（learn的现在分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10069,
+    "word": "breakfast",
+    "phonetic0": "ˈbrekfəst",
+    "phonetic1": "ˈbrekfəst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "早餐；早饭"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's time for breakfast.",
+        "cn": "该吃早餐了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "for breakfast",
+        "cn": "当作早餐；对于早餐来说"
+      },
+      {
+        "c": "have breakfast",
+        "cn": "吃早餐，吃早饭"
+      },
+      {
+        "c": "eat breakfast",
+        "cn": "吃早饭"
+      },
+      {
+        "c": "at breakfast",
+        "cn": "早餐时，正在吃早饭"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第40页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10070,
+    "word": "time",
+    "phonetic0": "taɪm",
+    "phonetic1": "taɪm",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's time for breakfast.",
+        "cn": "该吃早餐了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at the same time",
+        "cn": "同时；然而"
+      },
+      {
+        "c": "same time",
+        "cn": "同时"
+      },
+      {
+        "c": "in time",
+        "cn": "及时；适时"
+      },
+      {
+        "c": "all the time",
+        "cn": "始终，一直"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "时间；时刻",
+        "ws": [
+          "moment",
+          "hour",
+          "period"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第40页"
+      }
+    ],
+    "relWords": {
+      "root": "time",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "timely",
+              "cn": "及时的；适时的"
+            },
+            {
+              "c": "timeless",
+              "cn": "永恒的；不受时间影响的；不合时宜的"
+            },
+            {
+              "c": "timed",
+              "cn": "定时的，同步的；时控的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "timely",
+              "cn": "及时地；早"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "timing",
+              "cn": "定时；调速；时间选择"
+            },
+            {
+              "c": "timer",
+              "cn": "[电子] 定时器；计时器；计时员，记时员；跑表；延时调节器"
+            },
+            {
+              "c": "timeliness",
+              "cn": "及时；时间性；好时机"
+            },
+            {
+              "c": "timekeeper",
+              "cn": "计时员；钟表；工作时间记录员"
+            },
+            {
+              "c": "timekeeping",
+              "cn": "计时；时间记录"
+            },
+            {
+              "c": "timelessness",
+              "cn": "永恒，不朽；不受时间影响"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "timing",
+              "cn": "为…安排时间；测定…的时间（time的ing形式）"
+            },
+            {
+              "c": "timed",
+              "cn": "合拍；为…安排时间；记录…的时间（time的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10071,
+    "word": "bread",
+    "phonetic0": "bred",
+    "phonetic1": "bred",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "面包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like some bread and eggs, please.",
+        "cn": "请给我一些面包和鸡蛋。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "steamed bread",
+        "cn": "馒头"
+      },
+      {
+        "c": "bread and butter",
+        "cn": "涂黄油的面包；基本生活资料；生计"
+      },
+      {
+        "c": "daily bread",
+        "cn": "日常食品；生计"
+      },
+      {
+        "c": "a piece of bread",
+        "cn": "一片面包"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第40页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10072,
+    "word": "egg",
+    "phonetic0": "eɡ",
+    "phonetic1": "eɡ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（作食物用的）蛋；鸡蛋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'd like some bread and eggs, please.",
+        "cn": "请给我一些面包和鸡蛋。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "egg white",
+        "cn": "蛋白"
+      },
+      {
+        "c": "egg yolk",
+        "cn": "蛋黄"
+      },
+      {
+        "c": "golden eggs",
+        "cn": "金蛋(便于创造就业机会的场所)"
+      },
+      {
+        "c": "in the egg",
+        "cn": "在初期，在萌芽状态，尚未发展的，未成熟的(常与crush连用)"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第40页"
+      }
+    ],
+    "relWords": {
+      "root": "egg",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "egger",
+              "cn": "收集鸡蛋者；食叶蛾"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10073,
+    "word": "milk",
+    "phonetic0": "mɪlk",
+    "phonetic1": "mɪlk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（牛或羊等的）奶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have some milk too.",
+        "cn": "再喝点牛奶吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "milk powder",
+        "cn": "奶粉"
+      },
+      {
+        "c": "in milk",
+        "cn": "在出奶时期的；在授乳期中的"
+      },
+      {
+        "c": "fresh milk",
+        "cn": "鲜牛奶"
+      },
+      {
+        "c": "powdered milk",
+        "cn": "奶粉"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第40页"
+      }
+    ],
+    "relWords": {
+      "root": "milk",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "milky",
+              "cn": "乳白色的；牛奶的；乳状的；柔和的；混浊不清的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "milker",
+              "cn": "乳牛；挤奶人；挤奶器"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10074,
+    "word": "noodle",
+    "phonetic0": "ˈnuːd(ə)l",
+    "phonetic1": "ˈnuːd(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（常用复数）面条"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have some noodles, please.",
+        "cn": "请吃点面条吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "instant noodle",
+        "cn": "方便面；速食面；泡面"
+      },
+      {
+        "c": "rice noodle",
+        "cn": "米线"
+      },
+      {
+        "c": "noodle soup",
+        "cn": "面汤，清汤面条"
+      },
+      {
+        "c": "fried noodle",
+        "cn": "炒面；乌东面"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第41页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10075,
+    "word": "juice",
+    "phonetic0": "dʒuːs",
+    "phonetic1": "dʒuːs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "果汁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have some orange juice.",
+        "cn": "喝点橙汁吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fruit juice",
+        "cn": "果汁"
+      },
+      {
+        "c": "orange juice",
+        "cn": "橘子汁"
+      },
+      {
+        "c": "apple juice",
+        "cn": "苹果汁"
+      },
+      {
+        "c": "lemon juice",
+        "cn": "柠檬汁"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第41页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10076,
+    "word": "rice",
+    "phonetic0": "raɪs",
+    "phonetic1": "raɪs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "大米"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you like some rice and meat?",
+        "cn": "你想要一些米饭和肉吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rice wine",
+        "cn": "黄酒；米酒；料酒；加饭酒"
+      },
+      {
+        "c": "hybrid rice",
+        "cn": "杂交稻；杂种稻"
+      },
+      {
+        "c": "glutinous rice",
+        "cn": "糯米"
+      },
+      {
+        "c": "rice bran",
+        "cn": "米糠"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第43页"
+      }
+    ],
+    "relWords": {
+      "root": "rice",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "ricer",
+              "cn": "压粒器；（美）马铃薯捣碎机；使成细条的炊具"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10077,
+    "word": "meat",
+    "phonetic0": "miːt",
+    "phonetic1": "miːt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Would you like some rice and meat?",
+        "cn": "你想要一些米饭和肉吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "red meat",
+        "cn": "红色肉类（牛肉，羊肉等）"
+      },
+      {
+        "c": "eat meat",
+        "cn": "吃肉"
+      },
+      {
+        "c": "meat product",
+        "cn": "肉制品，肉类食品"
+      },
+      {
+        "c": "fresh meat",
+        "cn": "新鲜肉类"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第43页"
+      }
+    ],
+    "relWords": {
+      "root": "meat",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "meaty",
+              "cn": "肉的；多肉的；似肉的"
+            },
+            {
+              "c": "meatless",
+              "cn": "素食的；无肉的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "meatpacking",
+              "cn": "肉类加工业"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10078,
+    "word": "vegetable",
+    "phonetic0": "ˈvedʒtəb(ə)l",
+    "phonetic1": "ˈvedʒtəb(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "蔬菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eat some vegetables every day!",
+        "cn": "每天吃一些蔬菜！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "vegetable oil",
+        "cn": "植物油"
+      },
+      {
+        "c": "vegetable protein",
+        "cn": "植物（性）蛋白"
+      },
+      {
+        "c": "vegetable juice",
+        "cn": "蔬菜汁"
+      },
+      {
+        "c": "vegetable garden",
+        "cn": "菜园"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "蔬菜",
+        "ws": [
+          "veggie",
+          "greens"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第43页"
+      }
+    ],
+    "relWords": {
+      "root": "vegetal",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "vegetative",
+              "cn": "植物的；植物人状态的，无所作为的；促使植物生长的；有生长力的"
+            },
+            {
+              "c": "vegetal",
+              "cn": "植物的，植物性的；生长的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "vegetation",
+              "cn": "植被；植物，草木；呆板单调的生活"
+            },
+            {
+              "c": "vegetal",
+              "cn": "植物；蔬菜"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "vegetate",
+              "cn": "生长；植物似地生长；茫茫然地过日子"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "vegetate",
+              "cn": "将植物种在"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10079,
+    "word": "healthy",
+    "phonetic0": "ˈhelθi",
+    "phonetic1": "ˈhelθi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "健康的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eat healthy food every day!",
+        "cn": "每天吃健康的食物！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "healthy life",
+        "cn": "健康人生"
+      },
+      {
+        "c": "healthy food",
+        "cn": "有益健康的食物"
+      },
+      {
+        "c": "keep healthy",
+        "cn": "保持健康"
+      },
+      {
+        "c": "healthy lifestyle",
+        "cn": "健康的生活方式"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "健康的",
+        "ws": [
+          "fit",
+          "sound",
+          "well"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第44页"
+      }
+    ],
+    "relWords": {
+      "root": "health",
+      "rels": [
+        {
+          "pos": "[n.",
+          "words": [
+            {
+              "c": "healthfulness",
+              "cn": "于健康有益；卫生"
+            }
+          ]
+        },
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "healthful",
+              "cn": "健康的；有益健康的；卫生的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "healthily",
+              "cn": "健康地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "health",
+              "cn": "健康；卫生；保健；兴旺"
+            },
+            {
+              "c": "healthcare",
+              "cn": "医疗保健；健康护理，健康服务；卫生保健"
+            },
+            {
+              "c": "healthiness",
+              "cn": "健康；健全"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10080,
+    "word": "plate",
+    "phonetic0": "pleɪt",
+    "phonetic1": "pleɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "盘子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put the food on the plate.",
+        "cn": "把食物放在盘子里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "steel plate",
+        "cn": "[冶]钢板"
+      },
+      {
+        "c": "in one's plate",
+        "cn": "心情很好"
+      },
+      {
+        "c": "license plate",
+        "cn": "牌照"
+      },
+      {
+        "c": "on one's plate",
+        "cn": "◎需要完成的任务和工作[亦作 on plate ]"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "盘子",
+        "ws": [
+          "dish",
+          "platter"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第44页"
+      }
+    ],
+    "relWords": {
+      "root": "plate",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "platelike",
+              "cn": "层状的；板状的"
+            },
+            {
+              "c": "platy",
+              "cn": "板状的；扁平状的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "plating",
+              "cn": "电镀；镀层"
+            },
+            {
+              "c": "plater",
+              "cn": "铁甲工；镀金匠；金属版工"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "plating",
+              "cn": "电镀（plate的现在分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10081,
+    "word": "soup",
+    "phonetic0": "suːp",
+    "phonetic1": "suːp",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "汤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Have some hot soup.",
+        "cn": "喝点热汤。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the soup",
+        "cn": "[口]在困境中"
+      },
+      {
+        "c": "chicken soup",
+        "cn": "鸡汤；心灵鸡汤"
+      },
+      {
+        "c": "noodle soup",
+        "cn": "面汤，清汤面条"
+      },
+      {
+        "c": "thick soup",
+        "cn": "浓汤"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "汤",
+        "ws": [
+          "broth"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第44页"
+      }
+    ],
+    "relWords": {
+      "root": "soup",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "soupy",
+              "cn": "汤汁一样的；浓云密布的；多愁善感的"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10082,
+    "word": "fruit",
+    "phonetic0": "fruːt",
+    "phonetic1": "fruːt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "水果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eat some fresh fruit every day!",
+        "cn": "每天吃一些新鲜水果！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fruit juice",
+        "cn": "果汁"
+      },
+      {
+        "c": "bear fruit",
+        "cn": "结出果实；奏效"
+      },
+      {
+        "c": "fresh fruit",
+        "cn": "鲜果，水果拼盘"
+      },
+      {
+        "c": "fruit tree",
+        "cn": "果树"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第44页"
+      }
+    ],
+    "relWords": {
+      "root": "fruit",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "fruitful",
+              "cn": "富有成效的；多产的；果实结得多的"
+            },
+            {
+              "c": "fruitless",
+              "cn": "不成功的，徒劳的；不结果实的"
+            },
+            {
+              "c": "fruity",
+              "cn": "圆润的；有果味的；果实状的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "fruitfully",
+              "cn": "产量多地；肥沃地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "fruition",
+              "cn": "完成，成就；结果实"
+            },
+            {
+              "c": "fruitage",
+              "cn": "果实；结果实；[食品] 水果；成果"
+            },
+            {
+              "c": "fruiterer",
+              "cn": "卖水果的人，水果商"
+            },
+            {
+              "c": "fruitfulness",
+              "cn": "丰收，丰硕；多实，肥沃"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10083,
+    "word": "colourful",
+    "phonetic0": "ˈkʌləf(ə)l",
+    "phonetic1": "ˈkʌlərf(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "五彩缤纷的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Look at the colourful fruit!",
+        "cn": "看这些五彩缤纷的水果！"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "五彩缤纷的",
+        "ws": [
+          "bright",
+          "vibrant"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第45页"
+      }
+    ],
+    "relWords": {
+      "root": "colour",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "coloured",
+              "cn": "有色的；着色的"
+            },
+            {
+              "c": "colorless",
+              "cn": "无色的；苍白的；无趣味的"
+            },
+            {
+              "c": "colourless",
+              "cn": "无色的；不生动的；颜色黯淡的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "colour",
+              "cn": "颜色；风格；气色，面色；外貌"
+            },
+            {
+              "c": "coloured",
+              "cn": "混血人；有色人种的人"
+            },
+            {
+              "c": "colorist",
+              "cn": "善用色彩者；五彩画家"
+            },
+            {
+              "c": "colouration",
+              "cn": "着色，染色"
+            },
+            {
+              "c": "colouring",
+              "cn": "着色；色彩；抛光；倾向性；外貌"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "colouring",
+              "cn": "把…涂颜色；变色（colour的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "colour",
+              "cn": "变色"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "colour",
+              "cn": "把…涂颜色，粉饰；歪曲；使脸红"
+            },
+            {
+              "c": "coloured",
+              "cn": "给…着色（colour的过去式和过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10084,
+    "word": "candy",
+    "phonetic0": "ˈkændi",
+    "phonetic1": "ˈkændi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "糖果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Don't eat too much candy.",
+        "cn": "不要吃太多糖果。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "candy store",
+        "cn": "糖果店"
+      },
+      {
+        "c": "candy bar",
+        "cn": "单独包装的块状糖"
+      },
+      {
+        "c": "cotton candy",
+        "cn": "棉花糖"
+      },
+      {
+        "c": "hard candy",
+        "cn": "硬糖"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "糖果",
+        "ws": [
+          "sweet",
+          "bonbon"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第45页"
+      }
+    ],
+    "relWords": {
+      "root": "candy",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "candied",
+              "cn": "甜蜜的；糖制的；甜言蜜语的"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "candied",
+              "cn": "把…制成糖果；美化（candy的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10085,
+    "word": "yummy",
+    "phonetic0": "ˈjʌmi",
+    "phonetic1": "ˈjʌmi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "很好吃的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The noodles are yummy!",
+        "cn": "面条真好吃！"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "美味的；好吃的",
+        "ws": [
+          "delicious",
+          "tasty"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第45页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10086,
+    "word": "boat",
+    "phonetic0": "bəʊt",
+    "phonetic1": "boʊt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "小船；舟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This boat is cool. You can keep it.",
+        "cn": "这艘小船真酷。你可以留着它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "小船",
+        "ws": [
+          "ship",
+          "vessel",
+          "canoe"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第52页"
+      }
+    ],
+    "relWords": {
+      "root": "boat",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "boating",
+              "cn": "划船的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "boating",
+              "cn": "划船"
+            },
+            {
+              "c": "boater",
+              "cn": "硬草帽；乘船的人"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "boating",
+              "cn": "划船（boat的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10087,
+    "word": "cool",
+    "phonetic0": "kuːl",
+    "phonetic1": "kuːl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（因时髦、漂亮且与众不同）酷的，绝妙的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This boat is cool. You can keep it.",
+        "cn": "这艘小船真酷。你可以留着它。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stay cool",
+        "cn": "保持冷静"
+      },
+      {
+        "c": "so cool",
+        "cn": "真酷"
+      },
+      {
+        "c": "cool down",
+        "cn": "冷却；平静下来"
+      },
+      {
+        "c": "cool off",
+        "cn": "变凉；平静下来"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "酷的；绝妙的",
+        "ws": [
+          "great",
+          "awesome",
+          "neat"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第52页"
+      }
+    ],
+    "relWords": {
+      "root": "cool",
+      "rels": [
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "coolly",
+              "cn": "冷静地；沉着地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "cooler",
+              "cn": "冷却器；清凉剂"
+            },
+            {
+              "c": "coolant",
+              "cn": "冷却剂"
+            },
+            {
+              "c": "coolness",
+              "cn": "冷；凉爽；冷静"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10088,
+    "word": "keep",
+    "phonetic0": "kiːp",
+    "phonetic1": "kiːp",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "保有；留着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You can keep it.",
+        "cn": "你可以留着它。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "keep in",
+        "cn": "隐瞒，隐藏；抑制；继续燃烧"
+      },
+      {
+        "c": "keep on",
+        "cn": "继续；穿着…不脱"
+      },
+      {
+        "c": "keep up",
+        "cn": "保持；继续；不低落；不落后"
+      },
+      {
+        "c": "keep up with",
+        "cn": "赶得上；和…保持联系"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "保有；保留",
+        "ws": [
+          "retain",
+          "hold",
+          "save"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第52页"
+      }
+    ],
+    "relWords": {
+      "root": "keep",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "kept",
+              "cn": "受人资助控制的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "keeper",
+              "cn": "监护人；饲养员；看守人；管理人"
+            },
+            {
+              "c": "keeping",
+              "cn": "保管；一致；协调；遵守"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "kept",
+              "cn": "保持；维持；保管（keep的过去式和过去分词）"
+            },
+            {
+              "c": "keeping",
+              "cn": "保持；遵守（keep的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10089,
+    "word": "at",
+    "phonetic0": "æt; ət",
+    "phonetic1": "æt; ət",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在（某处）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I am at home.",
+        "cn": "我在家里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at all",
+        "cn": "（否定句）根本；究竟"
+      },
+      {
+        "c": "be in at",
+        "cn": "在场，参与"
+      },
+      {
+        "c": "at it again",
+        "cn": "[口语]争吵；重复负面消极的行为(此语亦可含有与性行为有关的意思)"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第53页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10090,
+    "word": "home",
+    "phonetic0": "həʊm",
+    "phonetic1": "hoʊm",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "家；住所"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welcome home, Mum!",
+        "cn": "妈妈，欢迎回家！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at home",
+        "cn": "在家；在国内；熟悉"
+      },
+      {
+        "c": "home and abroad",
+        "cn": "国内外，海内外"
+      },
+      {
+        "c": "at home and abroad",
+        "cn": "国内外"
+      },
+      {
+        "c": "go home",
+        "cn": "回家"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "家；住宅",
+        "ws": [
+          "house",
+          "residence"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第53页"
+      }
+    ],
+    "relWords": {
+      "root": "home",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "homeless",
+              "cn": "无家可归的"
+            },
+            {
+              "c": "homely",
+              "cn": "家庭的；平凡的；不好看的"
+            },
+            {
+              "c": "homing",
+              "cn": "回家的；自动导引的；有返回性的"
+            },
+            {
+              "c": "homeward",
+              "cn": "在归途上的，向家的"
+            },
+            {
+              "c": "homey",
+              "cn": "舒适的；家庭似的；自在的"
+            },
+            {
+              "c": "homy",
+              "cn": "家庭般的；自在的"
+            },
+            {
+              "c": "homelike",
+              "cn": "舒适的，自在的；如在家的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "homeward",
+              "cn": "在归途上，向家地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "homecoming",
+              "cn": "归国；同学会；省亲回家"
+            },
+            {
+              "c": "homing",
+              "cn": "归航；动物的返回性"
+            },
+            {
+              "c": "homelessness",
+              "cn": "无家可归"
+            },
+            {
+              "c": "homebody",
+              "cn": "喜欢在家消遣的男人；家庭第一主义的男人"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "homing",
+              "cn": "回家（home的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10091,
+    "word": "ball",
+    "phonetic0": "bɔːl",
+    "phonetic1": "bɔːl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "球"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The ball is under the chair.",
+        "cn": "球在椅子下面。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ball mill",
+        "cn": "球磨；[机]球磨机"
+      },
+      {
+        "c": "on the ball",
+        "cn": "[口]机灵；留心；有见识；勤奋"
+      },
+      {
+        "c": "ball valve",
+        "cn": "球阀，弹子阀；球形阀"
+      },
+      {
+        "c": "ball bearing",
+        "cn": "滚珠，钢球；滚珠轴承"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第53页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10092,
+    "word": "doll",
+    "phonetic0": "dɒl",
+    "phonetic1": "dɑːl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "玩偶；玩具娃娃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The doll is on the bed.",
+        "cn": "玩偶在床上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "barbie doll",
+        "cn": "芭比娃娃；没有头脑的人；徒有其表的人"
+      },
+      {
+        "c": "rag doll",
+        "cn": "布洋娃娃；碎布制玩偶"
+      },
+      {
+        "c": "baby doll",
+        "cn": "婴儿娃娃；小布娃娃"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第53页"
+      }
+    ],
+    "relWords": {
+      "root": "doll",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "dolly",
+              "cn": "洋娃娃；手推车；移动式摄影车；洗衣搅棒"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "dolly",
+              "cn": "移动摄影车"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "dolly",
+              "cn": "用移动车移动"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10093,
+    "word": "car",
+    "phonetic0": "kɑː(r)",
+    "phonetic1": "kɑːr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "小汽车；轿车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The toy car is in the box.",
+        "cn": "玩具汽车在盒子里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by car",
+        "cn": "乘汽车"
+      },
+      {
+        "c": "car accident",
+        "cn": "车祸；交通事故"
+      },
+      {
+        "c": "car rental",
+        "cn": "汽车出租"
+      },
+      {
+        "c": "car park",
+        "cn": "停车场"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "小汽车",
+        "ws": [
+          "auto",
+          "vehicle"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第53页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10094,
+    "word": "on",
+    "phonetic0": "ɒn",
+    "phonetic1": "ɑːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（覆盖、附着）在……上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is it on the shelf?",
+        "cn": "它在架子上吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "and so on",
+        "cn": "等等；诸如此类"
+      },
+      {
+        "c": "just on",
+        "cn": "将近，差不多"
+      },
+      {
+        "c": "on and off",
+        "cn": "断断续续地，不时地"
+      },
+      {
+        "c": "on and on",
+        "cn": "继续不停地"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第55页"
+      }
+    ],
+    "relWords": {
+      "root": "on",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "onward",
+              "cn": "向前的；前进的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "onward",
+              "cn": "向前；在前面"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10095,
+    "word": "shelf",
+    "phonetic0": "ʃelf",
+    "phonetic1": "ʃelf",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "（复数shelves）架子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is it on the shelf? No, it isn't.",
+        "cn": "它在架子上吗？不，不在。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the shelf",
+        "cn": "在书架上；束之高阁；被搁置的；闲置的"
+      },
+      {
+        "c": "shelf life",
+        "cn": "保存限期；贮藏寿命；闲置时间；适用期"
+      },
+      {
+        "c": "off the shelf",
+        "cn": "现成的，不用定制的"
+      },
+      {
+        "c": "continental shelf",
+        "cn": "[地质]大陆架"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "架子",
+        "ws": [
+          "rack",
+          "stand"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第55页"
+      }
+    ],
+    "relWords": {
+      "root": "shelf",
+      "rels": [
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "shelve",
+              "cn": "倾斜"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "shelve",
+              "cn": "搁置，将某事放到一旁不予考虑"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10096,
+    "word": "in",
+    "phonetic0": "ɪn",
+    "phonetic1": "ɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……内；在……中"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's in the box.",
+        "cn": "它在盒子里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in on",
+        "cn": "参与，参加"
+      },
+      {
+        "c": "in between",
+        "cn": "在中间"
+      },
+      {
+        "c": "in a big way",
+        "cn": "大规模地，彻底地"
+      },
+      {
+        "c": "in so far as",
+        "cn": "至于"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第55页"
+      }
+    ],
+    "relWords": {
+      "root": "in",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "inner",
+              "cn": "内部的；内心的；精神的"
+            },
+            {
+              "c": "inward",
+              "cn": "向内的；内部的；精神的；本质上的；熟悉的"
+            },
+            {
+              "c": "innermost",
+              "cn": "内心的；最里面的，最深处的；秘密的"
+            },
+            {
+              "c": "inmost",
+              "cn": "心底的，内心深处的；最深的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "inward",
+              "cn": "向内；内心里"
+            },
+            {
+              "c": "inwardly",
+              "cn": "向内地；思想上；在内部"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "inner",
+              "cn": "内部"
+            },
+            {
+              "c": "inward",
+              "cn": "内部；内脏；密友"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10097,
+    "word": "box",
+    "phonetic0": "bɒks",
+    "phonetic1": "bɑːks",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "盒子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's in the box.",
+        "cn": "它在盒子里。"
+      },
+      {
+        "c": "We need three boxes.",
+        "cn": "我们需要三个盒子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dialog box",
+        "cn": "[计]对话框，对话窗口"
+      },
+      {
+        "c": "in the box",
+        "cn": "在盒子里；在方框中"
+      },
+      {
+        "c": "box girder",
+        "cn": "[建]箱形梁"
+      },
+      {
+        "c": "box office",
+        "cn": "票房；售票处"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "盒子；箱子",
+        "ws": [
+          "case",
+          "chest",
+          "carton"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第55页"
+      }
+    ],
+    "relWords": {
+      "root": "box",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "boxed",
+              "cn": "醉酒的"
+            },
+            {
+              "c": "boxlike",
+              "cn": "像箱子一样的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "boxer",
+              "cn": "拳师，拳击手"
+            },
+            {
+              "c": "boxing",
+              "cn": "拳击；装箱；围模；做箱的材料"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "boxing",
+              "cn": "将…装入盒中（box的ing形式）"
+            },
+            {
+              "c": "boxed",
+              "cn": "装箱（box的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10098,
+    "word": "cap",
+    "phonetic0": "kæp",
+    "phonetic1": "kæp",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "帽子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Where is my cap? It's in a box.",
+        "cn": "我的帽子在哪里？在盒子里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "cap rock",
+        "cn": "[地质]冠岩；盖岩"
+      },
+      {
+        "c": "bottle cap",
+        "cn": "瓶盖"
+      },
+      {
+        "c": "pile cap",
+        "cn": "桩帽"
+      },
+      {
+        "c": "cap in hand",
+        "cn": "毕恭毕敬地；谦恭地"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "便帽；帽子",
+        "ws": [
+          "hat",
+          "beret"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第55页"
+      }
+    ],
+    "relWords": {
+      "root": "cap",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "capped",
+              "cn": "包过的；加盖的；去蒂的"
+            },
+            {
+              "c": "capless",
+              "cn": "无帽的；免盖的；无电容的"
+            },
+            {
+              "c": "cappy",
+              "cn": "如帽般的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "capper",
+              "cn": "封口机；帽商；制造器具的盖子的人；诱饵；装盖的人；托儿"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "capped",
+              "cn": "给…戴帽；去蒂；覆以…；除去盖子；胜过（cap的过去分词形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10099,
+    "word": "map",
+    "phonetic0": "mæp",
+    "phonetic1": "mæp",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "地图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The map is on the wall.",
+        "cn": "地图在墙上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the map",
+        "cn": "在地图上；重要的；出名的"
+      },
+      {
+        "c": "road map",
+        "cn": "公路图"
+      },
+      {
+        "c": "off the map",
+        "cn": "不重要的；不存在的；不易到达的"
+      },
+      {
+        "c": "electronic map",
+        "cn": "电子地图；电子海图"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "地图",
+        "ws": [
+          "chart"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第56页"
+      }
+    ],
+    "relWords": {
+      "root": "map",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "mappable",
+              "cn": "可在图上标示的；可用图表示的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "mapping",
+              "cn": "地图；绘图；[数] 映像"
+            },
+            {
+              "c": "mapper",
+              "cn": "映射；制图人；字体映射程序"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "mapping",
+              "cn": "绘图；筹划（map的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10100,
+    "word": "under",
+    "phonetic0": "ˈʌndə(r)",
+    "phonetic1": "ˈʌndər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在（或到、通过）……下面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's under the chair.",
+        "cn": "它在椅子下面。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "down under",
+        "cn": "澳洲或新西兰地区"
+      },
+      {
+        "c": "go under",
+        "cn": "破产；沉没；屈服；失败"
+      },
+      {
+        "c": "over and under",
+        "cn": "叠排式；（商品损耗量的）波动量；立式双筒短枪"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "在……下面",
+        "ws": [
+          "below",
+          "beneath"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第56页"
+      }
+    ],
+    "relWords": {
+      "root": "under",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "underachiever",
+              "cn": "后进生；学校学习成绩低于智商的学生"
+            },
+            {
+              "c": "underbid",
+              "cn": "叫牌偏低；出价较低"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "underbid",
+              "cn": "出价低于…；出较低的价钱"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10101,
+    "word": "still",
+    "phonetic0": "stɪl",
+    "phonetic1": "stɪl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "还是；仍然"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "My book is still on the desk.",
+        "cn": "我的书仍然在书桌上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "still on",
+        "cn": "仍在进行"
+      },
+      {
+        "c": "still remains",
+        "cn": "仍然是"
+      },
+      {
+        "c": "sit still",
+        "cn": "安静地坐着"
+      },
+      {
+        "c": "stand still",
+        "cn": "站着不动；静止不动"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "仍然；还是",
+        "ws": [
+          "yet",
+          "even now"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第57页"
+      }
+    ],
+    "relWords": {
+      "root": "still",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "stilly",
+              "cn": "平静的；不动的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "stilly",
+              "cn": "静静地；默默地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "stillness",
+              "cn": "静止；沉静"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10102,
+    "word": "put",
+    "phonetic0": "pʊt",
+    "phonetic1": "pʊt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "放；安置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put the books in the box.",
+        "cn": "把书放进盒子里。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "put forward",
+        "cn": "提出；拿出；放出；推举出"
+      },
+      {
+        "c": "put in",
+        "cn": "提出，提交；放入；种植；使就职"
+      },
+      {
+        "c": "put on",
+        "cn": "穿上；上演；增加；假装；使…上场"
+      },
+      {
+        "c": "put into",
+        "cn": "使进入；把...放进；在……上种植"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "放；放置",
+        "ws": [
+          "place",
+          "set",
+          "lay"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第57页"
+      }
+    ],
+    "relWords": {
+      "root": "put",
+      "rels": [
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "putting",
+              "cn": "投掷；（高尔夫球）打球入洞"
+            },
+            {
+              "c": "putter",
+              "cn": "推棒；置放者；新进的矿工"
+            },
+            {
+              "c": "putt",
+              "cn": "轻轻一击"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "putting",
+              "cn": "放置（put的ing形式）；轻击球；使球入洞的轻击（putt的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "putter",
+              "cn": "闲荡；行为懒散（过去式puttered，过去分词puttered，现在分词puttering，第三人称单数putters，名词putterer）"
+            },
+            {
+              "c": "putt",
+              "cn": "轻击高尔夫球"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "putter",
+              "cn": "混过"
+            },
+            {
+              "c": "putt",
+              "cn": "击球入洞"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10103,
+    "word": "fifteen",
+    "phonetic0": "ˌfɪfˈtiːn",
+    "phonetic1": "ˌfɪfˈtiːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十五"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have fifteen books.",
+        "cn": "我们有十五本书。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fifteen minutes",
+        "cn": "15分钟"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第64页"
+      }
+    ],
+    "relWords": {
+      "root": "fifteen",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "fifteenth",
+              "cn": "第十五的；十五分之一的"
+            }
+          ]
+        },
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "fifteenth",
+              "cn": "第十五"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10104,
+    "word": "twelve",
+    "phonetic0": "twelv",
+    "phonetic1": "twelv",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十二"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have twelve pencils.",
+        "cn": "我有十二支铅笔。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "strike twelve",
+        "cn": "获得最大成就；达到最高目标；显出全副本领"
+      },
+      {
+        "c": "twelve apostles",
+        "cn": "耶稣之十二信徒"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第64页"
+      }
+    ],
+    "relWords": {
+      "root": "twelve",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "twelfth",
+              "cn": "第十二的，第十二个的；十二分之一的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "twelfth",
+              "cn": "第十二；月的第十二日"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10105,
+    "word": "fourteen",
+    "phonetic0": "ˌfɔːˈtiːn",
+    "phonetic1": "ˌfɔːrˈtiːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十四"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We have fourteen bags.",
+        "cn": "我们有十四个书包。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fourteen thousand",
+        "cn": "一万四"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第65页"
+      }
+    ],
+    "relWords": {
+      "root": "fourteen",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "fourteenth",
+              "cn": "第十四的；第十四个的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "fourteenth",
+              "cn": "第十四；月的第十四日；十四分之一"
+            }
+          ]
+        },
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "fourteenth",
+              "cn": "第十四"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10106,
+    "word": "thirteen",
+    "phonetic0": "ˌθɜːˈtiːn",
+    "phonetic1": "ˌθɜːrˈtiːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十三"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I see thirteen rulers.",
+        "cn": "我看到了十三把尺子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第65页"
+      }
+    ],
+    "relWords": {
+      "root": "thirteen",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "thirteenth",
+              "cn": "第十三的；十三分之一的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "thirteenth",
+              "cn": "第十三；十三分之一"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10107,
+    "word": "eleven",
+    "phonetic0": "ɪˈlev(ə)n",
+    "phonetic1": "ɪˈlev(ə)n",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十一"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eleven balls are in the box.",
+        "cn": "十一个球在盒子里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第65页"
+      }
+    ],
+    "relWords": {
+      "root": "eleven",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "eleventh",
+              "cn": "第十一的；十一分之一的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "eleventh",
+              "cn": "第十一；十一分之一"
+            }
+          ]
+        },
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "eleventh",
+              "cn": "第十一；十一分之一"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10108,
+    "word": "twenty",
+    "phonetic0": "ˈtwenti",
+    "phonetic1": "ˈtwenti",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "二十"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's twenty yuan.",
+        "cn": "二十元。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "twenty five",
+        "cn": "二十五"
+      },
+      {
+        "c": "twenty first",
+        "cn": "第二十一"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第67页"
+      }
+    ],
+    "relWords": {
+      "root": "twenty",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "twentieth",
+              "cn": "第二十的；二十分之一的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "twentieth",
+              "cn": "二十分之一"
+            },
+            {
+              "c": "twenties",
+              "cn": "二十几岁；二十年代（1920年到1929年的时期）；一生中20至29岁的十年"
+            }
+          ]
+        },
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "twentieth",
+              "cn": "第二十"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10109,
+    "word": "seventeen",
+    "phonetic0": "ˌsev(ə)nˈtiːn",
+    "phonetic1": "ˌsev(ə)nˈtiːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十七"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Six yuan, or three for seventeen yuan.",
+        "cn": "六元一个，或者十七元三个。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第67页"
+      }
+    ],
+    "relWords": {
+      "root": "seven",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "seven",
+              "cn": "七的；七个的"
+            },
+            {
+              "c": "seventeenth",
+              "cn": "第十七的，第十七个的；十七分之一的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "seven",
+              "cn": "七个，七"
+            },
+            {
+              "c": "seventeenth",
+              "cn": "第十七日；十七分之一"
+            }
+          ]
+        },
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "seven",
+              "cn": "七个，七"
+            },
+            {
+              "c": "seventeenth",
+              "cn": "第十七"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10110,
+    "word": "sixteen",
+    "phonetic0": "ˌsɪksˈtiːn",
+    "phonetic1": "ˌsɪksˈtiːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十六"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How about three for sixteen yuan?",
+        "cn": "十六元三个怎么样？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第67页"
+      }
+    ],
+    "relWords": {
+      "root": "six",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "sixth",
+              "cn": "（与 the 连用）第六的，第六个的；六分之一的"
+            },
+            {
+              "c": "sixteenth",
+              "cn": "第十六的；十六分之一的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "six",
+              "cn": "六，六个"
+            },
+            {
+              "c": "sixth",
+              "cn": "月的第六日，（与the连用的）第六个；六分之一"
+            }
+          ]
+        },
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "six",
+              "cn": "六，六个"
+            },
+            {
+              "c": "sixteenth",
+              "cn": "第十六；十六分之一"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10111,
+    "word": "eighteen",
+    "phonetic0": "ˌeɪˈtiːn",
+    "phonetic1": "ˌeɪˈtiːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十八"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I have eighteen stamps.",
+        "cn": "我有十八张邮票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第68页"
+      }
+    ],
+    "relWords": {
+      "root": "eight",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "eight",
+              "cn": "八的"
+            },
+            {
+              "c": "eighteenth",
+              "cn": "第十八的，第十八个的；十八分之一的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "eight",
+              "cn": "八字形"
+            }
+          ]
+        },
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "eight",
+              "cn": "八；八个；第八"
+            },
+            {
+              "c": "eighteenth",
+              "cn": "第十八；十八分之一"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10112,
+    "word": "nineteen",
+    "phonetic0": "ˌnaɪnˈtiːn",
+    "phonetic1": "ˌnaɪnˈtiːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十九"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We need nineteen books.",
+        "cn": "我们需要十九本书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第68页"
+      }
+    ],
+    "relWords": {
+      "root": "nineteen",
+      "rels": [
+        {
+          "pos": "num.",
+          "words": [
+            {
+              "c": "nineteenth",
+              "cn": "第十九；十九分之一"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10113,
+    "word": "piggy bank",
+    "phonetic0": "ˈpɪɡi bæŋk",
+    "phonetic1": "ˈpɪɡi bæŋk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "猪形储钱罐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Put your coins in the piggy bank.",
+        "cn": "把你的硬币放进小猪储钱罐里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第69页"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10114,
+    "word": "pay",
+    "phonetic0": "peɪ",
+    "phonetic1": "peɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "付费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pay ten yuan, please.",
+        "cn": "请付十元钱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "v.",
+        "cn": "付款；支付",
+        "ws": [
+          "spend",
+          "disburse"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第69页"
+      }
+    ],
+    "relWords": {
+      "root": "pay",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "payable",
+              "cn": "应付的；到期的；可付的；可获利的"
+            },
+            {
+              "c": "paying",
+              "cn": "支付的；赢利的；合算的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "payment",
+              "cn": "付款，支付；报酬，报答；偿还；惩罚，报应"
+            },
+            {
+              "c": "payload",
+              "cn": "（导弹、火箭等的）有效载荷，有效负荷；收费载重，酬载；（工厂、企业等）工资负担"
+            },
+            {
+              "c": "paycheck",
+              "cn": "付薪水的支票，薪水"
+            },
+            {
+              "c": "payee",
+              "cn": "领款人，收款人"
+            },
+            {
+              "c": "payer",
+              "cn": "付款人；支付者"
+            },
+            {
+              "c": "paying",
+              "cn": "支付；填缝；放送绳链"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "paying",
+              "cn": "支付；报答（pay的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10115,
+    "word": "back",
+    "phonetic0": "bæk",
+    "phonetic1": "bæk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "回到原处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welcome back to school!",
+        "cn": "欢迎回到学校！"
+      },
+      {
+        "c": "Put it back on the shelf.",
+        "cn": "把它放回架子上。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "go back",
+        "cn": "回去；追溯"
+      },
+      {
+        "c": "back in",
+        "cn": "[体育]后内刃"
+      },
+      {
+        "c": "back of",
+        "cn": "在…后面；在…背后"
+      },
+      {
+        "c": "back on",
+        "cn": "背靠"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "回到原处",
+        "ws": [
+          "return",
+          "backward"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第69页"
+      }
+    ],
+    "relWords": {
+      "root": "back",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "backward",
+              "cn": "向后的；反向的；发展迟缓的"
+            },
+            {
+              "c": "backed",
+              "cn": "有背的；有财力支持的"
+            },
+            {
+              "c": "backless",
+              "cn": "无背的；无靠背的；无后盾的"
+            },
+            {
+              "c": "backmost",
+              "cn": "最后面的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "backward",
+              "cn": "向后地；相反地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "backing",
+              "cn": "支持；后退；支持者；衬背"
+            },
+            {
+              "c": "backer",
+              "cn": "支持者；赞助人；援助者"
+            },
+            {
+              "c": "backwardness",
+              "cn": "落后；迟疑；畏缩；腼腆"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "backing",
+              "cn": "支持（back的ing形式）"
+            },
+            {
+              "c": "backed",
+              "cn": "支持；使后退（back的过去分词）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  }
+]

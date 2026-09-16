@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="g-it" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1e1b4b"/>
+      <stop offset="0.5" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" rx="28" fill="url(#g-it)"/>
+  <circle cx="480" cy="130" r="180" fill="#818cf8" opacity=".15"/>
+  <circle cx="80" cy="700" r="200" fill="#6366f1" opacity=".1"/>
+  <path d="M0 610 Q280 500 600 630V800H0Z" fill="#0f0e26" opacity=".6"/>
+  <text x="56" y="105" fill="#c7d2fe" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5">TYPEWORDS • COMPUTER</text>
+  <text x="56" y="310" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="44" font-weight="700">CS TERMINOLOGY</text>
+  <text x="56" y="380" fill="white" font-family="Arial,sans-serif" font-size="64" font-weight="800">计算机专用英语</text>
+  <text x="60" y="440" fill="#e0e7ff" font-family="Arial,sans-serif" font-size="28">大学计算机专业英语词汇</text>
+  <text x="60" y="480" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="20">软硬件 • 网络协议 • 数据库 • 算法</text>
+  <text x="60" y="710" fill="white" opacity=".85" font-family="monospace" font-size="22">VOCABULARY • 1,665 WORDS</text>
+</svg>

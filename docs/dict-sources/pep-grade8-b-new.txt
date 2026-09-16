@@ -1,0 +1,611 @@
+#Unit 1
+calligraphy|n.|书法|2
+ski|v.|滑雪|2
+program|v.|编写程序||n.|程序；（=programme）节目；项目|2
+express|v.|表达；表示|2
+ice skating||滑冰；溜冰|3
+instructor|n.|教练；指导者|3
+give up||放弃|3
+scared|adj.|害怕的； 对……感到惊慌的|3
+scared of||害怕；恐惧|3
+fear|n. & v.|害怕；担忧|3
+get over||克服（困难）；解决（问题）|3
+up to||正在做；由某人决定|4
+poem|n.|诗|4
+single|adj.|单个的；单身的|4
+stroke|n.|笔画；击球|4
+ink|n.|墨水|4
+return|n.|&v. 回来；归还|4
+in return||作为回报|4
+deal|n.|交易；协议||v.|（dealt, dealt）对付|4
+manage|v.|完成（困难的事）；管理|4
+ice-skate|v.|滑冰；溜冰|5
+get into||开始做某事；进入|5
+give it a go||试一试某事|5
+kung fu|n.|功夫|5
+push|v.|鞭策；推||n.|推|5
+once in a while||偶尔；间或|5
+chat|v.|&n. 闲聊|5
+outing|n.|出外游玩；远足|5
+go on an outing||出外游玩|5
+reduce|v.|减少|6
+stress|n.|精神压力；紧张|6
+yoga|n.|瑜伽|6
+object|n.|物品；宾语|6
+Italian|adj.|意大利的； 意大利人的；意大利语的 n. 意大利人；意大利语|6
+programmer|n.|程序设计员|6
+allow|v.|使.……成 可能；允许|6
+achievement|n.|成就|6
+coin|n.|硬币|6
+stamp|n.|邮票|6
+teenage|adj.|青少年的|6
+postcard|n.|明信片|6
+rather|adv.|相当；更准确地说|7
+old-fashioned|adj.|过时的；守旧的|7
+foreign|adj.|外国的；国外的|7
+dream of||梦想；希望|7
+suggestion|n.|建议；提议|8
+failure||（tr） n. 失败|8
+inspiration|n.|鼓舞人心或 启发灵感的人（或事物）；灵感|8
+strict|adj.|严厉的；严格的|8
+surprisingly|adv.|出人意料地；惊人地|8
+so far||到目前为止|8
+stage|n.|舞台；阶段|8
+importantly|adv.|重要地|9
+Luca||卢卡|6
+Bruno||布鲁诺|6
+India||印度|6
+Maya||马娅|6
+Badal||巴达尔|6
+Mogao Caves||莫高窟|7
+#Unit 2
+ourselves|pron.|我们自己|11
+sore|adj.|疼痛的；酸痛的|12
+throat|n.|喉咙|12
+stomachache||（=stomach ache） n.胃痛；肚子疼|12
+headache|n.|头痛|12
+toothache|n.|牙痛|12
+backache|n.|背痛；腰痛|12
+suffer|v.|受苦；遭受|12
+suffer from||受苦；受折磨|12
+press|v.|压；按|13
+nosebleed|n.|鼻出血|13
+dentist|n.|牙科医生|13
+fever|n.|发烧|13
+stomach|n.|胃；腹部|13
+avoid|v.|避免；防止|13
+gas|n.|气体；燃气|13
+ache|n.|& v.疼痛|13
+X-ray|n.|X射线检查；X射线|13
+careless|adj.|不小心的；粗心的|13
+runny|adj.|流鼻涕的；流眼泪的|13
+cough|n.|& v.咳嗽|13
+bruised|adj.|受了瘀伤的|13
+take a seat||坐下|14
+take temperature||给某人量体温（take sb's temperature）|14
+test|n.|&v.检查；测验|14
+flu|n.|流行性感冒|14
+medicine|n.|药；医学|14
+mask|n.|口罩|14
+stop from doing||防止……；阻止……（stop...from doing）|14
+virus|n.|病毒|14
+description|n.|描写；形容|14
+patient|n.|病人 adj.有耐心的|14
+injury|n.|伤害；损伤|14
+illness|n.|疾病|14
+knife|n.|（pl. knives ）刀|15
+safety|n.|安全；安全处所|15
+clear|adj.|清晰的；清楚的||v.|清理|15
+pain|n.|疼痛；痛苦|15
+what's more||更为重要的是|15
+brightness|n.|亮度|15
+environment|n.|环境|15
+cross|v.|穿越；横过；交叉|15
+catch fire||着火|16
+themselves|pron.|他（或她、它）们自己|16
+fry|v.|油炸；油煎；油炒|16
+turn on||接通（电流、煤气、水等）； 打开|16
+stove|n.|厨房灶具；炉子|16
+happily|adv.|快乐地；高兴地|16
+no way||不可能；没门|16
+burn|v.|（burnt, burnt）燃烧；着火||n.|烧伤|16
+on fire||着火；起火|16
+flame|n.|火焰|16
+panic|n.|惊恐；恐慌|16
+onto|prep.|向；朝|16
+throw|v.|（threw ， thrown ）猛动（身体部位）；扔；抛 n.扔；投（球）|16
+roll|v.|（使）翻滚；滚动|16
+quick|adj.|快的；迅速的 adv.迅速地；快速地|16
+be about to||即将；正要（做某事）|16
+stop short||突然停住|16
+aid|n.|&v.帮助；援助|16
+first aid||急救|16
+extinguisher|n.|灭火器|16
+eat out||上馆子吃饭；在外用餐|17
+tonight|adv.|在今晚 n. 今夜；今晚|17
+sadly|adv.|伤心地；令人遗憾|17
+smoke|n.|烟 v.吸烟；冒烟|17
+luckily|adv.|幸运地|17
+badly|adv.|（worse w3:st ）严重地|17
+harm|n.|&v.伤害；损害|17
+pill|n.|药丸；药片|18
+harmful|adj.|有害的|18
+hit|v.|（hit, hit） 碰撞；击；打 n.打；击；击中|18
+shock|n.|震惊；令人震惊的事 v.使震惊；使惊愕|18
+bleed|v.|（bled ， bled） 流血；出血|18
+check|v.|检查；查明||n.|检查；调查|18
+tight|adj.|憋气的；紧的；牢固的|19
+peanut|n.|花生|19
+nervously|adv.|紧张不安地|19
+allergic|adj.|过敏的|19
+from now on||从现在起|19
+Ben||本|12
+Nancy||南希|12
+Jeff||杰夫|13
+James||詹姆斯|16
+Allen||艾伦|16
+Kelly||凯莉|18
+Cooper||库珀|19
+#Unit 3
+deal with||处理；对付|21
+emotion|n.|情绪；情感|21
+upset|adj.|难过的；沮丧的|22
+lonely|adj.|孤独的；寂寞的|22
+shocked|adj.|震惊的|22
+advise|v.|建议；劝告|22
+hurtful|adj.|伤感情的|22
+control|v.|& n. 控制|22
+anger||（t） n.怒火|22
+in future||今后；从今以后|23
+forgive|v.|（forgave ， forgiven ）原谅；宽恕|23
+fault|n.|过错；责任 P|23
+so that||为了；因此|23
+clear the air||尽释前嫌|23
+present|n.|礼物||v.|展现；陈述|23
+standard|n.|标准；水平 adj.标准的|24
+award|n.|奖；奖品|24
+look on the bright side||从好的方面想； 抱乐观态度|24
+get across||解释清楚；传达|24
+clearly|adv.|清楚地|24
+pressure|n.|压力|24
+purpose|n.|目的；意图|25
+on purpose||故意；有意地|25
+cut in half||切成两半（cut...in half）|25
+put oneself in sb's shoes||设身处地；处于某人的境地|25
+shut|v.|（shut, shut）关闭；合上|25
+shut away||把……关（藏）起来；隔离（shut...away）|25
+lastly|adv.|最后|25
+plenty|pron.|充足；丰富；大量|25
+plenty of||充足；大量|25
+feel blue||感到忧郁|26
+on top of the world||欢天喜地|26
+all smiles||笑容满面|26
+in low spirits||情绪低落；精神不振|26
+ring|v.|（rang, rung）响起铃声；给……打电话|26
+enter|v.|进入|26
+dare||（tr） v. & modalv. 敢于|26
+let down||使失望|26
+everybody|pron.|每人；所有人|26
+be hard on||对……苛刻或过分严厉|26
+player|n.|运动员；选手|26
+referee|n.|裁判|26
+take back||撤回；收回|26
+decision|n.|决定|26
+score|n.|得分；比分||v.|得分|26
+proud|adj.|骄傲的；自豪的|26
+proud of||为……感到骄傲|26
+coach|n.|教练|26
+as well||也；又|26
+bit|n.|有点儿；稍微|26
+a bit||有点儿；稍微|26
+repeat|v.|重复|26
+pull together||齐心协力；通力合作|26
+solution|n.|解决办法；解决|27
+though|conj.|虽然；尽管|27
+even though||即使；虽然|27
+apologize||（=apologise）v.道歉|27
+go wrong||出现问题；发生故障；搞错|27
+joyful|adj.|高兴的；令人愉快的|28
+thankful|adj.|感谢的；感激的|28
+negative|adj.|否定的； 消极的|28
+bully|v.|霸凌；恐吓 n.恶霸|28
+shout at||冲……喊叫|28
+behave|v.|表现；举止得体|28
+differently|adv.|不同地|28
+physics|n.|物理；物理学|28
+lie|v.|（lay, lain）平躺；平放|28
+awake|adj.|醒着的|28
+wake up||醒来|28
+relaxed|adj.|放松的；镇定的|28
+normal|adj.|正常的；普通的|28
+from time to time||不时；偶尔|28
+mad|adj.|很生气；疯狂的|28
+mean|adj.|刻薄的；吝啬的|28
+deep||深的；有……深的|28
+take a deep breath||深呼吸|28
+pass away||去世（委婉说法）|29
+anybody|pron.|任何人|29
+remain|v.|继续存在；保持不变|29
+not only but also||不但……而且……（not only...but also...）|29
+Thompson||汤普森|29
+#Unit 4
+wonder|n.|奇观；惊叹||v.|琢磨；想知道；感到诧异|31
+desert|n.|沙漠；荒原|32
+measurement|n.|数量； 测量|32
+square kilometre||平方千米|32
+below|prep.|& adv. 在（……）下面；低于|32
+level|n.|高度；水平；程度|32
+sea level||海平面|32
+surface|n.|表面；表层|32
+depth|n.|深（度）；纵深|33
+dive|v.|& n. 潜水；跳水；俯冲|33
+submersible|n.|潜水艇|33
+unusual|adj.|特别的； 不寻常的|33
+bottom|n.|底部；最下部|33
+waterfall|n.|瀑布|34
+civilization||（= civilisation）n.文明|34
+at all costs||不惜任何代价|34
+development|n.|发展；壮大|34
+cubic|adj.|立方的|35
+cubic metre||立方米|35
+mile|n.|英里|35
+pool|n.|池塘；水坑|35
+climber||（t） n. 攀登者；登山者|36
+northern|adj.|北部的；向北的|36
+distance|n.|距离；遥远|36
+survive|v.|生存；存活； 艰难度过|36
+condition|n.|环境；条件； 状态|36
+degree|n.|度；度数；程度|36
+cliff|n.|悬崖；峭壁|36
+changeable|adj.|可能变化的；易变的；常变的|36
+death|n.|死亡；毁灭；破灭|36
+determined|adj.|有决心的；坚决的|36
+above|prep.|& adv. 在（……）上方；高于|36
+teammate|n.|同队队员；队友|36
+shoulder|n.|肩膀；肩部|36
+bit by bit||一点一点地；逐渐地|36
+ladder|n.|梯子；阶梯；途径|37
+measure||（tr） 2.测量；量度》 n.措施；度量单位|37
+successfully|adv.|成功地；顺利地|37
+risk|v.|使……冒风险（或面临 危险）n.危险；风险|37
+curiosity|n.|好奇心；求知欲|37
+ambition|n.|追求的目标； 野心；雄心|37
+explorer|n.|探险者；勘探者|37
+simply|adv.|仅仅；只；简单地|37
+risky|adj.|有危险（或风险）的|38
+southern|adj.|南部的；向南的|38
+located|adj.|位于；坐落在|38
+freshwater|adj.|淡水的；淡水中生长的|38
+type|n.|类型；种类|38
+attract|v.|吸引；招引|38
+curious|adj.|好奇的； 求知欲强的|38
+traveller|n.|（= traveler）旅行者；游客|38
+natural|adj.|自然的；天然的；天生的|38
+reef|n.|礁；礁脉|39
+underwater|adj.|水下的；用于水下的||adv.|在水下|39
+northeastern|adj.|东北的；东北方向的|39
+coast|n.|海岸；海滨|39
+coral|n.|珊瑚；珊瑚虫|39
+include|v.|包含；包括|39
+sand|n.|沙子|39
+alive|adj.|活着；在世；有活力|39
+structure||（t） n.结构（体）； 构造；体系|39
+turtle|n.|海龟；龟|39
+lifetime|n.|一生；终身|39
+Nile River||尼罗河|32
+Angel Falls||安赫尔瀑布|32
+Mount Qomolangma||珠穆朗玛峰|32
+Dead Sea||死海|32
+Sahara Desert||撒哈拉沙漠|32
+Mariana Trench||马里亚纳海沟|32
+Titanic||泰坦尼克号|33
+Yangtze River||长江|34
+Egypt||埃及|34
+Taklimakan Desert||塔克拉玛干沙漠|34
+Mount Kilimanjaro||乞力马扎罗山|35
+Inga Falls||英加瀑布|35
+East African Rift Valley||东非大裂谷|35
+Victoria Falls||维多利亚瀑布|35
+George Mallory||乔治·马洛里|37
+Siberia||西伯利亚|38
+Lake Baikal||贝加尔湖|38
+Belgium||比利时|38
+Great Barrier Reef||大堡礁|39
+#Unit 5
+temper|n.|脾气；怒气|41
+earthquake|n.|地震|42
+typhoon|n.|台风|42
+wildfire|n.|野火|42
+snowstorm|n.|雪暴； 暴风雪|42
+flood|n.|水灾；洪水 v.泛滥；淹没|42
+drought|n.|早灾；干早|42
+warn|v.|警告；提醒注意|42
+do chores||做家务|42
+wave|n.|波浪；波；挥于 v. 挥手；挥舞|43
+tsunami|n.|海啸|43
+interview|n. & v.|采访；面试|43
+slow down||（使）慢下来；（使）减速|43
+neighbourhood||（=neighborhood） n. 街区； 临近的地方|43
+roof|n.|屋顶；顶部|43
+nearly|adv.|几乎；差不多； 将近|43
+come off||（从某物上）脱落；掉落|43
+report|n.|&v.报道；汇报|43
+trouble|n.|苦恼；困难 v.使忧虑、苦恼；劳驾；麻烦|43
+relative|n.|亲戚；亲属|44
+truck|n.|卡车|44
+supply|n.|供应（量）； （pl.supplies） 补给（品） v供应；供给|44
+preparation|n.|准备（工作）；预备|44
+make preparations||作准备|44
+power|n.|电力供应；能量；力量|45
+soundly|adv.|（睡觉）酣畅地； 可靠地；完全彻底地|45
+thick|adj.|厚的；浓密的|45
+beat|v.|（beat, beaten ） 敲；打 n.敲击；跳动|45
+hide|v.|（hid ， hidden ） 躲藏；隐蔽|45
+tornado|n.|龙卷风；旋风|45
+worst|adj.|& adv. （bad 和badly 的最高级）最坏（的）；最糟（的）|46
+schoolgirl|n.|（学校的）女生P|46
+froth|n.|泡；泡沫|46
+unfortunately|adv.|不幸地；可惜地|46
+refuse|v.|拒绝；退劫|46
+security|n.|安全；保安； 保障|46
+guard|n.|卫兵；保卫 v.保卫|46
+security guard||保安人员|46
+nearby|adj.|附近的 adv. 在附近|46
+scream|v.|尖叫|46
+thankfully|adv.|幸亏；感激地|47
+knowledge|n.|知识；学问|47
+thinking|n.|思考；想法|47
+as soon as||一……就……|47
+hero|n.|（pl. heroes） 英雄； 男主角；偶像|47
+landslide|n.|滑坡；塌方|48
+safeguard|v.|保护；捍卫|48
+floodwater|n.|洪水|48
+manpower|n.|劳动力；人力|48
+heartbeat|n.|心跳（声）|48
+rescue|n. & v.|救援；营救|48
+heatwave|n.|热浪|48
+southwestern||西南的；西南方向的|48
+firefighter|n.|消防队员|48
+volunteer|n.|志愿者；自告奋勇者||v.|自愿做；义务做|48
+terribly|adv.|非常糟地；非常|49
+alarm|n.|警报（器）；惊恐|49
+alarm clock||闹钟|49
+go off||（警报器等）发出响声|49
+review|v.|复习；回顾；复查 n.回顾；审查|49
+sudden|adj.|突然的；骤然的|49
+all of a sudden||突然；猛地|49
+thunder|n.|雷；雷声||v.|打雷；发出雷鸣般响声|49
+by the time||到……的时候|49
+usual|adj.|通常的；寻常的|49
+out of breath||上气不接下气|49
+rainstorm|n.|暴风雨|49
+as a result||因此|49
+unlucky|adj.|不幸的； 不顺利的；不吉利的|49
+Tilly||蒂莉|46
+Phuket||普吉岛|46
+Indonesia||印度尼西亚|46
+Japan||日本|48
+#Unit 6
+shake|v.|（shook, shaken）与（某人）握手；摇动||n.|摇动；奶昔|52
+bow|v. & n.|鞠躬|52
+bump|v.|碰；撞||n.|碰撞；（撞击造成的）肿块|2
+fist|n.|拳头|52
+rub|v.|摩擦；揉|52
+kiss|v.|亲吻||n.|吻|2
+cheek|n.|脸颊|2
+hug|v. & n.|拥抱|52
+embarrassed|adj.|尴尬的|52
+confused|adj.|困惑的|52
+formal|adj.|正式的|52
+curry|n.|咖喱菜|53
+rude|adj.|粗鲁的|53
+uncommon|adj.|罕见的； 不寻常的|53
+palm|n.|手掌|53
+namaste|interj.|有礼了 （印度人行合十礼时口中所念之词）|53
+fork|n.|叉子|53
+Indian|adj.|印度的；印度人的||n.|印度人|53
+manner||（tr） n.方式； （pl. manners）礼仪|54
+table manners||餐桌礼仪|54
+confusing|adj.|令人困惑的；难以理解的|54
+unless|conj.|除非；如果不|54
+proper|adj.|恰当的；正确的|54
+sit up||坐直|54
+keep off||使不碰到；使避开（keep...off）|54
+elbow|n.|肘；肘部|54
+serving|adj.|分菜用的||n.|一份食物|54
+chopstick|n.|（usually p！.） 筷子|54
+serving chopsticks||公筷|54
+surprising|adj.|出人意料的；令人吃惊的|55
+embarrassing|adj.|使人难堪的|55
+be used to||习惯于|55
+cultural|adj.|与文化有关的； 文化的|55
+hear from||得到……的消息|56
+custom|n.|习俗|56
+occasion|n.|场合；重大活动|56
+nicely|adv.|漂亮地；令人愉快地|56
+blouse||（女式）衬衫或短上衣|56
+private||不喜欢谈论私事的；私人的|56
+whether|conj.|是否|56
+married|adj.|已婚的；婚姻的|56
+merci||谢谢（法语）|57
+go a long way||帮助很大|57
+au revoir||再见（法语）|57
+get along||相处融洽；进展|57
+correct|adj.|正确的；恰当的|58
+unsafe|adj.|不安全的；危险的|58
+informal|adj.|非正式的|58
+improper|adj.|不合适的|58
+jeans|n.|（pL.）牛仔裤|58
+marry|v.|结婚；娶；嫁|58
+congratulate|v.|祝贺|58
+Asian|adj.|亚洲的 n. 亚洲人|58
+tradition|n.|传统|58
+firstly|adv.|第一；首先|58
+secondly|adv.|第二；其次|58
+thirdly|adv.|第三|58
+correctly|adv.|正确地； 恰当地|58
+receive|v.|收到|59
+sign-off|n.|（信件或广播的） 结束语；收尾|59
+main|adj.|主要的|59
+false|adj.|错误的；不真实的|59
+impression|n.|印象|59
+cheers|interj.|再见；干杯|59
+Ji-Hoon||智勋（朝鲜或韩国人名）|52
+Kaito||海斗（日本人名）|52
+Marie||玛丽|52
+Turkiye||土耳其|55
+Mexico||墨西哥|55
+Peru||秘鲁|55
+Germany||德国|55
+Paris||巴黎（法国首都）|56
+#Unit 7
+a good read||好的读物；好书（或文章等）|61
+adventure|n.|冒险；冒险经历|62
+fantasy|n.|幻想作品；幻想|62
+mystery|n.|悬疑小说（或电影、 戏剧）；神秘的事物；奥秘|62
+fiction|n.|小说|62
+detective|n.|侦探|62
+alien|n.|外星人|62
+attack|v.|& n.攻击；进攻|62
+hear of||听说；得知|62
+kingdom|n.|王国|63
+historical|adj.|历史的； 有关历史的|63
+force|v.|强迫；迫使；用力推动||n.|力；武力|63
+steal|v.|（stole, stolen）偷；窃取|63
+punish||惩罚；处罚|63
+idiom|n.|习语；成语|63
+recently|adv.|最近；不久前|64
+lost|adj.|迷路的；丢失的； 失去的|64
+get lost||迷路|64
+recommend|v.|推荐；建议|65
+society|n.|社会；社团|65
+literary|adj.|文学的； 文学上的|65
+base|v.|以……为据点||n.|根基；基础；根据地|65
+base on||以……为基础（或根据）（base sth on sth）|65
+summary|n.|总结；概要|66
+spoiled|adj.|（=spoilt ） 宠坏的；娇惯坏的|66
+selfish|adj.|自私的|66
+painful|adj.|令人痛苦的； （身体部位）疼痛的|66
+lock|v.|用锁锁上||n.|锁|66
+lock up||锁好（建筑物的）门|66
+unlock|v.|开……的锁； 发现；揭开|66
+hidden|adj.|隐藏的；秘密的|66
+nobody|pron.|没有人； 谁也不|66
+therefore|adv.|因此；所以|66
+state|n.|状态；国家；州 v.陈述；说明|66
+weak|adj.|虚弱的；（能力）弱的|66
+since|prep.|， adv. & conj. 自……以后；从……以来 conj. 既然；由于|66
+secretly|adv.|秘密地|66
+prove|v.|（proved, proved 或 proved, proven）证明；证实；显示是|66
+get to one's feet||站起身来|66
+day by day||一天天；逐日|66
+build-up|n.|准备期； 准备过程|67
+climax|n.|高潮；极点|67
+effect|n.|影响；结果|67
+in time||及时；来得及|68
+reader||（t） n. 读者；简易读物|68
+librarian|n.|图书管理员； 图书馆馆长|68
+consider|v.|认为；仔细考虑|68
+enemy|n.|敌人|68
+naughty|adj.|淘气的|68
+gentle|adj.|温柔的|68
+defeat|v.|击败；战胜||n.|失败；击败|68
+basic|adj.|基本的；初步的|69
+recommendation|n.|推荐；提议|69
+American|adj.|美国的； 美洲的 n.美国人；美洲人|69
+bone|n.|骨头|69
+doubt|v.|怀疑||n.|疑惑；不确定|69
+inspire|v.|激励；鼓舞|69
+destroy|v.|破坏；摧毁|69
+introduction|n.|介绍；序言|69
+Journey to the West||《西游记》|62
+Harry Potter and the Philosopher's Stone||《哈利·波特与魔法石》|62
+The Time Machine||《时间机器》|62
+The Final Problem||《最后一案》|62
+The Three-Body Problem||《三体》|62
+Around the World in Eighty Days||《八十天环游地球》|62
+Sherlock Holmes||夏洛克·福尔摩斯|62
+The Romance of the Three Kingdoms||《三国演义》|63
+Oliver Twist||《雾都孤儿》|63
+Charles Dickens||查尔斯·狄更斯|63
+Alice's Adventures in Wonderland||《爱丽丝梦游仙境》|64
+Lewis Carroll||刘易斯·卡罗尔|64
+The Little Prince||《小王子》|65
+The Little Match Girl||《卖火柴的小女孩》|65
+Outlaws of the Marsh||《水浒传》|65
+The Adventures of Tom Sawyer||《汤姆·索亚历险记》|65
+My Childhood||《童年》|66
+The Wonderful Wizard of Oz||《绿野仙踪》|66
+A Dream of Red Mansions||《红楼梦》|66
+Treasure Island||《金银岛》|66
+Red Star over China||《红星照耀中国》|66
+The Secret Garden||《秘密花园》|66
+Frances Hodgson Burnett||弗朗西丝·霍奇森·伯内特|66
+Lennox||伦诺克斯|66
+Craven||克雷文|66
+Dickon||迪康|66
+Colin||科林|66
+The Old Man and the Sea||《老人与海》|69
+Ernest Hemingway||欧内斯特·海明威|69
+Pulitzer Prize||普利策奖|69
+#Unit 8
+make a difference||有作用；有影响|71
+visitor|n.|参观者；来访者|72
+elderly|adj.|年纪较大的； 上了年纪的|72
+the elderly||老人；上了年纪的人|72
+organization||（=organisation） n. 组织；团体； 机构|72
+stadium|n.|体育馆；运动场|72
+provide|v.|提供；给予|72
+can|n.|（装食品或饮料的）金属罐； 一罐（的量）|72
+owner|n.|主人；物主|73
+cage|n.|笼子|73
+donation|n.|捐赠物；捐赠|73
+shelter|n.|庇护所；居所|73
+interviewer||（tr） n. 面试官； 采访者|73
+youth|n.|青年；青年时期|74
+nursing home||养老院|74
+active|adj.|活跃的；积极的|74
+come along||赶快；跟着来|74
+army|n.|军队|75
+soldier|n.|军人；士兵|75
+primary|adj.|小学教育的； 首要的|75
+help out||分担工作；帮忙做|75
+charity|n.|慈善机构（或组织）； 慈善事业|75
+warmly|adv.|热情地；温暖地|75
+lady|n.|女士；淑女|76
+gentleman|n.|（pl.gentlemen ） 先生；君子|76
+bark|v.|（狗）吠叫 n.狗叫声|76
+sign up||报名|76
+ever since||自从；自……以后|76
+adult|n.|成年人 adj.成年的；成熟的|76
+missing|adj.|失踪的；丢失的|76
+practical|adj.|实用的； 实际的|77
+life-saving|adj.|救命的； 救生的|77
+teamwork|n.|团队合作|77
+successful|adj.|成功的； 有成就的|77
+most of all||最主要的是|77
+value|n.|重要作用；价值|77
+voluntary|adj.|自愿的； 无偿的|77
+ordinary|adj.|平凡的；普通的|77
+worth|adj.|值得；有价值|77
+audience|n.|听众；观众|77
+willing|adj.|乐意的；愿意的|77
+on the go||在忙碌中|78
+in need||需要帮助的；生活困难的|78
+completely|adv.|完全地； 彻底地|78
+success|n.|成功|78
+elder|adj.|（两人中）年纪较长的（尤指哥哥姐姐）|78
+donate|v.|捐赠；赠送|78
+pocket|n.|口袋|78
+pocket money||零花钱|78
+effort|n.|努力；艰难的尝试|78
+hand out||分发|78
+familiar with||通晓； 熟悉|79
+etc.||等等；以及诸如此类|79
+talent|n.|才能；天赋；天才|79
+madam|n.|（正式、礼貌的 称呼）女士；夫人|79
+advertisement|n.|（=ad ）广告；启事|79
+Robert||罗伯特|73
+Argentina||阿根廷|75
+Blue Sky Rescue||蓝天救援队|76
+Philippines||菲律宾|76

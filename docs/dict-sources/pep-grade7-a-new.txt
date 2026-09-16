@@ -1,0 +1,339 @@
+#Starter Unit 1
+unit|n.|单元|1
+starter unit||过渡单元|1
+section|n.|部分；地区|1
+greet|v.|招呼；问候|1
+oh|interj.|哦；啊|2
+everyone|pron.|每人；所有人|2
+start|v.|开始；着手|4
+conversation|n.|谈话；交谈|4
+spell|v.|用字母拼；拼写|4
+bell|n.|铃（声）；钟（声）|4
+Helen||海伦|1
+Ella||埃拉|1
+Emma||埃玛|1
+Peter||彼得|1
+Brown||布朗|2
+PRC||中华人民共和国|3
+PLA||中国人民解放军|3
+VR||虚拟现实|3
+WHO||世界卫生组织|3
+UN||联合国|3
+Miller||米勒|4
+#Starter Unit 2
+bottle|n.|瓶子|7
+eraser|n.|橡皮|7
+key|n.|钥匙；关键|7
+thing|n.|东西；事情|10
+You're welcome.||别客气；不用谢。|11
+#Starter Unit 3
+fun|n.|乐趣；快乐||adj.|有趣的；使人快乐的|13
+yard|n.|院子；园圃|13
+carrot|n.|胡萝卜|13
+goose|n.|（复数geese）鹅|14
+count|v.|数数|16
+another|adj. & pron.|另一；又一（人或事物）|16
+else|adv.|其他的；别的|17
+circle|v.|圈出||n.|圆形；圆圈|17
+look at||看；瞧|17
+#Unit 1
+make friends||交朋友|19
+get to know||认识；了解|20
+each|adj. & pron.|每个；各自|20
+other|pron.|另外的人（或物）||adj.|另外的；其他的|20
+each other||互相；彼此|20
+full|adj.|完整的；满的|20
+full name||全名|20
+grade|n.|年级；等级|20
+last name||姓氏|20
+classmate|n.|同班同学|21
+class teacher||班主任|21
+first name||名字|21
+mistake|n.|错误；失误|21
+country|n.|国家|22
+same|adj.|相同的|23
+twin|n.|双胞胎之一||adj.|双胞胎之一的|23
+pot|n.|锅|23
+tofu|n.|豆腐|23
+need|v. & n.|需要|24
+parrot|n.|鹦鹉|24
+guitar|n.|吉他|24
+tennis|n.|网球；网球运动|24
+play the guitar||弹吉他|24
+would|modal v.|想（用于礼貌地邀请或向某人提供某物）；将会|24
+would like to||（would可缩写为'd）表示愿意、喜欢|24
+information|n.|信息；消息|25
+hobby|n.|业余爱好|25
+re|prep.|（用于回复电子邮件）关于；事由|25
+Green||格林|20
+UK||英国|20
+US||美国|20
+Smith||史密斯|20
+Lisa||莉萨|23
+Tom||汤姆|23
+hot pot||火锅|23
+Sally||萨莉|23
+Wood||伍德|23
+Sydney||悉尼（澳大利亚城市）|23
+Australia||澳大利亚|23
+Mapo tofu||麻婆豆腐|23
+Beijing roast duck||北京烤鸭|24
+Singapore||新加坡|24
+the Great Wall||长城|24
+Pauline||保利娜|24
+Lee||李|24
+Coco||科科|24
+London||伦敦（英国首都）|24
+#Unit 2
+mean|v.|意思是；打算|27
+husband|n.|丈夫|28
+bat|n.|球棒；球拍|29
+ping-pong bat||乒乓球拍|29
+play ping-pong||打乒乓球|29
+together|adv.|在一起；共同|29
+every day||每天|29
+spend|v.|花（时间、钱等）|29
+a lot of||（也作lots of）大量；许多|29
+hey|interj.|嘿；喂|29
+really|adv.|非常；确实；真正地|29
+member|n.|成员；会员|30
+activity|n.|活动|30
+chess|n.|国际象棋|30
+Chinese chess||中国象棋|30
+a lot||很；非常|30
+grandparent|n.|祖父（母）；外祖父（母）|31
+funny|adj.|好笑的；奇怪的|31
+laugh|v.|笑；发笑||n.|笑声|31
+different|adj.|不同的|31
+have fun||玩得高兴|31
+hat|n.|帽子|32
+handsome|adj.|英俊的|32
+knee|n.|膝；膝盖|32
+at night||在夜晚|32
+grandchild|n.|（复数grandchildren）（外）孙子；（外）孙女|32
+son|n.|儿子|33
+listen to||听；倾听|33
+next to||紧邻；在……近旁|33
+David||戴维|28
+Jim||吉姆|28
+Kate||凯特|31
+Lily||莉莉|32
+Ireland||爱尔兰|32
+Fred||弗雷德|32
+Sam||萨姆|32
+Jane||简|32
+Jack||杰克|32
+Sarah||萨拉|32
+Oscar||奥斯卡|32
+Lucy||露西|32
+#Unit 3
+hall|n.|礼堂；大厅|36
+dining hall||餐厅|36
+in front of||在……前面|36
+building|n.|建筑物；房子|36
+in the middle of||在……中间|36
+across|adv. & prep.|在（……）对面；横过|36
+across from||在对面|36
+centre|n.|（= center）中心；中央|36
+gym|n.|（= gymnasium）体育馆，健身房；（尤指学校的）体育活动|36
+field|n.|场地；田地|36
+sports field||运动场|36
+office|n.|办公室|36
+large|adj.|大的；大号的|37
+special|adj.|特别的；特殊的|37
+smart|adj.|智能的；聪明的|37
+whiteboard|n.|白板；白色书写板|37
+put up||张贴；搭建；举起|37
+important|adj.|重要的|37
+notice|n.|通知；注意||v.|注意到；意识到|37
+locker|n.|有锁存物柜；寄物柜|37
+drawer|n.|抽屉|37
+at the back of||在（……）后面|38
+corner|n.|角；墙角；街角|38
+bookcase|n.|书架；书柜|39
+screen|n.|屏幕；银幕|39
+at school||在学校|40
+different from||与……不一样|40
+modern|adj.|现代的；当代的|40
+do exercises||做体操|40
+amazing|adj.|令人惊奇（惊喜或惊叹）的|40
+raise|v.|使升高；提高|40
+flag|n.|旗；旗帜|40
+most|adj. & pron.|大多数；最多；最大||adv.|最|40
+change|v. & n.|改变；变化|40
+seat|n.|座位|40
+delicious|adj.|美味的；可口的|40
+How about||……怎么样？|40
+yours|pron.|（通常写作Yours，用于书信结尾的签名前）你的；您的|40
+send|v.|发送；邮寄|40
+similar|adj.|类似的；相像的|41
+similar to||和……相似|41
+sound|v.|听起来；好像||n.|声音；响声|41
+bye for now||再见|41
+Flora||弗洛拉|40
+#Unit 4
+biology|n.|生物学|44
+IT||（= information technology）信息技术|44
+geography|n.|地理（学）|44
+history|n.|历史；历史课|44
+boring|adj.|乏味的；令人生厌的|44
+useful|adj.|有用的；有益的|44
+exciting|adj.|令人激动的；使人兴奋的|44
+past|n.|过去；过去的事情||adj.|过去的||prep.|在……之后|45
+good with||善于应付……的|45
+number|n.|数字；号码|45
+help sb with||帮助某人做（某事）|45
+reason|n.|原因；理由|46
+good at||擅长|47
+remember|v.|记住；记起|47
+as|prep.|如同；作为||conj.|当……时；由于|47
+AM||（= a.m.）上午|48
+PM||（= p.m.）下午；午后|48
+French|n.|法语||adj.|法国的；法国人的；法语的|48
+excellent|adj.|优秀的；极好的|48
+instrument|n.|乐器；器械；工具|48
+singer|n.|歌手|48
+future|n.|将来；未来|48
+in the future||将来；未来|48
+term|n.|学期|48
+work out||计算出；解决|48
+problem|n.|难题；困难|48
+in class||在课堂上|48
+magic|n.|魔法；魔力；魔术||adj.|魔力的；有神奇力量的|48
+life|n.|生活；生命|48
+scientist|n.|科学家|48
+both|pron. & adj.|两个；两个都|49
+Baker||贝克|47
+Mike||迈克|48
+Davis||戴维斯|48
+Canada||加拿大|48
+#Unit 5
+club|n.|俱乐部；社团|51
+join|v.|参加；加入|51
+choose|v.|选择；挑选|52
+drama|n.|戏剧；戏剧表演|52
+play Chinese chess||下中国象棋|52
+feeling|n.|感觉；情感|52
+news|n.|消息；新闻|53
+musical|adj.|音乐的；有音乐天赋的|53
+musical instrument||乐器|53
+exactly|adv.|正是如此；准确地|53
+violin|n.|小提琴|53
+drum|n.|鼓|53
+ability|n.|能力；才能|54
+paint|v.|用颜料画；在……上刷油漆||n.|油漆；涂料|54
+climb|v.|攀登；爬|55
+even|adv.|甚至；连；愈加|55
+more|adj. & pron.|更多（的）|55
+act|v.|扮演；行动||n.|（戏剧等）一幕；行动|56
+act out||表演|56
+at home||在家里|56
+interested|adj.|感兴趣的|56
+interested in||对……感兴趣|56
+nature|n.|自然界；大自然|56
+hike|v. & n.|远足；徒步旅行|56
+beef|n.|牛肉|56
+soon|adv.|不久；很快|56
+than|prep. & conj.|（用以引出比较的第二部分）比|56
+more than||多于|56
+mind|n.|头脑；心思|56
+fall|v. & n.|进入；掉落；跌倒||n.|（美式）秋天|56
+fall in love with||爱上……|56
+take photos||拍照|56
+collect|v.|收集；采集|56
+insect|n.|昆虫|56
+discover|v.|发现；发觉|56
+wildlife|n.|野生动物；野生生物|56
+Linda||琳达|55
+Alice||爱丽丝|56
+Bill||比尔|56
+Jenny||珍妮|56
+#Unit 6
+make use of||使用……；利用……|59
+quarter|n.|一刻钟；四等份之一|60
+shower|n.|淋浴；淋浴器；阵雨||v.|洗淋浴|60
+take a shower||淋浴|60
+get dressed||穿衣服|60
+brush|v.|（用刷子）刷||n.|刷子；画笔|60
+tooth|n.|（复数teeth）牙齿|60
+duty|n.|值班；职责|60
+on duty||值班|60
+usually|adv.|通常地；一般地|60
+get up||起床；站起|60
+reporter|n.|记者|61
+around|adv. & prep.|大约；环绕；到处|61
+homework|n.|家庭作业|61
+go to bed||上床睡觉|61
+saying|n.|谚语；格言|61
+rise|v.|起床；升起；增长||n.|增加；增强|61
+stay|v.|停留；保持|62
+routine|n.|常规|62
+restaurant|n.|餐馆；餐厅|63
+housework|n.|家务劳动|63
+while|n.|一段时间；一会儿||conj.|在……期间；当……的时候|63
+weekend|n.|周末|63
+at weekends||在周末|63
+daily|adj.|每日的；日常的|64
+daily routine||日常生活|64
+only|adv.|只；仅|64
+break|n.|休息；间断||v.|（使）破碎；损坏|64
+Finnish|n.|芬兰语||adj.|芬兰的；芬兰人的；芬兰语的|64
+finish|v.|结束；完成|64
+hockey|n.|曲棍球|64
+ice hockey||冰球运动；冰上曲棍球|64
+already|adv.|已经；早已|64
+dark|adj.|昏暗的；深色的|64
+outside|adv. & prep.|在（……）外面||adj.|外面的|64
+part|n.|部分|64
+everyday|adj.|每天的；日常的|64
+prepare|v.|把……预备好；准备|64
+prepare sth for||为……把某物准备好|64
+Timo||蒂莫|64
+Halla||哈拉|64
+Helsinki||赫尔辛基（芬兰首都）|64
+Finland||芬兰|64
+home economics||家政学；家庭经济学|64
+#Unit 7
+celebrate|v.|庆祝；庆贺|67
+surprise|n.|惊奇；惊讶||v.|使感到意外|69
+something|pron.|某事；某物|69
+sale|n.|出售；销售|69
+kilo|n.|（= kilogram, kilogramme；复数kilos）千克；公斤|69
+yogurt|n.|（= yoghurt）酸奶|69
+total|n.|总数；合计||adj.|总的；全体的|69
+price|n.|价格|70
+balloon|n.|气球|70
+chocolate|n.|巧克力|70
+pizza|n.|比萨饼|70
+list|n.|名单；清单||v.|列表；列清单|70
+own|adj. & pron.|自己的；本人的|71
+example|n.|例子；范例|71
+for example||例如|71
+language|n.|语言|71
+international|adj.|国际的|71
+mark|v.|做记号；纪念；打分||n.|记号|71
+national|adj.|国家的；民族的|71
+found|v.|创建；创立|71
+meaningful|adj.|有意义的；重要的|72
+make a wish||许愿|72
+celebration|n.|庆典；庆祝（活动）|72
+post|n.|帖子；邮政||v.|邮寄；发布|72
+contact|n.|联系；接触||v.|联系；联络|72
+symbol|n.|象征；符号|72
+take a photo||拍照|72
+village|n.|村庄；村镇|72
+grow|v.|成长；长大；增长|72
+blow|v.|吹；刮|72
+blow out||吹灭|72
+enjoy|v.|享受……的乐趣；喜欢|72
+height|n.|身高；高度|72
+later|adv. & adj.|以后（的）；后来（的）|72
+next time||下次|72
+whom|pron.|谁；什么人|73
+William Shakespeare||威廉·莎士比亚|71
+Florence Nightingale||弗洛伦斯·南丁格尔|71
+National Day||国庆节|71
+CPC Founding Day||中国共产党建党纪念日|71
+PLA Day||中国人民解放军建军节|71
+Judy||朱迪|72
+Clark||克拉克|72

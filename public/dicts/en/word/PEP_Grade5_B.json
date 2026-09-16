@@ -1,0 +1,9646 @@
+[
+  {
+    "id": 10001,
+    "word": "password",
+    "phonetic0": "ˈpɑːswɜːd",
+    "phonetic1": "ˈpæswɜːrd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "密码；口令，暗语"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "You need a password to log on.",
+        "cn": "登录需要密码。"
+      },
+      {
+        "c": "If the wrong password is given the program aborts.",
+        "cn": "如果键入错误的密码，程序即中止。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new password",
+        "cn": "新口令，新密码"
+      },
+      {
+        "c": "password protection",
+        "cn": "密码保护"
+      },
+      {
+        "c": "change password",
+        "cn": "修改口令"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "密码；[计][军]口令",
+        "ws": [
+          "cryptogram",
+          "secret code"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10002,
+    "word": "city",
+    "phonetic0": "ˈsɪti",
+    "phonetic1": "ˈsɪti",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "城市，都市；市民，全市居民；市政府；<非正式>充满……的地方；<英>伦敦金融、商业区；<英>（国王或女王授权的）特许市；<美>（由州政府划定市界并授予特权的）特权市"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The city is full of diversions.",
+        "cn": "城市里各种娱乐活动比比皆是。"
+      },
+      {
+        "c": "The city was shrouded in mist.",
+        "cn": "城市笼罩在雾霭之中。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "garden city",
+        "cn": "花园城市"
+      },
+      {
+        "c": "new york city",
+        "cn": "纽约市（美国一座城市）"
+      },
+      {
+        "c": "big city",
+        "cn": "大城市"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "城市，都市",
+        "ws": [
+          "Cities",
+          "ciudad"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "城市的；都会的",
+        "ws": [
+          "urban"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10003,
+    "word": "scare",
+    "phonetic0": "skeə(r)",
+    "phonetic1": "sker",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "使惊恐，吓唬；害怕，恐惧"
+      },
+      {
+        "pos": "n.",
+        "cn": "惊恐，惊吓；（社会上的）大恐慌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "OMG, you scared me.",
+        "cn": "omg你吓到我了。"
+      },
+      {
+        "c": "He doesn't scare easily.",
+        "cn": "他不轻易害怕。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "scare away",
+        "cn": "把…吓跑"
+      },
+      {
+        "c": "scare buying",
+        "cn": "抢购"
+      },
+      {
+        "c": "scare someone off",
+        "cn": "将...吓跑"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "惊吓；把…吓跑",
+        "ws": [
+          "take aback"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "受惊",
+        "ws": [
+          "spook"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10004,
+    "word": "left",
+    "phonetic0": "left",
+    "phonetic1": "left",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "左边的；剩余的；左派的，左翼的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在左面，向左"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He entered stage left.",
+        "cn": "他从左侧上了台。"
+      },
+      {
+        "c": "Carlos left ages ago.",
+        "cn": "卡洛斯老早就离开了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the left",
+        "cn": "在左边"
+      },
+      {
+        "c": "left behind",
+        "cn": "留下；遗留"
+      },
+      {
+        "c": "turn left",
+        "cn": "向左转"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10005,
+    "word": "wait",
+    "phonetic0": "weɪt",
+    "phonetic1": "weɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "等候；盼望，期待；推迟，延缓；（已备好）可处理，可取用；（用于鼓励或威胁）等着；（用于打断讲话）等一下，慢着；服侍，招待"
+      },
+      {
+        "pos": "n.",
+        "cn": "等待，等候的时间；<史>（城镇）官方乐队（waits）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wait, and it'll all blow over.",
+        "cn": "等等吧，事情总会过去的。"
+      },
+      {
+        "c": "Sorry mate, you'll have to wait.",
+        "cn": "对不起，伙计，你得等着。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "wait for",
+        "cn": "等候"
+      },
+      {
+        "c": "please wait",
+        "cn": "请稍候，请稍等；请您稍候；正在暖机等待结束再开始使用"
+      },
+      {
+        "c": "wait until",
+        "cn": "等待直到…"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "等候；推迟；延缓",
+        "ws": [
+          "await",
+          "phase back"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "[计]等待；耽搁；伺候用餐",
+        "ws": [
+          "delay"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10006,
+    "word": "line",
+    "phonetic0": "laɪn",
+    "phonetic1": "laɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "线，线条；（运动场地的）场界，场地线；皱纹，褶子；分界线，边界线；（思想或行为等的）界限；轮廓，外形；排，行，列；队列，队伍；一系列（类似事物），家族；各级人员；字行，诗行；（戏剧或电影的）台词，对白；<英>罚抄写（对学童的处罚）（lines）；妙语，谎话；线，绳，索；电话线（路）；热线（电话），电话服务；（铁道或公交）线路；铁轨，轨道；管线；（行进的）方向，路线；路径，渠道；（尤指公开表明的）态度，看法；方法，方式；行业，行当；种类，类型；运输公司，航运公司；防线，前线，战线；生产线，流水线；一串音符；（准备吸用的）散放成细线的毒品；赤道（the Line）；（印刷，计算机）线条的；字母底部水平线（the line）；（正规）战斗部队（the line）"
+      },
+      {
+        "pos": "v.",
+        "cn": "沿……形成行（或列、排）；给……安衬里，铺，垫；（在某物的内部）形成一层；击出（平直球）；用线条标出，布满线条（lined）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Your bill includes line rental.",
+        "cn": "你的账单包括电话线路的租用费。"
+      },
+      {
+        "c": "The ball went over the line.",
+        "cn": "球越线出界了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in line",
+        "cn": "协调；成一直线；有秩序"
+      },
+      {
+        "c": "in line with",
+        "cn": "符合；与…一致"
+      },
+      {
+        "c": "on line",
+        "cn": "在线的；联机的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "路线，航线；排；绳",
+        "ws": [
+          "vector",
+          "row",
+          "range",
+          "thread"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "排队；站成一排",
+        "ws": [
+          "fall in",
+          "queue"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10007,
+    "word": "must",
+    "phonetic0": "mʌst; məst",
+    "phonetic1": "mʌst; məst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "aux.",
+        "cn": "（表示必要或很重要）必须；（用于表示肯定推测）一定，谅必；（提出建议）应该；（用于表示意图）一定要，坚持要；（用于表示同情）必定；（用于问句中表示生气）非要 ；（用于感叹句，表示惊讶或震惊）一定是"
+      },
+      {
+        "pos": "n.",
+        "cn": "<非正式>必不可少的事物；（发酵前或发酵中的）葡萄汁；潮气，霉菌；（尤指发情期的公象、雄骆驼等的）狂暴状态（=musth）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We must set realistic goals.",
+        "cn": "我们必须制订可实现的目标。"
+      },
+      {
+        "c": "We must broaden our appeal.",
+        "cn": "我们必须扩大我们的吸引力。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "must be",
+        "cn": "一定；一定要；肯定是"
+      },
+      {
+        "c": "must have",
+        "cn": "必须拥有；非有不可"
+      },
+      {
+        "c": "must have been",
+        "cn": "一定（对过去事实肯定的推测）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "aux.",
+        "cn": "必须，一定；可以，应当；很可能",
+        "ws": [
+          "may",
+          "shall",
+          "ought"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10008,
+    "word": "sir",
+    "phonetic0": "sɜː(r)",
+    "phonetic1": "sɜːr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "先生，长官（尤指对上级的尊称）；老师（学生对男教师的称呼）；先生，阁下（正式或商业信函开头的称呼）（Dear Sir）；爵士（用于爵士或准男爵名字之前）（Sir）；<美，非正式>决不，的确（no/yes sir）（同 siree）"
+      },
+      {
+        "pos": "",
+        "cn": "【名】 （苏丹、德）西尔（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is everything in order, sir?",
+        "cn": "一切都正常吗，先生？"
+      },
+      {
+        "c": "Are you ready to order, sir?",
+        "cn": "先生，可以点菜了吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dear sir or madam",
+        "cn": "尊敬的先生或女士（信笺的开头语）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "阁下，先生",
+        "ws": [
+          "don",
+          "gentleman"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10009,
+    "word": "recycle",
+    "phonetic0": "ˌriːˈsaɪkl",
+    "phonetic1": "ˌriːˈsaɪk(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "回收利用，再利用；（将可回收物品）送入回收加工厂；使再循环；再次应用，重新使用（观念、文章等）"
+      },
+      {
+        "pos": "n.",
+        "cn": "回收利用，循环使用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The objective would be to recycle 98 percent of domestic waste.",
+        "cn": "该目标是循环使用98%的生活垃圾。"
+      },
+      {
+        "c": "The power of the Green movement in Germany has made that country a leader in the drive to recycle more waste materials.",
+        "cn": "德国环保运动的力量已经使该国成了循环利用更多废料运动中的领先者。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "recycle bin",
+        "cn": "回收站；资源回收筒"
+      },
+      {
+        "c": "recycle gas",
+        "cn": "回注气，循环气"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "再生；再循环；重复利用",
+        "ws": [
+          "regeneration",
+          "breeding",
+          "rebirth"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10010,
+    "word": "behind",
+    "phonetic0": "bɪˈhaɪnd",
+    "phonetic1": "bɪˈhaɪnd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在（或向）……的后面；落后于；是……背后的原因；支持；（……的外表）之下；成为（某人的）过去；低于；在……死后"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在后面；留在原地；落后（于）；拖欠，不按时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She heard footsteps behind her.",
+        "cn": "她听到背后有脚步声。"
+      },
+      {
+        "c": "Her scarf streamed behind her.",
+        "cn": "她的围巾在身后飘动。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "from behind",
+        "cn": "从…后面"
+      },
+      {
+        "c": "drop behind",
+        "cn": "落…之后；落伍"
+      },
+      {
+        "c": "go behind",
+        "cn": "进一步斟酌；探究"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "落后于；支持；晚于",
+        "ws": [
+          "with",
+          "past"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "屁股",
+        "ws": [
+          "ass",
+          "rear",
+          "pratt"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10011,
+    "word": "taxi",
+    "phonetic0": "ˈtæksi",
+    "phonetic1": "ˈtæksi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "出租车，计程车，的士；（南非的）小型不定时公交车；出租汽船（或其他交通工具）"
+      },
+      {
+        "pos": "v.",
+        "cn": "（飞机）缓慢滑行；（飞行员）驾驶（飞机）缓慢滑行；乘出租车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hailed a passing taxi.",
+        "cn": "我招呼了一辆路过的出租车。"
+      },
+      {
+        "c": "We'd better take a taxi.",
+        "cn": "我们最好乘出租车。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "taxi driver",
+        "cn": "出租车司机；的士司机"
+      },
+      {
+        "c": "take a taxi",
+        "cn": "乘出租车，搭出租车；打的"
+      },
+      {
+        "c": "by taxi",
+        "cn": "坐计程车"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "[车辆]乘出租车；[航]滑行",
+        "ws": [
+          "coast"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "[车辆]出租汽车",
+        "ws": [
+          "motorcab",
+          "cab"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10012,
+    "word": "inside",
+    "phonetic0": "ˌɪnˈsaɪd",
+    "phonetic1": "ˌɪnˈsaɪd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "内部，内侧；<非正式>内脏，（尤指）胃；里道，内圈；（靠近路边的）慢车道"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在（或向）里面；在监牢里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Train your muscles and bones outside, and train your gomoku inside.",
+        "cn": "外练筋骨皮，内练五子棋。"
+      },
+      {
+        "c": "The tree trunk was hollow inside.",
+        "cn": "这树干里面是空的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "inside of",
+        "cn": "在…之内；少于"
+      },
+      {
+        "c": "on the inside",
+        "cn": "在里面；在内心；知道内情"
+      },
+      {
+        "c": "inside out",
+        "cn": "彻底地；里面翻到外面"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "里面；内部；内情；内脏",
+        "ws": [
+          "interior",
+          "within",
+          "inner"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "里面的；内部的；秘密的",
+        "ws": [
+          "internal",
+          "inner",
+          "secret",
+          "underground"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10013,
+    "word": "guard",
+    "phonetic0": "ɡɑːd",
+    "phonetic1": "ɡɑːrd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "卫兵，警卫；看守，保卫，警戒；列车长；保护装置；（英国的）禁卫军；（篮球）后卫；（拳击运动员的）防御姿势"
+      },
+      {
+        "pos": "v.",
+        "cn": "守卫，保卫；看守，监视；警惕，防范；保护，维护"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A guard was posted outside the building.",
+        "cn": "建筑物外设了一名警卫。"
+      },
+      {
+        "c": "On the platform, the guard blew his whistle.",
+        "cn": "站台上，警卫吹响了他的哨子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "guard against",
+        "cn": "防止；提防"
+      },
+      {
+        "c": "on guard",
+        "cn": "警惕；站岗"
+      },
+      {
+        "c": "mount guard",
+        "cn": "上岗；执勤；看管"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "守卫；警戒；护卫队；[安全]防护装置",
+        "ws": [
+          "vigilance",
+          "alertness"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "警惕",
+        "ws": [
+          "keep one's eye on the ball",
+          "keep one's eyes peeled"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10014,
+    "word": "stand",
+    "phonetic0": "stænd",
+    "phonetic1": "stænd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "站，站立；起立，站起来；使直立，竖放；位于（某处或某位置）；高度为，高达；处于（某种状态）；停，停靠；搁，不流动；很可能会；持有（某种态度或看法）；达特定水平（或数量、高度等）；保持有效，维持不变；忍受，容忍；经得起，经受；请（某人吃饭、喝酒）；竞选，当候选人；屹立，矗立；走，迈（一小步）；具有……地位，排在第……位；（不小心）踩到；承担……职责；担任（板球赛）裁判员"
+      },
+      {
+        "pos": "n.",
+        "cn": "架，座，台；立场，见解；货摊，售货亭；反抗，抵抗；看台；摊位，展台；证人席；坚守时间，总计得分；停车处，站；林分；<南非>地块；舞台，讲台，演奏台；通常站立（或坐）的位置；停止，停住；<罕>一群猎鸟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I couldn't stand that yowling.",
+        "cn": "我无法忍受那种哀嚎。"
+      },
+      {
+        "c": "She was barely able to stand.",
+        "cn": "她勉强能站立。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "stand up",
+        "cn": "站起来；坚持；竖立；站得住脚；拥护"
+      },
+      {
+        "c": "stand in",
+        "cn": "定位替身；代演员站位"
+      },
+      {
+        "c": "stand on",
+        "cn": "坚持；依靠；位于；拘泥于；[航]持续向同一方向航行"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "站立；位于；停滞",
+        "ws": [
+          "sit",
+          "lie on"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "使站立；忍受；抵抗",
+        "ws": [
+          "stomach",
+          "go",
+          "tough",
+          "abide"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10015,
+    "word": "smoke",
+    "phonetic0": "sməʊk",
+    "phonetic1": "smoʊk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（燃烧所产生的）烟，烟雾；吸烟，抽烟；<非正式>（抽的）香烟，（吸的）毒品； <英，非正式>（伦敦之类的）大城市（the Smoke）；无常的事物"
+      },
+      {
+        "pos": "v.",
+        "cn": "吸烟，吸毒品；（作为习惯）抽烟；冒烟，冒气；用烟熏制；（战斗或竞赛中）彻底击败；<美，非正式>开枪杀死（某人）；<美，非正式>用力快击（球）；弥漫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Smoke had blackened the walls.",
+        "cn": "烟把墙壁都熏黑了。"
+      },
+      {
+        "c": "Smoke appeared on the horizon.",
+        "cn": "地平线上升起了烟雾。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "like smoke",
+        "cn": "[俚语]"
+      },
+      {
+        "c": "tobacco smoke",
+        "cn": "烟草烟雾"
+      },
+      {
+        "c": "go up in smoke",
+        "cn": "化为乌有；被烧光"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[环境]烟；抽烟；无常的事物",
+        "ws": [
+          "tobacco",
+          "ephemerality"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "冒烟，吸烟；抽烟；弥漫",
+        "ws": [
+          "fume"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10016,
+    "word": "shout",
+    "phonetic0": "ʃaʊt",
+    "phonetic1": "ʃaʊt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "vi.",
+        "cn": "叫嚷，大声说；呼叫，喊叫；呼唤，呼喊（以引起注意）；大声吼叫使……住口（或讲话被淹没）（shout sb. down）；将嗓子喊哑；<英> 张扬（shout about）；明确无误地指出（或表示）；<澳新，非正式>（在酒吧、餐厅等）请人喝饮料（或吃东西）；使用大写字母（写电子邮件，表示生气）"
+      },
+      {
+        "pos": "n.",
+        "cn": "（愤怒、害怕、激动等的）呼喊，喊叫声；<英，非正式> 请客的酒，轮到买酒请客；<英，非正式> 紧急召集消防队（或警察）的叫喊声"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's wrong to swear and shout.",
+        "cn": "骂人和喊叫是不对的。"
+      },
+      {
+        "c": "Look, you needn't shout.",
+        "cn": "喂，你不必喊。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "shout at",
+        "cn": "对…大喊；叱喝"
+      },
+      {
+        "c": "shout out",
+        "cn": "突然呼喊，大叫"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "呼喊；喊叫；大声说",
+        "ws": [
+          "yell out",
+          "exclaim"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "呼喊；大声说",
+        "ws": [
+          "cry",
+          "yell out"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10017,
+    "word": "borrow",
+    "phonetic0": "ˈbɒrəʊ",
+    "phonetic1": "ˈbɔːroʊ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "借，借入；（向……）借贷；采用，借用；（演算减法时）借（位）"
+      },
+      {
+        "pos": "",
+        "cn": "【名】 （Borrow）（英）博罗（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can I borrow your calculator?",
+        "cn": "我可以借用你的计算器吗？"
+      },
+      {
+        "c": "May I borrow your newspaper?",
+        "cn": "把你的报纸借我看行吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "borrow money",
+        "cn": "借钱；借债"
+      },
+      {
+        "c": "borrow from",
+        "cn": "向……借"
+      },
+      {
+        "c": "borrow trouble",
+        "cn": "自找麻烦，杞人忧天"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "借；借用",
+        "ws": [
+          "loan",
+          "scunge"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10018,
+    "word": "teach",
+    "phonetic0": "tiːtʃ",
+    "phonetic1": "tiːtʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "教授，讲授；教会，训练；教育，使懂得（情理）；<非正式>劝诫，教训"
+      },
+      {
+        "pos": "n.",
+        "cn": "<非正式>教师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could you teach me to do that?",
+        "cn": "你能教我干那活儿吗？"
+      },
+      {
+        "c": "Lord knows, I tried to teach her.",
+        "cn": "谁都知道，我曾经努力想教她。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "teach oneself",
+        "cn": "自学"
+      },
+      {
+        "c": "teach english",
+        "cn": "教英语"
+      },
+      {
+        "c": "teach school",
+        "cn": "教书；当教师"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "教；教授；教导",
+        "ws": [
+          "wise",
+          "enlighten"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10019,
+    "word": "flash",
+    "phonetic0": "flæʃ",
+    "phonetic1": "flæʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "闪光，闪亮；（快速）出示，显示；飞驰，掠过；闪现；迅速播出，传送（信息）；突然显露（强烈情感）；<非正式>当众暴露（性器官）；<非正式>（为引人注目而）展示，炫耀；（尤指用无线电或光波）通信，联络"
+      },
+      {
+        "pos": "n.",
+        "cn": "闪光；闪光灯；闪现；（军装上的）肩章；网站动画程序；花哨，噱头；突然理解，顿悟；（感情的）突发；<非正式>炫耀财富，夸富；（产品包装上用来吸引顾客眼光的）色带，突显区域；（模塑过程中的）溢料，溢边；（尤指为帮助行船而从堰闸里放出的）水流；飞快的一瞥；（模塑过程中的）溢料，溢边"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'll need flash for this shot.",
+        "cn": "拍这个镜头我需要闪光灯。"
+      },
+      {
+        "c": "Stopping to rest, Pete shut off the flash.",
+        "cn": "停下来休息的时候，皮特关掉了手电筒。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in a flash",
+        "cn": "瞬间；立刻"
+      },
+      {
+        "c": "flash memory",
+        "cn": "闪速存储器"
+      },
+      {
+        "c": "flash point",
+        "cn": "闪点；燃点"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "使闪光；反射",
+        "ws": [
+          "reflect",
+          "mirror"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "闪光，闪现；一瞬间",
+        "ws": [
+          "stroboflash",
+          "coruscation"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10020,
+    "word": "open",
+    "phonetic0": "ˈəʊpən",
+    "phonetic1": "ˈoʊpən",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "开放的，营业的；开着的，敞开的；（身体部位）张开的；露天的，无遮盖的；开阔的，未围上的；可通行的，畅通的；伸开的，展开的；坦率的；不保密的，公开的；易受影响的，易受攻击的；人人可以参加的；（对特定群体）开放的 ；可得到的，可使用的；思想开明的；尚未决定的；（文件夹、文档等）正在使用中的；（胜利者）赢得公开赛的；（票子）未注明旅行日期的；<英>（支票）未签注的；（数）（集合）开的；（元音）开的；（乐）开放的 ；（电路）开路的，断路的；（纺织品）松散的"
+      },
+      {
+        "pos": "v.",
+        "cn": "开，打开；开封，开启；睁开（眼睛），张开（嘴巴）；翻开，展开；开通，开放；开门，营业 ；开业，开幕；（股市）开盘，开市；着手，开始；启动（计算机程序或文件）；开立账户；通往，通向；展现，出现；使某人更乐意考虑某事；断开（电路）；畅谈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The door squeaked open.",
+        "cn": "门嘎吱一声开了。"
+      },
+      {
+        "c": "The door creaked open.",
+        "cn": "门嘎吱一声开了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "open up",
+        "cn": "打开；开发；开始；展示，揭露"
+      },
+      {
+        "c": "in the open",
+        "cn": "在户外；在野外"
+      },
+      {
+        "c": "open the door",
+        "cn": "开门"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "[电]公开的；敞开的；空旷的；坦率的；营业着的",
+        "ws": [
+          "honest",
+          "transparent"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "开始；展现",
+        "ws": [
+          "proceed",
+          "lie"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10021,
+    "word": "return",
+    "phonetic0": "rɪˈtɜːn",
+    "phonetic1": "rɪˈtɜːrn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "回来，回去；归还，退还；回报，回应；（感觉或情况）重新出现，恢复；重新开始，继续（某项活动）；带来，产生（利润或损失）；回击，击回； 宣告（裁决）；选举，选出；（建筑）（尤指成直角）转延（墙壁）；（高尔夫）打后九穴；（美橄）截获（对方传、踢或漏球）反攻；（桥牌）（尤指同伴所攻出的同花色牌赢墩后）跟着打出，回出；把（空瓶或空罐头盒）送到回收站"
+      },
+      {
+        "pos": "n.",
+        "cn": "回来，返回；归还，退回；重新开始，恢复；回报，收益；<英> 往返票，来回票；返回键，回车键；（选举）结果；（网球等）回击球；（纳税）申报表，申报单；（建筑）转延，转延侧面；回路导线；被退回（或送回）的东西，退票；（可以回收的）空罐头盒，空瓶子（returns）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Regulars return year after year.",
+        "cn": "常客年年都回来。"
+      },
+      {
+        "c": "He did not return her love.",
+        "cn": "他没有回报她的爱。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "and return",
+        "cn": "并且回程"
+      },
+      {
+        "c": "in return",
+        "cn": "作为报答"
+      },
+      {
+        "c": "return for",
+        "cn": "作为对…的报答"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "[计]返回；归还；报答",
+        "ws": [
+          "replace",
+          "restore"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "[计]返回；归还；报答",
+        "ws": [
+          "payment",
+          "reward",
+          "restoration"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10022,
+    "word": "write",
+    "phonetic0": "raɪt",
+    "phonetic1": "raɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "写作，编写；写道；写信；书写，写字；谱写（音乐作品）；编写（计算机程序）；将（计算机中的）数据写入（磁盘或其他储存媒体）；填写（表格、支票等），拟定；（笔）能写字；拼写；<加，南非>参加（笔试）；书写，手写（与铅印相对）；以写作为生；承保（保险单）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Write me while you're away.",
+        "cn": "你外出期间给我写信。"
+      },
+      {
+        "c": "To whom should I write?",
+        "cn": "我应该把信写给谁？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "write down",
+        "cn": "写下；减低帐面价值；把…描写成"
+      },
+      {
+        "c": "read and write",
+        "cn": "读和写；直读式记录"
+      },
+      {
+        "c": "write in",
+        "cn": "写入；写信提出（请求等）；在选票上加写（非原定候选人的名字）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "写，写字；写作，作曲；写信",
+        "ws": [
+          "compose",
+          "drive the quill"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "写，书写；写信给；著述",
+        "ws": [
+          "pen"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10024,
+    "word": "litter",
+    "phonetic0": "ˈlɪtə(r)",
+    "phonetic1": "ˈlɪtər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（公共场所内乱扔的）垃圾，废弃物；一堆杂乱的东西；（同时出生的）一窝（小动物）；猫砂；（森林里的）落叶，落叶层；（家畜睡觉用的）褥草，垫草；轿子；担架"
+      },
+      {
+        "pos": "v.",
+        "cn": "散乱覆盖；（在公共场所）乱扔（垃圾）；使（某事物）充满；（狗、猫等动物）产仔；<古>（为马或其他动物）铺褥草"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Animals reject the runt of the litter.",
+        "cn": "动物们排斥一窝中最弱小的幼仔。"
+      },
+      {
+        "c": "If you see litter in the corridor, pick it up.",
+        "cn": "如果你看到走廊里有垃圾，就把它捡起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "垃圾；轿，担架；一窝（动物的幼崽）；凌乱",
+        "ws": [
+          "refuse",
+          "garbage",
+          "junk",
+          "rubbish"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "产仔；乱扔废弃物",
+        "ws": [
+          "give birth"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10025,
+    "word": "Listen carefully",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "仔细听，即专注地倾听、注意细节和语气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you listen carefully?",
+        "cn": "你是否认真倾听？"
+      },
+      {
+        "c": "Let's listen carefully!",
+        "cn": "让我们都来仔细听听吧！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10027,
+    "word": "Yes",
+    "phonetic0": "jes",
+    "phonetic1": "jes",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（Yes）（巴）耶（人名）"
+      },
+      {
+        "pos": "int.",
+        "cn": "（yes）是的；不对；噢；是吗；对吧；嗯；太好了；行了"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Oh yes, I see what you mean.",
+        "cn": "噢，我明白你的意思了。"
+      },
+      {
+        "c": "Yes, that's basically correct.",
+        "cn": "对，基本正确。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "oh yes",
+        "cn": "哦是的"
+      },
+      {
+        "c": "if yes",
+        "cn": "如果是"
+      },
+      {
+        "c": "yes or no",
+        "cn": "或否；是或不是"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "是",
+        "ws": [
+          "yeah",
+          "yep",
+          "yeh"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "同意",
+        "ws": [
+          "agreement",
+          "Ok",
+          "leave",
+          "Okay"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10028,
+    "word": "No",
+    "phonetic0": "nəʊ",
+    "phonetic1": "noʊ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（柬、越）诺（人名）"
+      },
+      {
+        "pos": "adv.",
+        "cn": "（no）不，完全不"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She had no money coming in and no funds.",
+        "cn": "她既无固定收入也无存款。"
+      },
+      {
+        "c": "Hygiene was nonexistent: no running water, no bathroom.",
+        "cn": "卫生根本不存在：没有自来水，没有浴室。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "no longer",
+        "cn": "不再"
+      },
+      {
+        "c": "no more",
+        "cn": "不再"
+      },
+      {
+        "c": "no less than",
+        "cn": "不少于，多达…；正如"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "不",
+        "ws": [
+          "not",
+          "non",
+          "n't"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "没有；不是",
+        "ws": [
+          "nah"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 1",
+        "d": "收录于人教版英语五年级下册（新版） Unit 1。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10029,
+    "word": "station",
+    "phonetic0": "ˈsteɪʃ(ə)n",
+    "phonetic1": "ˈsteɪʃ(ə)n",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（公共汽车、火车等的）车站；电视台，广播电台；站，所，局；<旧>社会地位，身份；须坚守的位置，岗位；驻地，基地；（电台或电视的）频率，频道；（澳大利亚或新西兰的）大牧场"
+      },
+      {
+        "pos": "vt.",
+        "cn": "驻扎，派驻；派往，安置在"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I get off at the next station.",
+        "cn": "我在下一站下车。"
+      },
+      {
+        "c": "The train pulled into a station.",
+        "cn": "那列火车驶入了一个车站。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "power station",
+        "cn": "发电站；发电厂"
+      },
+      {
+        "c": "railway station",
+        "cn": "火车站"
+      },
+      {
+        "c": "hydropower station",
+        "cn": "水电站"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "站；驻地；地位；身分",
+        "ws": [
+          "capacity",
+          "condition",
+          "standing"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "配置；安置；驻扎",
+        "ws": [
+          "establish",
+          "put",
+          "bed",
+          "plant"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10030,
+    "word": "street",
+    "phonetic0": "striːt",
+    "phonetic1": "striːt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "街道，街；马路，车行道；街头，户外（公共场合）；（用于街道名称或地址）…街，…大街"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He lives just down the street.",
+        "cn": "他就住在街那头。"
+      },
+      {
+        "c": "He turned into a narrow street.",
+        "cn": "他拐进了一条狭窄的街道。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the street",
+        "cn": "在街上；在交易所打烊后进行的；在户外"
+      },
+      {
+        "c": "on the street",
+        "cn": "在街上"
+      },
+      {
+        "c": "wall street",
+        "cn": "华尔街（美国纽约）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[公路]街道",
+        "ws": [
+          "row",
+          "calle",
+          "treet",
+          "public thoroughfare"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10031,
+    "word": "next",
+    "phonetic0": "nekst",
+    "phonetic1": "nekst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "下一个的，接下来的；（时间）紧接着来到的，下次的；紧邻的；其他的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "紧接着，随后；仅次于；下次，再次；（用于询问，表示吃惊或困惑）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When is your next appointment?",
+        "cn": "你下一次预约时间是什么时候？"
+      },
+      {
+        "c": "We're moving house next month.",
+        "cn": "我们下个月搬家。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "come next",
+        "cn": "紧随其后；再下来"
+      },
+      {
+        "c": "the next world",
+        "cn": "阴间；来世，来生；天堂"
+      },
+      {
+        "c": "get next to someone",
+        "cn": "[美国俚语]博得某人欢心；(尤指在性关系上)与某人相契，熟识某人"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "然后；下次；其次",
+        "ws": [
+          "secondly",
+          "then",
+          "afterwards"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "下一个的；其次的；贴近的",
+        "ws": [
+          "following",
+          "posterior"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10033,
+    "word": "cinema",
+    "phonetic0": "ˈsɪnəmə",
+    "phonetic1": "ˈsɪnəmə",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "电影院；电影（the cinema）；电影业，电影艺术"
+      },
+      {
+        "pos": "",
+        "cn": "【名】 （Cinema）（意）奇内马（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I like music, theatre and cinema.",
+        "cn": "我喜欢音乐、戏剧和电影。"
+      },
+      {
+        "c": "He took her to the cinema.",
+        "cn": "他带她去看电影了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[电影]电影；电影院；电影业，电影制作术",
+        "ws": [
+          "film",
+          "motion picture"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10034,
+    "word": "far",
+    "phonetic0": "fɑː(r)",
+    "phonetic1": "fɑːr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "远，遥远地；久远地；非常，很大程度上；发展，进展（到）；过分地"
+      },
+      {
+        "pos": "adj.",
+        "cn": "遥远的，久远的；另一边的，较远的；偏远的，极端的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's been quiet so far.",
+        "cn": "到目前为止还是安静的。"
+      },
+      {
+        "c": "Have you come far?",
+        "cn": "你是远道来的吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "很；遥远地；久远地；到很远的距离；到很深的程度",
+        "ws": [
+          "greatly",
+          "quite",
+          "badly",
+          "too"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "远的；久远的",
+        "ws": [
+          "hoary",
+          "agelong"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10035,
+    "word": "artist",
+    "phonetic0": "ˈɑːtɪst",
+    "phonetic1": "ˈɑːrtɪst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "艺术家，美术家；表演艺术家；大师，行家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is little known as an artist.",
+        "cn": "几乎没人知道他是个艺术家。"
+      },
+      {
+        "c": "I explained that I was an artist.",
+        "cn": "我解释说我是一位艺术家。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "graphic artist",
+        "cn": "艺术家"
+      },
+      {
+        "c": "martial artist",
+        "cn": "武术家"
+      },
+      {
+        "c": "make-up artist",
+        "cn": "化妆师；舞台监督"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "艺术家；美术家（尤指画家）；大师",
+        "ws": [
+          "pope",
+          "maestro"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10036,
+    "word": "scientist",
+    "phonetic0": "ˈsaɪəntɪst",
+    "phonetic1": "ˈsaɪəntɪst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "科学家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He's a brilliant young scientist.",
+        "cn": "他是一个才华横溢的青年科学家。"
+      },
+      {
+        "c": "I admired him as a true scientist and hard worker.",
+        "cn": "我钦佩他是一名真正的科学家和勤奋的工作者。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "computer scientist",
+        "cn": "计算机科学家"
+      },
+      {
+        "c": "social scientist",
+        "cn": "社会科学家"
+      },
+      {
+        "c": "rocket scientist",
+        "cn": "火箭专家；股市分析高手；[喻]行家"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10037,
+    "word": "direct",
+    "phonetic0": "dəˈrekt",
+    "phonetic1": "dəˈrekt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "径直的，笔直的；坦率的；直射的；直接的，亲身的；正好的；直系的"
+      },
+      {
+        "pos": "v.",
+        "cn": "把……对准；管理，指导；给……指路；指引，引导；导演；指示，命令；交予，寄至"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "More farms are selling direct to consumers.",
+        "cn": "更多的农场在直接向消费者销售产品。"
+      },
+      {
+        "c": "Christopher will direct day-to-day operations.",
+        "cn": "克里斯托弗将指挥日常工作。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "direct investment",
+        "cn": "[经]直接投资"
+      },
+      {
+        "c": "direct current",
+        "cn": "直流；[电]直流电"
+      },
+      {
+        "c": "foreign direct investment",
+        "cn": "外国直接投资，对外直接投资"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "直接的；直系的；亲身的；恰好的",
+        "ws": [
+          "immediate",
+          "right"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "管理；指挥；导演；指向",
+        "ws": [
+          "manage",
+          "conduct",
+          "run",
+          "officer"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10038,
+    "word": "traffic",
+    "phonetic0": "ˈtræfɪk",
+    "phonetic1": "ˈtræfɪk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "路上行驶的车辆，交通；（沿固定路线的）航行，行驶，飞行；运输量；非法交易；信息流量，通信（量）"
+      },
+      {
+        "pos": "v.",
+        "cn": "（非法）进行……交易，做……买卖；在……通行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The traffic was diabolical.",
+        "cn": "交通状况糟糕透了。"
+      },
+      {
+        "c": "The traffic lights were on amber.",
+        "cn": "交通信号黄灯亮了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "traffic accident",
+        "cn": "交通事故"
+      },
+      {
+        "c": "traffic flow",
+        "cn": "交通流量"
+      },
+      {
+        "c": "traffic safety",
+        "cn": "交通安全；行车安全"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[交]交通；运输；贸易；[通信]通信量",
+        "ws": [
+          "transportation",
+          "commerce",
+          "trade",
+          "carriage"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "交易，买卖",
+        "ws": [
+          "exchange",
+          "trade in"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10039,
+    "word": "between",
+    "phonetic0": "bɪˈtwiːn",
+    "phonetic1": "bɪˈtwiːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "（空间上）在……中间；（时间上）在……之间；（数量、重量、距离等）介于……之间；分隔着；（表示两方或多方关系）在……之间；合用，共享；通过共同努力，一起；（两人）私下间；往返于"
+      },
+      {
+        "pos": "adv.",
+        "cn": "（空间或时间上）介于……之间（in between）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He toggled between the two windows.",
+        "cn": "他在两个窗口之间来回切换。"
+      },
+      {
+        "c": "We slung a hammock between two trees.",
+        "cn": "我们在两棵树之间挂了一个吊床。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in between",
+        "cn": "在中间"
+      },
+      {
+        "c": "between you and me",
+        "cn": "只限于咱俩之间；我们之间的秘密"
+      },
+      {
+        "c": "between ourselves",
+        "cn": "只限于咱们之间；秘密的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "在…之间",
+        "ws": [
+          "entre"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "cn": "在中间",
+        "ws": [
+          "intermediately"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10041,
+    "word": "volunteer",
+    "phonetic0": "ˌvɒlənˈtɪə(r)",
+    "phonetic1": "ˌvɑːlənˈtɪr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "志愿者，义务工作者；自告奋勇者，主动做某事的人；志愿兵，义勇兵；自生植物；<法律>无因受益人"
+      },
+      {
+        "pos": "v.",
+        "cn": "自愿做，义务做，无偿做；志愿服役，志愿参军；主动提供（信息），主动说出（或建议）；自作主张地说，（未经当事人同意）举荐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volunteer work gives her life (a sense of) purpose.",
+        "cn": "做志愿工作使她的生活有了意义。"
+      },
+      {
+        "c": "She now helps in a local school as a volunteer three days a week.",
+        "cn": "她现在作为一名志愿者每周3天在当地一所学校帮忙。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "volunteer services",
+        "cn": "义工服务；志工服务台"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10042,
+    "word": "train",
+    "phonetic0": "treɪn",
+    "phonetic1": "treɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火车，列车；（行进中的）行列，队列；随从，扈从；一系列，一连串（事件或想法）；裙裾，拖裾；（转动的）轮系，齿轮组；（引爆炸药用的）导火线"
+      },
+      {
+        "pos": "v.",
+        "cn": "培训，训练；（为准备体育赛事而）操练；锻炼，培养（某一素质或能力）；训（兽）；（尤指用枪、照相机）对准，瞄准；使（植物）朝某方向生长，修整"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Somewhere a train whistled.",
+        "cn": "某个地方响起了火车的鸣笛声。"
+      },
+      {
+        "c": "The train was flying along.",
+        "cn": "火车飞驰着。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "train of thought",
+        "cn": "一连串的思想或思路"
+      },
+      {
+        "c": "by train",
+        "cn": "乘火车"
+      },
+      {
+        "c": "train station",
+        "cn": "火车站"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[铁路]火车；行列；长队；裙裾",
+        "ws": [
+          "iron horse",
+          "choochoo"
+        ]
+      },
+      {
+        "pos": "v.",
+        "cn": "培养；训练；瞄准",
+        "ws": [
+          "aim for",
+          "take aim at"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10043,
+    "word": "foreign",
+    "phonetic0": "ˈfɒrən",
+    "phonetic1": "ˈfɔːrən",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "外国的，来自国外的；外交的，涉外的；陌生的，不熟悉的；外来的，异质的；外地的，不属于本地区的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Foreign News is on page 16.",
+        "cn": "国外新闻在第16版。"
+      },
+      {
+        "c": "He was denounced as a foreign spy.",
+        "cn": "有人告发他是外国间谍。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "foreign trade",
+        "cn": "外贸，对外贸易"
+      },
+      {
+        "c": "foreign language",
+        "cn": "外语；外文"
+      },
+      {
+        "c": "foreign exchange",
+        "cn": "外汇；国际汇兑；外国汇票"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "外国的；外交的；异质的；不相关的",
+        "ws": [
+          "external",
+          "diplomatic"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10044,
+    "word": "lost",
+    "phonetic0": "lɒst",
+    "phonetic1": "lɔːst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "迷路的，迷失的；失去的，丢失的；不复存在的，不再拥有的；不知所措，一筹莫展；糊涂的，困惑的；全神贯注的；（时间或机会）浪费的，错过的；输了的；遭难的，阵亡的；彻底毁坏的"
+      },
+      {
+        "pos": "v.",
+        "cn": "遗失，丢失；失去；输掉（比赛、战斗、争论等）（lose 的过去式和过去分词形式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Harry was hopelessly lost.",
+        "cn": "哈里彻底迷路了。"
+      },
+      {
+        "c": "They were lost at sea.",
+        "cn": "他们在海上迷失了方向。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "lost in",
+        "cn": "迷失于；迷恋"
+      },
+      {
+        "c": "get lost",
+        "cn": "迷路；走开，滚开"
+      },
+      {
+        "c": "got lost",
+        "cn": "迷路"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "失去的；丧失的；迷惑的",
+        "ws": [
+          "deceptive",
+          "delusory"
+        ]
+      },
+      {
+        "pos": "v.",
+        "cn": "遗失（lose的过去分词）；失败",
+        "ws": [
+          "cracked"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10045,
+    "word": "sign",
+    "phonetic0": "saɪn",
+    "phonetic1": "saɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "指示牌，标志；迹象，征兆；示意动作，手势；手语动作；符号，记号；踪迹，踪影；（医）征，体征；神迹（主要用于《圣经》和文学作品中）；<美>（野生动物的）足迹，臭迹；（占星）（黄道12宫中的）宫，星座；（数）正负号；暗号，信号；（表示某人状况或经历的）动作，反应"
+      },
+      {
+        "pos": "v.",
+        "cn": "签名，署名；（与机构、公司等）签约；示意，打手势；打手语；用标志杆（或其他记号）表示"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm looking at the small print; I don't want to sign anything that I shouldn't sign.",
+        "cn": "我在读小体印刷的细则，我不想在不该签的文件上签字。"
+      },
+      {
+        "c": "The sign read 'No admittance'.",
+        "cn": "告示牌上写着“禁止入内”。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sign up",
+        "cn": "签约雇用，签约参加"
+      },
+      {
+        "c": "sign on",
+        "cn": "开始广播；签约雇用"
+      },
+      {
+        "c": "sign for",
+        "cn": "签收"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "迹象；符号；记号；手势",
+        "ws": [
+          "symbol",
+          "breath",
+          "evidence",
+          "mark"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "签署；签名",
+        "ws": [
+          "subscribe"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10046,
+    "word": "live",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "v. 生存，活着；生活在；居住；生长，栖息；（以某种方式）生活，过日子；为……而生活；以……为生；继续存在，铭记；过精彩的生活，享受生活；<非正式>（物）搁置在（某处）；恪守（规则、信念、理想等）；<古>（船）逃过劫难，未沉没"
+      },
+      {
+        "pos": "",
+        "cn": "adj. 活的，有生命的；含乳酸菌的；现场直播的，实况转播的；现场演出的；（电线或设备等）通电的，带电的；仍可爆炸的，随时可用的；（火、煤炭或火柴）燃烧的，可燃的；（火柴）未用过的；当前所关心的，时下重大的；（球类运动中的球）处于比赛状态的；（电子链接）有效的；（机器中轮或轴）转动的"
+      },
+      {
+        "pos": "",
+        "cn": "adv. 现场直播地，实况转播地"
+      },
+      {
+        "pos": "",
+        "cn": "【名】 （Live）（挪、芬、印、俄、美、荷）利夫（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They live in the suburbs.",
+        "cn": "他们住在城外。"
+      },
+      {
+        "c": "Tell me where you live.",
+        "cn": "告诉我你住哪儿？"
+      },
+      {
+        "c": "Where do you live?",
+        "cn": "你住在什么地方？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "live in",
+        "cn": "住进"
+      },
+      {
+        "c": "live with oneself",
+        "cn": "不会感到内疚，会心安理得的；自重"
+      },
+      {
+        "c": "live to oneself",
+        "cn": "过孤独的生活"
+      },
+      {
+        "c": "live with",
+        "cn": "忍受；[口]承认；寄宿在…家；与…同居"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "活的；生动的；实况转播的；精力充沛的",
+        "ws": [
+          "telling",
+          "vivid",
+          "vigorous",
+          "energetic"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "经历；度过",
+        "ws": [
+          "spend",
+          "suffer",
+          "experience",
+          "undergo",
+          "last"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "活；居住；生存",
+        "ws": [
+          "exist",
+          "belong",
+          "room",
+          "harbor",
+          "dwell"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Dolch First Grade",
+        "d": "Dolch First Grade Sight Words（41词）。本词属于 Dolch Sight Words 核心高频词，建议通过句块训练达到视觉自动化识别。"
+      }
+    ],
+    "relWords": {
+      "root": "live",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "lively",
+              "cn": "活泼的；生动的；真实的；生气勃勃的"
+            },
+            {
+              "c": "living",
+              "cn": "活的；现存的；活跃的；逼真的"
+            },
+            {
+              "c": "livable",
+              "cn": "适于居住的；生活过得有价值的"
+            },
+            {
+              "c": "liveable",
+              "cn": "适于居住的；可住的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "liver",
+              "cn": "肝脏；生活者，居民"
+            },
+            {
+              "c": "living",
+              "cn": "生活；生存；生计"
+            },
+            {
+              "c": "livelihood",
+              "cn": "生计，生活；营生"
+            },
+            {
+              "c": "liveliness",
+              "cn": "活泼；热烈；鲜明"
+            },
+            {
+              "c": "liveness",
+              "cn": "活性，活跃度；现场感"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "living",
+              "cn": "生活；居住（live的ing形式）；度过"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "liven",
+              "cn": "快活起来；活跃起来"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "liven",
+              "cn": "使高兴，使快活"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10047,
+    "word": "note",
+    "phonetic0": "nəʊt",
+    "phonetic1": "noʊt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "短笺，便条；笔记，记录；注释，批注；正式文件，票据，证明书；音，音符；语气，气氛；钞票；重要性，值得注意之处（of note）"
+      },
+      {
+        "pos": "v.",
+        "cn": "留意，注意；指出，提及；记录，记下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Someone left this note for you.",
+        "cn": "有人给你送来了这张便条。"
+      },
+      {
+        "c": "She scribbled a note in pencil.",
+        "cn": "她用铅笔草草写了张便条。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "笔记；[声]音符；[金融]票据；注解；纸币；便笺；照会；调子",
+        "ws": [
+          "bill",
+          "minute",
+          "William"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "注意；记录；注解",
+        "ws": [
+          "watching",
+          "register",
+          "take care of"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10048,
+    "word": "visitor",
+    "phonetic0": "ˈvɪzɪtə(r)",
+    "phonetic1": "ˈvɪzɪtər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "访问者，参观者；（网站的）浏览者；客队队员（visitors）；候鸟；<英>（大学或其他学术机构的）督察员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I wasn't expecting a visitor.",
+        "cn": "我没有预期会有访客。"
+      },
+      {
+        "c": "\"You must be Emma,\" said the visitor.",
+        "cn": "“你一定是埃玛,”来访者说道。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "frequent visitor",
+        "cn": "常客；熟客"
+      },
+      {
+        "c": "winter visitor",
+        "cn": "冬候鸟，冬鸟"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "访问者，参观者；视察者；候鸟",
+        "ws": [
+          "transient",
+          "fetcher"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10051,
+    "word": "right",
+    "phonetic0": "raɪt",
+    "phonetic1": "raɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "符合道德的，正当的；正确的，真实的；（人、物）合适的，般配的；（意见，判断）对的；右边的，右侧的；（状态或情况）健康的，正常的；<英，非正式> 十足的，真正的（用于强调某人或某物多么糟糕）；正面的，外面的；时尚的，上流社会的；（人或政党）支持保守观点的，右翼的"
+      },
+      {
+        "pos": "v.",
+        "cn": "纠正，矫正；补救，扭转；把（尤指小船）扶正，使直立"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That's absolutely right.",
+        "cn": "那是完全正确的。"
+      },
+      {
+        "c": "You're absolutely right.",
+        "cn": "你完全正确。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "right now",
+        "cn": "就是现在，马上"
+      },
+      {
+        "c": "all right",
+        "cn": "好；顺利；正确的"
+      },
+      {
+        "c": "property right",
+        "cn": "产权"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "正确的；直接的；右方的",
+        "ws": [
+          "immediate",
+          "true",
+          "direct",
+          "correct"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "正确；右边；正义",
+        "ws": [
+          "validity",
+          "justice"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 2",
+        "d": "收录于人教版英语五年级下册（新版） Unit 2。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10052,
+    "word": "January",
+    "phonetic0": "ˈdʒænjuəri",
+    "phonetic1": "ˈdʒænjueri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "一月，即公历年的第一个月份"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "January is my least favourite month.",
+        "cn": "一月是我最不喜欢的月份。"
+      },
+      {
+        "c": "Rose is due to start school in January.",
+        "cn": "罗斯一月份就要开始上学了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "一月",
+        "ws": [
+          "Janeiro"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10053,
+    "word": "June",
+    "phonetic0": "dʒuːn",
+    "phonetic1": "dʒuːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "六月；琼（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ann's expecting a baby in June.",
+        "cn": "安六月份要生孩子。"
+      },
+      {
+        "c": "They are to be married in June.",
+        "cn": "他们计划于六月份结婚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "六月；琼（女名）",
+        "ws": [
+          "Joan",
+          "Joa"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10054,
+    "word": "May",
+    "phonetic0": "meɪ",
+    "phonetic1": "meɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "五月；（植物）山楂（尤指欧洲山楂）及山楂花（常小写为 may）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "That may or may not be true.",
+        "cn": "这可能是真的，也可能不是。"
+      },
+      {
+        "c": "Other problems may follow.",
+        "cn": "其它问题也许会随之而来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10055,
+    "word": "party",
+    "phonetic0": "ˈpɑːti",
+    "phonetic1": "ˈpɑːrti",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "聚会，派对；政党，党派；<正式>（契约或争论的）当事人，一方；队，组，群；<正式>参加者；<非正式>人"
+      },
+      {
+        "pos": "v.",
+        "cn": "<非正式> 尽情欢乐，欢宴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The party was arranged quickly.",
+        "cn": "聚会很快就安排好了。"
+      },
+      {
+        "c": "The party was stupefyingly dull.",
+        "cn": "这次聚会无聊透了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "third party",
+        "cn": "第三方"
+      },
+      {
+        "c": "Communist Party",
+        "cn": "共产党"
+      },
+      {
+        "c": "party committee",
+        "cn": "党委"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "政党，党派；聚会，派对；[法]当事人",
+        "ws": [
+          "principal",
+          "get-together"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10056,
+    "word": "December",
+    "phonetic0": "dɪˈsembə(r)",
+    "phonetic1": "dɪˈsembər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "十二月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I keep forgetting it's December.",
+        "cn": "我总是忘了现在是12月份。"
+      },
+      {
+        "c": "The closing date for entries is December 31.",
+        "cn": "参赛作品提交的截止日期是12月31日。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10057,
+    "word": "celebrate",
+    "phonetic0": "ˈselɪbreɪt",
+    "phonetic1": "ˈselɪbreɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "庆祝，庆贺；赞扬，赞美；主持（宗教仪式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I was in a mood to celebrate.",
+        "cn": "我很想庆祝一番。"
+      },
+      {
+        "c": "Scottish champs celebrate victory!",
+        "cn": "苏格兰的冠军庆祝胜利！"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "celebrate with",
+        "cn": "庆祝"
+      },
+      {
+        "c": "celebrate christmas",
+        "cn": "庆祝圣诞"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "庆祝；举行；赞美；祝贺",
+        "ws": [
+          "stage",
+          "praise",
+          "bless",
+          "commemorate"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "庆祝；过节；举行宗教仪式",
+        "ws": [
+          "rejoice",
+          "whoop it up"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10058,
+    "word": "turkey",
+    "phonetic0": "ˈtɜːki",
+    "phonetic1": "ˈtɜːrki",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火鸡；火鸡肉；<美，非正式>（电影或戏剧的）失败之作；笨蛋，傻瓜；土耳其（Turkey）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Who's going to carve the turkey?",
+        "cn": "谁来把火鸡切成小块？"
+      },
+      {
+        "c": "They concluded a treaty with Turkey.",
+        "cn": "他们同土耳其缔结了一项条约。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "roast turkey",
+        "cn": "烤火鸡；烧火鸡"
+      },
+      {
+        "c": "cold turkey",
+        "cn": "突然完全停止使用毒品"
+      },
+      {
+        "c": "wild turkey",
+        "cn": "野火鸡（威士忌品牌）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "火鸡；笨蛋；失败之作",
+        "ws": [
+          "simple",
+          "put"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10059,
+    "word": "Christmas",
+    "phonetic0": "ˈkrɪsməs",
+    "phonetic1": "ˈkrɪsməs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "圣诞节；圣诞节期间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Christmas is a time of reunion.",
+        "cn": "圣诞节是团聚的日子。"
+      },
+      {
+        "c": "Christmas is still months away.",
+        "cn": "离圣诞节还有几个月。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "merry christmas",
+        "cn": "圣诞快乐"
+      },
+      {
+        "c": "christmas day",
+        "cn": "圣诞节"
+      },
+      {
+        "c": "on christmas",
+        "cn": "在圣诞节；在圣诞那天"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "圣诞节",
+        "ws": [
+          "Xmas"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10060,
+    "word": "July",
+    "phonetic0": "dʒʊˈlaɪ",
+    "phonetic1": "dʒʊˈlaɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "七月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The car is taxed until July.",
+        "cn": "这辆汽车的牌照税缴纳到了七月。"
+      },
+      {
+        "c": "It was the hottest July on record.",
+        "cn": "那是历史记载中最热的七月。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in july",
+        "cn": "在七月"
+      },
+      {
+        "c": "fourth of july",
+        "cn": "美国独立纪念日"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10061,
+    "word": "August",
+    "phonetic0": "ˈɔːɡəst",
+    "phonetic1": "ˈɔːɡəst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "八月；（美、德、英、波）奥古斯特（人名）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（august）威严的，令人敬畏的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "This place is lousy with tourists in August.",
+        "cn": "在八月份，这个地方挤满游人。"
+      },
+      {
+        "c": "The player is contracted to play until August.",
+        "cn": "这位选手签约参加比赛到八月份。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "威严的；令人敬畏的",
+        "ws": [
+          "imperial",
+          "formidable"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10062,
+    "word": "September",
+    "phonetic0": "sepˈtembə(r)",
+    "phonetic1": "sepˈtembər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "九月（公历一年中的第九个月份，在八月与十月之间，常缩写为 Sep. 或 Sept.）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "September was a long way off.",
+        "cn": "那时离九月份还有很长一段时间。"
+      },
+      {
+        "c": "The rains come in September.",
+        "cn": "雨季九月份开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10063,
+    "word": "October",
+    "phonetic0": "ɒkˈtəʊbə(r)",
+    "phonetic1": "ɑːkˈtoʊbər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "十月（公历一年中的第十个月，在九月和十一月之间）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The film festival takes place in October.",
+        "cn": "电影节将于十月举行。"
+      },
+      {
+        "c": "The official opening is planned for October.",
+        "cn": "正式开幕拟在十月。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "october revolution",
+        "cn": "俄国十月革命"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10064,
+    "word": "November",
+    "phonetic0": "nəʊˈvembə(r)",
+    "phonetic1": "noʊˈvembər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "十一月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She left back in November.",
+        "cn": "她十一月份已经离开了。"
+      },
+      {
+        "c": "Retail sales fell in November by 10%.",
+        "cn": "十一月份零售额下降10%。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10065,
+    "word": "country",
+    "phonetic0": "ˈkʌntri",
+    "phonetic1": "ˈkʌntri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "国，国家；全国人民，全体国民（the country）；乡下，乡村；地区，区域；乡村音乐；故乡"
+      },
+      {
+        "pos": "adj.",
+        "cn": "乡下的，农村的；乡村音乐的；祖国的，故乡的；粗鲁的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Australia's a big country.",
+        "cn": "澳大利亚是一个幅员辽阔的国家。"
+      },
+      {
+        "c": "I'm a simple country girl.",
+        "cn": "我是一个普普通通的乡村姑娘。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the country",
+        "cn": "在乡下"
+      },
+      {
+        "c": "developing country",
+        "cn": "发展中国家"
+      },
+      {
+        "c": "developed country",
+        "cn": "发达国家"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "国家；故乡",
+        "ws": [
+          "nation",
+          "state",
+          "soil",
+          "hometown"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "乡下的；粗野的",
+        "ws": [
+          "rural",
+          "robust",
+          "gross",
+          "rough"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10066,
+    "word": "sunshine",
+    "phonetic0": "ˈsʌnʃaɪn",
+    "phonetic1": "ˈsʌnʃaɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "阳光，日照；幸福，快乐；<非正式>哥们，老兄（和让你生气的人说话时所用的称呼）"
+      },
+      {
+        "pos": "",
+        "cn": "【名】 （Sunshine）森夏恩（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bay glittered in the sunshine.",
+        "cn": "海湾在阳光下闪闪发光。"
+      },
+      {
+        "c": "This room gets very little sunshine.",
+        "cn": "这个房间几乎照不进阳光。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the sunshine",
+        "cn": "在阳光下"
+      },
+      {
+        "c": "sunshine duration",
+        "cn": "日照时间；日照延时"
+      },
+      {
+        "c": "sunshine hotel",
+        "cn": "阳光酒店"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "阳光；愉快；晴天；快活",
+        "ws": [
+          "brightness",
+          "Suny"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10067,
+    "word": "February",
+    "phonetic0": "ˈfebruəri",
+    "phonetic1": "ˈfebrueri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "二月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Postal workers are getting a 5.2% pay rise, backdated to February.",
+        "cn": "邮政员工的工资将提高5.2%，追溯至二月份起算。"
+      },
+      {
+        "c": "He welshed on his agreement with the team that he would play for them in February.",
+        "cn": "他逃避履行他与球队合同中在二月为他们踢球的协议。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "二月",
+        "ws": [
+          "Feburary"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10068,
+    "word": "beside",
+    "phonetic0": "bɪˈsaɪd",
+    "phonetic1": "bɪˈsaɪd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "在……旁边，在……附近；与……相比；除……以外（还），除……以外（不再）"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在附近；况且，此外"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She kneeled down beside him.",
+        "cn": "她在他身边跪下。"
+      },
+      {
+        "c": "He crouched down beside her.",
+        "cn": "他在她的旁边蹲了下来。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "beside oneself",
+        "cn": "极度兴奋；发狂"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "prep.",
+        "cn": "在旁边；与…相比；和…无关",
+        "ws": [
+          "at the side of",
+          "in comparison to"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10069,
+    "word": "skate",
+    "phonetic0": "skeɪt",
+    "phonetic1": "skeɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "溜冰鞋，滑冰鞋； 四轮溜冰鞋，旱冰鞋；（滑冰鞋上的）冰刀；（载笨重物的）滑板车；滑板（skateboard 的简称）；鳐鱼（一种扁平状海鱼）；鳐鱼肉；<非正式>（南非）声名狼藉的粗鲁白人"
+      },
+      {
+        "pos": "v.",
+        "cn": "滑冰，溜冰；在滑板上滑行，溜出（花样）；滑行；一笔带过，回避（skate over/round）；（喻）一蹴而就（skate through）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We never learned to ice skate or ski.",
+        "cn": "我们从没学过溜冰或滑雪。"
+      },
+      {
+        "c": "Can you skate?",
+        "cn": "你会滑冰吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ice skate",
+        "cn": "溜冰鞋；溜冰"
+      },
+      {
+        "c": "roller skate",
+        "cn": "四轮滑冰鞋；轮式溜冰鞋"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "滑冰；滑过",
+        "ws": [
+          "ice skating",
+          "ice-skate"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "溜冰；冰鞋",
+        "ws": [
+          "ice-skating"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10070,
+    "word": "west",
+    "phonetic0": "west",
+    "phonetic1": "west",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "西，西方；（某个国家、地区或地方的）西部；西方国家 (指美国、加拿大以及西欧、北欧和南欧诸国)（the West)；（美国）西部（尤指密西西比河以西诸州）(the West, the west)；<史>西方（国家）（与东欧前共产主义国家相对的欧洲和北美洲的非共产主义国家）（the West)；（桥牌）坐在西首位置的人"
+      },
+      {
+        "pos": "adj.",
+        "cn": "西方的,向西的；（风）来自西方的；（用于国家、州和地区的名称中）西部的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The wind veered to the west.",
+        "cn": "风向转西。"
+      },
+      {
+        "c": "The sun was sinking in the west.",
+        "cn": "太阳西坠。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the west",
+        "cn": "在西方，在西方（国家）"
+      },
+      {
+        "c": "west of",
+        "cn": "在…以西"
+      },
+      {
+        "c": "west lake",
+        "cn": "杭州西湖"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[地理]西；[天]西方；西部",
+        "ws": [
+          "occident"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "[天]西方的；朝西的",
+        "ws": [
+          "hesperian"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10071,
+    "word": "April",
+    "phonetic0": "ˈeɪprəl",
+    "phonetic1": "ˈeɪprəl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "四月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I arrived at the end of April.",
+        "cn": "我是四月底到达的。"
+      },
+      {
+        "c": "We went to Japan last April.",
+        "cn": "去年四月我们去了日本。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "april fool's day",
+        "cn": "愚人节（4月1日）"
+      },
+      {
+        "c": "april fool",
+        "cn": "愚人节；愚人节中受愚弄者"
+      },
+      {
+        "c": "april fools' day",
+        "cn": "愚人节"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "四月",
+        "ws": [
+          "avril"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10072,
+    "word": "sit",
+    "phonetic0": "sɪt",
+    "phonetic1": "sɪt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "坐下，就座；能容纳，可坐（……人）；为……做模特；<美>（比赛）不用（某选手）；（狗等动物）蹲坐；处在，坐落在； 担任职务，当委员；开会，开庭；<英>参加（考试）；照看小孩"
+      },
+      {
+        "pos": "n.",
+        "cn": "坐的一段时间；<古>（衣服的）合身"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "'Sit down!' Meekly, she obeyed.",
+        "cn": "“坐下！”她乖乖地顺从了。"
+      },
+      {
+        "c": "'Sit still!' she thundered.",
+        "cn": "“坐着别动！”她怒喝道。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sit down",
+        "cn": "坐下；扎营"
+      },
+      {
+        "c": "sit on",
+        "cn": "开庭审理；成为…的一员；旁听；列席"
+      },
+      {
+        "c": "sit in",
+        "cn": "列席，旁听；参加；代理"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "坐；位于",
+        "ws": [
+          "lie on",
+          "be located on"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10073,
+    "word": "holiday",
+    "phonetic0": "ˈhɒlədeɪ",
+    "phonetic1": "ˈhɑːlədeɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "假日；度假期；法定节假日，节日；（分期付款、税费等的）暂缓缴付期"
+      },
+      {
+        "pos": "v.",
+        "cn": "度假"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Today is a holiday in Wales.",
+        "cn": "在威尔士今天是假日。"
+      },
+      {
+        "c": "We rented a holiday villa in Spain.",
+        "cn": "我们在西班牙租了一座假日别墅。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on holiday",
+        "cn": "在度假；在休假中"
+      },
+      {
+        "c": "summer holiday",
+        "cn": "暑假"
+      },
+      {
+        "c": "public holiday",
+        "cn": "公休假日；国定假日"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "假日；节日；休息日",
+        "ws": [
+          "festival",
+          "Feriae"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10074,
+    "word": "ago",
+    "phonetic0": "əˈɡəʊ",
+    "phonetic1": "əˈɡoʊ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "以前，从前"
+      },
+      {
+        "pos": "adj.",
+        "cn": "以前的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She was hired three years ago.",
+        "cn": "她是三年前录用的。"
+      },
+      {
+        "c": "Those skirts went out years ago.",
+        "cn": "那些裙子多年前就不时兴了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "以前，以往",
+        "ws": [
+          "previously",
+          "formerly",
+          "back"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "以前的；过去的",
+        "ws": [
+          "previous",
+          "past",
+          "back"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10075,
+    "word": "Dragon",
+    "phonetic0": "ˈdræɡən",
+    "phonetic1": "ˈdræɡən",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（传说中的）西方的龙；恶龙；悍妇，母夜叉；<澳>蜥蜴（=flying dragon）"
+      },
+      {
+        "pos": "",
+        "cn": "【名】 （Dragon）（匈）德劳贡，（英、法、芬、罗、匈）德拉贡（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The dragon is a blue dragon.",
+        "cn": "这条龙是蓝色的。"
+      },
+      {
+        "c": "She becomes a dragon.",
+        "cn": "她变成了一条龙。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dragon boat",
+        "cn": "龙船，龙舟"
+      },
+      {
+        "c": "dragon boat festival",
+        "cn": "端午节"
+      },
+      {
+        "c": "chinese dragon",
+        "cn": "麒麟"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "龙；凶暴的人，凶恶的人；严厉而有警觉性的女人",
+        "ws": [
+          "tiger",
+          "wyrm"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10076,
+    "word": "ice",
+    "phonetic0": "aɪs",
+    "phonetic1": "aɪs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "冰；冰块；冰冻甜食，刨冰；溜冰场；<美，非正式>钻石，珠宝；（态度，表情）冰冷；<英>一份冰淇淋"
+      },
+      {
+        "pos": "v.",
+        "cn": "在（糕饼上）加糖霜；冷却，冰镇；<非正式>确保（胜利等）；<美，非正式>杀死；结冰；长射（冰球）过全场越过对方球门线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "There was ice on the windows.",
+        "cn": "窗户上有冰花。"
+      },
+      {
+        "c": "Glaciers are moving rivers of ice.",
+        "cn": "冰川是流动成河的冰。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ice cream",
+        "cn": "冰淇淋"
+      },
+      {
+        "c": "on ice",
+        "cn": "在狱中；有成功或胜利把握；搁置起来的；暂缓"
+      },
+      {
+        "c": "sea ice",
+        "cn": "海冰；海上浮冰"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[水文][制冷]冰；冰淇淋；矜持",
+        "ws": [
+          "gelato",
+          "reservedness"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "冰的",
+        "ws": [
+          "glacial"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10077,
+    "word": "March",
+    "phonetic0": "mɑːtʃ",
+    "phonetic1": "mɑːrtʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "三月，公历一年中的第三个月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We went skiing in France in March.",
+        "cn": "三月份我们去法国滑雪了。"
+      },
+      {
+        "c": "The trial reopened on 6 March.",
+        "cn": "审判在3月6日再次进行。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in march",
+        "cn": "在三月；在三月份"
+      },
+      {
+        "c": "long march",
+        "cn": "长征"
+      },
+      {
+        "c": "march in",
+        "cn": "进入；（运动员）进场"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "行军，进军；进行曲；示威游行",
+        "ws": [
+          "demonstration",
+          "anabasis"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "进军；走过",
+        "ws": [
+          "step by",
+          "road to"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10078,
+    "word": "catch",
+    "phonetic0": "kætʃ",
+    "phonetic1": "kætʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "接住；抓住，握住；逮住，捕获；发现，撞见；钩住，绊住；击中，碰到；得病，染病；引起，吸引（注意或兴趣）；（对某事）感到兴奋；搭乘，赶上；及时做（或谈等）；出席，观看；表现，再现；使措手不及；察觉，瞥见；听清，理解；突然意识到；盛住（液体）；（板球）使被接杀出局；（棒球中）当接球手；受（光）照射；（风或水）裹挟，推动；着火，燃烧；遭遇，陷入（困境）；固定，系牢；被（悬浮物）覆盖"
+      },
+      {
+        "pos": "n.",
+        "cn": "接（球等）；（鱼的）捕获量，捕获物；<旧>理想的对象；门闩，吊扣；（声息）哽塞；隐患，隐藏的困难；（乐）轮唱片段；传接球游戏；捉人游戏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We can catch the early morning train.",
+        "cn": "我们能赶上清晨的那班火车。"
+      },
+      {
+        "c": "Where did you catch the fish?",
+        "cn": "你在哪儿捕到了这条鱼？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "catch oneself",
+        "cn": "发觉自己讲错而突然住嘴"
+      },
+      {
+        "c": "catch up",
+        "cn": "赶上；把…缠住"
+      },
+      {
+        "c": "catch up with",
+        "cn": "赶上，追上；逮捕；处罚"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "赶上；抓住；感染；了解",
+        "ws": [
+          "realize",
+          "affect",
+          "grasp",
+          "contract"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "赶上；抓住",
+        "ws": [
+          "get up to",
+          "make it to"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10079,
+    "word": "National",
+    "phonetic0": "ˈnæʃ(ə)nəl",
+    "phonetic1": "ˈnæʃ(ə)nəl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（印、巴）耐提奥纳乐（人名）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（national）国家的；国民的；民族的；国立的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her savings were in the First National Bank.",
+        "cn": "她的存款以前在第一国民银行。"
+      },
+      {
+        "c": "They are afraid of losing their national identity.",
+        "cn": "他们担心会失去他们的民族特色。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "national economy",
+        "cn": "国民经济"
+      },
+      {
+        "c": "national standard",
+        "cn": "国家标准"
+      },
+      {
+        "c": "national security",
+        "cn": "国家安全；民族安全"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "国家的；国民的；民族的；国立的",
+        "ws": [
+          "state",
+          "natl"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "国民",
+        "ws": [
+          "subject"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10080,
+    "word": "is nice",
+    "phonetic0": "",
+    "phonetic1": "bi naɪs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "友善待人，对（某人）友好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The house is nice and cool.",
+        "cn": "这栋房子又好又凉快。"
+      },
+      {
+        "c": "Yum, the soup is nice.",
+        "cn": "嗯~这汤很好喝。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10081,
+    "word": "best",
+    "phonetic0": "best",
+    "phonetic1": "best",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "最好的，最出色的；最愉快的，最幸福的；最合适的，最恰当的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "最，最高程度地；最出色地，最高标准地；最适合地，最恰当地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Be the best, or don't do it at all. Fight for first, or don't fight at all.",
+        "cn": "要做就做最好，要争就争第一。"
+      },
+      {
+        "c": "Lighter shades suit you best.",
+        "cn": "较浅色的衣服对你最合适。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "one of the best",
+        "cn": "好人"
+      },
+      {
+        "c": "best way",
+        "cn": "最佳方法"
+      },
+      {
+        "c": "best friend",
+        "cn": "最好的朋友，好朋友"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "最好的人，最好的事物；最佳状态",
+        "ws": [
+          "groove",
+          "high point"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "最好的",
+        "ws": [
+          "greatest",
+          "perfect",
+          "prime",
+          "crack"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10082,
+    "word": "class",
+    "phonetic0": "klɑːs",
+    "phonetic1": "klæs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "课；班级"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Listen carefully in class.",
+        "cn": "在课堂上认真听讲。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in class",
+        "cn": "在课堂上；上课中"
+      },
+      {
+        "c": "first class",
+        "cn": "头等，第一流；最高级"
+      },
+      {
+        "c": "economy class",
+        "cn": "（飞机上的）经济舱位"
+      },
+      {
+        "c": "middle class",
+        "cn": "中产阶级"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "班级；课",
+        "ws": [
+          "grade",
+          "course",
+          "lesson"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "人教版义务教育教科书英语（PEP）（三年级起点）三年级下册，第33页"
+      }
+    ],
+    "relWords": {
+      "root": "class",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "classified",
+              "cn": "分类的；类别的；机密的"
+            },
+            {
+              "c": "classy",
+              "cn": "优等的；上等的；漂亮的"
+            },
+            {
+              "c": "classless",
+              "cn": "无阶级的；不属于任何阶级的"
+            },
+            {
+              "c": "classifiable",
+              "cn": "可分类的"
+            },
+            {
+              "c": "classificatory",
+              "cn": "类别的；分类上的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "classification",
+              "cn": "分类；类别，等级"
+            },
+            {
+              "c": "classified",
+              "cn": "分类广告"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "classified",
+              "cn": "把…分类（classify的过去分词）"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "classify",
+              "cn": "分类；分等"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10083,
+    "word": "Ht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "高度（height）的缩写；海地（Haiti）的两字母国家/地区代码及其互联网顶级域 .ht；英特尔超线程技术（Hyper-Threading）的缩写；夏威夷时间（Hawaiian Time）的缩写；装卸与运输（Handling and Transportation）的缩写"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The MPAP, RVSP, RVDP were determined by modified rig ht heart catheterization in group A.",
+        "cn": "A 组采用改良的右心导管测定法测定肺动脉平均压、右心室收缩压、右心室舒张压。"
+      },
+      {
+        "c": "The objective is to investigate the distribution and morphology of the 5-HT immunoreactive cells in the digestive tract of Manis pentadactyla.",
+        "cn": "目的是研究中国穿山甲消化道 5-HT 免疫活性细胞的分布和形态。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 3",
+        "d": "收录于人教版英语五年级下册（新版） Unit 3。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10084,
+    "word": "hometown",
+    "phonetic0": "ˈhəʊmtaʊn",
+    "phonetic1": "ˈhoʊmtaʊn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "家乡，故乡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We asked Jason to write an essay about his hometown.",
+        "cn": "我们让杰森写一篇关于他家乡的短文。"
+      },
+      {
+        "c": "Can you describe your hometown?",
+        "cn": "你能描述一下你的家乡吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "家乡；故乡",
+        "ws": [
+          "country",
+          "native land"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10085,
+    "word": "grassland",
+    "phonetic0": "ˈɡrɑːslænd",
+    "phonetic1": "ˈɡræslænd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "草原，草地，牧草地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tropical forest is felled to make way for grassland.",
+        "cn": "热带森林被砍伐，腾出地方做草地。"
+      },
+      {
+        "c": "Cows were roaming the grassland.",
+        "cn": "乳牛在草地上徘徊。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "草原；[畜牧]牧草地",
+        "ws": [
+          "veldt",
+          "pastureland"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10086,
+    "word": "its",
+    "phonetic0": "ɪts",
+    "phonetic1": "ɪts",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "pron.",
+        "cn": "它的，其（it 的所有格形式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Its film industry operates in its own curiously hermetic way.",
+        "cn": "它的电影业以奇特而封闭的方式运作。"
+      },
+      {
+        "c": "This made its mini-computers incompatible with its mainframes.",
+        "cn": "这使得它的微型电脑与其主机不兼容。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "as it were",
+        "cn": "可以说是，似乎就是；好像"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10087,
+    "word": "desert",
+    "phonetic0": "ˈdezət",
+    "phonetic1": "ˈdezərt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "沙漠，荒漠；荒凉的地方；应得的赏罚"
+      },
+      {
+        "pos": "v.",
+        "cn": "离弃，舍弃（某地）；抛弃，遗弃（某人）；背弃，放弃；擅离，开小差；突然丧失"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Somalia is mostly desert.",
+        "cn": "索马里大部分地区都是荒漠。"
+      },
+      {
+        "c": "The heat in the desert was extreme.",
+        "cn": "沙漠中极其炎热。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "desert island",
+        "cn": "荒岛"
+      },
+      {
+        "c": "sahara desert",
+        "cn": "撒哈拉大沙漠[北非]"
+      },
+      {
+        "c": "gobi desert",
+        "cn": "戈壁沙漠（蒙古和中国西北部）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "遗弃；放弃；逃跑",
+        "ws": [
+          "yield",
+          "quit"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "遗弃；开小差；逃掉",
+        "ws": [
+          "run out on",
+          "walk out on"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10088,
+    "word": "beach",
+    "phonetic0": "biːtʃ",
+    "phonetic1": "biːtʃ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海滩，海滨"
+      },
+      {
+        "pos": "v.",
+        "cn": "把（船）拖上岸；搁浅；（垂钓者）钓（鱼）上岸；让（某人）受损"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The sandy beach was in sight.",
+        "cn": "那片沙滩映入眼帘。"
+      },
+      {
+        "c": "We cantered along the beach.",
+        "cn": "我们骑着马沿海滩慢跑。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the beach",
+        "cn": "在海滩上；失业的；潦倒的；退休的"
+      },
+      {
+        "c": "at the beach",
+        "cn": "在海边；在海滩上"
+      },
+      {
+        "c": "beach volleyball",
+        "cn": "沙滩排球，排球"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[海洋]海滩；湖滨",
+        "ws": [
+          "seabeach",
+          "foreshore"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "搁浅；定居",
+        "ws": [
+          "take the ground",
+          "make one's pitch"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10089,
+    "word": "wild",
+    "phonetic0": "waɪld",
+    "phonetic1": "waɪld",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "（动植物）自然生长的，野生的；（土地）无人烟的，未开垦的；（人）未开化的，野蛮的；不受控制的，放荡的；暴风雨的，狂暴的；（做事或说话）轻率的，缺乏根据的；激动人心的；满腔热情的，十分热衷的；感情强烈的（尤指生气、高兴或激动）；（表情、外表等）走神的，不专注的；特别的，怪异的；（纸牌）百搭的；嘈杂混乱的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "自然地，不受控制地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They went camping in the wild.",
+        "cn": "他们在野外露营。"
+      },
+      {
+        "c": "I counted 34 wild goats grazing.",
+        "cn": "我数了有34只野山羊在吃草。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the wild",
+        "cn": "在野外，野生的；在自然环境下"
+      },
+      {
+        "c": "wild flower",
+        "cn": "野花"
+      },
+      {
+        "c": "wild animal",
+        "cn": "野生动物；野兽"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "野生的；野蛮的；狂热的；荒凉的",
+        "ws": [
+          "crazy",
+          "field",
+          "enthusiastic",
+          "desert"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "荒野",
+        "ws": [
+          "Sahara",
+          "moorland"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10090,
+    "word": "could",
+    "phonetic0": "kʊd; kəd",
+    "phonetic1": "kʊd; kəd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "（礼貌地请求许可）可以，能；（礼貌地请求别人做事）能，能否；（表示可能）可能，也许；（表示未发生的事情）差点就，本能够；（用于提出建议）可以，能；本该，应该（用于对做过或未做某事表示恼怒）；（强调感觉）真想；好像，仿佛"
+      },
+      {
+        "pos": "v.",
+        "cn": "能（can的过去式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Could I stay tonight?",
+        "cn": "今晚我可以待在这吗？"
+      },
+      {
+        "c": "He could be spiteful.",
+        "cn": "他可能怀有恶意。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "could be",
+        "cn": "可能是；有可能"
+      },
+      {
+        "c": "could have",
+        "cn": "本能够；本来也可以"
+      },
+      {
+        "c": "how could i",
+        "cn": "我怎么能；我如何能够"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10091,
+    "word": "island",
+    "phonetic0": "ˈaɪlənd",
+    "phonetic1": "ˈaɪlənd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "岛，岛屿；岛状物，孤立体；脑岛，胰岛"
+      },
+      {
+        "pos": "v.",
+        "cn": "使成岛（状），使孤立"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The island is thinly populated.",
+        "cn": "这个岛人口稀少。"
+      },
+      {
+        "c": "We rowed around the island.",
+        "cn": "我们绕着岛划船。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the island",
+        "cn": "在岛上"
+      },
+      {
+        "c": "hainan island",
+        "cn": "海南岛"
+      },
+      {
+        "c": "rhode island",
+        "cn": "美国罗德岛州"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "岛；岛屿；安全岛；岛状物",
+        "ws": [
+          "isle",
+          "safety strip"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "孤立；使成岛状",
+        "ws": [
+          "to stand alone"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10092,
+    "word": "koala",
+    "phonetic0": "kəʊˈɑːlə",
+    "phonetic1": "koʊˈɑːlə",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "树袋熊，无尾熊（产于澳大利亚，又名考拉）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The koala is unique to Australia.",
+        "cn": "树袋熊是澳大利亚独有的。"
+      },
+      {
+        "c": "The koala is listed among Australia's endangered animals.",
+        "cn": "树袋熊已列为澳大利亚濒临绝种的动物之一。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "koala bear",
+        "cn": "考拉熊；无尾熊；树袋熊"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[脊椎]树袋熊，无尾熊（产于澳大利亚，又名考拉）",
+        "ws": [
+          "phascolarctos"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10093,
+    "word": "common",
+    "phonetic0": "ˈkɒmən",
+    "phonetic1": "ˈkɑːmən",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "共同的，共享的；常见的，普遍的，一般的；普通的，平凡的；出于礼貌的，起码的；粗俗的，庸俗的"
+      },
+      {
+        "pos": "n.",
+        "cn": "公共用地，公地；校园公共食堂；<英，非正式>常识；（基督教教会适用于各种场合的）普通礼拜；平民"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's not a word in common usage.",
+        "cn": "这不是一个常用词。"
+      },
+      {
+        "c": "Jackson is a common English name.",
+        "cn": "杰克逊是常见的英语人名。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in common",
+        "cn": "共同的；共有的"
+      },
+      {
+        "c": "common people",
+        "cn": "大众，平民"
+      },
+      {
+        "c": "common ground",
+        "cn": "（争论双方的）共同基础；一致之处"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "共同的；普通的；一般的；通常的",
+        "ws": [
+          "mutual",
+          "corporate",
+          "usual",
+          "ordinary"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "普通；平民；公有地",
+        "ws": [
+          "ordinary",
+          "populace"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10094,
+    "word": "special",
+    "phonetic0": "ˈspeʃ(ə)l",
+    "phonetic1": "ˈspeʃ(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "特殊的，特别的；格外看重的，特别要好的；专门的，特设的；特有的，独具特色的；格外的，分外的；（主题）研究深入的；（数）特殊（矩阵）的"
+      },
+      {
+        "pos": "n.",
+        "cn": "特色菜；特别节目；特价商品，折扣商品；特派员，临时警察，特约记者；专车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Couldn't we call a special meeting?",
+        "cn": "我们不能召开一次特别会议吗？"
+      },
+      {
+        "c": "The task poses no special problems.",
+        "cn": "这项任务不会造成特别的问题。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in special",
+        "cn": "特殊的"
+      },
+      {
+        "c": "special administrative region",
+        "cn": "特别行政区"
+      },
+      {
+        "c": "special equipment",
+        "cn": "专用设备；特殊设备"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "特使，特派人员；特刊；特色菜；专车；特价商品",
+        "ws": [
+          "bargain"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "特别的；专门的，专用的",
+        "ws": [
+          "particular",
+          "extraordinary",
+          "technical",
+          "dedicated"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10095,
+    "word": "feel like",
+    "phonetic0": "",
+    "phonetic1": "fiːl laɪk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "想要；愿意；有兴致（做某事，常后接名词或动名词）。"
+      },
+      {
+        "pos": "",
+        "cn": "感觉像是；好像；有……的感觉。"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you feel like eating out tonight?",
+        "cn": "你今晚想下馆子吗？"
+      },
+      {
+        "c": "I feel like catching cold.",
+        "cn": "我感觉像是感冒了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "",
+        "cn": "想要；感到好似",
+        "ws": [
+          "wanna",
+          "intend"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10096,
+    "word": "high",
+    "phonetic0": "haɪ",
+    "phonetic1": "haɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "高的；富含……的；重要的；先进的，高级的；崇高的；高音的，声音尖锐的；兴高采烈的；喝醉了的，（吸毒后）极度兴奋的；十分赞同的，非常尊敬的；中间的，全盛的；开始变质的，开始发馊的；（宗教或政治观点）极端的，偏激的；（元音）舌位高的"
+      },
+      {
+        "pos": "n.",
+        "cn": "最高水平，最大数量；兴奋，高兴；高气压区；（毒品引致的）快感；高中，中学；强档；高音，高音符"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "How high is Mount Aconcagua?",
+        "cn": "阿空加瓜山有多高？"
+      },
+      {
+        "c": "The rooms had high ceilings.",
+        "cn": "那些房间的天花板很高。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "high quality",
+        "cn": "高品质"
+      },
+      {
+        "c": "high speed",
+        "cn": "高速全速"
+      },
+      {
+        "c": "high temperature",
+        "cn": "高温"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "高的；高级的；崇高的；高音调的",
+        "ws": [
+          "tall",
+          "senior",
+          "advanced",
+          "lofty"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "高水平；天空；由麻醉品引起的快感；高压地带",
+        "ws": [
+          "heaven",
+          "sky",
+          "air"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10097,
+    "word": "travel",
+    "phonetic0": "ˈtræv(ə)l",
+    "phonetic1": "ˈtræv(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "（尤指长途）旅行；走动，移动；（以某速度、朝某方向或在某距离内）行进；（光或声音）传播；（食品等）经得起长途运输；周游，走遍；（尤指车辆）快速行进；（消息）流传；盛行各地；（篮球运动中）走步；（目光）扫视，移动；交往；想象来到"
+      },
+      {
+        "pos": "n.",
+        "cn": "旅行；（出国）旅游；（机器部件的）运动范围，运动速度，运动模式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "It's cheaper to travel midweek.",
+        "cn": "在星期中间旅行较便宜。"
+      },
+      {
+        "c": "We always travel first class.",
+        "cn": "我们总坐头等舱旅行。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "travel agency",
+        "cn": "旅行社"
+      },
+      {
+        "c": "travel in",
+        "cn": "旅行推销；四出兜销"
+      },
+      {
+        "c": "travel service",
+        "cn": "旅行社；旅游服务"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "旅行；行进；步行；交往",
+        "ws": [
+          "proceed",
+          "foot",
+          "company",
+          "sort"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "经过；在…旅行",
+        "ws": [
+          "go by",
+          "go past"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10098,
+    "word": "Confucius",
+    "phonetic0": "kənˈfjuːʃəs",
+    "phonetic1": "kənˈfjuːʃəs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "孔子，孔丘（春秋时期鲁国思想家、教育家，儒家学派创始人）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "As Confucius grew up he wanted to learn things.",
+        "cn": "随着孔子长大，他想学习一些东西。"
+      },
+      {
+        "c": "Confucius was good at music when he was fifteen.",
+        "cn": "孔子十五岁时就擅长音乐。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "confucius institute",
+        "cn": "孔子学院（非营利性公益机构）"
+      },
+      {
+        "c": "confucius temple",
+        "cn": "孔庙"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10099,
+    "word": "camel",
+    "phonetic0": "ˈkæm(ə)l",
+    "phonetic1": "ˈkæm(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "骆驼；驼绒织品；驼色，浅黄褐色；打捞浮筒"
+      },
+      {
+        "pos": "adj.",
+        "cn": "驼色的，暗棕色的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Was the camel carrying corn?",
+        "cn": "那头骆驼驮的是谷物吗？"
+      },
+      {
+        "c": "The camel that I rode had a bad temper.",
+        "cn": "我骑的骆驼脾气很坏。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "camel hair",
+        "cn": "驼绒；骆驼毛"
+      },
+      {
+        "c": "bactrian camel",
+        "cn": "双峰驼"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[畜牧][脊椎]骆驼；打捞浮筒；工作作风官僚",
+        "ws": [
+          "oont"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10100,
+    "word": "pyramid",
+    "phonetic0": "ˈpɪrəmɪd",
+    "phonetic1": "ˈpɪrəmɪd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "金字塔；金字塔形的物体（或一堆东西）；角锥体，棱锥体；（解剖）锥体；金字塔式组织（体系）；金字塔式台球（pyramids）；金字塔式控股；金字塔式骗局（pyramid scheme）"
+      },
+      {
+        "pos": "v.",
+        "cn": "把……堆成尖塔（或角锥）形；在（小投资）上获得丰厚的收益；渐增，上涨；（使）渐增，（使）上涨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "A twenty-foot steel pyramid is to be hoisted into position on top of the tower.",
+        "cn": "一座20英尺高的钢制金字塔将被吊到塔顶该放的位置上。"
+      },
+      {
+        "c": "Traditionally, the Brahmins, or the priestly class, are set at the top of the social pyramid.",
+        "cn": "传统上，婆罗门或僧侣阶层位于社会金字塔的顶层。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "the great pyramid",
+        "cn": "大金字塔"
+      },
+      {
+        "c": "pyramid scheme",
+        "cn": "金字塔骗局；非法传销"
+      },
+      {
+        "c": "pyramid selling",
+        "cn": "宝塔式销售；金字塔销售法"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "渐增；上涨；[建]成金字塔状",
+        "ws": [
+          "advance",
+          "to go up"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10101,
+    "word": "Beijing opera",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "京剧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Do you want to learn Beijing Opera?",
+        "cn": "你想学京剧吗？"
+      },
+      {
+        "c": "Beijing Opera is our national opera.",
+        "cn": "京剧是我们的国粹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10102,
+    "word": "India",
+    "phonetic0": "ˈɪndiə",
+    "phonetic1": "ˈɪndiə",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "印度（南亚国家）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sarah's off in India somewhere.",
+        "cn": "萨拉远在印度某地。"
+      },
+      {
+        "c": "The tiger is native to India.",
+        "cn": "这种虎产于印度。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "east india",
+        "cn": "东印度（指印度，印度支那半岛，马来半岛和马来群岛等）"
+      },
+      {
+        "c": "east india company",
+        "cn": "东印度公司"
+      },
+      {
+        "c": "india ink",
+        "cn": "墨汁（等于Chinese ink）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "印度（南亚国家）",
+        "ws": [
+          "nan",
+          "Hindustan",
+          "Inde"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10103,
+    "word": "Italy",
+    "phonetic0": "ˈɪtəli",
+    "phonetic1": "ˈɪtəli",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "意大利（欧洲南部国家，首都罗马）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "His father hailed from Italy.",
+        "cn": "他父亲出生于意大利。"
+      },
+      {
+        "c": "The ship was bound for Italy.",
+        "cn": "这艘船是开往意大利的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "little italy",
+        "cn": "小意大利（美国大城市的意大利移民区）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "意大利（欧洲南部国家）",
+        "ws": [
+          "Tiamo"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10104,
+    "word": "middle",
+    "phonetic0": "ˈmɪd(ə)l",
+    "phonetic1": "ˈmɪd(ə)l",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "中间的，中等的；折中的，中庸之道的；（语言）中古的，介于现代与古代之间的；语法中动态的，中间反身态的；（英语及物动词）无被动态的"
+      },
+      {
+        "pos": "n.",
+        "cn": "中间，中部，中等；腰部；语法中动态，中间反身态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "His middle name is Justin.",
+        "cn": "他的中间名叫朱斯丁。"
+      },
+      {
+        "c": "He was of middle height, thick-set.",
+        "cn": "他中等个头，身体壮实。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the middle",
+        "cn": "在中间；在中部"
+      },
+      {
+        "c": "in the middle of",
+        "cn": "在…中间"
+      },
+      {
+        "c": "middle school",
+        "cn": "中学"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "中间的，中部的；中级的，中等的",
+        "ws": [
+          "medium",
+          "mid",
+          "intermediary",
+          "secondary"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "中间，中央；腰部",
+        "ws": [
+          "center",
+          "waist"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10105,
+    "word": "ride",
+    "phonetic0": "raɪd",
+    "phonetic1": "raɪd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "骑马，骑车；乘坐；航行，漂浮；穿越，翻越；（车辆）行驶；<美>数落，嘲弄；驾驭，被……所支配；取决于（ride on）；得益于；（骑马或车）参赛；<南非>运输（货物）；突伸，重叠；顺势退躲以缓冲（击打）；<俚>与……性交"
+      },
+      {
+        "pos": "n.",
+        "cn": "乘骑旅行，搭乘旅行；大型游乐设施，乘坐装置；免费搭车；<美>搭载别人者；行车质量，乘坐感觉；<美，非正式>机动车辆；骑马道；<加>骑马表演；<俚>性交，交媾；节奏钹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They hitched a ride in a truck.",
+        "cn": "他们搭乘了一辆路过的货车。"
+      },
+      {
+        "c": "Do you want a ride? Jump in.",
+        "cn": "你想搭车吗？快上来吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ride on",
+        "cn": "依靠；骑在…上面；取决于"
+      },
+      {
+        "c": "ride comfort",
+        "cn": "行驶舒适，（车辆）乘坐平顺性；运行舒适感"
+      },
+      {
+        "c": "go for a ride",
+        "cn": "骑车兜风，骑马出游"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "骑马；乘车；依靠；漂浮",
+        "ws": [
+          "horse",
+          "trust",
+          "swim"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "骑；乘；控制",
+        "ws": [
+          "possess",
+          "regulate",
+          "contain",
+          "manage"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10106,
+    "word": "Cairo",
+    "phonetic0": "ˈkaɪərəʊ",
+    "phonetic1": "ˈkaɪəroʊ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "开罗（埃及首都）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cairo is the capital of Egypt.",
+        "cn": "开罗是埃及的首都。"
+      },
+      {
+        "c": "He was posted to GHQ Cairo.",
+        "cn": "他被派往开罗总司令部。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "开罗（埃及首都）",
+        "ws": [
+          "Cario"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10107,
+    "word": "even",
+    "phonetic0": "ˈiːv(ə)n",
+    "phonetic1": "ˈiːv(ə)n",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "平坦的，水平的；平静的，平和的；平齐的，挨着的；无变化的，平稳的；势均力敌的，不相上下的；双数的，偶数的；平等的，公平的；不变的，恒定的；（某事发生的概率）对半的，各半的；扯平的，互不相欠的；匀称的，同样大小的；正好的，不多不少的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "甚至，即使；更加，愈加；其实，实际上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She can't even change a nappy.",
+        "cn": "她连换尿布都不会。"
+      },
+      {
+        "c": "Even a short walk exhausted her.",
+        "cn": "即使走一段短路，她也疲惫不堪。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "and even",
+        "cn": "乃至"
+      },
+      {
+        "c": "even if",
+        "cn": "即使；虽然"
+      },
+      {
+        "c": "even more",
+        "cn": "更多地，更多的"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "[数]偶数的；平坦的；相等的",
+        "ws": [
+          "flat",
+          "equivalent",
+          "equal",
+          "level"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "cn": "甚至；即使；还；实际上",
+        "ws": [
+          "actually",
+          "really",
+          "too",
+          "effectively"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10108,
+    "word": "Hawaii",
+    "phonetic0": "həˈwaɪi",
+    "phonetic1": "həˈwaɪi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "夏威夷（美国州名）；夏威夷岛（夏威夷群岛中最大、最南端的岛屿，又称大岛）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hawaii was the birthplace of surfing.",
+        "cn": "夏威夷是冲浪运动的发源地。"
+      },
+      {
+        "c": "His plane stopped in Hawaii to refuel.",
+        "cn": "他的飞机在夏威夷停下来加燃料。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hawaii volcanoes national park",
+        "cn": "夏威夷火山国家公园"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10109,
+    "word": "Britain",
+    "phonetic0": "ˈbrɪt(ə)n",
+    "phonetic1": "ˈbrɪt(ə)n",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "英国，不列颠(包括英格兰、苏格兰及威尔士)；英国，不列颠(包括英格兰、苏格兰及威尔士)"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Britain won five gold medals.",
+        "cn": "英国夺取了五块金牌。"
+      },
+      {
+        "c": "Britain is a constitutional monarchy.",
+        "cn": "英国是个君主立宪制国家。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "great britain",
+        "cn": "英国"
+      },
+      {
+        "c": "battle of britain",
+        "cn": "不列颠之战（1940年7至10月英德空军的一系列战斗）；伦敦上空的鹰（电影名称）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "英国；不列颠",
+        "ws": [
+          "England",
+          "UK"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10110,
+    "word": "Hi",
+    "phonetic0": "haɪ",
+    "phonetic1": "haɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "int.",
+        "cn": "嗨！（表示问候或用以唤起注意）"
+      },
+      {
+        "pos": "n.",
+        "cn": "（口语）一声“嗨”，问候；（Hi）人名；（柬）希"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "'Hi folks,' he said breezily.",
+        "cn": "“嗨，诸位。”他快活地说。"
+      },
+      {
+        "c": "'Hi there!' she drawled lazily.",
+        "cn": "“喂，你好！”她拖着长腔懒洋洋地说。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hi there",
+        "cn": "嘿，你好(或你们好)"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "int.",
+        "cn": "嗨！（表示问候或用以唤起注意）",
+        "ws": [
+          "come",
+          "heigh"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10111,
+    "word": "beaches",
+    "phonetic0": "",
+    "phonetic1": "ˈbiːtʃɪz",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海滩，海滨（beach 的复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ten beaches were graded as acceptable.",
+        "cn": "有十个沙滩属于可接受的那一类。"
+      },
+      {
+        "c": "The landing beaches would be unprotected.",
+        "cn": "登陆的海滩可能没有设防。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the beach",
+        "cn": "在海滩上；失业的；潦倒的；退休的"
+      },
+      {
+        "c": "at the beach",
+        "cn": "在海边；在海滩上"
+      },
+      {
+        "c": "beach volleyball",
+        "cn": "沙滩排球，排球"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "海滩；海滨（beach的复数形式）",
+        "ws": [
+          "seasides",
+          "coasts"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 4",
+        "d": "收录于人教版英语五年级下册（新版） Unit 4。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10112,
+    "word": "on foot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "步行，徒步：没有使用交通工具，用脚步行走；在进行中：指事情、计划等正在进展或筹备（用于 set on foot 等搭配时表示着手开展）。"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I left my car in a lay-by and set off on foot.",
+        "cn": "我把车留在路侧停车带，开始步行。"
+      },
+      {
+        "c": "Sometimes I come on foot.",
+        "cn": "有时我步行来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "",
+        "cn": "步行；在进行中",
+        "ws": [
+          "in the process",
+          "on the move"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10113,
+    "word": "underground",
+    "phonetic0": "ˌʌndəˈɡraʊnd",
+    "phonetic1": "ˌʌndərˈɡraʊnd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "在地（面）下；；隐蔽地，隐匿地；在地（面）下"
+      },
+      {
+        "pos": "adj.",
+        "cn": "地（面）下的；秘密的，地下的；标新立异的，小众的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I always travel by underground.",
+        "cn": "我总是乘地铁。"
+      },
+      {
+        "c": "The miners were trapped deep underground.",
+        "cn": "矿工被困在地下深处。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "underground water",
+        "cn": "地下水；潜水"
+      },
+      {
+        "c": "underground space",
+        "cn": "地下空间"
+      },
+      {
+        "c": "underground mining",
+        "cn": "地下开采；地下采矿"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "在地下；秘密地",
+        "ws": [
+          "quietly",
+          "privately",
+          "secretly"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "地下的；秘密的；先锋派的",
+        "ws": [
+          "secret",
+          "chamber",
+          "inside",
+          "cabinet"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10114,
+    "word": "early",
+    "phonetic0": "ˈɜːli",
+    "phonetic1": "ˈɜːrli",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "早期的，初期的；提早的，提前的；早开花的，早熟的"
+      },
+      {
+        "pos": "adv.",
+        "cn": "在早期，在初期；提早，提前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We didn't leave early enough.",
+        "cn": "我们离开得不够早。"
+      },
+      {
+        "c": "Early booking is recommended.",
+        "cn": "请提早订票。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "as early as",
+        "cn": "早在…的时候"
+      },
+      {
+        "c": "early or late",
+        "cn": "迟早"
+      },
+      {
+        "c": "early in",
+        "cn": "早在…的时候"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "早期的；早熟的",
+        "ws": [
+          "precocious",
+          "inchoate"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "cn": "提早；在初期",
+        "ws": [
+          "before one's time"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10115,
+    "word": "plane",
+    "phonetic0": "pleɪn",
+    "phonetic1": "pleɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "飞机；（几何学中的）平面；（物体的）平面；（穿过或连接物体的）虚构平面；（存在、思想或发展）水平；木工刨，刨子；悬铃木；翼面"
+      },
+      {
+        "pos": "adj.",
+        "cn": "平的，平坦的；二维平面的，二维空间的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They hurried on to the plane.",
+        "cn": "他们匆忙登上了飞机。"
+      },
+      {
+        "c": "A plane passed low overhead.",
+        "cn": "一架飞机从头上低空飞过。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by plane",
+        "cn": "乘飞机"
+      },
+      {
+        "c": "plane wave",
+        "cn": "平面波"
+      },
+      {
+        "c": "focal plane",
+        "cn": "焦面，焦平面"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[航]飞机；[数]平面；程度，水平",
+        "ws": [
+          "extent",
+          "degree",
+          "measure",
+          "level"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "刨；乘飞机旅行；翱翔",
+        "ws": [
+          "fly in",
+          "upsoar"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10116,
+    "word": "foot",
+    "phonetic0": "fʊt",
+    "phonetic1": "fʊt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "脚，足；英尺；基础，底部；袜底；音步；<文>步态，步伐；（缝纫机的）压脚板"
+      },
+      {
+        "pos": "comb.",
+        "cn": "有……只脚（的），用……脚（或足的）(-footed)；……英尺高的人(或东西)，……英尺长的东西(-footer)"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He shifted from foot to foot.",
+        "cn": "他从一只脚换到另一只脚。"
+      },
+      {
+        "c": "Sam stamped his foot in anger.",
+        "cn": "萨姆气得直跺脚。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on foot",
+        "cn": "步行；在进行中"
+      },
+      {
+        "c": "at the foot of",
+        "cn": "在…（山）脚下；在…的下部"
+      },
+      {
+        "c": "of foot",
+        "cn": "在行走(或走路)中"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[解剖]脚；英尺；步调；末尾",
+        "ws": [
+          "last",
+          "trilby"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "步行；跳舞；总计",
+        "ws": [
+          "hoof it",
+          "pad"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10117,
+    "word": "bike",
+    "phonetic0": "baɪk",
+    "phonetic1": "baɪk",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自行车，脚踏车，单车；摩托车"
+      },
+      {
+        "pos": "v.",
+        "cn": "<非正式>骑自行车（单车）；<英> 用自行车（或摩托车）投递（信件，包裹）；<英>用自行车（或摩托车）投递（信件，包裹）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The bike is rusty but usable.",
+        "cn": "自行车生锈了，但还能骑。"
+      },
+      {
+        "c": "I took my bike in for repair.",
+        "cn": "我把自行车送去修了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by bike",
+        "cn": "骑自行车；骑单车"
+      },
+      {
+        "c": "ride a bike",
+        "cn": "骑自行车"
+      },
+      {
+        "c": "mountain bike",
+        "cn": "山地车；山地自行车"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "自行车；脚踏车",
+        "ws": [
+          "cycle",
+          "bicycle"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "骑自行车（或摩托车）",
+        "ws": [
+          "cycle"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10118,
+    "word": "ship",
+    "phonetic0": "ʃɪp",
+    "phonetic1": "ʃɪp",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（大）船，舰；三（或多）桅帆船；<非正式> 艇（尤指赛艇）；宇宙飞船；<美> 飞机"
+      },
+      {
+        "pos": "v.",
+        "cn": "（用船、飞机、卡车）运送，运输；遣送（某人）；推出（计算机商品），（使）上市；（水手）在船上工作，在船上服役；舷侧进水；把（桨架中的桨）放在船内；给船安装（舵、桅杆等）；<旧> 上船，乘船；乘船旅行；提供船只"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The ship was carrying contraband.",
+        "cn": "这只船携带走私货。"
+      },
+      {
+        "c": "The ship steered into port.",
+        "cn": "船驶进港口。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "by ship",
+        "cn": "坐轮船，乘船；航运"
+      },
+      {
+        "c": "ship lock",
+        "cn": "船闸"
+      },
+      {
+        "c": "container ship",
+        "cn": "集装箱运货船；货柜船"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "运送，乘船；以船运送",
+        "ws": [
+          "freight",
+          "transit",
+          "forward"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "上船；乘船旅行；当船员",
+        "ws": [
+          "to go aboard",
+          "take water"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10119,
+    "word": "environment",
+    "phonetic0": "ɪnˈvaɪrənmənt",
+    "phonetic1": "ɪnˈvaɪrənmənt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "自然环境，生态环境；周围状况，条件；工作平台，软件包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Children need a caring environment.",
+        "cn": "儿童需要一个充满关怀的环境。"
+      },
+      {
+        "c": "He has always been pro the environment.",
+        "cn": "他一向支持环境保护。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ecological environment",
+        "cn": "生态环境"
+      },
+      {
+        "c": "environment protection",
+        "cn": "环境保护；环境保扩"
+      },
+      {
+        "c": "natural environment",
+        "cn": "自然环境"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[环境]环境，外界",
+        "ws": [
+          "context",
+          "circumstance",
+          "setting",
+          "surrounding"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10120,
+    "word": "finally",
+    "phonetic0": "ˈfaɪnəli",
+    "phonetic1": "ˈfaɪnəli",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "终于；总之，最后；决定性地，不可变更地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Finally she drifted into sleep.",
+        "cn": "最后她不知不觉地睡着了。"
+      },
+      {
+        "c": "The flames finally died down.",
+        "cn": "火焰终于减弱了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "最后；终于；决定性地",
+        "ws": [
+          "eventually",
+          "ultimately",
+          "lastly"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10121,
+    "word": "health",
+    "phonetic0": "helθ",
+    "phonetic1": "helθ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "身体状况；健康；医疗，卫生；（组织或系统的）运行状况，运作状况；发达，兴旺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Her health degenerated quickly.",
+        "cn": "她的健康状况迅速恶化。"
+      },
+      {
+        "c": "He's always enjoyed good health.",
+        "cn": "他一直都很健康。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "health care",
+        "cn": "卫生保健"
+      },
+      {
+        "c": "public health",
+        "cn": "公共卫生；公共卫生设施"
+      },
+      {
+        "c": "mental health",
+        "cn": "心理健康"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[医]健康；卫生；保健；兴旺",
+        "ws": [
+          "fitness",
+          "hygiene",
+          "wellness"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10122,
+    "word": "carry",
+    "phonetic0": "ˈkæri",
+    "phonetic1": "ˈkæri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "提，扛，背；携带，佩戴；运送，载运；传输（水、电等）；传播（疾病）；能记住，能回想起；支撑，承载；承担（责任）；推动，发展；具有（某种特质）；带有，导致；被判处（某种刑罚）；传得远；扔（或踢）到……距离；以多数同意批准（提议）；赢得……的支持；<美>赢得（州或地区的）选举；标有，贴有；刊登，广播；出售；怀（胎）；保持姿态；（加法）进位；准确地唱；超重，超载"
+      },
+      {
+        "pos": "n.",
+        "cn": "搬运；<美>带球跑；掷（击）球距离，（枪的）射程；<美>随身携带（尤指枪）；（财政）转记，结转；<美，史>水上运输的地方或路线；进位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Only one carry-on is allowed.",
+        "cn": "随身只能携带一个小包。"
+      },
+      {
+        "c": "Carry this bag—it's the lightest.",
+        "cn": "你拿这个包—它最轻。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "carry out",
+        "cn": "执行，实行；贯彻；实现；完成"
+      },
+      {
+        "c": "carry on",
+        "cn": "继续"
+      },
+      {
+        "c": "carry forward",
+        "cn": "发扬；推进"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "拿，扛；携带；支持；搬运",
+        "ws": [
+          "encourage",
+          "have",
+          "hand",
+          "second"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "[交]运载；[计]进位；射程",
+        "ws": [
+          "cannon-shot"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10123,
+    "word": "hurt",
+    "phonetic0": "hɜːt",
+    "phonetic1": "hɜːrt",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "使受伤，使疼痛；感到受伤，感到疼痛；损害；处于困境，手头拮据；伤心"
+      },
+      {
+        "pos": "adj.",
+        "cn": "（身体上）受伤的；（感情上）痛苦的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did you hurt yourself ?",
+        "cn": "你伤着自己了吗？"
+      },
+      {
+        "c": "Have you hurt yourself?",
+        "cn": "你伤着自己了吗？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "get hurt",
+        "cn": "受伤"
+      },
+      {
+        "c": "feel hurt",
+        "cn": "感到不快"
+      },
+      {
+        "c": "hurt badly",
+        "cn": "头痛的厉害，严重受伤"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "使受伤；损害；使疼痛；使痛心",
+        "ws": [
+          "wound",
+          "blast"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "感到疼痛；有坏处；带来痛苦",
+        "ws": [
+          "pain"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10124,
+    "word": "everyday",
+    "phonetic0": "ˈevrideɪ",
+    "phonetic1": "ˈevrideɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "日常的，每天的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The Internet has become part of everyday life.",
+        "cn": "互联网已成为日常生活的一部分。"
+      },
+      {
+        "c": "Complaints seemed to be an everyday occurrence.",
+        "cn": "投诉似乎成了天天发生的事。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "everyday life",
+        "cn": "日常生活"
+      },
+      {
+        "c": "happy everyday",
+        "cn": "快乐每一天（祝福语）"
+      },
+      {
+        "c": "everyday use",
+        "cn": "日常使用"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adj.",
+        "cn": "每天的，日常的",
+        "ws": [
+          "daily",
+          "household",
+          "routine"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "平时；寻常日子",
+        "ws": [
+          "peacetime"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10125,
+    "word": "suggest",
+    "phonetic0": "səˈdʒest",
+    "phonetic1": "səˈdʒest",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "提议，建议；推荐，举荐；显示，表明；暗示，暗指；使人想到，使人联想到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I suggest we let the matter drop.",
+        "cn": "我建议咱们别再提及此事。"
+      },
+      {
+        "c": "I suggest (that) we go out to eat.",
+        "cn": "我提议我们出去吃吧。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "suggest doing",
+        "cn": "建议做…"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "提议，建议；启发；使人想起",
+        "ws": [
+          "vote",
+          "advise"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10126,
+    "word": "tip",
+    "phonetic0": "tɪp",
+    "phonetic1": "tɪp",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "（使）倾斜，（使）斜侧；给小费；<英>扔掉，倒掉（垃圾）；倾倒，倒出；打翻；（用液体、颜色等）覆盖……的尖端；预言……获胜；轻触，轻碰；密报，透露消息，告诫"
+      },
+      {
+        "pos": "n.",
+        "cn": "指点，诀窍，建议；小费；末梢，尖端；<英>垃圾场；<英，非正式>脏乱的地方；（对赛马、比赛结果的）预测，内幕消息；顶端附加物；（尤指给警方的）密报；（对运动的球或冰球的）轻碰，轻击；手触帽檐，脱帽（致敬、问好或道别的动作）；擦棒球"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Did you give the waiter a tip?",
+        "cn": "你给服务员小费了吗？"
+      },
+      {
+        "c": "The tail tapered to a rounded tip.",
+        "cn": "尾部越来越细，最后成了个圆尖。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "crack tip",
+        "cn": "裂纹尖端，裂纹端"
+      },
+      {
+        "c": "root tip",
+        "cn": "根尖"
+      },
+      {
+        "c": "tip in",
+        "cn": "用手指将球送入蓝中；在书页间装订处粘附插面"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vi.",
+        "cn": "[经]给小费；翻倒；倾覆",
+        "ws": [
+          "upset",
+          "keel over"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "[经]给小费；倾斜；翻倒；装顶端",
+        "ws": [
+          "slope",
+          "keel over"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10127,
+    "word": "Where are you going",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "你要去哪里？"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "'Where are you going?' she asked.",
+        "cn": "“你去哪？”她问道。"
+      },
+      {
+        "c": "Where are you going in that rig-out?",
+        "cn": "你穿着那身打扮要去哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 5",
+        "d": "收录于人教版英语五年级下册（新版） Unit 5。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10128,
+    "word": "internet",
+    "phonetic0": "ˈɪntənet",
+    "phonetic1": "ˈɪntərnet",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "互联网，因特网（=the Internet）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I looked it up on the Internet.",
+        "cn": "我在互联网上查过此事。"
+      },
+      {
+        "c": "I'm jacking into the Internet now.",
+        "cn": "我正要接入互联网。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "on the internet",
+        "cn": "在网上"
+      },
+      {
+        "c": "internet access",
+        "cn": "互联网接入"
+      },
+      {
+        "c": "internet connection",
+        "cn": "网络连接，因特网联通"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10129,
+    "word": "maybe",
+    "phonetic0": "ˈmeɪbi",
+    "phonetic1": "ˈmeɪbi",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "（不确定）大概，或许；（提出建议）或许，也许；（赞同并补充信息）或许，也许；（不置可否）也许，或许"
+      },
+      {
+        "pos": "n.",
+        "cn": "可能性，不确定性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Maybe he intends to leave her.",
+        "cn": "也许他打算离开她。"
+      },
+      {
+        "c": "Maybe you should socialize more.",
+        "cn": "也许你应该多和人交往。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "也许；可能；大概",
+        "ws": [
+          "perhaps",
+          "possibly",
+          "probably",
+          "like"
+        ]
+      },
+      {
+        "pos": "n.",
+        "cn": "可能性；不确定性",
+        "ws": [
+          "possibility",
+          "probability",
+          "feasibility",
+          "potential"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10130,
+    "word": "hot pot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火锅，涮锅：用餐者将肉类、海鲜、蔬菜等放入桌上的热汤中涮熟食用的菜肴；火盆：盛放炭火等燃料，用于取暖或烹饪的器具；英国土豆烧肉（常写作 hotpot）：以肉或鱼加土豆层层覆盖、盖锅慢烤而成的菜肴。"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Let me see, how about hot pot?",
+        "cn": "我想想，吃火锅怎么样？"
+      },
+      {
+        "c": "Is it the chocolate hot pot?",
+        "cn": "这是巧克力火锅吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10131,
+    "word": "seafood",
+    "phonetic0": "ˈsiːfuːd",
+    "phonetic1": "ˈsiːfuːd",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "海鲜，海味，海产食品（常用作不可数名词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Seafood is a speciality on the island.",
+        "cn": "海味是岛上的特产。"
+      },
+      {
+        "c": "The seafood here is a gourmet's delight.",
+        "cn": "这儿的海鲜是美食家的一大享受。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10132,
+    "word": "join",
+    "phonetic0": "dʒɔɪn",
+    "phonetic1": "dʒɔɪn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "成为……的一员，参加；连接，接合；联合，汇合；上（火车、飞机等）；和……作伴，随同"
+      },
+      {
+        "pos": "n.",
+        "cn": "连接处，接合点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They may apply to join the organization.",
+        "cn": "他们可能申请加入该组织。"
+      },
+      {
+        "c": "How do these two pieces join?",
+        "cn": "这两件东西怎样接合呢？"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "join hands",
+        "cn": "携手，联手；齐心协力"
+      },
+      {
+        "c": "join in",
+        "cn": "加入；参加"
+      },
+      {
+        "c": "join hands with",
+        "cn": "握手；同…联合"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "参加；结合；[计]连接",
+        "ws": [
+          "participate in",
+          "become one",
+          "couple",
+          "take part in"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "加入；参加；结合",
+        "ws": [
+          "become one",
+          "couple",
+          "bond",
+          "participate in"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10133,
+    "word": "app",
+    "phonetic0": "æp",
+    "phonetic1": "æp",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "abbr.",
+        "cn": "（计算机）应用程序，应用软件；<美，非正式>开胃菜"
+      },
+      {
+        "pos": "",
+        "cn": "【名】  （App）（美、德、巴）阿普（人名）；（App）（美、德、巴）阿普（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "What is the core of your app?",
+        "cn": "你的应用程序的核心是什么？"
+      },
+      {
+        "c": "She developed an app to help them.",
+        "cn": "她开发了一个应用程序来帮助他们。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "killer app",
+        "cn": "杀手级应用软体；极度成功与受欢迎的电脑应用软件"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10134,
+    "word": "history",
+    "phonetic0": "ˈhɪstri; ˈhɪstəri",
+    "phonetic1": "ˈhɪstri; ˈhɪstəri",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "历史；沿革，发展过程；历史课，历史学；史书，历史记载；个人经历，履历"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I'm very interested in history.",
+        "cn": "我很喜欢历史。"
+      },
+      {
+        "c": "He studied History and Economics.",
+        "cn": "他学过历史和经济学。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "in the history",
+        "cn": "在历史上"
+      },
+      {
+        "c": "long history",
+        "cn": "历史悠久"
+      },
+      {
+        "c": "in history",
+        "cn": "在历史上"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "历史，历史学；历史记录；来历",
+        "ws": [
+          "story",
+          "herstory"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10135,
+    "word": "magazine",
+    "phonetic0": "ˌmæɡəˈziːn",
+    "phonetic1": "ˈmæɡəziːn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "杂志，期刊；（电视、广播）专题节目；弹匣，弹仓；胶卷盒，底片盒；弹药库，军火库"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She used to edit a women's magazine.",
+        "cn": "她曾主编过妇女杂志。"
+      },
+      {
+        "c": "The new magazine has really taken off.",
+        "cn": "这份新杂志真是大受欢迎。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "weekly magazine",
+        "cn": "周刊"
+      },
+      {
+        "c": "fortune magazine",
+        "cn": "财富杂志"
+      },
+      {
+        "c": "trade magazine",
+        "cn": "商业类杂志；行业性杂志；专业杂志"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "杂志；弹药库；胶卷盒",
+        "ws": [
+          "journal",
+          "mags"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10136,
+    "word": "information",
+    "phonetic0": "ˌɪnfəˈmeɪʃ(ə)n",
+    "phonetic1": "ˌɪnfərˈmeɪʃ(ə)n",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "消息，资料，情报；（计算机程序储存和使用的）数据，信息；问讯处，信息台；（向治安法院提起的）控告，起诉；知识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We pooled ideas and information.",
+        "cn": "我们汇集了意见和信息。"
+      },
+      {
+        "c": "This information could prove useful.",
+        "cn": "这条信息往后也许有用。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "information desk",
+        "cn": "服务台，问询处"
+      },
+      {
+        "c": "information system",
+        "cn": "信息系统"
+      },
+      {
+        "c": "information technology",
+        "cn": "信息技术"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[计][通信]信息，资料；知识；[图情]情报；通知",
+        "ws": [
+          "feedback",
+          "advice",
+          "notice",
+          "knowledge of"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10137,
+    "word": "plan",
+    "phonetic0": "plæn",
+    "phonetic1": "plæn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "（详细）规划；（养老金、储蓄、保险）方案；计划，打算；平面图，详图；分布图，示意图；（卫理公会教堂）巡回传教士名单；（手机流量、话费等）套餐"
+      },
+      {
+        "pos": "v.",
+        "cn": "计划，筹划；打算；设计；期望，预料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "If Plan A fails, go to Plan B.",
+        "cn": "假如第一方案失败了，就执行第二方案。"
+      },
+      {
+        "c": "Unsurprisingly, the plan failed.",
+        "cn": "果然不出所料，计划失败了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "plan for",
+        "cn": "为……制定计划"
+      },
+      {
+        "c": "in plan",
+        "cn": "作为平面图"
+      },
+      {
+        "c": "development plan",
+        "cn": "发展计划；开发计划"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "计划；[测]平面图",
+        "ws": [
+          "scheme",
+          "programme",
+          "project"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "计划；设计；打算",
+        "ws": [
+          "design",
+          "schedule",
+          "propose",
+          "map"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10138,
+    "word": "northeast",
+    "phonetic0": "ˌnɔːθˈiːst",
+    "phonetic1": "ˌnɔːrθˈiːst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "东北方，东北方向；东北部，东北地区；（the Northeast）美国东北部"
+      },
+      {
+        "pos": "adj.",
+        "cn": "东北的；向东北的；（风等）来自东北的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The northeast has been particularly hard hit..",
+        "cn": "东北部受影响尤其严重。"
+      },
+      {
+        "c": "This rural outpost, 400 miles northeast of Helena, has one stoplight.",
+        "cn": "这个在赫勒拿东北400英里处的农村居民点有一个交通信号灯。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10139,
+    "word": "tour",
+    "phonetic0": "tʊə(r)",
+    "phonetic1": "tʊr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "旅行，旅游；游览，参观，观光；巡回比赛（或演出等），巡视；任职期，服役期；（政治家或领导人的）访问；锦标赛（the tour）"
+      },
+      {
+        "pos": "v.",
+        "cn": "旅游，观光，参观；（在……）进行巡回演出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The band will be going on tour.",
+        "cn": "这个乐队将要进行巡回演出。"
+      },
+      {
+        "c": "The band is on tour in France.",
+        "cn": "这支乐队正在法国巡回演出。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "tour guide",
+        "cn": "导游人员"
+      },
+      {
+        "c": "on tour",
+        "cn": "巡回中"
+      },
+      {
+        "c": "guided tour",
+        "cn": "有导游的游览"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "旅游，旅行；巡回演出",
+        "ws": [
+          "journey",
+          "trip",
+          "travel"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "旅行，在……旅游；在……作巡回演出",
+        "ws": [
+          "have a trip",
+          "go on a trip"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10140,
+    "word": "blog",
+    "phonetic0": "blɒɡ",
+    "phonetic1": "blɑːɡ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网络日志，博客"
+      },
+      {
+        "pos": "v.",
+        "cn": "写博客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "When Barbieux started his blog, his aspirations were small; he simply hoped to communicate with a few people.",
+        "cn": "当巴布开始他的博客时，他的期望并不大。他只是希望能与几个人交流。"
+      },
+      {
+        "c": "I have to shut down my blog.",
+        "cn": "我得关掉我的博客。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "new blog",
+        "cn": "新日志"
+      },
+      {
+        "c": "blog search",
+        "cn": "博客搜索"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "博客；部落格；网络日志",
+        "ws": [
+          "boke",
+          "weblog"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10142,
+    "word": "building",
+    "phonetic0": "ˈbɪldɪŋ",
+    "phonetic1": "ˈbɪldɪŋ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "建筑物，房屋，楼房；建筑，建筑业"
+      },
+      {
+        "pos": "v.",
+        "cn": "建造；发展，建立；逐渐增强（build 的现在分词形式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Building costs have nosedived.",
+        "cn": "建筑费用猛跌下来。"
+      },
+      {
+        "c": "The building soared above us.",
+        "cn": "在我们眼前，那座大楼巍然高耸。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "building up",
+        "cn": "建造；装配；堆焊；建立增长"
+      },
+      {
+        "c": "office building",
+        "cn": "办公大楼（等于office block）"
+      },
+      {
+        "c": "building material",
+        "cn": "建筑材料"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[建]建筑；建筑物",
+        "ws": [
+          "construction",
+          "fabric",
+          "structure",
+          "bldg"
+        ]
+      },
+      {
+        "pos": "v.",
+        "cn": "[建]建筑；建立；增加（build的ing形式）",
+        "ws": [
+          "establishing",
+          "adding",
+          "increasing"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10143,
+    "word": "Useful expressions",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "常用表达：在日常交流或语言学习中经常使用、能有效表达特定意思或情感的短语或说法。"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I find idioms and useful expressions hard to learn.",
+        "cn": "我发现习语和有用的短语很难学。"
+      },
+      {
+        "c": "Learning new words and useful expressions is very important for me.",
+        "cn": "进修新单词和有用的短语对我来说都很次要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10144,
+    "word": "stone",
+    "phonetic0": "stəʊn",
+    "phonetic1": "stoʊn",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "石头，石料；石块；宝石；果核；结石；<英> 英石（英国重量单位,相当于6.35千克或14磅）；纪念碑，石碑；（指重量或缺少感情、表情或动作）像石头一样；（天文）陨石；CURLING STONE的简称；（桌游中的）棋子，筹码；排版用石台，石印台；（表示观念或规则固定而不可改变）板上钉钉；石头色，石青色"
+      },
+      {
+        "pos": "v.",
+        "cn": "向……扔石头；去核；用石头建（或铺）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's trying to lose a stone.",
+        "cn": "她试图减去一英石的体重。"
+      },
+      {
+        "c": "The stone rolled down the hill.",
+        "cn": "石头滚下山坡。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "leave no stone unturned",
+        "cn": "千方百计"
+      },
+      {
+        "c": "natural stone",
+        "cn": "天然石；天然石材；天然宝石"
+      },
+      {
+        "c": "stone age",
+        "cn": "石器时代"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[建]石头；结石；[宝]宝石",
+        "ws": [
+          "stane",
+          "calculus"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "石的，石制的",
+        "ws": [
+          "lithic"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10145,
+    "word": "last",
+    "phonetic0": "lɑːst",
+    "phonetic1": "læst",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "最后的；最近的，上一个的；最后剩下的；最不可能的；最末的；仅存的；最不重要的，最无关紧要的；最后遇见的"
+      },
+      {
+        "pos": "v.",
+        "cn": "持续；持久；维持，够用；坚持，支撑下去"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "They separated last year.",
+        "cn": "他们于去年分居了。"
+      },
+      {
+        "c": "At last they were agreeing, at last they were getting somewhere.",
+        "cn": "最终他们取得了一致，最终他们取得了一些进展。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "at last",
+        "cn": "最后；终于"
+      },
+      {
+        "c": "last year",
+        "cn": "去年"
+      },
+      {
+        "c": "last week",
+        "cn": "上周，上星期"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "末尾，最后；上个；鞋楦（做鞋的模型）",
+        "ws": [
+          "foot",
+          "tail-end"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "最后的；最近的，最新的；仅剩的；最不可能…的",
+        "ws": [
+          "recent",
+          "finishing",
+          "latest",
+          "current"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10146,
+    "word": "explore",
+    "phonetic0": "ɪkˈsplɔː(r)",
+    "phonetic1": "ɪkˈsplɔːr",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "探讨，探究；考察，探索；（用手或身体其他部位）探查，仔细检查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We will explore every avenue until we find an answer.",
+        "cn": "我们要探索一切途径，直到找到答案为止。"
+      },
+      {
+        "c": "I want to explore and get in touch with my inner self.",
+        "cn": "我想认真探索，了解我内在的个性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "vt.",
+        "cn": "探索；探测；探险",
+        "ws": [
+          "detect",
+          "probe into"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "探索；探测；探险",
+        "ws": [
+          "probe into",
+          "search after"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10147,
+    "word": "culture",
+    "phonetic0": "ˈkʌltʃə(r)",
+    "phonetic1": "ˈkʌltʃər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "文化，文明；（团体或组织中共同的）态度，习俗；文化群落，（处于历史上特定时期的）社会；艺术活动；修养；（细胞、细菌等的）培养，培养物；栽培，养殖"
+      },
+      {
+        "pos": "v.",
+        "cn": "培育，养殖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We are living in a consumer culture.",
+        "cn": "我们生活在一种消费文化之中。"
+      },
+      {
+        "c": "This tradition has no parallel in our culture.",
+        "cn": "这种传统在我们的文化中是没有的。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "traditional culture",
+        "cn": "传统文化"
+      },
+      {
+        "c": "corporate culture",
+        "cn": "企业文化，公司文化"
+      },
+      {
+        "c": "enterprise culture",
+        "cn": "企业文化"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "文化，文明；修养；[农学]栽培",
+        "ws": [
+          "civilization",
+          "planting"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "[细胞][微]培养（等于cultivate）",
+        "ws": [
+          "rear",
+          "foster",
+          "plant",
+          "nurse"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10148,
+    "word": "summer holidays",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "暑假：学校或机构在夏季期间放假的一段时间，通常是学生们休息和娱乐的时期。"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The summer holidays are coming.",
+        "cn": "暑假正在来临。"
+      },
+      {
+        "c": "I enjoy my summer holidays!",
+        "cn": "我喜欢我的暑假！"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "",
+        "cn": "暑假",
+        "ws": [
+          "summer vacation"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10149,
+    "word": "In July",
+    "phonetic0": "",
+    "phonetic1": "ɪn dʒuˈlaɪ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在七月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The new model will be launched in July.",
+        "cn": "新型号产品将在七月推出。"
+      },
+      {
+        "c": "The new model is to be rolled out in July.",
+        "cn": "这种新型号将在七月份推向市场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10151,
+    "word": "where to go",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "去哪里：询问或考虑要去的地方或目的地。"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Can anyone suggest where to go for lunch?",
+        "cn": "谁能推荐一下去哪里吃午饭吗？"
+      },
+      {
+        "c": "But it's quite big and I'm not sure where to go.",
+        "cn": "但是它很大，我不知道去哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10152,
+    "word": "get there",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "到达：指到达目的地或达到某个目标。"
+      },
+      {
+        "pos": "",
+        "cn": "理解，明白：指理解或明白某个概念、问题或情况。"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "I hope we get there in time.",
+        "cn": "我希望我们及时到达那里。"
+      },
+      {
+        "c": "It's a mission to get there.",
+        "cn": "一路上要经历艰辛才能到达那里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [
+      {
+        "pos": "",
+        "cn": "到达那里；取得成功，实现目标",
+        "ws": [
+          "be high up in the pictures",
+          "achieve success"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10153,
+    "word": "Well",
+    "phonetic0": "wel",
+    "phonetic1": "wel",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "很好地，满意地，顺利地；充分地；远远地（表示强调）；很可能，合理地（与 may、could 等连用）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "健康的，痊愈的；良好的，适宜的，明智的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "She's always well-dressed.",
+        "cn": "她总是衣着讲究。"
+      },
+      {
+        "c": "The interview went well.",
+        "cn": "面试很顺利。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "as well",
+        "cn": "也；同样地；还不如"
+      },
+      {
+        "c": "as well as",
+        "cn": "也；和…一样；不但…而且"
+      },
+      {
+        "c": "do well",
+        "cn": "做得好；进展好"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "很好地；充分地；满意地；适当地",
+        "ws": [
+          "fully",
+          "properly",
+          "fine",
+          "adequately"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "cn": "良好的；健康的；适宜的",
+        "ws": [
+          "healthy",
+          "favorable",
+          "robust",
+          "fine"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "Unit 6",
+        "d": "收录于人教版英语五年级下册（新版） Unit 6。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10154,
+    "word": "along",
+    "phonetic0": "əˈlɒŋ",
+    "phonetic1": "əˈlɔːŋ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "prep.",
+        "cn": "沿着；顺着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Things are going along nicely.",
+        "cn": "情况进展良好。"
+      },
+      {
+        "c": "We cantered along the beach.",
+        "cn": "我们骑着马沿海滩慢跑。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "along with",
+        "cn": "沿（顺）着；连同…一起；与…一道；随同…一起"
+      },
+      {
+        "c": "get along",
+        "cn": "（勉强）生活；进展；（使）前进；与…和睦相处"
+      },
+      {
+        "c": "all along",
+        "cn": "自始至终，一直"
+      },
+      {
+        "c": "go along",
+        "cn": "进行；支持；前进；赞同"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "adv.",
+        "cn": "一起；向前；来到",
+        "ws": [
+          "forth",
+          "together",
+          "to",
+          "ahead"
+        ]
+      },
+      {
+        "pos": "prep.",
+        "cn": "沿着；顺着",
+        "ws": [
+          "down"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对补录。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10155,
+    "word": "cup",
+    "phonetic0": "kʌp",
+    "phonetic1": "kʌp",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "杯子；一杯（的量）"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "word": "labour",
+    "phonetic0": "ˈleɪbə(r)",
+    "phonetic1": "ˈleɪbər",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "劳动；任务，（一段时间的）工作；劳工，工人，劳动力；分娩，临盆；工会；（英国）工党"
+      },
+      {
+        "pos": "v.",
+        "cn": "劳动，劳作；努力做（困难的事）；费力地行进；误以为，为……所蒙蔽；一再重申，反复说明；<古>耕（地）"
+      },
+      {
+        "pos": "adj.",
+        "cn": "工党的，支持工党的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "...the labour of hauling the rocks away.",
+        "cn": "…拖走这些岩石的劳动。"
+      },
+      {
+        "c": "...he will be labouring 14 hundred metres below ground.",
+        "cn": "…他将在地下1400米处艰苦劳动。"
+      },
+      {
+        "c": "Scientists laboured for months to unravel the mysteries of Neptune and still remain baffled.",
+        "cn": "科学家们为揭开海王星之谜艰难地工作了数月，但依然迷惑不解。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "labour force",
+        "cn": "劳动力"
+      },
+      {
+        "c": "surplus labour",
+        "cn": "【政治经济学】剩余劳动(力)"
+      },
+      {
+        "c": "labour party",
+        "cn": "劳工党"
+      },
+      {
+        "c": "division of labour",
+        "cn": "分工"
+      },
+      {
+        "c": "labour union",
+        "cn": "[美]工会"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[劳经]劳动力，人工；分娩",
+        "ws": [
+          "delivery",
+          "manpower"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "[劳经]劳动；分娩；费力地前进",
+        "ws": [
+          "swink"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对补录。"
+      }
+    ],
+    "relWords": {
+      "root": "labor",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "labored",
+              "cn": "吃力的；费劲的；不自然的"
+            },
+            {
+              "c": "laboring",
+              "cn": "劳动的"
+            },
+            {
+              "c": "laboured",
+              "cn": "吃力的；缓慢的；矫揉造作的"
+            },
+            {
+              "c": "labouring",
+              "cn": "劳动的；费劲的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "laboriously",
+              "cn": "辛苦地；费力地；不流畅地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "labor",
+              "cn": "劳动；工作；劳工；分娩"
+            },
+            {
+              "c": "laborer",
+              "cn": "劳动者；工人"
+            },
+            {
+              "c": "labourer",
+              "cn": "劳动者；劳工"
+            },
+            {
+              "c": "laboring",
+              "cn": "劳动；操劳"
+            },
+            {
+              "c": "labouring",
+              "cn": "劳动"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "labored",
+              "cn": "工作；劳动；分娩（labor的过去分词）"
+            },
+            {
+              "c": "laboured",
+              "cn": "干苦力活（labour的过去分词）"
+            },
+            {
+              "c": "labouring",
+              "cn": "劳动；努力；为…所苦恼；艰难地行进（labour的ing形式）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "labor",
+              "cn": "劳动；努力；苦干"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "labor",
+              "cn": "详细分析；使厌烦"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null,
+    "id": 10156
+  },
+  {
+    "word": "kangaroo",
+    "phonetic0": "ˌkæŋɡəˈruː",
+    "phonetic1": "ˌkæŋɡəˈruː",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "袋鼠，大袋鼠（原产于澳大利亚和新几内亚的大型有袋类动物，后肢强健善跳跃，雌兽腹部有育儿袋）；袋鼠肉"
+      },
+      {
+        "pos": "v.",
+        "cn": "（汽车）因离合控制不当而前移；使（汽车）突然猛地短距离前移；对婴儿进行袋鼠式护理；捕猎袋鼠；像袋鼠一样蹦跳移动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The kangaroo is a native of Australia.",
+        "cn": "袋鼠是产于澳大利亚的动物。"
+      },
+      {
+        "c": "The kangaroo is indigenous to Australia.",
+        "cn": "袋鼠原产于澳大利亚。"
+      },
+      {
+        "c": "Kangaroo can jump very high.",
+        "cn": "袋鼠可以跳得非常高。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "kangaroo island",
+        "cn": "袋鼠岛（澳大利亚岛，等于坎加鲁岛）"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "[脊椎]袋鼠",
+        "ws": [
+          "roo"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对补录。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null,
+    "id": 10157
+  },
+  {
+    "id": 10158,
+    "word": "wish",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "v. 希望（做某事），想要（某事发生）；祝，祝愿（某人好运、幸福等）；愿望，心愿；希望（不可能或可能性很小的事变成事实）；真希望（用于表示对做过某事或未做某事感到后悔或失望）；（用来表示对某人行为的厌烦）我希望……；（用于要说的话可能使人不快或担心等时）不想，无意；这是再好不过的，没有比这更好的了；希望……发生在……身上"
+      },
+      {
+        "pos": "",
+        "cn": "n. 希望，愿望；（靠魔术实现的）愿望，心愿；（书信或贺卡等中的）祝愿，祝福（wishes）；想要的东西，希望的事；请求，要求"
+      },
+      {
+        "pos": "",
+        "cn": "【名】 （Wish）（美）威什（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pa, I wish you wouldn't shout.",
+        "cn": "爸，我但愿你不要嚷嚷了。"
+      },
+      {
+        "c": "I wish you'd take me seriously.",
+        "cn": "我希望你认真对待我的话。"
+      },
+      {
+        "c": "The prince's wish came true.",
+        "cn": "王子的愿望实现了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "best wish",
+        "cn": "美好祝愿"
+      },
+      {
+        "c": "wish for",
+        "cn": "盼望，希望得到"
+      },
+      {
+        "c": "as you wish",
+        "cn": "随心所欲"
+      },
+      {
+        "c": "wish you happy",
+        "cn": "祝你快乐"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "希望；祝福；心愿",
+        "ws": [
+          "hope",
+          "pleasure",
+          "promise",
+          "desire",
+          "will"
+        ]
+      },
+      {
+        "pos": "vt.",
+        "cn": "祝愿；渴望；向…致问候语",
+        "ws": [
+          "long for",
+          "die for"
+        ]
+      },
+      {
+        "pos": "vi.",
+        "cn": "愿望；需要",
+        "ws": [
+          "have need of",
+          "want for"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对补录。"
+      }
+    ],
+    "relWords": {
+      "root": "wish",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "wistful",
+              "cn": "渴望的；留恋的；沉思的"
+            },
+            {
+              "c": "wishful",
+              "cn": "渴望的，愿望的；寄予希望的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "wistfully",
+              "cn": "渴望地；希望地；不满足地"
+            },
+            {
+              "c": "wishfully",
+              "cn": "希望地，渴望地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "wishing",
+              "cn": "期盼着，希望；愿望"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "wishing",
+              "cn": "希望；想要（wish的ing形式）"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10159,
+    "word": "painting",
+    "phonetic0": "ˈpeɪntɪŋ",
+    "phonetic1": "ˈpeɪntɪŋ",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "绘画作品； 绘画；油画"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He is painting a huge volcano.",
+        "cn": "他正在画一座巨型火山。"
+      },
+      {
+        "c": "Painting can be very therapeutic.",
+        "cn": "绘画可以使人很放松。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "chinese painting",
+        "cn": "国画"
+      },
+      {
+        "c": "oil painting",
+        "cn": "油画；油画艺术"
+      },
+      {
+        "c": "landscape painting",
+        "cn": "风景画，山水画"
+      },
+      {
+        "c": "traditional chinese painting",
+        "cn": "国画；中国画"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "绘画；油画；着色",
+        "ws": [
+          "brushwork",
+          "coloration"
+        ]
+      },
+      {
+        "pos": "v.",
+        "cn": "绘画（paint的ing形式）；涂色于",
+        "ws": [
+          "drawing"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对补录。"
+      }
+    ],
+    "relWords": {
+      "root": "paint",
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "painted",
+              "cn": "描画的；着色的；刷上油漆的"
+            },
+            {
+              "c": "paintable",
+              "cn": "适于绘画的"
+            },
+            {
+              "c": "painterly",
+              "cn": "画家的；美术的；开放式画风的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "paint",
+              "cn": "油漆；颜料；绘画作品"
+            },
+            {
+              "c": "painter",
+              "cn": "画家；油漆匠"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "painted",
+              "cn": "油漆（paint的过去式和过去分词）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "paint",
+              "cn": "油漆；绘画"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "paint",
+              "cn": "油漆；绘画；装饰；描绘"
+            }
+          ]
+        }
+      ]
+    },
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10160,
+    "word": "mount",
+    "phonetic0": "maʊnt",
+    "phonetic1": "maʊnt",
+    "synos": [
+      {
+        "cn": "增加；爬上；使骑上马",
+        "ws": [
+          "enhance",
+          "boost",
+          "jack",
+          "hot",
+          "gain"
+        ],
+        "pos": "vt."
+      },
+      {
+        "cn": "爬；上升",
+        "ws": [
+          "climb",
+          "arise",
+          "raise",
+          "go up"
+        ],
+        "pos": "vi."
+      },
+      {
+        "cn": "山峰；底座；乘骑用马",
+        "ws": [
+          "peak",
+          "foundation plate"
+        ],
+        "pos": "n."
+      }
+    ],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对补录。"
+      }
+    ],
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null,
+    "relWords": {
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "mounting",
+              "cn": "逐渐增加的"
+            },
+            {
+              "c": "mounted",
+              "cn": "骑马的；安装好的；裱好的"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "mounting",
+              "cn": "装备，装配；上马；衬托纸"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "mounting",
+              "cn": "增加（mount的ing形式）；爬上"
+            },
+            {
+              "c": "mounted",
+              "cn": "安装（mount的过去式和过去分词）；爬上；骑上"
+            }
+          ]
+        }
+      ],
+      "root": "mount"
+    },
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "(书面缩写为 Mt)(用作山名的一部分) ......山，......峰"
+      },
+      {
+        "pos": "v.",
+        "cn": "组织，开展；爬上，登上；骑上；增多，增加，上升；增强，加剧；镶嵌，裱贴，安置；上演，展出；爬上（雌性动物的背）进行交配；设置（岗哨），担任（警卫）；把（观察对象）固定于显微镜的载玻片"
+      },
+      {
+        "pos": "n.",
+        "cn": "山，山峰；坐骑，马；登，骑；（相片）框，（艺术品）装帧，衬托纸；底座，底架；（贴邮票用的）透明胶纸；（显微镜观察的）封片；掌丘"
+      },
+      {
+        "pos": "",
+        "cn": "【名】 （Mount）（英）芒特（人名）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "The death toll continues to mount.",
+        "cn": "死亡人数持续增加。"
+      },
+      {
+        "c": "How high is Mount Aconcagua?",
+        "cn": "阿空加瓜山有多高？"
+      },
+      {
+        "c": "The pressure for change continued to mount.",
+        "cn": "改革的呼声持续高涨。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "mount everest",
+        "cn": "埃佛勒斯峰（喜马拉雅山主峰之一，中国称珠穆朗玛峰）"
+      },
+      {
+        "c": "surface mount",
+        "cn": "表面黏着方式"
+      },
+      {
+        "c": "mount up",
+        "cn": "增长；上升"
+      }
+    ]
+  },
+  {
+    "id": 10161,
+    "word": "hill",
+    "phonetic0": "hɪl",
+    "phonetic1": "hɪl",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "山丘；小山"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10162,
+    "word": "local",
+    "phonetic0": "ˈləʊk(ə)l",
+    "phonetic1": "ˈloʊk(ə)l",
+    "synos": [
+      {
+        "cn": "[计]局部；当地居民；本地新闻",
+        "ws": [
+          "native"
+        ],
+        "pos": "n."
+      },
+      {
+        "cn": "当地的；[计]局部的；地方性的；乡土的",
+        "ws": [
+          "partial",
+          "regional",
+          "provincial"
+        ],
+        "pos": "adj."
+      }
+    ],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对补录。"
+      }
+    ],
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null,
+    "relWords": {
+      "rels": [
+        {
+          "pos": "adj.",
+          "words": [
+            {
+              "c": "localized",
+              "cn": "局部的；地区的；小范围的"
+            },
+            {
+              "c": "localised",
+              "cn": "限局性的，局部的"
+            }
+          ]
+        },
+        {
+          "pos": "adv.",
+          "words": [
+            {
+              "c": "locally",
+              "cn": "局部地；在本地"
+            }
+          ]
+        },
+        {
+          "pos": "n.",
+          "words": [
+            {
+              "c": "locality",
+              "cn": "所在；位置；地点"
+            },
+            {
+              "c": "localization",
+              "cn": "[计] 定位；局限；地方化"
+            },
+            {
+              "c": "localisation",
+              "cn": "本土化；定位"
+            },
+            {
+              "c": "localism",
+              "cn": "有地方色彩，地方主义；方言"
+            }
+          ]
+        },
+        {
+          "pos": "v.",
+          "words": [
+            {
+              "c": "localized",
+              "cn": "定位（localize的过去分词）"
+            },
+            {
+              "c": "localised",
+              "cn": "使地方化；定位；局限（localise的过去分词）"
+            }
+          ]
+        },
+        {
+          "pos": "vi.",
+          "words": [
+            {
+              "c": "localize",
+              "cn": "局部化；集中"
+            }
+          ]
+        },
+        {
+          "pos": "vt.",
+          "words": [
+            {
+              "c": "localize",
+              "cn": "使地方化；使局部化；停留在一地方"
+            },
+            {
+              "c": "localise",
+              "cn": "使地方化；定位；集中"
+            }
+          ]
+        }
+      ],
+      "root": "local"
+    },
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "当地的，地方的；局部的；（汽车或火车）每站都停的，慢的；（计算机）局域的；（食品或饮料）低热量的"
+      },
+      {
+        "pos": "n.",
+        "cn": "当地人，本地人；<英>住处附近的酒吧；<美>（工会的）地方分会；慢车，市内公交车；<俚>炒股散户；本地新闻；局部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "He dabbles in local politics.",
+        "cn": "他开始涉足地方政坛。"
+      },
+      {
+        "c": "Police suspect a local gang.",
+        "cn": "警方怀疑当地的一个不良帮派。"
+      },
+      {
+        "c": "She's on the local council.",
+        "cn": "她是地方议会的议员。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "local government",
+        "cn": "地方政府；[总称]地方政府官员（或工作人员）"
+      },
+      {
+        "c": "local area network",
+        "cn": "n. 局域网"
+      },
+      {
+        "c": "local culture",
+        "cn": "本土文化；地方文化"
+      }
+    ]
+  },
+  {
+    "id": 10163,
+    "word": "palace",
+    "phonetic0": "ˈpæləs",
+    "phonetic1": "ˈpæləs",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "王宫；宫殿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We drove through the palace gates.",
+        "cn": "我们驱车驶过重重宫门。"
+      },
+      {
+        "c": "The palace was bedecked with flags.",
+        "cn": "该宫殿装饰有许多旗子。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "palace museum",
+        "cn": "故宫博物院"
+      },
+      {
+        "c": "imperial palace",
+        "cn": "宫城；皇城"
+      },
+      {
+        "c": "buckingham palace",
+        "cn": "白金汉宫（英国皇宫）"
+      },
+      {
+        "c": "potala palace",
+        "cn": "布达拉宫"
+      }
+    ],
+    "synos": [
+      {
+        "pos": "n.",
+        "cn": "宫殿；宅邸；豪华住宅",
+        "ws": [
+          "mansion",
+          "puri"
+        ]
+      }
+    ],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对补录。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  },
+  {
+    "id": 10164,
+    "word": "Ms",
+    "phonetic0": "mɪz",
+    "phonetic1": "mɪz",
+    "langType": "en",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "女士"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Someone with suspected MS should see a neurologist specializing in the disease.",
+        "cn": "患有疑似MS的症状者需要去看此类疾病的神经病专科医生。"
+      },
+      {
+        "c": "Some newspapers, most famously the New York Times, refuse to print the word Ms.",
+        "cn": "有些报纸，其中最著名的是《纽约时报》，拒不刊用Ms这个词。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "ms office",
+        "cn": "办公软件；计算机等级考试"
+      },
+      {
+        "c": "ms word",
+        "cn": "文书处理软件"
+      }
+    ],
+    "synos": [],
+    "etymology": [
+      {
+        "t": "课本词汇表",
+        "d": "依据人教版小学英语 PEP 教材词汇表校对。"
+      }
+    ],
+    "relWords": null,
+    "inflections": null,
+    "e2e": null,
+    "examsSrc": null
+  }
+]

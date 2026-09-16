@@ -1,0 +1,696 @@
+#Unit 1
+textbook|n.|教科书；课本|1
+conversation|n.|交谈；谈话|2
+aloud|adv.|大声地；出声地|2
+pronunciation|n.|发音；读音|2
+sentence|n.|句子|2
+patient|adj.|有耐心的||n.|病人|2
+secret|n.|秘密；秘诀||adj.|秘密的；保密的|3
+expression|n.|表情；表示；表达方式|3
+discover|n.|发现；发觉|3
+look up|（在词典、参考书中或通过电脑）查阅；抬头看|3
+grammar|n.|语法|3
+repeat|v.|重复；重做|4
+note|n.|笔记；记录||v.|注意；指出|4
+pal|n.|朋友；伙伴|4
+physics|n.|物理；物理学|4
+chemistry|n.|化学|4
+memorize|v.|记忆；记住|4
+pattern|n.|模式；方式|4
+novel|n.|（长篇）小说|4
+pronounce|v.|发音|5
+increase|v.|增加；增长|5
+speed|n.|速度|5
+review|v.|&||n.|回顾；复习|5
+partner|n.|搭档；同伴|5
+born|v.|出生||adj.|天生的|6
+be born with|天生具有|6
+ability|n.|能力；才能|6
+create|v.|创造；创建|6
+brain|n.|大脑|6
+active|adj.|活跃的；积极的|6
+attention|n.|注意；关注|6
+pay attention to|注意；关注|6
+connect|v.|（使）连接；与……………………有联系|6
+connect with|把……和……连接或联系起来|6
+overnight|adv.|一夜之间；在夜间|6
+knowledge|n.|知识；学问|6
+lifelong|adj.|终身的；毕生的|6
+wisely|adv.|明智地；聪明地|6
+Annie|安妮（女名）|2
+Alexander Graham Bell|亚历山大·格雷厄姆·贝尔|6
+#Unit 2
+mooncake|n.|月饼|9
+lantern|n.|灯笼|9
+stranger|n.|陌生人|10
+relative|n.|亲属；亲戚|10
+put on|增加（体重）；发胖|10
+pound|n.|磅（重量单位）； 英镑（英国货币单位）|10
+folk|adj.|民间的；民俗的|11
+goddess|n.|女神|11
+whoever|pron.|无论谁； 不管什么人|11
+steal|v.|（stole, stolen）偷；窃取|11
+lay|v.|（laid, laid）放置；安放；产（卵）；下（蛋）|11
+lay out|摆开；布置|11
+dessert|n.|（饭后）甜点； 甜食|11
+garden|n.|花园；园子|11
+tradition|n.|传统|11
+admire|v.|欣赏； 仰慕|11
+treat|n.|款待；招待||v.|招待；请（客）|12
+tie|n.|领带||n.|捆；束|12
+dinosaur|n.|恐龙|13
+mushroom|n.|蘑菇|13
+togetherness|n.|和睦相处；亲密无间|13
+happiness|n.|快乐；高兴|13
+lunar|adj.|月球的；月亮的|13
+riddle|n.|谜；谜语|13
+celebration|n.|庆典； 庆祝活动|14
+firework|n.|烟火；烟花； （pl.） 烟花表演|14
+take place|发生|14
+gather|v.|聚集；集合|14
+count down|倒计时|14
+suggest|n.|建议；提议|14
+custom|n.|风俗；习俗|14
+involve|v.|包含；牵涉|14
+crowd|n.|人群；观众|14
+bottom|n.|底部； 最下部|14
+dust|n.|沙土；尘土||n.|擦灰；掸去|14
+couplet|n.|对联；对句|14
+set off|（sth.）点燃；使……爆炸|14
+eve|n.|前夕；前夜|14
+express|n.|表达；表示|14
+reunion|n.|团圆；团聚|14
+mark|v.|标志；做标记； 评分||n.|迹象；记号；分数|14
+smell|v.|（smelt, smelt; smelled, smelled）闻到；发出……气味||n.|气味；臭味|14
+breeze|n.|微风；和风|14
+picnic|n.|&||v.|野餐|14
+coming|adj.|即将发生的； 下一个的||n.|到来|14
+Macao|澳门|10
+Chiang Mai|清迈（泰国城市）|10
+Egypt|埃及|14
+Scottish|adj.|苏格兰的； 苏格兰人的|14
+Water Festival|泼水节|9
+Mid-Autumn Festival|中秋节|11
+Mother's Day|母亲节|12
+Father's Day|父亲节|12
+Spring Festival|春节|13
+Big Ben|大本钟|14
+Auld Lang Syne|《友谊地久天长》|14
+Times Square|时代广场|14
+Sham El-Nessim|（埃及）闻风节|14
+Clara|克拉拉（女名）|10
+#Unit 3
+restroom|n.|（美）洗手间；公共厕所|17
+stamp|n.|邮票；印章|17
+bookstore|n.|书店|17
+beside|prep.|在……………………旁边； 在……………………附近|17
+postcard|n.|明信片|18
+pardon|v.|原谅||interj.|请再说一遍|18
+washroom|n.|洗手间；厕所|18
+bathroom|n.|浴室；洗手间|18
+normally|adv.|通常； 正常情况下|18
+rush|n.|&||n.|仓促；急促|18
+pass by|路过；经过|19
+staff|n.|管理人员； 职工|19
+grape|n.|葡萄|20
+policeman|n.|（pl. policemen）男警察|20
+central|adj.|中心的； 中央的|20
+nearby|adj.|附近的；邻近的||adv.|在附近；附近|20
+pardon me|抱歉，对不起；什么，请再说一遍|20
+mail|v.|邮寄；发电子邮件||n.|邮件；信件|20
+east|adv.|向东；朝东||adj.|东方的；东部的||n.|东；东方|20
+fascinating|adj.|迷人的；极有吸引力的|21
+inexpensive|adj.|不昂贵的|21
+uncrowded|adj.|不拥挤的；人少的|21
+convenient|adj.|便利的；方便的|21
+mall|n.|商场；购物中心|21
+clerk|n.|职员|21
+corner|n.|拐角；角落|21
+politely|adv.|礼貌地； 客气地|22
+request|n.|&||n.|要求；请求|22
+direction|n.|方向；方位|22
+correct|adj.|正确的； 恰当的|22
+polite|adj.|有礼貌的； 客气的|22
+direct|adj.|直接的； 直率的|22
+speaker|n.|讲（某种语言）的人；发言者|22
+whom|pron.|谁；什么人|22
+impolite|adj.|不礼貌的；粗鲁的|22
+address|n.|住址； 地址；通信处|22
+underground|adj.|地下的||n.|地铁|22
+parking lot|停车场；停车区|22
+course|n.|课程；学科|23
+Italian|adj.|意大利（人）的||n.|意大利人；意大利语|20
+Tim|蒂姆（男名）|20
+#Unit 4
+humorous|adj.|有幽默感的；滑稽有趣的|26
+silent|adj.|不说话的； 沉默的|26
+helpful|adj.|有用的； 有帮助的|26
+from time to time|时常；有时|26
+score|n.|&||n.|得分；进球|26
+background|n.|背景|27
+interview|v.|采访；面试||n.|面试；访谈|27
+Asian|adj.|亚洲（人）的||n.|亚洲人|27
+deal|v.|（dealt, dealt）对付；对待|27
+deal with|应对；处理|27
+shyness|n.|害羞；胹腆|27
+dare|v.|敢于；胆敢|27
+ton|n.|吨；（pL.）大量；许多|27
+private|adj.|私人的； 私密的|27
+guard|n.|警卫；看守||v.|守卫；保卫|27
+require|v.|需要；要求|27
+European|adj.|欧洲（人）的||n.|欧洲人|28
+African|adj.|非洲（人）的||n.|非洲人|28
+British|adj.|英国（人）的|28
+insect|n.|昆虫|28
+ant|n.|蚂蚁|28
+speech|n.|讲话；发言|28
+public|n.|民众||adj.|公开的；公众的|28
+in public|公开地；在别人（尤指生人）面前|28
+spider|n.|蝴蛛|29
+seldom|adv.|不常；很少|30
+influence|v.|&||n.|影响|30
+absent|adj.|缺席；不在|30
+fail|v.|不及格；失败； 未能（做到）|30
+examination|n.|考试；审查|30
+boarding school|寄宿学校|30
+in person|亲身；亲自|30
+exactly|adv.|确切地； 精确地|30
+pride|n.|自豪；骄傲|30
+take pride in|为……感到自豪|30
+proud|adj.|自豪的；骄傲的|30
+be proud of|为……骄傲；感到自豪|30
+general|adj.|总的；普遍的；常规的||n.|将军|32
+introduction|n.|介绍|32
+Paula|葆拉（女名）|26
+Alfred|艾尔弗雷德（男名）|26
+Billy|比利（男名）|26
+Candy|坎迪（女名）|27
+Jerry|杰里（男名）； 杰丽（女名）|28
+Emily|埃米莉（女名）|28
+#Unit 5
+chopstick|n.|筷子|33
+coin|n.|硬币|33
+fork|n.|餐叉；叉子|33
+blouse|n.|（女式）短上衣；衬衫|33
+silver|n.|银；银器||adj.|银色的|33
+glass|n.|玻璃|33
+cotton|n.|棉；棉花|33
+steel|n.|钢；钢铁|33
+fair|n.|展览会； 交易会|34
+environmental|adj.|自然环境的；有关环境的|34
+grass|n.|草；草地|34
+leaf|n.|（pl. leaves）叶；叶子|34
+produce|v.|生产；制造；出产|34
+widely|adv.|广泛地； 普遍地|34
+be known for|以……闻名；为人知晓|34
+process|v.|加工；处理||n.|过程|34
+pack|v.|包装；装箱|34
+business|n.|生意；商业|34
+product|n.|产品；制品|35
+France|法国|35
+no matter|不论；无论|35
+local|adj.|当地的；本地的|35
+brand|n.|品牌；牌子|35
+avoid|v.|避免；回避|35
+handbag|n.|小手提包|35
+mobile|adj.|可移动的；非固定的|35
+everyday|adj.|每天的； 日常的|35
+boss|n.|老板；上司|36
+Germany|德国|36
+surface|n.|表面；表层|36
+material|n.|材料；原料|36
+judge|n.|法官；裁判员； 鉴定人V.判断；审判；评价|36
+punish|v.|处罚；惩罚|36
+traffic|n.|交通；路上行驶的 车辆|36
+postman|n.|邮递员|36
+cap|n.|（尤指有帽舌的）帽子|36
+glove|n.|（分手指的）手套|36
+international|adj.|国际的|37
+competitor|n.|参赛者；竞争者|37
+its|pron.|它的|38
+form|n.|形式；类型|38
+clay|n.|黏土；陶土|38
+balloon|n.|气球|38
+paper cutting|剪纸|38
+scissors|n.|（pl.）剪刀|38
+lively|adj.|生气勃勃的； （色彩）鲜艳的|38
+fairy tale|童话故事|38
+historical|adj.|（有关）历史的|38
+heat|n.|热；高温||n.|加热；变热|38
+polish|v.|磨光；修改；润色|38
+complete|v.|完成|38
+South Korea|韩国|33
+Switzerland|瑞士|35
+San Francisco|圣弗朗西斯科（旧金山，美国城市）|35
+Marcus|马库斯（男名）|34
+Pam|帕姆（女名）|34
+#Unit 6
+heel|n.|鞋跟；足跟|42
+scoop|n.|勺；铲子|42
+electricity|n.|电；电能|42
+style|n.|样式；款式|42
+project|n.|项目；工程|42
+pleasure|n.|高兴；愉快|42
+zipper|n.|（=zip） 拉链； 拉锁|42
+daily|adj.|每日的；日常的|42
+have a point|有道理|42
+website|n.|网站|42
+pioneer|n.|先锋；先驱|42
+list|v.|列表；列清单||n.|名单；清单|42
+mention|n.|提到；说到|42
+spread|v.|（spread, spread）传播；展开||n.|蔓延；传播|43
+by accident|偶然；意外地|43
+accidental|adj.|意外的； 偶然的|43
+ruler|n.|统治者；支配者|43
+boil|v.|煮沸；烧开|43
+remain|v.|保持不变；剩余|43
+sage|n.|圣人；智者|43
+national|adj.|国家的； 民族的|43
+trade|n.|贸易；交易||v.|做买卖；从事贸易|43
+popularity|n.|受欢迎；普及|43
+doubt|n.|疑惑；疑问1.怀疑|43
+without doubt|毫无疑问；的确|43
+fridge|n.|冰箱|44
+low|adj.|低的；矮的|44
+somebody|pron.|某人||n.|重要人物|44
+wolf|n.|狼|44
+warn|v.|警告；告诫|44
+translate|v.|翻译|44
+lock|v.|锁上；锁住||n.|锁|44
+ring|v.|（rang, rung）（使）发出钟声或铃声；打电话|44
+earthquake|n.|地震|44
+sudden|adj.|突然（的）|44
+all of a sudden|突然；猛地|44
+bell|n.|钟（声）；铃（声）|44
+biscuit|n.|饼干|44
+cookie|n.|曲奇饼|44
+musical|adj.|音乐的； 有音乐天赋的|44
+instrument|n.|器械； 仪器；工具|44
+crispy|adj.|脆的；酥脆的|45
+salty|adj.|咸的|45
+sour|adj.|酸的；有酸味的|45
+by mistake|错误地；无意中|45
+customer|n.|顾客； 客户|45
+the Olympics|奥林匹克运动会|46
+Canadian|adj.|加拿大的； 加拿大人的||n.|加拿大人|46
+divide|v.|分开；分散|46
+divide into|把……分开|46
+basket|n.|篮；筐|46
+not only but also|不但……而且……|46
+look up to|钦佩；仰慕|46
+hero|n.|英雄； 男主角|46
+professional|adj职业的；专业的|47
+nearly|adv.|儿乎|48
+Berlin|柏林（德国城市）|46
+NBA|（National Basketball Association）国家篮球协会（美国职业篮球联赛）|46
+CBA|（China Basketball Association）中国篮球协会（中国职业篮球联赛）|46
+Roy|罗伊（男名）|42
+Whitcomb Judson|惠特科姆·贾德森|42
+Ruby|鲁比（女名）|44
+Thomas Watson|托马斯·沃森|44
+George Crum|乔治·克拉姆|45
+James Naismith|詹姆斯·奈史密斯|46
+#Unit 7
+license|n.|（=licence） 证； 证件|49
+safety|n.|安全；安全性|49
+smoke|v.|吸烟；冒烟||n.|烟|49
+part-time|adj. & adv.|兼职（的）|49
+pierce|n.|扎；刺破； 穿透|49
+earring|n.|耳环；耳饰 P|50
+flash|n.|闪光灯；闪光||v.|闪耀；闪光|50
+tiny|adj.|极小的；微小的|51
+cry|n.|&||n.|哭；叫喊|51
+field|n.|田野；场地|51
+hug|n.|&||n.|拥抱；搂抱|51
+lift|v.|举起；抬高||n.|电梯；搭便车|51
+badly|adv.|严重地；差； 非常|51
+talk back|回嘴；顶嘴|51
+awful|adj.|很坏的；讨厌的|51
+teen|n.|（13至19岁之间的） 青少年|51
+regret|v.|&||n.|感到遗憾； 懊悔|51
+poem|n.|诗；韵文|51
+community|n.|社区； 社团|52
+keep away from|避免接近；远离|52
+chance|n.|机会； 可能性|52
+make one's own decision|自己做决定|52
+educate|v.|教育；教导|52
+manage|v.|完成（困难的 事）；管理|52
+society|n.|社会|52
+get in the way of|挡……的路；妨碍|54
+support|n.|&||n.|支持|54
+end up|最终成为；最后处于|54
+enter|v.|进来；进去|54
+choice|n.|选择；挑选|54
+Picasso|毕加索（西班牙画家）|50
+#Unit 8
+whose|adj.|&||pron.|谁的|57
+truck|n.|卡车；货车|57
+rabbit|n.|兔；野兔|57
+attend|v.|出席；参加|58
+valuable|adj.|贵重的； 很有用的；宝贵的|58
+pink|adj.|粉红色的||n.|粉红色|58
+anybody|pron.|任何人|58
+deja vu|n.|似曾经历过的感觉；似曾相识|59
+mystery|n.|奥秘；神秘事物|59
+be known as|被称为；被认为是|59
+theory|n.|学说；理论；看法|59
+familiar|adj.|熟悉的； 常见到的|59
+hidden|adj.|秘密的；隐藏的|59
+power|n.|能力；权力|59
+link|n.|联系；连接|59
+parallel|adj.|平行（的）； 同时发生的|59
+universe|n.|宇宙|59
+parallel universes|平行宇宙|59
+mix-up|n.|混乱；杂乱|59
+generally speaking|一般来说|59
+trick|n.|引起错觉（或记忆紊乱）的事物；诡计||v.|欺骗；欺诈|59
+unsolved|adj.|未解决的； 未破解的|59
+laboratory|n.|实验室|60
+outdoors|adv.|在户外； 在野外|60
+coat|n.|外套；外衣|60
+lie|v.|（lay, lain）平躺；处于|60
+sleepy|adj.|困倦的；瞌睡的|60
+land|v.|着陆；降落||n.|陆地；大地|61
+alien|n.|外星人|61
+run after|追逐；追赶|61
+suit|n.|西服；套装||v.|适合|61
+at the same time|同时；一起|62
+circle|n.|圆圈||v.|圈出|62
+Britain|不列颠|62
+receive|v.|接待；接受；收到|62
+historian|n.|历史学家； 史学工作者|62
+temple|n.|庙宇；寺院；圣殿|62
+leader|n.|领导；领袖|62
+midsummer|n.|仲夏；中夏|62
+medical|adj 医疗的； 医学的|62
+purpose|n.|目的；目标|62
+prevent|v.|阻止；阻挠|62
+energy|n.|力量；精力|62
+position|n.|位置；地方|62
+burial|n.|埋葬；安葬|62
+honor|v.|尊重；表示敬意||n.|荣幸；荣誉|62
+ancestor|n.|祖宗；祖先|62
+victory|n.|胜利；成功|62
+enemy|n.|敌人；仇人|62
+period|n.|一段时间；时期；句号|62
+noise|n.|声音；噪音|63
+Stonehenge|巨石阵|62
+Carla|卡拉（女名）|57
+J.K. Rowling|J.K.罗琳（英国作家）|57
+Jean|琼（女名）|60
+Paul Stoker|保罗·斯托克|62
+#Unit 9
+prefer|v.|更喜欢|65
+lyrics|n.|（pl.）歌词|65
+Australian|adj.|澳大利亚的；澳大利亚人的||n.|澳大利亚人|66
+electronic|adj.|电子的；电子设备的|66
+suppose|n.|推断；料想|66
+smooth|adj.|悦耳的；平滑的|66
+spare|adj.|空闲的； 不用的V.抽出；留出|66
+director|n.|导演；部门负责人|66
+case|n.|情况；实情|66
+in that case|既然那样；假使那样的话|66
+war|n.|战争；战争状态|66
+stick|v.|（stuck, stuck）粘贴；将……刺入|67
+stick to|坚持；固守|67
+down|adj.|悲哀；沮丧|67
+dialog|n.|（=dialogue） 对话；对白|67
+ending|n.|（故事、电影等的） 结尾；结局|67
+documentary|n.|纪录片|67
+drama|n.|戏；剧|67
+plenty|pron.|大量；众多|67
+plenty of|大量；充足|67
+shut|v.|（shut, shut） 关闭；关上|67
+shut off|关闭；停止运转|67
+superhero|n.|超级英雄|67
+once in a while|偶尔地；间或|67
+intelligent|adj.|有才智的；聪明的|68
+sense|v.|感觉到；意识到||n.|感觉；意识|70
+sadness|n.|悲伤；悲痛|70
+pain|n.|痛苦；疼痛；苦恼|70
+reflect|v.|反映；映出|70
+moving|adj.|动人的； 令人感动的|70
+perform|v.|表演； 执行|70
+lifetime|n.|一生； 有生之年|70
+by the end of|在（某时间点）以前|70
+pity|n.|遗憾；怜悯||v.|同情；怜悯|70
+total|n.|总数；合计||adj.|总的；全体的|70
+in total|总共；合计|70
+master|n.|大师；能手；主人||v.|掌握|70
+praise|v.|&||n.|表扬；赞扬|70
+recall|v.|回忆起；回想起|70
+wound|n.|伤；伤口；创伤||v.|使（身体）受伤；伤害|70
+painful|adj.|令人痛苦的； 令人疼痛的|70
+World War II|第二次世界大战|66
+Men in Black|《黑衣人》（电影名）|67
+Kung Fu Panda|《功夫熊猫》（电影名）|67
+Titanic|《泰坦尼克号》（电影名）|67
+March of the Penguins|《帝企鹅日记》（电影名）|67
+Spider-Man|《蜘蛛侠》（电影名）|67
+Carmen|卡门（女名）|66
+Dan Dervish|丹·德维什|66
+#Unit 10
+bow|v.|&||n.|鞠躬|73
+kiss|v.|&||n.|亲吻；接吻|73
+greet|v.|和……………………打招呼；迎接|74
+relaxed|adj.|放松的； 白在的|75
+value|v.|重视；珍视||n.|价值|75
+drop by|顺便访问|75
+capital|n.|首都；国都|75
+after all|毕竟；终归|75
+noon|n.|正午；中午|75
+mad|adj.|很生气；疯的|75
+get mad|大动肝火；气愤|75
+effort|n.|努力；尽力|75
+make an effort|作出努力|75
+passport|n.|护照|76
+clean off|把……擦掉|76
+chalk|n.|粉笔|76
+blackboard|n.|黑板|76
+northern|adj.|北方的；北部的|76
+coast|n.|海岸；海滨|76
+season|n.|季；季节|76
+knock|v.|敲；击||n.|敲击声；敲击|76
+eastern|adj.|东方的； 东部的|76
+take off|脱下（衣服）；（飞机等）起飞|76
+worth|adj.|值得；有……价值（的）|76
+manner|n.|方式；方法； （pl.） 礼貌；礼仪|76
+empty|adj.|空的；空洞的|77
+basic|adj.|基本的；基础的|78
+exchange|n.|&||v.|交换|78
+go out of one's way|特地；格外努力|78
+make feel at home|使（某人）感到宾至如归|78
+teenage|adj.|十几岁的； 青少年的|78
+granddaughter|n.|（外）孙女|78
+behave|v.|表现；举止|78
+except|prep.|除……之外||conj.|除了；只是|78
+elbow|n.|肘；胳膊|78
+gradually|adv.|逐步地；渐进地|78
+get used to|习惯于|78
+suggestion|n.|建议|80
+Brazil|巴西|73
+Mexico|墨西哥|73
+Cali|卡利（哥伦比亚城市）|75
+Colombia|哥伦比亚（南美洲国家）|75
+Lausanne|洛桑（瑞士城市）|75
+Norway|挪威|76
+Maria|玛丽亚（女名）|74
+Katie|凯蒂（女名）|74
+Sato|佐藤（日本姓氏）|74
+Marie|玛丽（女名）|74
+Teresa Lopez|特蕾莎·洛佩斯|75
+Marc LeBlanc|马克·勒布朗|75
+#Unit 11
+rather|adv.|宁愿； 相当|81
+would rather|（通常缩写为'd rather）宁愿|81
+drive|v.|（drove, driven）迫使|82
+drive crazy|使人发疯；使人发狂|82
+the more the more|越……越……；愈……愈……|82
+lately|adv.|最近；不久前|82
+be friends with|成为某人的朋友|82
+leave out|忽略；不提及；不包括|82
+friendship|n.|友谊；友情|82
+king|n.|国王；君主|83
+prime|adj.|首要的；基本的|83
+minister|n.|大臣；部长|83
+prime minister|首相；总理|83
+banker|n.|银行家|83
+fame|n.|名声；声誉|83
+pale|adj 苍白的；灰白的|83
+queen|n.|王后；女王|83
+call in|召来；叫来|83
+examine|v.|（仔细地）检查； 检验|83
+nor|conj.|&||adv.|也不|83
+neither nor|既不……也不……|83
+palace|n.|王宫；宫殿|83
+wealth|n.|财富|83
+to start with|起初；开始时|84
+grey|adj.|（天空）阴沉的； 昏暗的；灰色的|84
+lemon|n.|柠檬|84
+uncomfortable|adj.|使人不舒服的；令人不舒适的|84
+weight|n.|重量；分量|86
+shoulder|n.|肩；肩膀|86
+goal|n.|射门；球门；目标|86
+let down|使失望|86
+coach|n.|教练；私人教师|86
+kick|v.|踢；踹|86
+kick off|开除某人|86
+be hard on|对某人苛刻；对某人要求严厉|86
+besides|adv.|而且|86
+teammate|n.|同队队员； 队友|86
+courage|n.|勇敢；勇气|86
+rather than|而不是|86
+guy|n.|（非正式）家伙；（pl.）伙计们|86
+pull together|齐心协力；通力合作|86
+relief|n.|轻松；解脱|86
+nod|v.|点头|86
+agreement|n.|（意见或看法）一致；同意|86
+fault|n.|过失；缺点|86
+disappoint|v.|使失望|87
+Bert|伯特（男名）|82
+Holly|霍莉（女名）|84
+#Unit 12
+unexpected|adj.|出乎意料的；始料不及的|89
+by the time|在……以前|89
+backpack|n.|背包； 旅行包|89
+oversleep|v.|（overslept, overslept）睡过头；睡得太久|89
+give a lift|捎……一程|90
+block|n.|街区|91
+in line with|与……成一排|91
+worker|n.|工作者； 工人|91
+stare|v.|盯着看；凝视|91
+disbelief|n.|不信；怀疑|91
+above|prep.|在……上面||adv.|在上面|91
+burn|v.|（burnt, burnt; burned, burned）着火；燃烧|91
+burning|adj.|着火的；燃烧的|91
+alive|adj.|活着；有生气的|91
+airport|n.|机场|91
+till|prep.|&||conj.|到；直到|91
+west|adv.|向西；朝西 adj 向西的；西部的||n.|西；西方|91
+dead|adj.|死的；失去生命的|91
+cream|n.|奶油；乳脂|92
+workday|n.|工作日|92
+show up|赶到；露面|92
+bean|n.|豆；豆荚|92
+market|n.|市场；集市|92
+fool|n.|蠢人；傻瓜||v.|愚弄|93
+costume|n.|（特定场合穿的）服装；装束|93
+embarrassed|adj.|窘迫的；害羞的|93
+costume party|化装舞会|93
+announce|n.|宣布；宣告|94
+spaghetti|n.|意大利面条|94
+hoax|n.|骗局；恶作剧|94
+sell out|卖光|94
+discovery|n.|发现； 发觉|94
+lady|n.|女士；女子|94
+cancel|v.|取消；终止|94
+officer|n.|军官；官员|94
+believable|adj.|可相信的；可信任的|95
+disappear|v.|消失；不见|95
+embarrassing|adj.|使人害羞的（难堪的或 惭愧的）|95
+New Zealand|新西兰|91
+Italy|意大利|94
+Mars|火星|94
+Matt|马特（男名）|90
+Kevin|凯文（男名）|90
+Carl|卡尔（男名）|90
+Orson Welles|奥森·韦尔斯|94
+#Unit 13
+litter|v.|乱扔||n.|垃圾；废弃物|97
+ship|n.|（大）船；舰||v.|船运；运输|97
+coal|n.|煤；煤块|98
+ugly|adj.|丑陋的；难看的|98
+advantage|n.|优点；有利条件|98
+cost|v.|（cost, cost）花费||n.|花费；价钱|98
+wooden|adj.|木制的；木头的|98
+plastic|adj.|塑料的||n.|塑料；塑胶|98
+takeaway|n.|外卖食物|98
+bin|n.|垃圾箱|98
+fin|n.|（鱼）鳍|99
+cruel|adj.|残酷的；残忍的|99
+harmful|adj.|有害的|99
+be harmful to|对……有害|99
+at the top of|在……顶部或顶端|99
+chain|n.|链子；链条|99
+the food chain|食物链|99
+ecosystem|n.|生态系统|99
+industry|n.|工.业；行业|99
+law|n.|法律；法规|99
+scientific|adj 科学上的；科学的|99
+present|adj.|现在的||n.|现在；礼物|100
+take part in|参加|100
+afford|v.|承担得起（后 果）；买得起|100
+turn off|关掉|100
+reusable|adj.|可重复使 用的；可再次使用的|100
+pay for|付费；付出代价|100
+take action|采取行动|100
+transportation|n.|运输业；交通运输|100
+recycle|v.|回收利用； 再利用|101
+napkin|n.|餐巾；餐巾纸|101
+throw away|扔掉；抛弃|102
+put to good use|好好利用某物|102
+pull down|拆下；摧毁|102
+upside down|上下颠倒；倒转|102
+gate|n.|大门|102
+bottle|n.|瓶子|102
+president|n.|负责人； 主席；总统|102
+inspiration|n.|灵感； 鼓舞人心的人（或事物）|102
+iron|n.|铁|102
+work|n.|（音乐、艺术）作品|102
+metal|n.|金属|102
+bring back|恢复；使想起；归还|102
+creativity|n.|创造力； 独创性|102
+WildAid|野生救援协会（美国）|99
+WWF|（World Wide Fund for Nature）世界自然基金会|99
+Jason|贾森（男名）|98
+Hayes|海斯（姓）|102
+Jessica|杰西卡（女名）|102
+#Unit 14
+survey|n.|调查|105
+standard|n.|标准；水平|105
+row|n.|一排；一列；一行|105
+in a row|连续几次地|105
+keyboard|n.|键盘式 电子乐器；键盘|105
+method|n.|方法；措施|106
+instruction|n.|指示； 命令|106
+double|v.|加倍；是……的两倍||adj.|两倍的；加倍的|106
+shall|modal v.|将要；将会|106
+look back at|回首（往事）；回忆；回顾|107
+overcome|v.|（overcame, overcome）克服；战胜|107
+make a mess|弄得一团糟（一塌糊涂）|107
+graduate|v.|毕业； 获得学位|107
+keep one's cool|沉住气；保持冷静|107
+caring|adj.|体贴人的； 关心他人的|107
+ours|pron.|我们的|107
+senior|adj.|级别（或地位）高的|108
+senior high school|高中|108
+text|n.|课文；文本|108
+go by|（时间）逝去；过去|108
+level|n.|水平|108
+degree|n.|（大学）学位； 度数；程度|109
+manager|n.|经理； 经营者|109
+believe in|信任；信赖|109
+gentleman|n.|先生； 绅士|110
+graduation|n.|毕业|110
+ceremony|n.|典礼； 仪式|110
+first of all|首先|110
+congratulate|v.|祝贺|110
+thirsty|adj 渴望的； 口渴的|110
+be thirsty for|渴望；渴求|110
+thankful|adj.|感谢； 感激|110
+be thankful to|对某人心存感激|110
+lastly|adv.|最后|110
+task|n.|任务；工作|110
+ahead|adv.|向前面；在前面|110
+ahead of|在……前面|110
+along with|连同；除……以外还|110
+responsible|adj.|有责任心的|110
+be responsible for|对……有责任；负责任|110
+separate|adj.|单独的；分离的||v.|分开；分离|110
+set out|出发；启程|110
+separate from|分离；隔开|111
+wing|n.|翅膀；翼|111
+Luke|卢克（男名）|106
+Brian|布赖恩（男名）|106
+Griffin|格里芬（姓）|106
+Trent|特伦特（姓）|108

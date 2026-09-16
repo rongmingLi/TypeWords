@@ -1,0 +1,62 @@
+{
+  "category": "代码练习",
+  "categoryId": 6,
+  "sourceWebsite": "https://typewords.cc/dict-list",
+  "updatedAt": "2026-09-14",
+  "dictionaries": [
+    {
+      "id": 27,
+      "enName": "coder",
+      "name": "Coder Dict",
+      "description": "程序员常见单词词库，涵盖变量命名、架构设计、开发运维常用核心英文词汇",
+      "categoryId": 6,
+      "category": "代码练习",
+      "url": "it-words.json",
+      "length": 1700,
+      "language": "en",
+      "translateLanguage": "zh_CN",
+      "version": 1,
+      "type": "word",
+      "isDefault": false,
+      "recommended": true,
+      "userId": "00000000-0000-0000-0000-000000000001",
+      "createdAt": "2026-09-14 00:00:00.000000",
+      "updatedAt": "2026-09-14 00:00:00.000000",
+      "cover": "/imgs/covers/it-words.svg",
+      "hidden": false,
+      "tags": [
+        "通用",
+        "计算机英语",
+        "程序员",
+        "代码练习"
+      ]
+    },
+    {
+      "id": 28,
+      "enName": "itVocabulary",
+      "name": "计算机专用英语",
+      "description": "大学计算机专业英语词汇，涵盖计算机科学导论、软硬件、网络、数据库等核心术语",
+      "categoryId": 6,
+      "category": "代码练习",
+      "url": "itVocabulary.json",
+      "length": 1665,
+      "language": "en",
+      "translateLanguage": "zh_CN",
+      "version": 1,
+      "type": "word",
+      "isDefault": false,
+      "recommended": true,
+      "userId": "00000000-0000-0000-0000-000000000001",
+      "createdAt": "2026-09-14 00:00:00.000000",
+      "updatedAt": "2026-09-14 00:00:00.000000",
+      "cover": "/imgs/covers/it-vocabulary.svg",
+      "hidden": false,
+      "tags": [
+        "通用",
+        "计算机英语",
+        "专业术语",
+        "代码练习"
+      ]
+    }
+  ]
+}

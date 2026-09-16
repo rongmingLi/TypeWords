@@ -824,3 +824,4 @@ export function normalizeWord(word: string) {
 export function goYoudao(word: string) {
   window.open(`https://www.youdao.com/result?word=${word}&lang=en`, '_blank')
 }
+export { removeUnavailableOfficialDictionaries, syncSavedDictMetadata } from './dict-study-state.ts'

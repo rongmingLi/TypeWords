@@ -42,7 +42,7 @@ import {
 import saveAs from 'file-saver'
 import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { useRoute, useRouter } from 'vue-router'
+import { RouterLink, useRoute, useRouter } from 'vue-router'
 
 const runtimeStore = useRuntimeStore()
 const wordPersistence = usePracticeWordPersistence()
@@ -608,10 +608,13 @@ defineRender(() => {
           )}
 
           <div class="flex flex-1 overflow-hidden content-area">
-            <div class={`word-list-section ${isMob && isOperate && activeTab !== 'list' ? 'mobile-hidden' : ''}`}>
+            <div class={`word-list-section flex flex-col min-h-0 ${isMob && isOperate && activeTab !== 'list' ? 'mobile-hidden' : ''}`}>
+              <div class="flex justify-end mb-2">
+                <RouterLink to="/word-search" class="color-link">全局搜词 · 搜索所有词典</RouterLink>
+              </div>
               <BaseTable
                 ref={tableRef}
-                class="h-full"
+                class="flex-1 min-h-0"
                 request={requestList}
                 onDel={batchDel}
                 onSort={onSort}
